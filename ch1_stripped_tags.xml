@@ -492,7 +492,7 @@
                 <byline>
                     <hi rend="italic">Leveraging Spatial Markup for Literary History</hi>
                 </byline>
-                <docAuthor> <persName key="Susan Brown" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/w8iXGRPGna5">Susan Brown</persName>, Isobel Grundy, Mariana Paredes-Olea, Jeffery Antoniuk, &amp; Breanna Mroczek</docAuthor>
+                <docAuthor> <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/YdiAkpYw87q">Susan Brown</persName>, Isobel Grundy, Mariana Paredes-Olea, Jeffery Antoniuk, &amp; Breanna Mroczek</docAuthor>
                 <div type="section">
                     <head>Introduction</head>
                     <p xml:id="p1037">
@@ -912,20 +912,20 @@
 			
 <rdf:RDF>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/w8iXGRPGna5">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/YdiAkpYw87q">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/w8iXGRPGna5",
+    "id": "http://temp.lincsproject.ca/YdiAkpYw87q",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-05-26T14:45:50.631Z",
+    "created": "2026-05-26T15:17:09.537Z",
     "creator": {
         "id": "https://github.com/melisstuniewicz9",
         "type": "crm:E21_Person",
@@ -993,12 +993,20 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/w8iXGRPGna5]"
+            },
+            {
+                "id": "/target/dHPA98cKsAd/selector/css/VNMptoLNZd4",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/YdiAkpYw87q]"
             }
         ]
     },
     "body": {
         "id": "http://viaf.org/viaf/104953085",
-        "label": "Susan Brown",
+        "label": "Brown, Susan Irene",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
     },
