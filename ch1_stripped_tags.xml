@@ -587,7 +587,7 @@
                             <ref target="#technology">
                                 <ref target="#spatiality">Orlando’s texts use tags based on <abbr>TEI</abbr> for entities such as place, but they also use a custom tag set designed specifically by the research team for the production of a digital literary history. This tag set demarcates spans of text according to several contexts, such as discussions of writers’ residences, travels, or migrations; fictional settings or non-fictional topographical descriptions; sites of theatrical productions; or where a writer engaged in political activism. Thus, the tagging of a sentence such as <q>Frances Brooke sailed from England to join her husband in Québec</q> under a <q>location</q> tag allows place as a destination of travel to be distinguished from a sentence such as <q>This novel is best known for its picture of settler or habitant life in Lower Canada, which Frances Brooke drew from her own years there</q>
                                     <note place="inline">
-                                        <bibl>Brown, Clements, and Grundy</bibl>
+                                        <bibl>Brown, Clements, and <persName key="Grundy, Isobel" ref="http://viaf.org/viaf/12322641" ana="webannotation:http://temp.lincsproject.ca/xVjCQhg2qRn">Grundy</persName></bibl>
                                     </note>. <ref target="#politics">Places often mentioned under the <q>politics</q> tag, for instance, include Hyde Park and Trafalgar Square in London, the nuclear research station at Aldermaston in Berkshire as the site of <ref target="#social_movement">demonstrations</ref>, and Holloway Prison as the place where London <ref target="#gender issue">
                                             <ref target="#social_movement">suffragettes</ref>
                                         </ref> were incarcerated.</ref> These references to London as a place are all distinguishable from London as a place of birth, death, or publication, even within the current published interface of Orlando, which is entirely textual.</ref>
@@ -855,7 +855,7 @@
                         </bibl>
                         <bibl>Brown, Susan, and Patricia Clements et al. <title level="a">Tag Team: Computing, Collaborators, and the History of Women’s Writing in the British Isles</title>. <title level="s">Computing in the Humanities Working Papers</title> (April 1998). <ref target="http://projects.chass.utoronto.ca/chwp/orlando">http://projects.chass.utoronto.ca/chwp/orlando</ref>
                         </bibl>
-                        <bibl>Brown, Susan, Patricia Clements, and Isobel Grundy, eds. <title level="m">Orlando: Women’s Writing in the British Isles from the Beginnings to the Present</title>. Cambridge: Cambridge University Press, 2006–2012. <ref target="http://orlando.cambridge.org">http://orlando.cambridge.org</ref>
+                        <bibl>Brown, Susan, Patricia Clements, and <persName key="Grundy, Isobel." ref="http://viaf.org/viaf/12322641" ana="webannotation:http://temp.lincsproject.ca/g4GAbObEunt">Isobel Grundy</persName>, eds. <title level="m">Orlando: Women’s Writing in the British Isles from the Beginnings to the Present</title>. Cambridge: Cambridge University Press, 2006–2012. <ref target="http://orlando.cambridge.org">http://orlando.cambridge.org</ref>
                         </bibl>
                         <bibl>Coleman, Nicole, Dan Edelstein, and Paula Findlen. <title level="m">Mapping the Republic of Letters</title>. Stanford University. <ref target="https://republicofletters.stanford.edu">https://republicofletters.stanford.edu</ref>
                         </bibl>
@@ -1276,6 +1276,184 @@
         "type": "crm:E21_Person",
         "label": "Grundy, Isobel.",
         "description": "Isobel Grundy British professor of English and author of women's history books"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/g4GAbObEunt">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/g4GAbObEunt",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-26T15:22:41.222Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/929xF3lNsXL",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/929xF3lNsXL/selector/textPosition/kkz8rhLvXpH",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45433,
+                "end": 45446,
+                "refinedBy": {
+                    "id": "/target/929xF3lNsXL/selector/textQuote/h29V9JxM3nX",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Isobel Grundy",
+                    "prefix": "ca/chwp/orlando\n                        \n                        Brown, Susan, Patricia Clements, and",
+                    "suffix": " eds"
+                }
+            },
+            {
+                "id": "/target/929xF3lNsXL/selector/css/uJY8wCXWFhv",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/g4GAbObEunt]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/12322641",
+        "type": "crm:E21_Person",
+        "label": "Grundy, Isobel.",
+        "description": "Isobel Grundy British professor of English and author of women's history books"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xVjCQhg2qRn">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xVjCQhg2qRn",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-26T15:25:17.226Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/3fg8xApxG1M",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/3fg8xApxG1M/selector/textPosition/Yv6HKYMjZVL",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 14081,
+                "end": 14087,
+                "refinedBy": {
+                    "id": "/target/3fg8xApxG1M/selector/textQuote/0T0n1Af72XT",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Grundy",
+                    "prefix": " Thus, the tagging of a sentence such as Frances Brooke sailed from England to join her husband in Québec under a location tag allows place as a destination of travel to be distinguished from a sentence such as This novel is best known for its picture of settler or habitant life in Lower Canada, which Frances Brooke drew from her own years there\n                                    \n                                        Brown, Clements, and",
+                    "suffix": "                                    "
+                }
+            },
+            {
+                "id": "/target/3fg8xApxG1M/selector/css/xtv6pRupJZx",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xVjCQhg2qRn]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/12322641",
+        "label": "Grundy, Isobel",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
