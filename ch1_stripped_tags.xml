@@ -521,7 +521,7 @@
                         </ref>
                     </p>
                     <p xml:id="p1039">
-                        <ref target="#technology">Given that the Canadian Writing Research Collaboratory (<abbr>CWRC</abbr>) is dedicated to creating an online environment for research on writing and seeks to offer traditional scholars a wider array of computational tools than those they typically incorporate into their research, it is hardly surprising that the literary researchers involved in <abbr>CWRC’s</abbr> development have consistently identified the mapping of literary data as a highly desirable feature of a shared digital tool set. <ref target="#spatiality">The precise nature of the mapping required for most <abbr>CWRC</abbr> projects has yet to be established, but there is definite interest in how the spatial and temporal aspects of literary research intersect. <ref target="#canon_formation">
+                        <ref target="#technology">Given that <orgName key="Canadian Writing Research Collaboratory" ref="http://id.lincsproject.ca/Ph49VISFM8m" ana="webannotation:http://temp.lincsproject.ca/VthqrLrpkbw">the Canadian Writing Research Collaboratory</orgName> (<abbr>CWRC</abbr>) is dedicated to creating an online environment for research on writing and seeks to offer traditional scholars a wider array of computational tools than those they typically incorporate into their research, it is hardly surprising that the literary researchers involved in <abbr>CWRC’s</abbr> development have consistently identified the mapping of literary data as a highly desirable feature of a shared digital tool set. <ref target="#spatiality">The precise nature of the mapping required for most <abbr>CWRC</abbr> projects has yet to be established, but there is definite interest in how the spatial and temporal aspects of literary research intersect. <ref target="#canon_formation">
                                     <ref target="#history">Historical maps are also desirable for their representation of literary materials or activities from the past, as are maps that might represent slices of time or change over time. As Peter K. Bol argues, <q>if we fail to see that change over time unfolds differently across space, we substitute a single history for the reality of multiple histories</q>
                                         <note place="inline">
                                             <bibl>297</bibl>
@@ -1987,6 +1987,95 @@
         "type": "crm:E21_Person",
         "label": "Warf, Barney, 1956-....",
         "description": "Warf, Barney"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/VthqrLrpkbw">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/VthqrLrpkbw",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-26T15:36:12.050Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/dWNILCLxuUe",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/dWNILCLxuUe/selector/textPosition/DfmmOFSCi6j",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 3247,
+                "end": 3290,
+                "refinedBy": {
+                    "id": "/target/dWNILCLxuUe/selector/textQuote/X1FSsUjnv7p",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Canadian Writing Research Collaboratory",
+                    "prefix": "\n                        \n                    \n                    \n                        Given that",
+                    "suffix": "(CWRC) is dedicated to creating an online environment for research on writing and seeks to offer traditional scholars a wider array of computational tools than those they typically incorporate into their research, it is hardly surprising that the literary researchers involved in CWRC’s development have consistently identified the mapping of literary data as a highly desirable feature of a shared digital tool set"
+                }
+            },
+            {
+                "id": "/target/dWNILCLxuUe/selector/css/RFAQHaVEV0z",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/VthqrLrpkbw]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://id.lincsproject.ca/Ph49VISFM8m",
+        "type": "crm:E74_Group",
+        "label": "Canadian Writing Research Collaboratory",
+        "description": ""
     },
     "P2_has_type": [
         "oa:identifying"
