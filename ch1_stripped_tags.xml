@@ -496,7 +496,7 @@
                 <div type="section">
                     <head>Introduction</head>
                     <p xml:id="p1037">
-                        <ref target="#theory">The <q>spatial turn</q> is making itself felt throughout literary studies, as it is in other areas of the humanities and social sciences.</ref> As Barney Warf and <persName key="Arias, Santa." ref="http://viaf.org/viaf/38729216" ana="webannotation:http://temp.lincsproject.ca/rMhoQa63hTq">Santa Arias</persName> argue,</p>
+                        <ref target="#theory">The <q>spatial turn</q> is making itself felt throughout literary studies, as it is in other areas of the humanities and social sciences.</ref> As <persName key="Warf, Barney, 1956-...." ref="http://viaf.org/viaf/29646209" ana="webannotation:http://temp.lincsproject.ca/PvEcOVbE9in">Barney Warf</persName> and <persName key="Arias, Santa." ref="http://viaf.org/viaf/38729216" ana="webannotation:http://temp.lincsproject.ca/rMhoQa63hTq">Santa Arias</persName> argue,</p>
                     <q type="block">
                         <ref target="#theory">
                             <ref target="#theme_or_topic">
@@ -1905,9 +1905,102 @@
 }]]>
 				
 </rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/PvEcOVbE9in">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/PvEcOVbE9in",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-26T15:34:38.181Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/VTkSm2HszxZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/VTkSm2HszxZ/selector/textPosition/ypdkviYcoy6",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 540,
+                "end": 551,
+                "refinedBy": {
+                    "id": "/target/VTkSm2HszxZ/selector/textQuote/qxj6ZnfCoLy",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Barney Warf",
+                    "prefix": " As",
+                    "suffix": "and Santa Arias argue,\n                    \n                        \n                            \n                                Recent works in the fields of literary and cultural studies, sociology, political science, anthropology, history, and art history have become increasingly spatial in their orientation"
+                }
+            },
+            {
+                "id": "/target/VTkSm2HszxZ/selector/css/49wvpwgMzqi",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/PvEcOVbE9in]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/29646209",
+        "type": "crm:E21_Person",
+        "label": "Warf, Barney, 1956-....",
+        "description": "Warf, Barney"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 			
 </rdf:RDF>
 		
+
+		
 </xenoData>
+	
 	</standOff>
+
 </TEI>
