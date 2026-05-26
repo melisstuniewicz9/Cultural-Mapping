@@ -547,7 +547,7 @@
                     </p>
                     <p xml:id="p1041">
                         <ref target="#theme_or_topic">Orlando is the founding project behind <abbr>CWRC</abbr>. <ref target="#canon_formation">Initiated in the mid-1990s by a small team of literary researchers, <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/eMgIDczCBV5">Susan Brown</persName>, <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/bccanL355pE">Patricia Clements</persName>, and <persName key="Grundy, Isobel." ref="http://viaf.org/viaf/12322641" ana="webannotation:http://temp.lincsproject.ca/wCHTKutwtLE">Isobel Grundy</persName>, just as graphical browser environments were exponentially expanding the usage of the World Wide Web, this research project sought to produce, from scratch, <ref target="#women_writing">
-                                    <ref target="#intellectual_history">a history of women’s writing in the British Isles</ref> using computers <note place="inline">
+                                    <ref target="#intellectual_history">a history of women’s writing in <placeName key="British Isles" ref="https://sws.geonames.org/2654669" ana="webannotation:http://temp.lincsproject.ca/l7zJHGuEqSy">the British Isles</placeName></ref> using computers <note place="inline">
                                         <bibl><persName key="Brown, Susan" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/HhyTB6H4qv4">Brown</persName> and Clements et al.</bibl>
                                     </note>. <ref target="#technology">
                                         <ref target="#theme_or_topic">Rather than digitizing existing texts—the focus of many digital literary projects then and now—Orlando sought to produce born-digital scholarship in a form intended from the outset to take advantage of the digital medium.</ref> That meant trying to imagine how the scholarly text that one is researching and creating might take advantage of the yet emerging possibilities of a <ref target="#place_of_publication">web publication environment.</ref>
@@ -898,7 +898,7 @@
                         <bibl>Cooper, David, and Ian N. Gregory. <title level="a">Mapping the English Lake District: A Literary <abbr>GIS</abbr>
                             </title>. <title level="j">Transactions of the Institute of British Geographers</title> 36 (2011): 89–108.</bibl>
                         <bibl>Corrigan, John. <title level="a">Qualitative <abbr>GIS</abbr> and Emergent Semantics</title>. <title level="m">Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. Bloomington: Indiana University Press, 2010. 76–88.</bibl>
-                        <bibl>Gregory, Ian. <title level="a">Exploiting Time and Space: A Challenge for <abbr>GIS</abbr> in the Digital Humanities</title>. <title level="m">The Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. Ed. David J. Bodenhamer, John Corrigan, and Trevor M. Harris. Bloomington: Indiana University Press, 2010. 58–75.</bibl>
+                        <bibl>Gregory, Ian. <title level="a">Exploiting Time and Space: A Challenge for <abbr>GIS</abbr> in the Digital Humanities</title>. <title level="m">The Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. Ed. David J. Bodenhamer, <persName key="Corrigan, John, 1952-...." ref="http://viaf.org/viaf/44364599" ana="webannotation:http://temp.lincsproject.ca/fSH4kex3J2x">John Corrigan</persName>, and Trevor M. Harris. Bloomington: Indiana University Press, 2010. 58–75.</bibl>
                         <bibl>Jenstad, Janelle. <title level="a">Using Early Modern Maps in Literary Studies: Views and Caveats from London</title>. <title level="m">GeoHumanities: Art, History, Text at the Edge of Place</title>. Ed. Michael Dear, Jim Ketchum, Sarah Luria, and Douglas Richardson. London: Routledge, 2011. 112–19.</bibl>
                         <bibl>Warf, Barney, and Santa Arias. <title level="a">Introduction: The Reinsertion of Space in to the Social Sciences and Humanities</title>. <title level="m">The Spatial Turn: Interdisciplinary Perspectives</title>. Ed. Warf and Arias. London: Routledge, 2008. 1–10.</bibl>
                     </listBibl>
@@ -3152,6 +3152,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/l7zJHGuEqSy">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/l7zJHGuEqSy",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-26T15:49:28.051Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/kmuNsHU27Bd",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/kmuNsHU27Bd/selector/textPosition/UFRAWspBndI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7514,
+                "end": 7531,
+                "refinedBy": {
+                    "id": "/target/kmuNsHU27Bd/selector/textQuote/WEDWtUqV7P8",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the British Isles",
+                    "prefix": " Initiated in the mid-1990s by a small team of literary researchers, Susan Brown, Patricia Clements, and Isobel Grundy, just as graphical browser environments were exponentially expanding the usage of the World Wide Web, this research project sought to produce, from scratch, \n                                    a history of women’s writing in",
+                    "suffix": "using computers \n                                        Brown and Clements et al"
+                }
+            },
+            {
+                "id": "/target/kmuNsHU27Bd/selector/css/9j0xg1DaVPv",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/l7zJHGuEqSy]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2654669",
+        "type": "crm:E53_Place",
+        "label": "British Isles",
+        "description": "null, GB"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/CqSN0pzskDo">
 <![CDATA[{
     "@context": [
@@ -3314,6 +3403,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/biQOhx8QyFC]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/44364599",
+        "type": "crm:E21_Person",
+        "label": "Corrigan, John, 1952-....",
+        "description": "Corrigan, John"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/fSH4kex3J2x">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/fSH4kex3J2x",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-26T15:46:42.281Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/JEuQZI79hiu",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/JEuQZI79hiu/selector/textPosition/QOMe8TKeQDD",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 48728,
+                "end": 48741,
+                "refinedBy": {
+                    "id": "/target/JEuQZI79hiu/selector/textQuote/rOEhqI4QOAb",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "John Corrigan",
+                    "prefix": " Bodenhamer,",
+                    "suffix": " and Trevor M"
+                }
+            },
+            {
+                "id": "/target/JEuQZI79hiu/selector/css/txt06Flf5L2",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/fSH4kex3J2x]"
             }
         ]
     },
