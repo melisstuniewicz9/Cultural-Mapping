@@ -492,7 +492,7 @@
                 <byline>
                     <hi rend="italic">Leveraging Spatial Markup for Literary History</hi>
                 </byline>
-                <docAuthor> Susan Brown, Isobel Grundy, Mariana Paredes-Olea, Jeffery Antoniuk, &amp; Breanna Mroczek</docAuthor>
+                <docAuthor> <persName key="Brown, Susan" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/g1Fvzn0aL2n">Susan Brown</persName>, Isobel Grundy, Mariana Paredes-Olea, Jeffery Antoniuk, &amp; Breanna Mroczek</docAuthor>
                 <div type="section">
                     <head>Introduction</head>
                     <p xml:id="p1037">
@@ -906,4 +906,103 @@
             </div>
         </body>
     </text>
+	<standOff type="annotation">
+		
+<xenoData>
+			
+<rdf:RDF>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/g1Fvzn0aL2n">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/g1Fvzn0aL2n",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-26T14:44:00.712Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/dHPA98cKsAd",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/dHPA98cKsAd/selector/textPosition/eUE2Hd0oEl5",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 225,
+                "end": 236,
+                "refinedBy": {
+                    "id": "/target/dHPA98cKsAd/selector/textQuote/hHVH5gjA8zo",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Susan Brown",
+                    "prefix": "\n        \n            \n                \n                    Mapping Tags and Tagging Maps\n                \n                \n                    Leveraging Spatial Markup for Literary History\n                \n                ",
+                    "suffix": " Isobel Grundy, Mariana Paredes-Olea, Jeffery Antoniuk, & Breanna Mroczek\n                \n                    Introduction\n                    \n                        The spatial turn is making itself felt throughout literary studies, as it is in other areas of the humanities and social sciences"
+                }
+            },
+            {
+                "id": "/target/dHPA98cKsAd/selector/css/8ojIbIDlidM",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/g1Fvzn0aL2n]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/104953085",
+        "label": "Brown, Susan",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+			
+</rdf:RDF>
+		
+</xenoData>
+	</standOff>
 </TEI>
