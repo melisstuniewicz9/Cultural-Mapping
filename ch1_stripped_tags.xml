@@ -873,7 +873,7 @@
                         <bibl>Huynh, David François. <title level="m">Exhibit</title>. Massachusetts Institute of Technology. <ref target="http://www.simile-widgets.org/exhibit">http://www.simile-widgets.org/exhibit</ref>
                         </bibl>
                         <bibl>
-                            <title level="m">HyperCities</title>. University of California, Los Angeles. <ref target="http://hypercities.com">http://hypercities.com</ref>
+                            <title level="m">HyperCities</title>. <orgName key="University of California, Los Angeles" ref="http://viaf.org/viaf/122477083" ana="webannotation:http://temp.lincsproject.ca/k94u4GZAf2V">University of California, Los Angeles</orgName>. <ref target="http://hypercities.com">http://hypercities.com</ref>
                         </bibl>
                         <bibl>MetaCarta. <title level="m">OpenLayers</title>. Open Source Geospatial Foundation. <ref target="http://openlayers.org">http://openlayers.org</ref>
                         </bibl>
@@ -4568,6 +4568,95 @@
         "type": "crm:E74_Group",
         "label": "Stanford university",
         "description": "Stanford University private research university in Stanford, California, USA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/k94u4GZAf2V">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/k94u4GZAf2V",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T15:57:20.896Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/evvYVU9fszj",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/evvYVU9fszj/selector/textPosition/gDb75Zn2FNl",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 46662,
+                "end": 46699,
+                "refinedBy": {
+                    "id": "/target/evvYVU9fszj/selector/textQuote/M2hftAnRN5N",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "University of California, Los Angeles",
+                    "prefix": "",
+                    "suffix": " http://hypercities"
+                }
+            },
+            {
+                "id": "/target/evvYVU9fszj/selector/css/Oq0icMOutyw",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/k94u4GZAf2V]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/122477083",
+        "type": "crm:E74_Group",
+        "label": "University of California, Los Angeles",
+        "description": "Uniwersytet Kalifornijski (Los Angeles)"
     },
     "P2_has_type": [
         "oa:identifying"
