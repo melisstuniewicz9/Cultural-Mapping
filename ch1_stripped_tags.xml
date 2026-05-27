@@ -539,7 +539,7 @@
                                 <ref target="#technology">The Editing Modernism in Canada project at <orgName key="University of Alberta. Population Research Laboratory" ref="http://viaf.org/viaf/123099879" ana="webannotation:http://temp.lincsproject.ca/49Ux0J0XWcL">the University of Alberta</orgName> has developed a smart phone app called <title level="m">WatsonWalk</title> based on <ref target="#history">walks taken by Sheila Watson while she and her husband Wilfred Watson lived in Paris from 1955 to 1956</ref>, as documented in her journals.</ref> Kristine Moruzi’s project <title level="m">From Colonial to Modern: Transnational Girlhood in Australian, New Zealand, and Canadian Print Cultures <note place="inline">
                                         <bibl>(1840–1940)</bibl>
                                     </note>
-                                </title> aims to map the relationship between places of production, places of publication, and places of dissemination. The most ambitious of <abbr><orgName key="Canadian Writing Research Collaboratory" ref="http://id.lincsproject.ca/Ph49VISFM8m" ana="webannotation:http://temp.lincsproject.ca/iulZN9R42QO">CWRC</orgName>’s</abbr> pilot projects is <title>Magazines, Travel, and Middlebrow Culture in Canada 1925–1960,</title> led by Faye Hammill of the University of Strathclyde. <ref target="#genre_journalism">This project investigates geographical mobility as a form of upward mobility, and is designed to distinguish leisure travel from the enforced movement of migration and diaspora. The project uses middlebrow magazines to map shifts in travel patterns.</ref> If one takes seriously the claim that space <q>is not simply a passive reflection of social and cultural trends, but an active participant, i.e., geography is constitutive as well as representative</q>
+                                </title> aims to map the relationship between places of production, places of publication, and places of dissemination. The most ambitious of <abbr><orgName key="Canadian Writing Research Collaboratory" ref="http://id.lincsproject.ca/Ph49VISFM8m" ana="webannotation:http://temp.lincsproject.ca/iulZN9R42QO">CWRC</orgName>’s</abbr> pilot projects is <title>Magazines, Travel, and Middlebrow Culture in Canada 1925–1960,</title> led by Faye Hammill of <orgName key="University of Strathclyde" ref="http://viaf.org/viaf/158205915" ana="webannotation:http://temp.lincsproject.ca/FjHIZR7ImQO">the University of Strathclyde</orgName>. <ref target="#genre_journalism">This project investigates geographical mobility as a form of upward mobility, and is designed to distinguish leisure travel from the enforced movement of migration and diaspora. The project uses middlebrow magazines to map shifts in travel patterns.</ref> If one takes seriously the claim that space <q>is not simply a passive reflection of social and cultural trends, but an active participant, i.e., geography is constitutive as well as representative</q>
                                 <note place="inline">
                                     <bibl>Warf and Arias 10</bibl>
                                 </note>, then to make available a dynamic mapping environment that visualizes spatial relations is to give scholars a potentially transformative tool for investigating those constitutive relations. Yet, given the wide range of <abbr><orgName key="Canadian Writing Research Collaboratory" ref="http://id.lincsproject.ca/Ph49VISFM8m" ana="webannotation:http://temp.lincsproject.ca/yF69ErQ7DZL">CWRC</orgName></abbr> projects, the task of devising even a basic generalized system of mapping is a considerable challenge, as the project’s core development team learned in its initial experiments with spatial data contained in its largest seed project, the Orlando Project, housed at <orgName key="University of Alberta. Population Research Laboratory" ref="http://viaf.org/viaf/123099879" ana="webannotation:http://temp.lincsproject.ca/iKpszefjgRA">the University of Alberta</orgName>.</ref>
@@ -3678,6 +3678,95 @@
         "type": "crm:E21_Person",
         "label": "Corrigan, John, 1952-....",
         "description": "Corrigan, John"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/FjHIZR7ImQO">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/FjHIZR7ImQO",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T16:06:40.595Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/UUZBwo72aQU",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/UUZBwo72aQU/selector/textPosition/I0eX0SR48gu",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5922,
+                "end": 5951,
+                "refinedBy": {
+                    "id": "/target/UUZBwo72aQU/selector/textQuote/TgvdT4v1xcA",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the University of Strathclyde",
+                    "prefix": " The most ambitious of CWRC’s pilot projects is Magazines, Travel, and Middlebrow Culture in Canada 1925–1960, led by Faye Hammill of",
+                    "suffix": " This project investigates geographical mobility as a form of upward mobility, and is designed to distinguish leisure travel from the enforced movement of migration and diaspora"
+                }
+            },
+            {
+                "id": "/target/UUZBwo72aQU/selector/css/KEGAquxSC6s",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/FjHIZR7ImQO]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/158205915",
+        "label": "University of Strathclyde",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
