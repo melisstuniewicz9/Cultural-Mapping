@@ -877,7 +877,7 @@
                         </bibl>
                         <bibl>MetaCarta. <title level="m">OpenLayers</title>. Open Source Geospatial Foundation. <ref target="http://openlayers.org">http://openlayers.org</ref>
                         </bibl>
-                        <bibl>Prickman, Gregory. <title level="m">The Atlas of Early Printing</title>. University of Iowa Libraries. <ref target="http://atlas.lib.uiowa.edu">http://atlas.lib.uiowa.edu</ref>
+                        <bibl>Prickman, Gregory. <title level="m">The Atlas of Early Printing</title>. <orgName key="University of Iowa. Libraries" ref="http://viaf.org/viaf/4081151778217518130006" ana="webannotation:http://temp.lincsproject.ca/6bOV7m2BK2t">University of Iowa Libraries</orgName>. <ref target="http://atlas.lib.uiowa.edu">http://atlas.lib.uiowa.edu</ref>
                         </bibl>
                         <bibl>Scholars’ Lab. <title level="m">Neatline: Plot Your Course in Space and Time</title>. <orgName key="University of Virginia. Library." ref="http://viaf.org/viaf/154761183" ana="webannotation:http://temp.lincsproject.ca/sVNqRZDHpja">University of Virginia Library</orgName>. <ref target="http://neatline.org">http://neatline.org</ref>
                         </bibl>
@@ -900,7 +900,7 @@
                         <bibl><persName key="Corrigan, John, 1952-...." ref="http://viaf.org/viaf/44364599" ana="webannotation:http://temp.lincsproject.ca/uZ1kSF12tA2">Corrigan</persName>, John. <title level="a">Qualitative <abbr>GIS</abbr> and Emergent Semantics</title>. <title level="m">Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. Bloomington: <orgName key="Indiana university press" ref="http://viaf.org/viaf/122335523" ana="webannotation:http://temp.lincsproject.ca/kGzM61tiEYM">Indiana University Press</orgName>, 2010. 76–88.</bibl>
                         <bibl>Gregory, Ian. <title level="a">Exploiting Time and Space: A Challenge for <abbr>GIS</abbr> in the Digital Humanities</title>. <title level="m">The Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. Ed. David J. Bodenhamer, <persName key="Corrigan, John, 1952-...." ref="http://viaf.org/viaf/44364599" ana="webannotation:http://temp.lincsproject.ca/fSH4kex3J2x">John Corrigan</persName>, and Trevor M. Harris. Bloomington: <orgName key="Indiana university press" ref="http://viaf.org/viaf/122335523" ana="webannotation:http://temp.lincsproject.ca/Wa5t8QgVZmN">Indiana University Press</orgName>, 2010. 58–75.</bibl>
                         <bibl>Jenstad, Janelle. <title level="a">Using Early Modern Maps in Literary Studies: Views and Caveats from <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/Y6Dqi7TxAOw">London</placeName></title>. <title level="m">GeoHumanities: Art, History, Text at the Edge of Place</title>. Ed. Michael Dear, <persName key="Ketchum, Jim" ref="http://viaf.org/viaf/297864675" ana="webannotation:http://temp.lincsproject.ca/pjX1DsnjBLg">Jim Ketchum</persName>, Sarah Luria, and <persName key="Richardson, Douglas, 1950-...." ref="http://viaf.org/viaf/19915312" ana="webannotation:http://temp.lincsproject.ca/HUiQxajDGO4">Douglas Richardson</persName>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/H0fyLN5TBP4">London</placeName>: <orgName key="Routledge Taylor &amp; Francis Group" ref="http://viaf.org/viaf/312803894" ana="webannotation:http://temp.lincsproject.ca/NWGPWgUnhtT">Routledge</orgName>, 2011. 112–19.</bibl>
-                        <bibl>Warf, Barney, and Santa Arias. <title level="a">Introduction: The Reinsertion of Space in to the Social Sciences and Humanities</title>. <title level="m">The Spatial Turn: Interdisciplinary Perspectives</title>. Ed. Warf and Arias. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/OMOnmzDgwrj">London</placeName>: Routledge, 2008. 1–10.</bibl>
+                        <bibl>Warf, Barney, and Santa Arias. <title level="a">Introduction: The Reinsertion of Space in to the Social Sciences and Humanities</title>. <title level="m">The Spatial Turn: Interdisciplinary Perspectives</title>. Ed. Warf and Arias. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/OMOnmzDgwrj">London</placeName>: <orgName key="Routledge Taylor &amp; Francis Group" ref="http://viaf.org/viaf/312803894" ana="webannotation:http://temp.lincsproject.ca/oaovtGETL9I">Routledge</orgName>, 2008. 1–10.</bibl>
                     </listBibl>
                 </div>
             </div>
@@ -11348,6 +11348,94 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/6bOV7m2BK2t">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/6bOV7m2BK2t",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T18:38:41.342Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/In0EJw1jeEd",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/In0EJw1jeEd/selector/textPosition/idCeIoWV533",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 46950,
+                "end": 46978,
+                "refinedBy": {
+                    "id": "/target/In0EJw1jeEd/selector/textQuote/5QNcKgFvatf",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "University of Iowa Libraries",
+                    "prefix": "",
+                    "suffix": " http://atlas"
+                }
+            },
+            {
+                "id": "/target/In0EJw1jeEd/selector/css/csy0jGVbfzB",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/6bOV7m2BK2t]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/4081151778217518130006",
+        "type": "crm:E74_Group",
+        "label": "University of Iowa. Libraries"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/sVNqRZDHpja">
 <![CDATA[{
     "@context": [
@@ -11953,6 +12041,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/NWGPWgUnhtT]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/312803894",
+        "type": "crm:E74_Group",
+        "label": "Routledge Taylor & Francis Group",
+        "description": "Routledge & Kegan Paul."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/oaovtGETL9I">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/oaovtGETL9I",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T18:38:09.000Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/tPbpleXWa6r",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/tPbpleXWa6r/selector/textPosition/uTzhqjSs5mX",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 49306,
+                "end": 49315,
+                "refinedBy": {
+                    "id": "/target/tPbpleXWa6r/selector/textQuote/xxIV6cKywj3",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Routledge",
+                    "prefix": " London:",
+                    "suffix": " 2008"
+                }
+            },
+            {
+                "id": "/target/tPbpleXWa6r/selector/css/zdKKVVpwFB2",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/oaovtGETL9I]"
             }
         ]
     },
