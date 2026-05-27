@@ -551,7 +551,7 @@
                                         <bibl><persName key="Brown, Susan" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/HhyTB6H4qv4">Brown</persName> and <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/XaP7i12M724">Clements</persName> et al.</bibl>
                                     </note>. <ref target="#technology">
                                         <ref target="#theme_or_topic">Rather than digitizing existing texts—the focus of many digital literary projects then and now—Orlando sought to produce born-digital scholarship in a form intended from the outset to take advantage of the digital medium.</ref> That meant trying to imagine how the scholarly text that one is researching and creating might take advantage of the yet emerging possibilities of a <ref target="#place_of_publication">web publication environment.</ref>
-                                        <ref target="#collaboration">Hence, on the advice of our digital humanities co-investigator Susan Hockey</ref>, the project adopted Standard Generalized Markup Language (the precursor to Extensible Markup Language or <abbr>XML</abbr>) as a means of encoding the text in a form that would make it amenable to reuse in applications that could not be developed during the initial stages of the Orlando Project.</ref>
+                                        <ref target="#collaboration">Hence, on the advice of our digital humanities co-investigator <persName key="Hockey, Susan M." ref="http://viaf.org/viaf/19935808" ana="webannotation:http://temp.lincsproject.ca/S153OaU3sZG">Susan Hockey</persName></ref>, the project adopted Standard Generalized Markup Language (the precursor to Extensible Markup Language or <abbr>XML</abbr>) as a means of encoding the text in a form that would make it amenable to reuse in applications that could not be developed during the initial stages of the Orlando Project.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -3767,6 +3767,95 @@
         "label": "University of Strathclyde",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/S153OaU3sZG">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/S153OaU3sZG",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T16:07:30.178Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/F89gkdJA0AS",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/F89gkdJA0AS/selector/textPosition/uVpyKGtdQ1r",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 8197,
+                "end": 8209,
+                "refinedBy": {
+                    "id": "/target/F89gkdJA0AS/selector/textQuote/KgjdEWErYkF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Susan Hockey",
+                    "prefix": "\n                                        Hence, on the advice of our digital humanities co-investigator",
+                    "suffix": " the project adopted Standard Generalized Markup Language (the precursor to Extensible Markup Language or XML) as a means of encoding the text in a form that would make it amenable to reuse in applications that could not be developed during the initial stages of the Orlando Project"
+                }
+            },
+            {
+                "id": "/target/F89gkdJA0AS/selector/css/geo0aCla34D",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/S153OaU3sZG]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/19935808",
+        "type": "crm:E21_Person",
+        "label": "Hockey, Susan M.",
+        "description": "Hockey, Susan"
     },
     "P2_has_type": [
         "oa:identifying"
