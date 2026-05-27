@@ -689,7 +689,7 @@
                             <figure>
                                 <head>Figure 1.3</head>
                                 <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A577eae57-b584-4fcf-9fde-a5ba94d0f78b/datastream/JPG-DToC/view"/>
-                                <figDesc>Places related to Mary Ward's travels and influence in Europe.</figDesc>
+                                <figDesc>Places related to <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/3Ct4eKy5sHL">Mary Ward's</persName> travels and influence in Europe.</figDesc>
                             </figure>
                             <figure>
                                 <head>Figure 1.4</head>
@@ -6081,6 +6081,95 @@
         "type": "crm:E53_Place",
         "label": "Québec",
         "description": "Quebec, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/3Ct4eKy5sHL">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/3Ct4eKy5sHL",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T17:22:02.807Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/HgheLfqPtud",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/HgheLfqPtud/selector/textPosition/b7n1WYZNug1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 24550,
+                "end": 24561,
+                "refinedBy": {
+                    "id": "/target/HgheLfqPtud/selector/textQuote/EtLeD6gY3Nv",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Mary Ward's",
+                    "prefix": "3\n                                \n                                Places related to",
+                    "suffix": "travels and influence in Europe"
+                }
+            },
+            {
+                "id": "/target/HgheLfqPtud/selector/css/oF1qKgtp6Mz",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/3Ct4eKy5sHL]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/62341746",
+        "label": "Ward, Mary",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
