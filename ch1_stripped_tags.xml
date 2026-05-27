@@ -766,7 +766,7 @@
                         <p xml:id="p1067">
                             <ref target="#religion">
                                 <ref target="#history">
-                                    <ref target="#spatiality">But this map also indicates hits in the American Midwest, where no Quakers, indeed no Europeans at all, had reached during the seventeenth century. It is not in the Midwest but in <q>America</q> generally that the <ref target="#non-book_media">Orlando text base says many Quakers travelled and preached. Likewise, it is not in <placeName key="Saskatchewan" ref="https://sws.geonames.org/6141242" ana="webannotation:http://temp.lincsproject.ca/QTGC1Ohac2b">Saskatchewan</placeName> but in <q>Canada</q> generally that Mary Ward’s order flourishes today (see Figure 1.2). <ref target="#politics">The fact that we are using a map based on current political boundaries as the basis for our visualization is historically insensitive and makes Saskatchewan the generalized geographical centre of Canada at a time in history when such a notion was nonsensical.</ref> This problem would be partially resolved by using historical maps that represented the boundaries of Canada as they existed in Ward’s lifetime, or the parts of <placeName key="United States" ref="https://sws.geonames.org/6252001" ana="webannotation:http://temp.lincsproject.ca/IrVAkUiBPC0">the United States</placeName> frequented by Europeans during the early activities of the Quakers.</ref> If the results for Mary Ward were shown on a historical map rather than a modern map, the <q>centres</q> of Canada and <placeName key="United States" ref="https://sws.geonames.org/6252001" ana="webannotation:http://temp.lincsproject.ca/elljQIQuzqg">the United States</placeName> (at least from a colonial perspective, on colonial maps) would lie much further to the east and the degree of misplacement would be lessened.</ref> Nation or country place names would still produce generalized results that are very misleading if represented by points, but the approximation to more distinct regions would be more evident.</ref>
+                                    <ref target="#spatiality">But this map also indicates hits in the American Midwest, where no Quakers, indeed no Europeans at all, had reached during the seventeenth century. It is not in the Midwest but in <q>America</q> generally that the <ref target="#non-book_media">Orlando text base says many Quakers travelled and preached. Likewise, it is not in <placeName key="Saskatchewan" ref="https://sws.geonames.org/6141242" ana="webannotation:http://temp.lincsproject.ca/QTGC1Ohac2b">Saskatchewan</placeName> but in <q>Canada</q> generally that Mary Ward’s order flourishes today (see Figure 1.2). <ref target="#politics">The fact that we are using a map based on current political boundaries as the basis for our visualization is historically insensitive and makes <placeName key="Saskatchewan" ref="https://sws.geonames.org/6141242" ana="webannotation:http://temp.lincsproject.ca/PevyiGX4RIR">Saskatchewan</placeName> the generalized geographical centre of Canada at a time in history when such a notion was nonsensical.</ref> This problem would be partially resolved by using historical maps that represented the boundaries of Canada as they existed in Ward’s lifetime, or the parts of <placeName key="United States" ref="https://sws.geonames.org/6252001" ana="webannotation:http://temp.lincsproject.ca/IrVAkUiBPC0">the United States</placeName> frequented by Europeans during the early activities of the Quakers.</ref> If the results for Mary Ward were shown on a historical map rather than a modern map, the <q>centres</q> of Canada and <placeName key="United States" ref="https://sws.geonames.org/6252001" ana="webannotation:http://temp.lincsproject.ca/elljQIQuzqg">the United States</placeName> (at least from a colonial perspective, on colonial maps) would lie much further to the east and the degree of misplacement would be lessened.</ref> Nation or country place names would still produce generalized results that are very misleading if represented by points, but the approximation to more distinct regions would be more evident.</ref>
                             </ref>
                         </p>
                         <p xml:id="p1068">
@@ -855,7 +855,7 @@
                         </bibl>
                         <bibl><persName key="Brown, Susan" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/5ARZZC8lMDB">Brown</persName>, Susan, and <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/pMGiRYCv8Ev">Patricia Clements</persName> et al. <title level="a">Tag Team: Computing, Collaborators, and the History of Women’s Writing in the British Isles</title>. <title level="s">Computing in the Humanities Working Papers</title> (April 1998). <ref target="http://projects.chass.utoronto.ca/chwp/orlando">http://projects.chass.utoronto.ca/chwp/orlando</ref>
                         </bibl>
-                        <bibl><persName key="Brown, Susan" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/61jRgq03BOM">Brown</persName>, Susan, <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/VEfNqcL4tvo">Patricia Clements</persName>, and <persName key="Grundy, Isobel." ref="http://viaf.org/viaf/12322641" ana="webannotation:http://temp.lincsproject.ca/g4GAbObEunt">Isobel Grundy</persName>, eds. <title level="m">Orlando: Women’s Writing in the British Isles from the Beginnings to the Present</title>. Cambridge: Cambridge University Press, 2006–2012. <ref target="http://orlando.cambridge.org">http://orlando.cambridge.org</ref>
+                        <bibl><persName key="Brown, Susan" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/61jRgq03BOM">Brown</persName>, Susan, <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/VEfNqcL4tvo">Patricia Clements</persName>, and <persName key="Grundy, Isobel." ref="http://viaf.org/viaf/12322641" ana="webannotation:http://temp.lincsproject.ca/g4GAbObEunt">Isobel Grundy</persName>, eds. <title level="m"><orgName key="Orlando: Women's Writing in the British Isles from the Beginnings to the Present" ref="http://id.lincsproject.ca/zBkArbArQww" ana="webannotation:http://temp.lincsproject.ca/XuLTRmj3RvD">Orlando: Women’s Writing in the British Isles</orgName> from the Beginnings to the Present</title>. Cambridge: Cambridge University Press, 2006–2012. <ref target="http://orlando.cambridge.org">http://orlando.cambridge.org</ref>
                         </bibl>
                         <bibl>Coleman, Nicole, Dan Edelstein, and Paula Findlen. <title level="m">Mapping the Republic of Letters</title>. Stanford University. <ref target="https://republicofletters.stanford.edu">https://republicofletters.stanford.edu</ref>
                         </bibl>
@@ -4301,6 +4301,184 @@
         "type": "crm:E53_Place",
         "label": "Saskatchewan",
         "description": "Saskatchewan, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/PevyiGX4RIR">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/PevyiGX4RIR",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T15:45:23.796Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/TI7BPSbifRA",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/TI7BPSbifRA/selector/textPosition/vnGp7EbgZJQ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 34879,
+                "end": 34891,
+                "refinedBy": {
+                    "id": "/target/TI7BPSbifRA/selector/textQuote/onTiJquyltz",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Saskatchewan",
+                    "prefix": " The fact that we are using a map based on current political boundaries as the basis for our visualization is historically insensitive and makes",
+                    "suffix": "the generalized geographical centre of Canada at a time in history when such a notion was nonsensical"
+                }
+            },
+            {
+                "id": "/target/TI7BPSbifRA/selector/css/CNmNxEtth5O",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/PevyiGX4RIR]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6141242",
+        "type": "crm:E53_Place",
+        "label": "Saskatchewan",
+        "description": "Saskatchewan, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/XuLTRmj3RvD">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/XuLTRmj3RvD",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T15:51:01.674Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/Vty3DOj4FQA",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Vty3DOj4FQA/selector/textPosition/BRQmhvckqBd",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45453,
+                "end": 45498,
+                "refinedBy": {
+                    "id": "/target/Vty3DOj4FQA/selector/textQuote/A2t2cEPo9ZZ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando: Women’s Writing in the British Isles",
+                    "prefix": "",
+                    "suffix": "from the Beginnings to the Present"
+                }
+            },
+            {
+                "id": "/target/Vty3DOj4FQA/selector/css/ic2Mg9gfBIc",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/XuLTRmj3RvD]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://id.lincsproject.ca/zBkArbArQww",
+        "type": "crm:E74_Group",
+        "label": "Orlando: Women's Writing in the British Isles from the Beginnings to the Present",
+        "description": ""
     },
     "P2_has_type": [
         "oa:identifying"
