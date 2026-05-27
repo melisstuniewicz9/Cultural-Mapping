@@ -894,12 +894,12 @@
                     <listBibl>
                         <head>Print Sources</head>
                         <bibl>Bol, Peter K. <title level="a">What Do Humanists Want? What Do Humanists Need? What Might Humanists Get?</title>
-                            <title level="m">GeoHumanities: Art, History, Text at the Edge of Place</title>. Ed. Michael Dear, <persName key="Ketchum, Jim" ref="http://viaf.org/viaf/297864675" ana="webannotation:http://temp.lincsproject.ca/uZeBmQyis2U">Jim Ketchum</persName>, Sarah Luria, and <persName key="Richardson, Douglas, 1950-...." ref="http://viaf.org/viaf/19915312" ana="webannotation:http://temp.lincsproject.ca/J8LDISsaNbO">Douglas Richardson</persName>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/xiXio8hOpg0">London</placeName>: Routledge, 2011. 296–308.</bibl>
+                            <title level="m">GeoHumanities: Art, History, Text at the Edge of Place</title>. Ed. Michael Dear, <persName key="Ketchum, Jim" ref="http://viaf.org/viaf/297864675" ana="webannotation:http://temp.lincsproject.ca/uZeBmQyis2U">Jim Ketchum</persName>, Sarah Luria, and <persName key="Richardson, Douglas, 1950-...." ref="http://viaf.org/viaf/19915312" ana="webannotation:http://temp.lincsproject.ca/J8LDISsaNbO">Douglas Richardson</persName>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/xiXio8hOpg0">London</placeName>: <orgName key="Routledge Taylor &amp; Francis Group" ref="http://viaf.org/viaf/312803894" ana="webannotation:http://temp.lincsproject.ca/S7jeoxZ8TWb">Routledge</orgName>, 2011. 296–308.</bibl>
                         <bibl>Cooper, David, and <persName key="Gregory, Ian N., 1970-...." ref="http://viaf.org/viaf/119669087" ana="webannotation:http://temp.lincsproject.ca/ib7zZSk2sxo">Ian N. Gregory</persName>. <title level="a">Mapping the English Lake District: A Literary <abbr>GIS</abbr>
                             </title>. <title level="j">Transactions of the Institute of British Geographers</title> 36 (2011): 89–108.</bibl>
                         <bibl><persName key="Corrigan, John, 1952-...." ref="http://viaf.org/viaf/44364599" ana="webannotation:http://temp.lincsproject.ca/uZ1kSF12tA2">Corrigan</persName>, John. <title level="a">Qualitative <abbr>GIS</abbr> and Emergent Semantics</title>. <title level="m">Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. Bloomington: <orgName key="Indiana university press" ref="http://viaf.org/viaf/122335523" ana="webannotation:http://temp.lincsproject.ca/kGzM61tiEYM">Indiana University Press</orgName>, 2010. 76–88.</bibl>
                         <bibl>Gregory, Ian. <title level="a">Exploiting Time and Space: A Challenge for <abbr>GIS</abbr> in the Digital Humanities</title>. <title level="m">The Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. Ed. David J. Bodenhamer, <persName key="Corrigan, John, 1952-...." ref="http://viaf.org/viaf/44364599" ana="webannotation:http://temp.lincsproject.ca/fSH4kex3J2x">John Corrigan</persName>, and Trevor M. Harris. Bloomington: <orgName key="Indiana university press" ref="http://viaf.org/viaf/122335523" ana="webannotation:http://temp.lincsproject.ca/Wa5t8QgVZmN">Indiana University Press</orgName>, 2010. 58–75.</bibl>
-                        <bibl>Jenstad, Janelle. <title level="a">Using Early Modern Maps in Literary Studies: Views and Caveats from <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/Y6Dqi7TxAOw">London</placeName></title>. <title level="m">GeoHumanities: Art, History, Text at the Edge of Place</title>. Ed. Michael Dear, <persName key="Ketchum, Jim" ref="http://viaf.org/viaf/297864675" ana="webannotation:http://temp.lincsproject.ca/pjX1DsnjBLg">Jim Ketchum</persName>, Sarah Luria, and <persName key="Richardson, Douglas, 1950-...." ref="http://viaf.org/viaf/19915312" ana="webannotation:http://temp.lincsproject.ca/HUiQxajDGO4">Douglas Richardson</persName>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/H0fyLN5TBP4">London</placeName>: Routledge, 2011. 112–19.</bibl>
+                        <bibl>Jenstad, Janelle. <title level="a">Using Early Modern Maps in Literary Studies: Views and Caveats from <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/Y6Dqi7TxAOw">London</placeName></title>. <title level="m">GeoHumanities: Art, History, Text at the Edge of Place</title>. Ed. Michael Dear, <persName key="Ketchum, Jim" ref="http://viaf.org/viaf/297864675" ana="webannotation:http://temp.lincsproject.ca/pjX1DsnjBLg">Jim Ketchum</persName>, Sarah Luria, and <persName key="Richardson, Douglas, 1950-...." ref="http://viaf.org/viaf/19915312" ana="webannotation:http://temp.lincsproject.ca/HUiQxajDGO4">Douglas Richardson</persName>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/H0fyLN5TBP4">London</placeName>: <orgName key="Routledge Taylor &amp; Francis Group" ref="http://viaf.org/viaf/312803894" ana="webannotation:http://temp.lincsproject.ca/NWGPWgUnhtT">Routledge</orgName>, 2011. 112–19.</bibl>
                         <bibl>Warf, Barney, and Santa Arias. <title level="a">Introduction: The Reinsertion of Space in to the Social Sciences and Humanities</title>. <title level="m">The Spatial Turn: Interdisciplinary Perspectives</title>. Ed. Warf and Arias. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/OMOnmzDgwrj">London</placeName>: Routledge, 2008. 1–10.</bibl>
                     </listBibl>
                 </div>
@@ -11783,6 +11783,184 @@
         "type": "crm:E21_Person",
         "label": "Richardson, Douglas, 1950-....",
         "description": "Richardson, Douglas B."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/S7jeoxZ8TWb">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/S7jeoxZ8TWb",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T18:38:08.528Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/gfPEFnfcp7M",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/gfPEFnfcp7M/selector/textPosition/9Ocy3DOTxIQ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 48086,
+                "end": 48095,
+                "refinedBy": {
+                    "id": "/target/gfPEFnfcp7M/selector/textQuote/ZYXKGAgpgiC",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Routledge",
+                    "prefix": " London:",
+                    "suffix": " 2011"
+                }
+            },
+            {
+                "id": "/target/gfPEFnfcp7M/selector/css/LPUS1q5poVx",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/S7jeoxZ8TWb]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/312803894",
+        "type": "crm:E74_Group",
+        "label": "Routledge Taylor & Francis Group",
+        "description": "Routledge & Kegan Paul."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/NWGPWgUnhtT">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/NWGPWgUnhtT",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T18:38:08.826Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/VJizf5noK90",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/VJizf5noK90/selector/textPosition/kosOt2vLdAj",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 49067,
+                "end": 49076,
+                "refinedBy": {
+                    "id": "/target/VJizf5noK90/selector/textQuote/lHNwqJ3rphO",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Routledge",
+                    "prefix": " London:",
+                    "suffix": " 2011"
+                }
+            },
+            {
+                "id": "/target/VJizf5noK90/selector/css/xQIYkJIZJRU",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/NWGPWgUnhtT]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/312803894",
+        "type": "crm:E74_Group",
+        "label": "Routledge Taylor & Francis Group",
+        "description": "Routledge & Kegan Paul."
     },
     "P2_has_type": [
         "oa:identifying"
