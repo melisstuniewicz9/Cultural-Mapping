@@ -897,8 +897,8 @@
                             <title level="m">GeoHumanities: Art, History, Text at the Edge of Place</title>. Ed. Michael Dear, <persName key="Ketchum, Jim" ref="http://viaf.org/viaf/297864675" ana="webannotation:http://temp.lincsproject.ca/uZeBmQyis2U">Jim Ketchum</persName>, Sarah Luria, and Douglas Richardson. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/xiXio8hOpg0">London</placeName>: Routledge, 2011. 296–308.</bibl>
                         <bibl>Cooper, David, and Ian N. Gregory. <title level="a">Mapping the English Lake District: A Literary <abbr>GIS</abbr>
                             </title>. <title level="j">Transactions of the Institute of British Geographers</title> 36 (2011): 89–108.</bibl>
-                        <bibl><persName key="Corrigan, John, 1952-...." ref="http://viaf.org/viaf/44364599" ana="webannotation:http://temp.lincsproject.ca/uZ1kSF12tA2">Corrigan</persName>, John. <title level="a">Qualitative <abbr>GIS</abbr> and Emergent Semantics</title>. <title level="m">Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. Bloomington: Indiana University Press, 2010. 76–88.</bibl>
-                        <bibl>Gregory, Ian. <title level="a">Exploiting Time and Space: A Challenge for <abbr>GIS</abbr> in the Digital Humanities</title>. <title level="m">The Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. Ed. David J. Bodenhamer, <persName key="Corrigan, John, 1952-...." ref="http://viaf.org/viaf/44364599" ana="webannotation:http://temp.lincsproject.ca/fSH4kex3J2x">John Corrigan</persName>, and Trevor M. Harris. Bloomington: Indiana University Press, 2010. 58–75.</bibl>
+                        <bibl><persName key="Corrigan, John, 1952-...." ref="http://viaf.org/viaf/44364599" ana="webannotation:http://temp.lincsproject.ca/uZ1kSF12tA2">Corrigan</persName>, John. <title level="a">Qualitative <abbr>GIS</abbr> and Emergent Semantics</title>. <title level="m">Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. Bloomington: <orgName key="Indiana university press" ref="http://viaf.org/viaf/122335523" ana="webannotation:http://temp.lincsproject.ca/kGzM61tiEYM">Indiana University Press</orgName>, 2010. 76–88.</bibl>
+                        <bibl>Gregory, Ian. <title level="a">Exploiting Time and Space: A Challenge for <abbr>GIS</abbr> in the Digital Humanities</title>. <title level="m">The Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. Ed. David J. Bodenhamer, <persName key="Corrigan, John, 1952-...." ref="http://viaf.org/viaf/44364599" ana="webannotation:http://temp.lincsproject.ca/fSH4kex3J2x">John Corrigan</persName>, and Trevor M. Harris. Bloomington: <orgName key="Indiana university press" ref="http://viaf.org/viaf/122335523" ana="webannotation:http://temp.lincsproject.ca/Wa5t8QgVZmN">Indiana University Press</orgName>, 2010. 58–75.</bibl>
                         <bibl>Jenstad, Janelle. <title level="a">Using Early Modern Maps in Literary Studies: Views and Caveats from <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/Y6Dqi7TxAOw">London</placeName></title>. <title level="m">GeoHumanities: Art, History, Text at the Edge of Place</title>. Ed. Michael Dear, <persName key="Ketchum, Jim" ref="http://viaf.org/viaf/297864675" ana="webannotation:http://temp.lincsproject.ca/pjX1DsnjBLg">Jim Ketchum</persName>, Sarah Luria, and Douglas Richardson. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/H0fyLN5TBP4">London</placeName>: Routledge, 2011. 112–19.</bibl>
                         <bibl>Warf, Barney, and Santa Arias. <title level="a">Introduction: The Reinsertion of Space in to the Social Sciences and Humanities</title>. <title level="m">The Spatial Turn: Interdisciplinary Perspectives</title>. Ed. Warf and Arias. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/OMOnmzDgwrj">London</placeName>: Routledge, 2008. 1–10.</bibl>
                     </listBibl>
@@ -11605,6 +11605,184 @@
         "id": "http://viaf.org/viaf/297864675",
         "type": "crm:E21_Person",
         "label": "Ketchum, Jim"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/kGzM61tiEYM">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/kGzM61tiEYM",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T18:31:52.187Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/SmG9EDluvUT",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/SmG9EDluvUT/selector/textPosition/4tNia76Ik0o",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 48482,
+                "end": 48506,
+                "refinedBy": {
+                    "id": "/target/SmG9EDluvUT/selector/textQuote/TyP0auen8UE",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Indiana University Press",
+                    "prefix": " Bloomington:",
+                    "suffix": " 2010"
+                }
+            },
+            {
+                "id": "/target/SmG9EDluvUT/selector/css/OrjRf9SUg7n",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/kGzM61tiEYM]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/122335523",
+        "type": "crm:E74_Group",
+        "label": "Indiana university press",
+        "description": "Indiana University Press Bloomington, Ind"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Wa5t8QgVZmN">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Wa5t8QgVZmN",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T18:31:52.189Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/6ylHCx6mqas",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/6ylHCx6mqas/selector/textPosition/ibgK8TFR9mJ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 48778,
+                "end": 48802,
+                "refinedBy": {
+                    "id": "/target/6ylHCx6mqas/selector/textQuote/fjivcy3mV9F",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Indiana University Press",
+                    "prefix": " Bloomington:",
+                    "suffix": " 2010"
+                }
+            },
+            {
+                "id": "/target/6ylHCx6mqas/selector/css/VbfcXjEab9t",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Wa5t8QgVZmN]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/122335523",
+        "type": "crm:E74_Group",
+        "label": "Indiana university press",
+        "description": "Indiana University Press Bloomington, Ind"
     },
     "P2_has_type": [
         "oa:identifying"
