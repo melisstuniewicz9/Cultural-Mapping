@@ -760,7 +760,7 @@
                             </ref>
                         </p>
                         <p xml:id="p1066">
-                            <ref target="#representation_of_women">Figure 1.7 shows at a glance how widely these intrepid women penetrated the eastern seaboard of colonial North America, travelled from Newfoundland in the north to <placeName key="Jamaica" ref="https://sws.geonames.org/3489940" ana="webannotation:http://temp.lincsproject.ca/2YD0H701nRt">Jamaica</placeName> and Barbados in the south. It also shows their travels in Europe and eastwards to <placeName key="Hellenic Republic" ref="https://sws.geonames.org/390903" ana="webannotation:http://temp.lincsproject.ca/7yv7Cdmztbs">Greece</placeName>, <placeName key="Republic of Turkey" ref="https://sws.geonames.org/298795" ana="webannotation:http://temp.lincsproject.ca/WKWJkhwGUDM">Turkey</placeName>, and Jerusalem, as well as all over England and Ireland. <ref target="#religion">Like <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/5ujPdUWbkOp">Mary Ward</persName>, these members of the Society of Friends were driven by the determination to spread their faith worldwide.</ref>
+                            <ref target="#representation_of_women">Figure 1.7 shows at a glance how widely these intrepid women penetrated the eastern seaboard of colonial North America, travelled from Newfoundland in the north to <placeName key="Jamaica" ref="https://sws.geonames.org/3489940" ana="webannotation:http://temp.lincsproject.ca/2YD0H701nRt">Jamaica</placeName> and Barbados in the south. It also shows their travels in Europe and eastwards to <placeName key="Hellenic Republic" ref="https://sws.geonames.org/390903" ana="webannotation:http://temp.lincsproject.ca/7yv7Cdmztbs">Greece</placeName>, <placeName key="Republic of Turkey" ref="https://sws.geonames.org/298795" ana="webannotation:http://temp.lincsproject.ca/WKWJkhwGUDM">Turkey</placeName>, and <placeName key="Jerusalem" ref="https://sws.geonames.org/281184" ana="webannotation:http://temp.lincsproject.ca/AKUtosiWsDB">Jerusalem</placeName>, as well as all over England and Ireland. <ref target="#religion">Like <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/5ujPdUWbkOp">Mary Ward</persName>, these members of the Society of Friends were driven by the determination to spread their faith worldwide.</ref>
                             </ref>
                         </p>
                         <p xml:id="p1067">
@@ -9647,6 +9647,95 @@
     "body": {
         "id": "https://sws.geonames.org/298795",
         "label": "Republic of Turkey",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/AKUtosiWsDB">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/AKUtosiWsDB",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T18:28:21.657Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/PggcpxLsRH1",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/PggcpxLsRH1/selector/textPosition/YYvxJgqET9b",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 33999,
+                "end": 34008,
+                "refinedBy": {
+                    "id": "/target/PggcpxLsRH1/selector/textQuote/RiAy278jMtF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Jerusalem",
+                    "prefix": " It also shows their travels in Europe and eastwards to Greece, Turkey, and",
+                    "suffix": " as well as all over England and Ireland"
+                }
+            },
+            {
+                "id": "/target/PggcpxLsRH1/selector/css/ijMkMiIa6Nx",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/AKUtosiWsDB]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/281184",
+        "label": "Jerusalem",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
     },
