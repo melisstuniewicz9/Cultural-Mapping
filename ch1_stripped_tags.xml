@@ -857,7 +857,7 @@
                         </bibl>
                         <bibl><persName key="Brown, Susan" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/61jRgq03BOM">Brown</persName>, Susan, <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/VEfNqcL4tvo">Patricia Clements</persName>, and <persName key="Grundy, Isobel." ref="http://viaf.org/viaf/12322641" ana="webannotation:http://temp.lincsproject.ca/g4GAbObEunt">Isobel Grundy</persName>, eds. <title level="m"><orgName key="Orlando: Women's Writing in the British Isles from the Beginnings to the Present" ref="http://id.lincsproject.ca/zBkArbArQww" ana="webannotation:http://temp.lincsproject.ca/XuLTRmj3RvD">Orlando: Women’s Writing in the British Isles</orgName> from the Beginnings to the Present</title>. Cambridge: Cambridge University Press, 2006–2012. <ref target="http://orlando.cambridge.org">http://orlando.cambridge.org</ref>
                         </bibl>
-                        <bibl>Coleman, Nicole, Dan Edelstein, and Paula Findlen. <title level="m">Mapping the Republic of Letters</title>. Stanford University. <ref target="https://republicofletters.stanford.edu">https://republicofletters.stanford.edu</ref>
+                        <bibl>Coleman, Nicole, Dan Edelstein, and Paula Findlen. <title level="m">Mapping the Republic of Letters</title>. <orgName key="Stanford university" ref="http://viaf.org/viaf/129582224" ana="webannotation:http://temp.lincsproject.ca/FDl7xhu9B67">Stanford University</orgName>. <ref target="https://republicofletters.stanford.edu">https://republicofletters.stanford.edu</ref>
                         </bibl>
                         <bibl>Drucker, Johanna. <title level="a">Humanities Approaches to Graphical Display</title>. <title level="j">DHQ: Digital Humanities Quarterly</title> 5.1 (2011). <ref target="http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html">http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html</ref>
                         </bibl>
@@ -4479,6 +4479,95 @@
         "type": "crm:E74_Group",
         "label": "Orlando: Women's Writing in the British Isles from the Beginnings to the Present",
         "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/FDl7xhu9B67">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/FDl7xhu9B67",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T15:55:14.814Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/xd2iAkJxOps",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/xd2iAkJxOps/selector/textPosition/J63pgLhgHJ6",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45747,
+                "end": 45766,
+                "refinedBy": {
+                    "id": "/target/xd2iAkJxOps/selector/textQuote/pmnB961CWAJ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Stanford University",
+                    "prefix": "",
+                    "suffix": " https://republicofletters"
+                }
+            },
+            {
+                "id": "/target/xd2iAkJxOps/selector/css/XhSlCfC91Cu",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/FDl7xhu9B67]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/129582224",
+        "type": "crm:E74_Group",
+        "label": "Stanford university",
+        "description": "Stanford University private research university in Stanford, California, USA"
     },
     "P2_has_type": [
         "oa:identifying"
