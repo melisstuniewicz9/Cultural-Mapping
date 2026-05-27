@@ -644,7 +644,7 @@
                     <head>Visualizations</head>
                     <p xml:id="p1053">
                         <ref target="#religion">
-                            <ref target="#historical_oppression">Consider the visualization we produced of the travels and global influence of Mary Ward (1585–1645), a Roman Catholic at a time when <ref target="#violence">people of this faith were a persecuted minority</ref> in England, whose lifelong ambition was to found a non-enclosed <ref target="#gender_issue">religious order for women modelled after the all-male Jesuits.</ref>
+                            <ref target="#historical_oppression">Consider the visualization we produced of the travels and global influence of <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/dBeu5p61iAK">Mary Ward</persName> (1585–1645), a Roman Catholic at a time when <ref target="#violence">people of this faith were a persecuted minority</ref> in England, whose lifelong ambition was to found a non-enclosed <ref target="#gender_issue">religious order for women modelled after the all-male Jesuits.</ref>
                             </ref>
                         </ref>
                     </p>
@@ -680,7 +680,7 @@
                         </p>
                         <p xml:id="p1056">Figure 1.4 indicates a concentration of hits in northern England (which reflects <ref target="#religion">the semi-underground life lived by Catholics</ref> during the time of Ward’s adolescence) and a cluster of hits in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/pVYnJeOM17N">London</placeName>.</p>
                         <p xml:id="p1057">
-                            <ref target="#spatiality">Zooming in further in the Exhibit view reveals the various addresses or names of public buildings associated with Mary Ward. Most, but not all, of these addresses and buildings still exist today, which affirms the desirability of certain kinds of <ref target="#technology">mapping technologies for smart phone applications.</ref>
+                            <ref target="#spatiality">Zooming in further in the Exhibit view reveals the various addresses or names of public buildings associated with <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/N78TIbsVRnA">Mary Ward</persName>. Most, but not all, of these addresses and buildings still exist today, which affirms the desirability of certain kinds of <ref target="#technology">mapping technologies for smart phone applications.</ref>
                             </ref>
                         </p>
                         <p xml:id="p1058">
@@ -694,7 +694,7 @@
                             <figure>
                                 <head>Figure 1.4</head>
                                 <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A206263d4-7084-4ab3-95b1-91bb866d04b9/datastream/JPG-DToC/view"/>
-                                <figDesc>Places related to Mary Ward's travels and influence in England.</figDesc>
+                                <figDesc>Places related to <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/XClg7n7DooF">Mary Ward's</persName> travels and influence in England.</figDesc>
                             </figure> writers’ <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/aUbOApxJO9V">London</placeName>. <ref target="#close_reading">Theoretically, the degree of possible granularity knows no bounds.</ref>
                         </p>
                         <p xml:id="p1059">
@@ -6089,6 +6089,184 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/dBeu5p61iAK">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/dBeu5p61iAK",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T17:23:08.201Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/0S7vzXhTcOF",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/0S7vzXhTcOF/selector/textPosition/0GCO0nFAwMM",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 21458,
+                "end": 21467,
+                "refinedBy": {
+                    "id": "/target/0S7vzXhTcOF/selector/textQuote/1ePHAHLQexx",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Mary Ward",
+                    "prefix": "\n                    \n                \n                \n                    Visualizations\n                    \n                        \n                            Consider the visualization we produced of the travels and global influence of",
+                    "suffix": "(1585–1645), a Roman Catholic at a time when people of this faith were a persecuted minority in England, whose lifelong ambition was to found a non-enclosed religious order for women modelled after the all-male Jesuits"
+                }
+            },
+            {
+                "id": "/target/0S7vzXhTcOF/selector/css/ai75WcGbLvf",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/dBeu5p61iAK]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/62341746",
+        "label": "Ward, Mary",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/N78TIbsVRnA">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/N78TIbsVRnA",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T17:23:08.529Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/KkMm3UrYlbc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/KkMm3UrYlbc/selector/textPosition/ZhhwRjyw1kW",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 23582,
+                "end": 23591,
+                "refinedBy": {
+                    "id": "/target/KkMm3UrYlbc/selector/textQuote/hJ91XO2hauv",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Mary Ward",
+                    "prefix": "\n                        \n                            Zooming in further in the Exhibit view reveals the various addresses or names of public buildings associated with",
+                    "suffix": " Most, but not all, of these addresses and buildings still exist today, which affirms the desirability of certain kinds of mapping technologies for smart phone applications"
+                }
+            },
+            {
+                "id": "/target/KkMm3UrYlbc/selector/css/ajO3t4ITvCf",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/N78TIbsVRnA]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/62341746",
+        "label": "Ward, Mary",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/3Ct4eKy5sHL">
 <![CDATA[{
     "@context": [
@@ -6162,6 +6340,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/3Ct4eKy5sHL]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/62341746",
+        "label": "Ward, Mary",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/XClg7n7DooF">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/XClg7n7DooF",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T17:22:03.156Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/Hiv9nZ56T7U",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Hiv9nZ56T7U/selector/textPosition/HrDBHJPwBPF",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 24779,
+                "end": 24790,
+                "refinedBy": {
+                    "id": "/target/Hiv9nZ56T7U/selector/textQuote/1p26r897SBt",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Mary Ward's",
+                    "prefix": "4\n                                \n                                Places related to",
+                    "suffix": "travels and influence in England"
+                }
+            },
+            {
+                "id": "/target/Hiv9nZ56T7U/selector/css/89STPsaWqpB",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/XClg7n7DooF]"
             }
         ]
     },
