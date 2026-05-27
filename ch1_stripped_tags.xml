@@ -879,7 +879,7 @@
                         </bibl>
                         <bibl>Prickman, Gregory. <title level="m">The Atlas of Early Printing</title>. University of Iowa Libraries. <ref target="http://atlas.lib.uiowa.edu">http://atlas.lib.uiowa.edu</ref>
                         </bibl>
-                        <bibl>Scholars’ Lab. <title level="m">Neatline: Plot Your Course in Space and Time</title>. University of Virginia Library. <ref target="http://neatline.org">http://neatline.org</ref>
+                        <bibl>Scholars’ Lab. <title level="m">Neatline: Plot Your Course in Space and Time</title>. <orgName key="University of Virginia. Library." ref="http://viaf.org/viaf/154761183" ana="webannotation:http://temp.lincsproject.ca/sVNqRZDHpja">University of Virginia Library</orgName>. <ref target="http://neatline.org">http://neatline.org</ref>
                         </bibl>
                         <bibl>
                             <title level="m">The SIMILE Project</title>. <orgName key="Massachusetts institute of technology" ref="http://viaf.org/viaf/150025207" ana="webannotation:http://temp.lincsproject.ca/ulcXuwQxtQC">Massachusetts Institute of Technology</orgName>. <ref target="http://simile-widgets.org">http://simile-widgets.org</ref>
@@ -4835,6 +4835,95 @@
         "type": "crm:E74_Group",
         "label": "University of California, Los Angeles",
         "description": "Uniwersytet Kalifornijski (Los Angeles)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/sVNqRZDHpja">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/sVNqRZDHpja",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T15:57:53.018Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/4FiE9Y9cGqY",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4FiE9Y9cGqY/selector/textPosition/0c9zLTzWpGm",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 47117,
+                "end": 47147,
+                "refinedBy": {
+                    "id": "/target/4FiE9Y9cGqY/selector/textQuote/nUJ2HEe0VTA",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "University of Virginia Library",
+                    "prefix": "",
+                    "suffix": " http://neatline"
+                }
+            },
+            {
+                "id": "/target/4FiE9Y9cGqY/selector/css/FA3mkGTyRMl",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/sVNqRZDHpja]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/154761183",
+        "type": "crm:E74_Group",
+        "label": "University of Virginia. Library.",
+        "description": "University of Virginia Libraries library consortium"
     },
     "P2_has_type": [
         "oa:identifying"
