@@ -870,7 +870,7 @@
                         <bibl>
                             <title level="m">Google Maps</title>. <ref target="http://maps.google.ca">http://maps.google.ca</ref>
                         </bibl>
-                        <bibl>Huynh, David François. <title level="m">Exhibit</title>. Massachusetts Institute of Technology. <ref target="http://www.simile-widgets.org/exhibit">http://www.simile-widgets.org/exhibit</ref>
+                        <bibl>Huynh, David François. <title level="m">Exhibit</title>. <orgName key="Massachusetts institute of technology" ref="http://viaf.org/viaf/150025207" ana="webannotation:http://temp.lincsproject.ca/0VKJXDvOHg3">Massachusetts Institute of Technology</orgName>. <ref target="http://www.simile-widgets.org/exhibit">http://www.simile-widgets.org/exhibit</ref>
                         </bibl>
                         <bibl>
                             <title level="m">HyperCities</title>. <orgName key="University of California, Los Angeles" ref="http://viaf.org/viaf/122477083" ana="webannotation:http://temp.lincsproject.ca/k94u4GZAf2V">University of California, Los Angeles</orgName>. <ref target="http://hypercities.com">http://hypercities.com</ref>
@@ -882,7 +882,7 @@
                         <bibl>Scholars’ Lab. <title level="m">Neatline: Plot Your Course in Space and Time</title>. University of Virginia Library. <ref target="http://neatline.org">http://neatline.org</ref>
                         </bibl>
                         <bibl>
-                            <title level="m">The SIMILE Project</title>. Massachusetts Institute of Technology. <ref target="http://simile-widgets.org">http://simile-widgets.org</ref>
+                            <title level="m">The SIMILE Project</title>. <orgName key="Massachusetts institute of technology" ref="http://viaf.org/viaf/150025207" ana="webannotation:http://temp.lincsproject.ca/ulcXuwQxtQC">Massachusetts Institute of Technology</orgName>. <ref target="http://simile-widgets.org">http://simile-widgets.org</ref>
                         </bibl>
                         <bibl>
                             <title level="m">TEI: Text Encoding Initiative.</title>
@@ -4568,6 +4568,184 @@
         "type": "crm:E74_Group",
         "label": "Stanford university",
         "description": "Stanford University private research university in Stanford, California, USA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/0VKJXDvOHg3">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/0VKJXDvOHg3",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T15:57:29.380Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/JSUwE6KJ2Jr",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/JSUwE6KJ2Jr/selector/textPosition/3A1ZmKachRz",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 46494,
+                "end": 46531,
+                "refinedBy": {
+                    "id": "/target/JSUwE6KJ2Jr/selector/textQuote/jkZJE0kKg79",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Massachusetts Institute of Technology",
+                    "prefix": "",
+                    "suffix": " http://www"
+                }
+            },
+            {
+                "id": "/target/JSUwE6KJ2Jr/selector/css/AtmUPsEqQ9l",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/0VKJXDvOHg3]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/150025207",
+        "type": "crm:E74_Group",
+        "label": "Massachusetts institute of technology",
+        "description": "Massachusetts Institute of Technology private university in Cambridge, Massachusetts, USA, founded 1861"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ulcXuwQxtQC">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ulcXuwQxtQC",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T15:57:29.660Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/OkALy8XMRjt",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/OkALy8XMRjt/selector/textPosition/gmSpH6S33Fb",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 47267,
+                "end": 47304,
+                "refinedBy": {
+                    "id": "/target/OkALy8XMRjt/selector/textQuote/H74tEgzIyFA",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Massachusetts Institute of Technology",
+                    "prefix": "",
+                    "suffix": " http://simile-widgets"
+                }
+            },
+            {
+                "id": "/target/OkALy8XMRjt/selector/css/1ldXWsU3YI6",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ulcXuwQxtQC]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/150025207",
+        "type": "crm:E74_Group",
+        "label": "Massachusetts institute of technology",
+        "description": "Massachusetts Institute of Technology private university in Cambridge, Massachusetts, USA, founded 1861"
     },
     "P2_has_type": [
         "oa:identifying"
