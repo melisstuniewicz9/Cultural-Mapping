@@ -725,7 +725,7 @@
                                 <figDesc>Places in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/ZHn7CWHdLAf">London</placeName> associated with the writers of the nineteenth century in Orlando</figDesc>
                             </figure>
                             <ref target="#spatiality">concerns are not central to the research aims that inform the way that spatial information is collected. The implications of this are twofold. <ref target="#theme_or_topic">
-                                    <ref target="#close_reading">First, there will be many cases, such as that of Mary Ward’s global reach, when spatial information is not as granular as it might be in a dedicated <abbr>GIS</abbr> project, which could lead to surprising results. Second, there will be an inherent unevenness in the granularity of the spatial data across the project as a whole. Some projects will dedicate considerable effort to linking spatial and temporal data to enable precise rendering of materials on maps that will support exploration of research questions developed with spatial analysis in mind. Other projects will produce spatial data more casually, in keeping with standard biographical, critical, or bibliographical methods.</ref>
+                                    <ref target="#close_reading">First, there will be many cases, such as that of <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/wCNwqm6rmsq">Mary Ward’s</persName> global reach, when spatial information is not as granular as it might be in a dedicated <abbr>GIS</abbr> project, which could lead to surprising results. Second, there will be an inherent unevenness in the granularity of the spatial data across the project as a whole. Some projects will dedicate considerable effort to linking spatial and temporal data to enable precise rendering of materials on maps that will support exploration of research questions developed with spatial analysis in mind. Other projects will produce spatial data more casually, in keeping with standard biographical, critical, or bibliographical methods.</ref>
                                 </ref>
                                 <ref target="#collaboration">Thus, <abbr>CWRC</abbr> maps rendered from data produced across the Collaboratory will differ considerably from maps created by single projects. Although the format of the data will be interoperable, it will vary considerably from data produced by a single project with uniform principles, aims, and methods in the production of spatial data.</ref> While all maps require interpretation, <abbr>CWRC’s</abbr> maps will, for this reason, require careful readerly analysis. Hence, the rhetoric of the interface will need to signal that the map is not a finished product but an interpretive tool, one of several offered by the Collaboratory.</ref>
                         </p>
@@ -760,13 +760,13 @@
                             </ref>
                         </p>
                         <p xml:id="p1066">
-                            <ref target="#representation_of_women">Figure 1.7 shows at a glance how widely these intrepid women penetrated the eastern seaboard of colonial North America, travelled from Newfoundland in the north to <placeName key="Jamaica" ref="https://sws.geonames.org/3489940" ana="webannotation:http://temp.lincsproject.ca/2YD0H701nRt">Jamaica</placeName> and Barbados in the south. It also shows their travels in Europe and eastwards to Greece, Turkey, and Jerusalem, as well as all over England and Ireland. <ref target="#religion">Like <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/5ujPdUWbkOp">Mary Ward</persName>, these members of the Society of Friends were driven by the determination to spread their faith worldwide.</ref>
+                            <ref target="#representation_of_women">Figure 1.7 shows at a glance how widely these intrepid women penetrated the eastern seaboard of colonial North America, travelled from Newfoundland in the north to <placeName key="Jamaica" ref="https://sws.geonames.org/3489940" ana="webannotation:http://temp.lincsproject.ca/2YD0H701nRt">Jamaica</placeName> and Barbados in the south. It also shows their travels in Europe and eastwards to Greece, <placeName key="Republic of Turkey" ref="https://sws.geonames.org/298795" ana="webannotation:http://temp.lincsproject.ca/WKWJkhwGUDM">Turkey</placeName>, and Jerusalem, as well as all over England and Ireland. <ref target="#religion">Like <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/5ujPdUWbkOp">Mary Ward</persName>, these members of the Society of Friends were driven by the determination to spread their faith worldwide.</ref>
                             </ref>
                         </p>
                         <p xml:id="p1067">
                             <ref target="#religion">
                                 <ref target="#history">
-                                    <ref target="#spatiality">But this map also indicates hits in the American Midwest, where no Quakers, indeed no Europeans at all, had reached during the seventeenth century. It is not in the Midwest but in <q>America</q> generally that the <ref target="#non-book_media">Orlando text base says many Quakers travelled and preached. Likewise, it is not in <placeName key="Saskatchewan" ref="https://sws.geonames.org/6141242" ana="webannotation:http://temp.lincsproject.ca/QTGC1Ohac2b">Saskatchewan</placeName> but in <q>Canada</q> generally that Mary Ward’s order flourishes today (see Figure 1.2). <ref target="#politics">The fact that we are using a map based on current political boundaries as the basis for our visualization is historically insensitive and makes <placeName key="Saskatchewan" ref="https://sws.geonames.org/6141242" ana="webannotation:http://temp.lincsproject.ca/PevyiGX4RIR">Saskatchewan</placeName> the generalized geographical centre of Canada at a time in history when such a notion was nonsensical.</ref> This problem would be partially resolved by using historical maps that represented the boundaries of Canada as they existed in <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/yDtJzCBAVVA">Ward</persName>’s lifetime, or the parts of <placeName key="United States" ref="https://sws.geonames.org/6252001" ana="webannotation:http://temp.lincsproject.ca/IrVAkUiBPC0">the United States</placeName> frequented by Europeans during the early activities of the Quakers.</ref> If the results for <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/vxVm2lkCgCX">Mary Ward</persName> were shown on a historical map rather than a modern map, the <q>centres</q> of Canada and <placeName key="United States" ref="https://sws.geonames.org/6252001" ana="webannotation:http://temp.lincsproject.ca/elljQIQuzqg">the United States</placeName> (at least from a colonial perspective, on colonial maps) would lie much further to the east and the degree of misplacement would be lessened.</ref> Nation or country place names would still produce generalized results that are very misleading if represented by points, but the approximation to more distinct regions would be more evident.</ref>
+                                    <ref target="#spatiality">But this map also indicates hits in the American Midwest, where no Quakers, indeed no Europeans at all, had reached during the seventeenth century. It is not in the Midwest but in <q>America</q> generally that the <ref target="#non-book_media">Orlando text base says many Quakers travelled and preached. Likewise, it is not in <placeName key="Saskatchewan" ref="https://sws.geonames.org/6141242" ana="webannotation:http://temp.lincsproject.ca/QTGC1Ohac2b">Saskatchewan</placeName> but in <q>Canada</q> generally that <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/zShPs32dwxV">Mary Ward’s</persName> order flourishes today (see Figure 1.2). <ref target="#politics">The fact that we are using a map based on current political boundaries as the basis for our visualization is historically insensitive and makes <placeName key="Saskatchewan" ref="https://sws.geonames.org/6141242" ana="webannotation:http://temp.lincsproject.ca/PevyiGX4RIR">Saskatchewan</placeName> the generalized geographical centre of Canada at a time in history when such a notion was nonsensical.</ref> This problem would be partially resolved by using historical maps that represented the boundaries of Canada as they existed in <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/yDtJzCBAVVA">Ward</persName>’s lifetime, or the parts of <placeName key="United States" ref="https://sws.geonames.org/6252001" ana="webannotation:http://temp.lincsproject.ca/IrVAkUiBPC0">the United States</placeName> frequented by Europeans during the early activities of the Quakers.</ref> If the results for <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/vxVm2lkCgCX">Mary Ward</persName> were shown on a historical map rather than a modern map, the <q>centres</q> of Canada and <placeName key="United States" ref="https://sws.geonames.org/6252001" ana="webannotation:http://temp.lincsproject.ca/elljQIQuzqg">the United States</placeName> (at least from a colonial perspective, on colonial maps) would lie much further to the east and the degree of misplacement would be lessened.</ref> Nation or country place names would still produce generalized results that are very misleading if represented by points, but the approximation to more distinct regions would be more evident.</ref>
                             </ref>
                         </p>
                         <p xml:id="p1068">
@@ -7780,6 +7780,184 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/wCNwqm6rmsq">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/wCNwqm6rmsq",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T17:30:51.221Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/22elparS8dU",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/22elparS8dU/selector/textPosition/w1TkEi0a03o",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28422,
+                "end": 28433,
+                "refinedBy": {
+                    "id": "/target/22elparS8dU/selector/textQuote/gssl2cQhZf1",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Mary Ward’s",
+                    "prefix": " \n                                    First, there will be many cases, such as that of",
+                    "suffix": "global reach, when spatial information is not as granular as it might be in a dedicated GIS project, which could lead to surprising results"
+                }
+            },
+            {
+                "id": "/target/22elparS8dU/selector/css/9pFfqfl0Zly",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/wCNwqm6rmsq]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/62341746",
+        "label": "Ward, Mary",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/zShPs32dwxV">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/zShPs32dwxV",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T17:30:51.397Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/BoTpQlCdS6n",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/BoTpQlCdS6n/selector/textPosition/SVpZX6kzXUf",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 34682,
+                "end": 34693,
+                "refinedBy": {
+                    "id": "/target/BoTpQlCdS6n/selector/textQuote/r1E1mfwkpSM",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Mary Ward’s",
+                    "prefix": " Likewise, it is not in Saskatchewan but in Canada generally that",
+                    "suffix": "order flourishes today (see Figure 1"
+                }
+            },
+            {
+                "id": "/target/BoTpQlCdS6n/selector/css/R0h5W48iPhh",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/zShPs32dwxV]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/62341746",
+        "label": "Ward, Mary",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/PZViYHaiBNc">
 <![CDATA[{
     "@context": [
@@ -8128,6 +8306,95 @@
         "type": "crm:E53_Place",
         "label": "Jamaica",
         "description": "null, JM"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/WKWJkhwGUDM">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/WKWJkhwGUDM",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T17:40:17.859Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/CLd0D5bqd5w",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/CLd0D5bqd5w/selector/textPosition/bmdY9JINAXS",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 33987,
+                "end": 33993,
+                "refinedBy": {
+                    "id": "/target/CLd0D5bqd5w/selector/textQuote/T2PyWgE8B3s",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Turkey",
+                    "prefix": " It also shows their travels in Europe and eastwards to Greece,",
+                    "suffix": " and Jerusalem, as well as all over England and Ireland"
+                }
+            },
+            {
+                "id": "/target/CLd0D5bqd5w/selector/css/2w0kVQYStf5",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/WKWJkhwGUDM]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/298795",
+        "label": "Republic of Turkey",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
