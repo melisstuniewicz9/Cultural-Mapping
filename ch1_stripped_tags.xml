@@ -738,7 +738,7 @@
                                         <bibl>Scholars’ Lab</bibl>
                                     </note>. <ref target="#collaboration">Not all visualizations within <abbr>CWRC</abbr> will offer the highly interpretive, detailed, and exquisitely curated spatial and temporal representations of materials produced by a single scholar or co-ordinated team effort in a project to which mapping is central, but the ability to bring together sets of materials and to visualize their spatial data—the unexpected conjunction of materials—may garner serendipitous results. Moreover, embedding such visualizations within an extensive and multi-faceted knowledge environment, so that one can move between the visualizations and other lenses on a given set of materials, means that the mappings will offer a <q>dynamic rendering of culture,</q> which humanities scholars prefer over <q>static ones</q>
                                         <note place="inline">
-                                            <bibl>Corrigan 80–81</bibl>
+                                            <bibl><persName key="Corrigan, John, 1952-...." ref="http://viaf.org/viaf/44364599" ana="webannotation:http://temp.lincsproject.ca/hHCcn2Kkpl0">Corrigan</persName> 80–81</bibl>
                                         </note>. As <persName key="Corrigan, John, 1952-...." ref="http://viaf.org/viaf/44364599" ana="webannotation:http://temp.lincsproject.ca/biQOhx8QyFC">John Corrigan</persName> affirms, <q>Complex data is dynamic data…It is data that is characterized by interaction between its various parts, which massage each other <figure>
                                                 <head>Figure 1.7</head>
                                                 <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A8043a3ee-1ff4-4453-94b1-13a52e329dde/datastream/JPG-DToC/view"/>
@@ -799,13 +799,13 @@
                                 <ref target="#writing_climate">The constructedness of space, as well as its constitutive aspects within literary culture and the production of subjectivities and sensibilities through literature, is especially relevant to Orlando and <abbr>CWRC</abbr> whose <figure>
                                         <head>Figure 1.9</head>
                                         <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A1bd114ad-4cdc-469e-8580-f7c9b891fadf/datastream/JPG-DToC/view"/>
-                                        <figDesc>Scotland as a literary setting.</figDesc>
+                                        <figDesc><placeName key="Scotland" ref="https://sws.geonames.org/2638360" ana="webannotation:http://temp.lincsproject.ca/5yNugq8iAKh">Scotland</placeName> as a literary setting.</figDesc>
                                     </figure> teams are particularly interested in the possibilities for mapping place in both historical time and imaginative literature.</ref>
                             </ref>
                         </p>
                         <p xml:id="p1072">
                             <ref target="#writing_climate">
-                                <ref target="#spatiality">Figure 1.9 maps Scotland as a setting for writing (fiction and non-fiction). It indicates the extent to which, within texts, more places are mentioned in general terms than in Orlando’s discussions of writers’ lives, which frequently supply the name of a town, village, castle, or farmhouse. Hence, many texts make reference simply to Scotland, or to the romantic regions of the Scottish Highlands or Scottish Borders, providing perhaps a fictitious place name within those areas. Again, a range of visualization strategies could designate <ref target="#close_reading">different levels of granularity on a single map and help distinguish particular locations from generalized areas, thereby creating a hermeneutic layer that represents less specific fictional regions.</ref>
+                                <ref target="#spatiality">Figure 1.9 maps <placeName key="Scotland" ref="https://sws.geonames.org/2638360" ana="webannotation:http://temp.lincsproject.ca/mh5BhlRyITp">Scotland</placeName> as a setting for writing (fiction and non-fiction). It indicates the extent to which, within texts, more places are mentioned in general terms than in Orlando’s discussions of writers’ lives, which frequently supply the name of a town, village, castle, or farmhouse. Hence, many texts make reference simply to <placeName key="Scotland" ref="https://sws.geonames.org/2638360" ana="webannotation:http://temp.lincsproject.ca/bDwgbnTOvVb">Scotland</placeName>, or to the romantic regions of the Scottish Highlands or Scottish Borders, providing perhaps a fictitious place name within those areas. Again, a range of visualization strategies could designate <ref target="#close_reading">different levels of granularity on a single map and help distinguish particular locations from generalized areas, thereby creating a hermeneutic layer that represents less specific fictional regions.</ref>
                                     <ref target="#intertextuality">These layers are akin to <q>the spaces—Foucault’s hetero­topias—that cannot be mapped, such as the marketplace, the theatre, the fairground, and the ship</q>
                                         <note place="inline">
                                             <bibl>Jenstad 117</bibl>
@@ -6801,6 +6801,273 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/5yNugq8iAKh">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/5yNugq8iAKh",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T17:59:28.328Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/Nsl3e50VkB4",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Nsl3e50VkB4/selector/textPosition/aNz5NRKz7sI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38663,
+                "end": 38671,
+                "refinedBy": {
+                    "id": "/target/Nsl3e50VkB4/selector/textQuote/oUYMshnijfT",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Scotland",
+                    "prefix": "9\n                                        \n                                       ",
+                    "suffix": "as a literary setting"
+                }
+            },
+            {
+                "id": "/target/Nsl3e50VkB4/selector/css/OBuu9BQwsdp",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/5yNugq8iAKh]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2638360",
+        "label": "Scotland",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/mh5BhlRyITp">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/mh5BhlRyITp",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T17:59:28.487Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/8WDU9nS10yp",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/8WDU9nS10yp/selector/textPosition/jAEEo9Z76Rp",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 39013,
+                "end": 39021,
+                "refinedBy": {
+                    "id": "/target/8WDU9nS10yp/selector/textQuote/S6puIDbf7J3",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Scotland",
+                    "prefix": "9 maps",
+                    "suffix": "as a setting for writing (fiction and non-fiction)"
+                }
+            },
+            {
+                "id": "/target/8WDU9nS10yp/selector/css/nBTJCw2a1bX",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/mh5BhlRyITp]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2638360",
+        "label": "Scotland",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/bDwgbnTOvVb">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/bDwgbnTOvVb",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T17:59:28.640Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/EaL7mhnXtTF",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/EaL7mhnXtTF/selector/textPosition/wknPbQYVQ0A",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 39332,
+                "end": 39340,
+                "refinedBy": {
+                    "id": "/target/EaL7mhnXtTF/selector/textQuote/bFASiVHFyno",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Scotland",
+                    "prefix": " Hence, many texts make reference simply to",
+                    "suffix": " or to the romantic regions of the Scottish Highlands or Scottish Borders, providing perhaps a fictitious place name within those areas"
+                }
+            },
+            {
+                "id": "/target/EaL7mhnXtTF/selector/css/LICEGigvNdA",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/bDwgbnTOvVb]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2638360",
+        "label": "Scotland",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/dBeu5p61iAK">
 <![CDATA[{
     "@context": [
@@ -8840,6 +9107,95 @@
         "type": "crm:E53_Place",
         "label": "United States",
         "description": "null, US"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/hHCcn2Kkpl0">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/hHCcn2Kkpl0",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T18:00:46.237Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/lMI2N8PFLyg",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/lMI2N8PFLyg/selector/textPosition/fIYjyUI8wt1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 31280,
+                "end": 31288,
+                "refinedBy": {
+                    "id": "/target/lMI2N8PFLyg/selector/textQuote/1PnIc3qBxvG",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Corrigan",
+                    "prefix": " Moreover, embedding such visualizations within an extensive and multi-faceted knowledge environment, so that one can move between the visualizations and other lenses on a given set of materials, means that the mappings will offer a dynamic rendering of culture, which humanities scholars prefer over static ones\n                                        \n                                           ",
+                    "suffix": "80–81\n                                        "
+                }
+            },
+            {
+                "id": "/target/lMI2N8PFLyg/selector/css/ZFdneHylR0W",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/hHCcn2Kkpl0]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/44364599",
+        "type": "crm:E21_Person",
+        "label": "Corrigan, John, 1952-....",
+        "description": "Corrigan, John"
     },
     "P2_has_type": [
         "oa:identifying"
