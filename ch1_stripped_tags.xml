@@ -766,7 +766,7 @@
                         <p xml:id="p1067">
                             <ref target="#religion">
                                 <ref target="#history">
-                                    <ref target="#spatiality">But this map also indicates hits in the American Midwest, where no Quakers, indeed no Europeans at all, had reached during the seventeenth century. It is not in the Midwest but in <q>America</q> generally that the <ref target="#non-book_media">Orlando text base says many Quakers travelled and preached. Likewise, it is not in Saskatchewan but in <q>Canada</q> generally that Mary Ward’s order flourishes today (see Figure 1.2). <ref target="#politics">The fact that we are using a map based on current political boundaries as the basis for our visualization is historically insensitive and makes Saskatchewan the generalized geographical centre of Canada at a time in history when such a notion was nonsensical.</ref> This problem would be partially resolved by using historical maps that represented the boundaries of Canada as they existed in Ward’s lifetime, or the parts of <placeName key="United States" ref="https://sws.geonames.org/6252001" ana="webannotation:http://temp.lincsproject.ca/IrVAkUiBPC0">the United States</placeName> frequented by Europeans during the early activities of the Quakers.</ref> If the results for Mary Ward were shown on a historical map rather than a modern map, the <q>centres</q> of Canada and the United States (at least from a colonial perspective, on colonial maps) would lie much further to the east and the degree of misplacement would be lessened.</ref> Nation or country place names would still produce generalized results that are very misleading if represented by points, but the approximation to more distinct regions would be more evident.</ref>
+                                    <ref target="#spatiality">But this map also indicates hits in the American Midwest, where no Quakers, indeed no Europeans at all, had reached during the seventeenth century. It is not in the Midwest but in <q>America</q> generally that the <ref target="#non-book_media">Orlando text base says many Quakers travelled and preached. Likewise, it is not in <placeName key="Saskatchewan" ref="https://sws.geonames.org/6141242" ana="webannotation:http://temp.lincsproject.ca/QTGC1Ohac2b">Saskatchewan</placeName> but in <q>Canada</q> generally that Mary Ward’s order flourishes today (see Figure 1.2). <ref target="#politics">The fact that we are using a map based on current political boundaries as the basis for our visualization is historically insensitive and makes Saskatchewan the generalized geographical centre of Canada at a time in history when such a notion was nonsensical.</ref> This problem would be partially resolved by using historical maps that represented the boundaries of Canada as they existed in Ward’s lifetime, or the parts of <placeName key="United States" ref="https://sws.geonames.org/6252001" ana="webannotation:http://temp.lincsproject.ca/IrVAkUiBPC0">the United States</placeName> frequented by Europeans during the early activities of the Quakers.</ref> If the results for Mary Ward were shown on a historical map rather than a modern map, the <q>centres</q> of Canada and <placeName key="United States" ref="https://sws.geonames.org/6252001" ana="webannotation:http://temp.lincsproject.ca/elljQIQuzqg">the United States</placeName> (at least from a colonial perspective, on colonial maps) would lie much further to the east and the degree of misplacement would be lessened.</ref> Nation or country place names would still produce generalized results that are very misleading if represented by points, but the approximation to more distinct regions would be more evident.</ref>
                             </ref>
                         </p>
                         <p xml:id="p1068">
@@ -4123,6 +4123,184 @@
         "type": "crm:E53_Place",
         "label": "United States",
         "description": "null, US"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/elljQIQuzqg">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/elljQIQuzqg",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T15:44:44.461Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/Ausb0z40pll",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Ausb0z40pll/selector/textPosition/hvxBUEz8cQF",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 35353,
+                "end": 35370,
+                "refinedBy": {
+                    "id": "/target/Ausb0z40pll/selector/textQuote/aqAO6lVieN7",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the United States",
+                    "prefix": " If the results for Mary Ward were shown on a historical map rather than a modern map, the centres of Canada and",
+                    "suffix": "(at least from a colonial perspective, on colonial maps) would lie much further to the east and the degree of misplacement would be lessened"
+                }
+            },
+            {
+                "id": "/target/Ausb0z40pll/selector/css/tLk4xUefXCp",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/elljQIQuzqg]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6252001",
+        "type": "crm:E53_Place",
+        "label": "United States",
+        "description": "null, US"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/QTGC1Ohac2b">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/QTGC1Ohac2b",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T15:45:23.475Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/zV4F3kxhF2b",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/zV4F3kxhF2b/selector/textPosition/a9F0NkyyIXX",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 34640,
+                "end": 34652,
+                "refinedBy": {
+                    "id": "/target/zV4F3kxhF2b/selector/textQuote/HEdWIw8Tif8",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Saskatchewan",
+                    "prefix": " Likewise, it is not in",
+                    "suffix": "but in Canada generally that Mary Ward’s order flourishes today (see Figure 1"
+                }
+            },
+            {
+                "id": "/target/zV4F3kxhF2b/selector/css/W5o8o1OZn5F",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/QTGC1Ohac2b]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6141242",
+        "type": "crm:E53_Place",
+        "label": "Saskatchewan",
+        "description": "Saskatchewan, CA"
     },
     "P2_has_type": [
         "oa:identifying"
