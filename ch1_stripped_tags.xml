@@ -578,7 +578,7 @@
                     <p xml:id="p1045">
                         <ref target="#theory">
                             <ref target="#spatiality">
-                                <ref target="#non-book_media">Because the range of available spatial information varies considerably, the digital mapping of place and space contained in a literary history such as Orlando demands a flexible system that combines spatial identification with contextual information. Places may be real or fictional, domiciles or travel destinations, sites of political activity, publication, or reception of texts, and all of these place types are included in the spatial information encoded in Orlando’s text base.</ref> A map that represented all such information without distinction would be difficult to read. Moreover, the project’s historical sweep soon made it evident that many places require definition in time as well as space in order to be represented meaningfully, particularly since place names and boundaries have changed over the course of British (and international) history. Location is similarly pertinent to matters of biography and literary reception. Visualizations may be space-dominant or time-dominant, and one of our challenges is to better integrate spatial and temporal dimensions in the production of geographical representations of literary history, as Ian Gregory advocates in <title level="m">Exploiting Time and Space: A Challenge for <abbr>GIS</abbr> in the Digital Humanities.</title>
+                                <ref target="#non-book_media">Because the range of available spatial information varies considerably, the digital mapping of place and space contained in a literary history such as Orlando demands a flexible system that combines spatial identification with contextual information. Places may be real or fictional, domiciles or travel destinations, sites of political activity, publication, or reception of texts, and all of these place types are included in the spatial information encoded in Orlando’s text base.</ref> A map that represented all such information without distinction would be difficult to read. Moreover, the project’s historical sweep soon made it evident that many places require definition in time as well as space in order to be represented meaningfully, particularly since place names and boundaries have changed over the course of British (and international) history. Location is similarly pertinent to matters of biography and literary reception. Visualizations may be space-dominant or time-dominant, and one of our challenges is to better integrate spatial and temporal dimensions in the production of geographical representations of literary history, as <persName key="Gregory, Ian N., 1970-...." ref="http://viaf.org/viaf/119669087" ana="webannotation:http://temp.lincsproject.ca/aCesloBepSu">Ian Gregory</persName> advocates in <title level="m">Exploiting Time and Space: A Challenge for <abbr>GIS</abbr> in the Digital Humanities.</title>
                             </ref>
                         </ref>
                     </p>
@@ -6259,6 +6259,95 @@
         "label": "London, Jack",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/aCesloBepSu">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/aCesloBepSu",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T17:57:15.938Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/Frqz9vRZJrE",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Frqz9vRZJrE/selector/textPosition/07ZiMOMDgrI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 12878,
+                "end": 12889,
+                "refinedBy": {
+                    "id": "/target/Frqz9vRZJrE/selector/textQuote/hwzNQHeDm2Y",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ian Gregory",
+                    "prefix": " Visualizations may be space-dominant or time-dominant, and one of our challenges is to better integrate spatial and temporal dimensions in the production of geographical representations of literary history, as",
+                    "suffix": "advocates in Exploiting Time and Space: A Challenge for GIS in the Digital Humanities"
+                }
+            },
+            {
+                "id": "/target/Frqz9vRZJrE/selector/css/HuQZ2gG46kZ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/aCesloBepSu]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/119669087",
+        "type": "crm:E21_Person",
+        "label": "Gregory, Ian N., 1970-....",
+        "description": "Gregory, Ian, 1970-"
     },
     "P2_has_type": [
         "oa:identifying"
