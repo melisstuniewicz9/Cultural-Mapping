@@ -806,7 +806,7 @@
                         <p xml:id="p1072">
                             <ref target="#writing_climate">
                                 <ref target="#spatiality">Figure 1.9 maps <placeName key="Scotland" ref="https://sws.geonames.org/2638360" ana="webannotation:http://temp.lincsproject.ca/mh5BhlRyITp">Scotland</placeName> as a setting for writing (fiction and non-fiction). It indicates the extent to which, within texts, more places are mentioned in general terms than in Orlando’s discussions of writers’ lives, which frequently supply the name of a town, village, castle, or farmhouse. Hence, many texts make reference simply to <placeName key="Scotland" ref="https://sws.geonames.org/2638360" ana="webannotation:http://temp.lincsproject.ca/bDwgbnTOvVb">Scotland</placeName>, or to the romantic regions of the Scottish Highlands or Scottish Borders, providing perhaps a fictitious place name within those areas. Again, a range of visualization strategies could designate <ref target="#close_reading">different levels of granularity on a single map and help distinguish particular locations from generalized areas, thereby creating a hermeneutic layer that represents less specific fictional regions.</ref>
-                                    <ref target="#intertextuality">These layers are akin to <q>the spaces—Foucault’s hetero­topias—that cannot be mapped, such as the marketplace, the theatre, the fairground, and the ship</q>
+                                    <ref target="#intertextuality">These layers are akin to <q>the spaces—<persName key="Foucault, Michel, 1926-1984." ref="http://viaf.org/viaf/104722665" ana="webannotation:http://temp.lincsproject.ca/JL9O1mDaqaT">Foucault</persName>’s hetero­topias—that cannot be mapped, such as the marketplace, the theatre, the fairground, and the ship</q>
                                         <note place="inline">
                                             <bibl>Jenstad 117</bibl>
                                         </note> that <persName key="Jenstad, Janelle." ref="http://viaf.org/viaf/125150746959316301336" ana="webannotation:http://temp.lincsproject.ca/so2bbvoP2Rr">Janelle Jenstad</persName> identifies as challenges to mapping early modern London in ways that are responsive to the needs of literary scholars. Although such mapping presents difficulties, there is real potential for this kind of visualization to assist in understanding some of the characteristics of the representation of space, and of particular spaces, in literature.</ref>
@@ -10183,6 +10183,95 @@
         "type": "crm:E53_Place",
         "label": "Italian Republic",
         "description": "null, IT"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/JL9O1mDaqaT">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/JL9O1mDaqaT",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T18:42:14.518Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/t4odWp2Ej3l",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/t4odWp2Ej3l/selector/textPosition/B1e8hY7fGfw",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 39809,
+                "end": 39817,
+                "refinedBy": {
+                    "id": "/target/t4odWp2Ej3l/selector/textQuote/XkDGRykKOvz",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Foucault",
+                    "prefix": "\n                                    These layers are akin to the spaces",
+                    "suffix": "s hetero­topias—that cannot be mapped, such as the marketplace, the theatre, the fairground, and the ship\n                                        \n                                            Jenstad 117\n                                         that Janelle Jenstad identifies as challenges to mapping early modern London in ways that are responsive to the needs of literary scholars"
+                }
+            },
+            {
+                "id": "/target/t4odWp2Ej3l/selector/css/uEZ2ffHsx2B",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/JL9O1mDaqaT]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/104722665",
+        "type": "crm:E21_Person",
+        "label": "Foucault, Michel, 1926-1984.",
+        "description": "Foucault, Michel"
     },
     "P2_has_type": [
         "oa:identifying"
