@@ -565,7 +565,7 @@
                         <code>&amp;lt;PLACE&amp;gt;&amp;lt;SETTLEMENT&amp;gt;London&amp;lt;/SETTLEMENT&amp;gt;&amp;lt;REGION REG=Middlesex&amp;gt;&amp;lt;/REGION&amp;gt;&amp;lt;GEOG REG=England&amp;gt;&amp;lt;/GEOG&amp;gt;&amp;lt;/PLACE&amp;gt;</code>
                     </q>
                     <p xml:id="p1043">
-                        <ref target="#spatiality">Such tagging distinguishes this particular reference to London from the more than two dozen other settlements around the world (including London, Ontario) that take their name from the English city, from building names such as London House, and from proper names such as Jack London.</ref>
+                        <ref target="#spatiality">Such tagging distinguishes this particular reference to London from the more than two dozen other settlements around the world (including London, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/uffKLyNjadX">Ontario</placeName>) that take their name from the English city, from building names such as London House, and from proper names such as Jack London.</ref>
                     </p>
                     <p xml:id="p1044">
                         <ref target="#non-book_media">
@@ -3767,6 +3767,95 @@
         "type": "crm:E53_Place",
         "label": "London",
         "description": "England, Greater London, GB"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/uffKLyNjadX">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/uffKLyNjadX",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T15:42:02.584Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/aDsbQeMBLXd",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/aDsbQeMBLXd/selector/textPosition/mQlwjJVcP1X",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9768,
+                "end": 9775,
+                "refinedBy": {
+                    "id": "/target/aDsbQeMBLXd/selector/textQuote/mtSkCxMrpRG",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ontario",
+                    "prefix": "\n                             For example, the markup for the city of London is\n                    \n                    \n                        &lt;PLACE&gt;&lt;SETTLEMENT&gt;London&lt;/SETTLEMENT&gt;&lt;REGION REG=Middlesex&gt;&lt;/REGION&gt;&lt;GEOG REG=England&gt;&lt;/GEOG&gt;&lt;/PLACE&gt;\n                    \n                    \n                        Such tagging distinguishes this particular reference to London from the more than two dozen other settlements around the world (including London,",
+                    "suffix": " that take their name from the English city, from building names such as London House, and from proper names such as Jack London"
+                }
+            },
+            {
+                "id": "/target/aDsbQeMBLXd/selector/css/GbkXzi6dkQg",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/uffKLyNjadX]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6093943",
+        "type": "crm:E53_Place",
+        "label": "Ontario",
+        "description": "Ontario, CA"
     },
     "P2_has_type": [
         "oa:identifying"
