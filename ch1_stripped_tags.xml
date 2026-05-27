@@ -536,7 +536,7 @@
                     <p xml:id="p1040">
                         <ref target="#theme_or_topic">
                             <ref target="#spatiality">All of the research projects affiliated with <abbr><orgName key="Canadian Writing Research Collaboratory" ref="http://id.lincsproject.ca/Ph49VISFM8m" ana="webannotation:http://temp.lincsproject.ca/rgTWs0nYfgQ">CWRC</orgName></abbr> have a spatial component. Some are concerned with regional writing. <ref target="#genre_performance">A number of theatre projects seek to spatially track productions and networks of professionals.</ref>
-                                <ref target="#technology">The Editing Modernism in Canada project at <orgName key="University of Alberta. Population Research Laboratory" ref="http://viaf.org/viaf/123099879" ana="webannotation:http://temp.lincsproject.ca/49Ux0J0XWcL">the University of Alberta</orgName> has developed a smart phone app called <title level="m">WatsonWalk</title> based on <ref target="#history">walks taken by Sheila Watson while she and her husband Wilfred Watson lived in Paris from 1955 to 1956</ref>, as documented in her journals.</ref> Kristine Moruzi’s project <title level="m">From Colonial to Modern: Transnational Girlhood in Australian, New Zealand, and Canadian Print Cultures <note place="inline">
+                                <ref target="#technology">The Editing Modernism in Canada project at <orgName key="University of Alberta. Population Research Laboratory" ref="http://viaf.org/viaf/123099879" ana="webannotation:http://temp.lincsproject.ca/49Ux0J0XWcL">the University of Alberta</orgName> has developed a smart phone app called <title level="m">WatsonWalk</title> based on <ref target="#history">walks taken by Sheila Watson while she and her husband Wilfred Watson lived in <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/C8WJ5KQ3c3A">Paris</placeName> from 1955 to 1956</ref>, as documented in her journals.</ref> Kristine Moruzi’s project <title level="m">From Colonial to Modern: Transnational Girlhood in Australian, New Zealand, and Canadian Print Cultures <note place="inline">
                                         <bibl>(1840–1940)</bibl>
                                     </note>
                                 </title> aims to map the relationship between places of production, places of publication, and places of dissemination. The most ambitious of <abbr><orgName key="Canadian Writing Research Collaboratory" ref="http://id.lincsproject.ca/Ph49VISFM8m" ana="webannotation:http://temp.lincsproject.ca/iulZN9R42QO">CWRC</orgName>’s</abbr> pilot projects is <title>Magazines, Travel, and Middlebrow Culture in Canada 1925–1960,</title> led by Faye Hammill of <orgName key="University of Strathclyde" ref="http://viaf.org/viaf/158205915" ana="webannotation:http://temp.lincsproject.ca/FjHIZR7ImQO">the University of Strathclyde</orgName>. <ref target="#genre_journalism">This project investigates geographical mobility as a form of upward mobility, and is designed to distinguish leisure travel from the enforced movement of migration and diaspora. The project uses middlebrow magazines to map shifts in travel patterns.</ref> If one takes seriously the claim that space <q>is not simply a passive reflection of social and cultural trends, but an active participant, i.e., geography is constitutive as well as representative</q>
@@ -770,10 +770,10 @@
                             </ref>
                         </p>
                         <p xml:id="p1068">
-                            <ref target="#religion"><persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/bmm6r8Laeyj">Ward</persName>’s case would remain problematic, however; the Canada in which her order currently flourishes is indeed present-day Canada that spans from east to west coast, though that was not the Canada of Ward’s time. <ref target="#representation_of_women">As a result, no single visual representation of Canada could satisfactorily represent Ward’s influence.</ref>
+                            <ref target="#religion"><persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/bmm6r8Laeyj">Ward</persName>’s case would remain problematic, however; the Canada in which her order currently flourishes is indeed present-day Canada that spans from east to west coast, though that was not the Canada of <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/yC53gRET4HQ">Ward</persName>’s time. <ref target="#representation_of_women">As a result, no single visual representation of Canada could satisfactorily represent <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/ea2PiISeItn">Ward</persName>’s influence.</ref>
                             </ref>
                             <ref target="#spatiality">
-                                <ref target="#politics">The example of Ward gives rise to potent questions. How, for instance, might one map First Nations settlements <figure>
+                                <ref target="#politics">The example of <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/BiQAeOlAoYP">Ward</persName> gives rise to potent questions. How, for instance, might one map First Nations settlements <figure>
                                         <head>Figure 1.8</head>
                                         <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A6038108c-7313-4d53-99d3-dfeb89884338/datastream/JPG-DToC/view"/>
                                         <figDesc>Enlarged portion of map of Society of Friends.</figDesc>
@@ -783,7 +783,7 @@
                         <p xml:id="p1069">
                             <ref target="#politics">
                                 <ref target="#theme_or_topic">
-                                    <ref target="#spatiality">Both Ward’s case and that of the Quakers emphasize the problems of representation that emerge from mapping information of <ref target="#close_reading">varying degrees of particularity within the same environment</ref>, and the tension between concepts of the spatial or geographical, on the one hand, and the national or political, on the other. They remind us of the constructedness and historical contingency of visual representations of place and space, and invite us to explore ways that we might combine existing conventions of representation, such as the usual pins, lines, polygons, and gradients, to represent different, and at times conflicting, spatial references and associations contained in <ref target="#non-book_media">Orlando’s prose and in Orlando’s markup.</ref>
+                                    <ref target="#spatiality">Both <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/azgikdvxf1t">Ward</persName>’s case and that of the Quakers emphasize the problems of representation that emerge from mapping information of <ref target="#close_reading">varying degrees of particularity within the same environment</ref>, and the tension between concepts of the spatial or geographical, on the one hand, and the national or political, on the other. They remind us of the constructedness and historical contingency of visual representations of place and space, and invite us to explore ways that we might combine existing conventions of representation, such as the usual pins, lines, polygons, and gradients, to represent different, and at times conflicting, spatial references and associations contained in <ref target="#non-book_media">Orlando’s prose and in Orlando’s markup.</ref>
                                     </ref>
                                 </ref>
                             </ref>
@@ -3678,6 +3678,95 @@
         "type": "crm:E21_Person",
         "label": "Corrigan, John, 1952-....",
         "description": "Corrigan, John"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/C8WJ5KQ3c3A">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/C8WJ5KQ3c3A",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T17:27:22.423Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/UbEFzQ2XScy",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/UbEFzQ2XScy/selector/textPosition/lmvlaAaeisL",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5369,
+                "end": 5374,
+                "refinedBy": {
+                    "id": "/target/UbEFzQ2XScy/selector/textQuote/wl8eCyhm68r",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Paris",
+                    "prefix": "\n                                The Editing Modernism in Canada project at the University of Alberta has developed a smart phone app called WatsonWalk based on walks taken by Sheila Watson while she and her husband Wilfred Watson lived in",
+                    "suffix": "from 1955 to 1956, as documented in her journals"
+                }
+            },
+            {
+                "id": "/target/UbEFzQ2XScy/selector/css/2Uw40BcomxR",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/C8WJ5KQ3c3A]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2988507",
+        "type": "crm:E53_Place",
+        "label": "Paris",
+        "description": "Île-de-France, Paris, FR"
     },
     "P2_has_type": [
         "oa:identifying"
@@ -7052,6 +7141,362 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/bmm6r8Laeyj]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/62341746",
+        "label": "Ward, Mary",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/yC53gRET4HQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/yC53gRET4HQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T17:23:40.423Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/SxBfWrfjHJ9",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/SxBfWrfjHJ9/selector/textPosition/Qmbq8eMwNGF",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36008,
+                "end": 36012,
+                "refinedBy": {
+                    "id": "/target/SxBfWrfjHJ9/selector/textQuote/ac39LPlEIM0",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ward",
+                    "prefix": "\n                            \n                        \n                        \n                            Ward’s case would remain problematic, however; the Canada in which her order currently flourishes is indeed present-day Canada that spans from east to west coast, though that was not the Canada of",
+                    "suffix": "s time"
+                }
+            },
+            {
+                "id": "/target/SxBfWrfjHJ9/selector/css/oP9Of4BIU8i",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/yC53gRET4HQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/62341746",
+        "label": "Ward, Mary",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ea2PiISeItn">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ea2PiISeItn",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T17:23:40.588Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/yFxBw1SostY",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/yFxBw1SostY/selector/textPosition/u7XqgXyU6DV",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36107,
+                "end": 36111,
+                "refinedBy": {
+                    "id": "/target/yFxBw1SostY/selector/textQuote/IMUI9jc5B9V",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ward",
+                    "prefix": " As a result, no single visual representation of Canada could satisfactorily represent",
+                    "suffix": "s influence"
+                }
+            },
+            {
+                "id": "/target/yFxBw1SostY/selector/css/0T74hStvUJT",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ea2PiISeItn]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/62341746",
+        "label": "Ward, Mary",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/BiQAeOlAoYP">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/BiQAeOlAoYP",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T17:23:40.781Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/wzx00dlq8vZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/wzx00dlq8vZ/selector/textPosition/T0HBVF9OvIC",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36230,
+                "end": 36234,
+                "refinedBy": {
+                    "id": "/target/wzx00dlq8vZ/selector/textQuote/roGk0WIGCHx",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ward",
+                    "prefix": "\n                            \n                            \n                                The example of",
+                    "suffix": "gives rise to potent questions"
+                }
+            },
+            {
+                "id": "/target/wzx00dlq8vZ/selector/css/wyZsAbsLKUy",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/BiQAeOlAoYP]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/62341746",
+        "label": "Ward, Mary",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/azgikdvxf1t">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/azgikdvxf1t",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-27T17:23:41.482Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/zU0oLOPwzx8",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/zU0oLOPwzx8/selector/textPosition/86U69WEhlRy",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36866,
+                "end": 36870,
+                "refinedBy": {
+                    "id": "/target/zU0oLOPwzx8/selector/textQuote/ej2iiotK4jy",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ward",
+                    "prefix": "\n                                     and activities as opposed to colonial activity, and how might one represent First Nations conceptions of space at varying points in history?\n                            \n                        \n                        \n                            \n                                \n                                    Both",
+                    "suffix": "s case and that of the Quakers emphasize the problems of representation that emerge from mapping information of varying degrees of particularity within the same environment, and the tension between concepts of the spatial or geographical, on the one hand, and the national or political, on the other"
+                }
+            },
+            {
+                "id": "/target/zU0oLOPwzx8/selector/css/Gn4bXfQSA2T",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/azgikdvxf1t]"
             }
         ]
     },
