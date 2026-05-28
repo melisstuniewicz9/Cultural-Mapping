@@ -565,7 +565,7 @@
                         <code>&amp;lt;PLACE&amp;gt;&amp;lt;SETTLEMENT&amp;gt;London&amp;lt;/SETTLEMENT&amp;gt;&amp;lt;REGION REG=Middlesex&amp;gt;&amp;lt;/REGION&amp;gt;&amp;lt;GEOG REG=England&amp;gt;&amp;lt;/GEOG&amp;gt;&amp;lt;/PLACE&amp;gt;</code>
                     </q>
                     <p xml:id="p1043">
-                        <ref target="#spatiality">Such tagging distinguishes this particular reference to <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/vESM7H7xJLU">London</placeName> from the more than two dozen other settlements around the world (including <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/SE91OoD70DA">London</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/uffKLyNjadX">Ontario</placeName>) that take their name from the English city, from building names such as London House, and from proper names such as <placeName key="London, Jack" ref="http://viaf.org/viaf/46764200" ana="webannotation:http://temp.lincsproject.ca/QGiAtudl4N1">Jack London</placeName>.</ref>
+                        <ref target="#spatiality">Such tagging distinguishes this particular reference to <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/vESM7H7xJLU">London</placeName> from the more than two dozen other settlements around the world (including <placeName key="London" ref="https://sws.geonames.org/6058560" ana="webannotation:http://temp.lincsproject.ca/sEHcZjAF0zE">London</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/uffKLyNjadX">Ontario</placeName>) that take their name from the English city, from building names such as London House, and from proper names such as <placeName key="London, Jack" ref="http://viaf.org/viaf/46764200" ana="webannotation:http://temp.lincsproject.ca/QGiAtudl4N1">Jack London</placeName>.</ref>
                     </p>
                     <p xml:id="p1044">
                         <ref target="#non-book_media">
@@ -4406,20 +4406,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/SE91OoD70DA">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/sEHcZjAF0zE">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/SE91OoD70DA",
+    "id": "http://temp.lincsproject.ca/sEHcZjAF0zE",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-05-27T16:53:18.217Z",
+    "created": "2026-05-28T14:24:40.317Z",
     "creator": {
         "id": "https://github.com/melisstuniewicz9",
         "type": "crm:E21_Person",
@@ -4479,14 +4479,22 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/SE91OoD70DA]"
+            },
+            {
+                "id": "/target/NInPvOqAwK3/selector/css/tyWyiDsCvfN",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/sEHcZjAF0zE]"
             }
         ]
     },
     "body": {
-        "id": "https://sws.geonames.org/2643743",
+        "id": "https://sws.geonames.org/6058560",
         "type": "crm:E53_Place",
         "label": "London",
-        "description": "England, Greater London, GB"
+        "description": "Ontario, CA"
     },
     "P2_has_type": [
         "oa:identifying"
@@ -13044,11 +13052,15 @@
 		
 
 		
+
+		
 </xenoData>
 	
 	
 	
+	
 	</standOff>
+
 
 
 
