@@ -632,7 +632,7 @@
                     </p>
                     <p xml:id="p1051">
                         <ref target="#technology">
-                            <ref target="#spatiality">We considered a number of mapping tools—such as Exhibit (Huynh), OpenLayers (MetaCarta), Google Maps (Google), ArcGIS (Esri), and HyperCities (UCLA)—experimented with several, and achieved varying degrees of success depending, respectively, on the intuitiveness of their navigation, their ability to read and plot geo-referenced data, and the quality of the visualizations they produced. The maps discussed here were produced using the Map View component of the open source Exhibit 2.0 software produced by the SIMILE project (<abbr><orgName key="Massachusetts institute of technology" ref="http://viaf.org/viaf/150025207" ana="webannotation:http://temp.lincsproject.ca/CqSN0pzskDo">MIT</orgName></abbr>) and more recently sustained by Google. Exhibit enables the creation of dynamic websites with various views for rendering spatial data within a browser.</ref>
+                            <ref target="#spatiality">We considered a number of mapping tools—such as Exhibit (Huynh), OpenLayers (MetaCarta), Google Maps (<orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/BPggjrSd68Q">Google</orgName>), ArcGIS (Esri), and HyperCities (UCLA)—experimented with several, and achieved varying degrees of success depending, respectively, on the intuitiveness of their navigation, their ability to read and plot geo-referenced data, and the quality of the visualizations they produced. The maps discussed here were produced using the Map View component of the open source Exhibit 2.0 software produced by the SIMILE project (<abbr><orgName key="Massachusetts institute of technology" ref="http://viaf.org/viaf/150025207" ana="webannotation:http://temp.lincsproject.ca/CqSN0pzskDo">MIT</orgName></abbr>) and more recently sustained by Google. Exhibit enables the creation of dynamic websites with various views for rendering spatial data within a browser.</ref>
                         </ref>
                     </p>
                     <p xml:id="p1052">
@@ -13680,6 +13680,95 @@
         "label": "Berkshire",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/BPggjrSd68Q">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/BPggjrSd68Q",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-28T15:29:39.846Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/AeAXIMSSgqd",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/AeAXIMSSgqd/selector/textPosition/DVkwyec6MX1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 19813,
+                "end": 19819,
+                "refinedBy": {
+                    "id": "/target/AeAXIMSSgqd/selector/textQuote/tL7BcM8qSlU",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": "\n                            \n                        \n                    \n                    \n                        \n                            We considered a number of mapping tools—such as Exhibit (Huynh), OpenLayers (MetaCarta), Google Maps ",
+                    "suffix": ", ArcGIS (Esri), and HyperCities (UCLA)—experimented with several, and achieved varying degrees of success depending, respectively, on the intuitiveness of their navigation, their ability to read and plot geo-referenced data, and the quality of the visualizations they produced"
+                }
+            },
+            {
+                "id": "/target/AeAXIMSSgqd/selector/css/ocdWDkrS1LZ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/BPggjrSd68Q]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
     },
     "P2_has_type": [
         "oa:identifying"
