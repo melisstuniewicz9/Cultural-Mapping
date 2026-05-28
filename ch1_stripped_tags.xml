@@ -894,7 +894,7 @@
                     <listBibl>
                         <head>Print Sources</head>
                         <bibl><persName key="Bol, Peter Kees" ref="http://viaf.org/viaf/56906098" ana="webannotation:http://temp.lincsproject.ca/kdm3qwTHoA0">Bol</persName>, <persName key="Bol, Peter Kees" ref="http://viaf.org/viaf/56906098" ana="webannotation:http://temp.lincsproject.ca/p5KV7i366zd">Peter K.</persName> <title level="a">What Do Humanists Want? What Do Humanists Need? What Might Humanists Get?</title>
-                            <title level="m">GeoHumanities: Art, History, Text at the Edge of Place</title>. Ed. Michael Dear, <persName key="Ketchum, Jim" ref="http://viaf.org/viaf/297864675" ana="webannotation:http://temp.lincsproject.ca/uZeBmQyis2U">Jim Ketchum</persName>, <persName key="Luria, Sarah" ref="http://viaf.org/viaf/8482149068426665730009" ana="webannotation:http://temp.lincsproject.ca/G5VUXwPjO1S" cert="medium">Sarah Luria</persName>, and <persName key="Richardson, Douglas, 1950-...." ref="http://viaf.org/viaf/19915312" ana="webannotation:http://temp.lincsproject.ca/J8LDISsaNbO">Douglas Richardson</persName>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/xiXio8hOpg0">London</placeName>: <orgName key="Routledge Taylor &amp; Francis Group" ref="http://viaf.org/viaf/312803894" ana="webannotation:http://temp.lincsproject.ca/S7jeoxZ8TWb">Routledge</orgName>, 2011. 296–308.</bibl>
+                            <title level="m">GeoHumanities: Art, History, Text at the Edge of Place</title>. Ed. Michael Dear, <persName key="Ketchum, Jim" ref="http://viaf.org/viaf/297864675" ana="webannotation:http://temp.lincsproject.ca/uZeBmQyis2U">Jim Ketchum</persName>, <persName key="Luria, Sarah" ref="http://viaf.org/viaf/8482149068426665730009" ana="webannotation:http://temp.lincsproject.ca/G5VUXwPjO1S" cert="medium" type="real">Sarah Luria</persName>, and <persName key="Richardson, Douglas, 1950-...." ref="http://viaf.org/viaf/19915312" ana="webannotation:http://temp.lincsproject.ca/J8LDISsaNbO">Douglas Richardson</persName>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/xiXio8hOpg0">London</placeName>: <orgName key="Routledge Taylor &amp; Francis Group" ref="http://viaf.org/viaf/312803894" ana="webannotation:http://temp.lincsproject.ca/S7jeoxZ8TWb">Routledge</orgName>, 2011. 296–308.</bibl>
                         <bibl>Cooper, David, and <persName key="Gregory, Ian N., 1970-...." ref="http://viaf.org/viaf/119669087" ana="webannotation:http://temp.lincsproject.ca/ib7zZSk2sxo">Ian N. Gregory</persName>. <title level="a">Mapping the English Lake District: A Literary <abbr>GIS</abbr>
                             </title>. <title level="j">Transactions of the Institute of British Geographers</title> 36 (2011): 89–108.</bibl>
                         <bibl><persName key="Corrigan, John, 1952-...." ref="http://viaf.org/viaf/44364599" ana="webannotation:http://temp.lincsproject.ca/uZ1kSF12tA2">Corrigan</persName>, John. <title level="a">Qualitative <abbr>GIS</abbr> and Emergent Semantics</title>. <title level="m">Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. Bloomington: <orgName key="Indiana university press" ref="http://viaf.org/viaf/122335523" ana="webannotation:http://temp.lincsproject.ca/kGzM61tiEYM">Indiana University Press</orgName>, 2010. 76–88.</bibl>
@@ -13834,7 +13834,10 @@
         "id": "http://viaf.org/viaf/8482149068426665730009",
         "type": "crm:E21_Person",
         "label": "Luria, Sarah",
-        "description": "Luria, Sarah 1960-"
+        "description": "Luria, Sarah 1960-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying",
@@ -13924,7 +13927,10 @@
         "id": "http://viaf.org/viaf/8482149068426665730009",
         "type": "crm:E21_Person",
         "label": "Luria, Sarah",
-        "description": "Luria, Sarah 1960-"
+        "description": "Luria, Sarah 1960-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
