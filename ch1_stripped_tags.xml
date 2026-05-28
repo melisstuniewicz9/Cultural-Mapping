@@ -570,7 +570,7 @@
                     <p xml:id="p1044">
                         <ref target="#non-book_media">
                             <ref target="#theory">
-                                <ref target="#spatiality">The Orlando text base comprises several types of materials in which such spatial information occurs: bibliographical entries that identify locations of publishing activities; events that usually (though not always) specify the places where those events occurred; and detailed bio-critical entries on particular writers that contain information about locations related to their subjects’ lives and writing careers, as well as the places involved in the poems, plays, novels, travel writings, or other texts they produced. Orlando’s bio-critical entries on writers thus contain rich spatial information, as do the bibliographical and contextual event material. Among Orlando’s more than eight million words of born-digital scholarship, there are (at the time of writing) a total of 65,488 place tags and a total of 10,657 unique place names. <ref target="#technology">On the basis of this extensive set of materials, the Orlando and <abbr>CWRC</abbr> teams have conducted experimental geographical visualizations as a means of exploring how best to implement mapping functionality within the Collaboratory platform. We have begun with information related to writers’ places of residence, travel, migration, and social networks, and how this biographical data may relate to facets of their writing careers, such as places of production or reception, literary settings, and topographical descriptions. Here, we report the results of this first foray into the complex interrelationship of data, tools, and graphical interfaces.</ref>
+                                <ref target="#spatiality">The <orgName key="Orlando: Women's Writing in the British Isles from the Beginnings to the Present" ref="http://www.temp.lincsproject.ca/Orlando_Womens_Writing_in_the_British_Isles_from_the_Beginnings_to_the_Present_TITLE" ana="webannotation:http://temp.lincsproject.ca/aCLtAKSl2cg">Orlando</orgName> text base comprises several types of materials in which such spatial information occurs: bibliographical entries that identify locations of publishing activities; events that usually (though not always) specify the places where those events occurred; and detailed bio-critical entries on particular writers that contain information about locations related to their subjects’ lives and writing careers, as well as the places involved in the poems, plays, novels, travel writings, or other texts they produced. Orlando’s bio-critical entries on writers thus contain rich spatial information, as do the bibliographical and contextual event material. Among Orlando’s more than eight million words of born-digital scholarship, there are (at the time of writing) a total of 65,488 place tags and a total of 10,657 unique place names. <ref target="#technology">On the basis of this extensive set of materials, the Orlando and <abbr>CWRC</abbr> teams have conducted experimental geographical visualizations as a means of exploring how best to implement mapping functionality within the Collaboratory platform. We have begun with information related to writers’ places of residence, travel, migration, and social networks, and how this biographical data may relate to facets of their writing careers, such as places of production or reception, literary settings, and topographical descriptions. Here, we report the results of this first foray into the complex interrelationship of data, tools, and graphical interfaces.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -13036,6 +13036,95 @@
         "type": "crm:E74_Group",
         "label": "Indiana university press",
         "description": "Indiana University Press Bloomington, Ind"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/aCLtAKSl2cg">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/aCLtAKSl2cg",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-28T14:27:09.274Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/YQ8oQhkWqhX",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/YQ8oQhkWqhX/selector/textPosition/YhLHy5PeKXM",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10038,
+                "end": 10045,
+                "refinedBy": {
+                    "id": "/target/YQ8oQhkWqhX/selector/textQuote/Pb8RUFtcq8F",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": "\n                    \n                    \n                        \n                            \n                                The",
+                    "suffix": "text base comprises several types of materials in which such spatial information occurs: bibliographical entries that identify locations of publishing activities; events that usually (though not always) specify the places where those events occurred; and detailed bio-critical entries on particular writers that contain information about locations related to their subjects’ lives and writing careers, as well as the places involved in the poems, plays, novels, travel writings, or other texts they produced"
+                }
+            },
+            {
+                "id": "/target/YQ8oQhkWqhX/selector/css/waRcuJTE4r0",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/aCLtAKSl2cg]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.temp.lincsproject.ca/Orlando_Womens_Writing_in_the_British_Isles_from_the_Beginnings_to_the_Present_TITLE",
+        "type": "crm:E74_Group",
+        "label": "Orlando: Women's Writing in the British Isles from the Beginnings to the Present",
+        "description": ""
     },
     "P2_has_type": [
         "oa:identifying"
