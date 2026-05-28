@@ -548,7 +548,7 @@
                     <p xml:id="p1041">
                         <ref target="#theme_or_topic">Orlando is the founding project behind <abbr>CWRC</abbr>. <ref target="#canon_formation">Initiated in the mid-1990s by a small team of literary researchers, <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/eMgIDczCBV5">Susan Brown</persName>, <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/bccanL355pE">Patricia Clements</persName>, and <persName key="Grundy, Isobel." ref="http://viaf.org/viaf/12322641" ana="webannotation:http://temp.lincsproject.ca/wCHTKutwtLE">Isobel Grundy</persName>, just as graphical browser environments were exponentially expanding the usage of the World Wide Web, this research project sought to produce, from scratch, <ref target="#women_writing">
                                     <ref target="#intellectual_history">a history of women’s writing in <placeName key="British Isles" ref="https://sws.geonames.org/2654669" ana="webannotation:http://temp.lincsproject.ca/l7zJHGuEqSy">the British Isles</placeName></ref> using computers <note place="inline">
-                                        <bibl><persName key="Brown, Susan" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/HhyTB6H4qv4">Brown</persName> and <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/XaP7i12M724">Clements</persName> et al.</bibl>
+                                        <bibl><persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/FIOEPVY2OZd">Brown</persName> and <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/XaP7i12M724">Clements</persName> et al.</bibl>
                                     </note>. <ref target="#technology">
                                         <ref target="#theme_or_topic">Rather than digitizing existing texts—the focus of many digital literary projects then and now—Orlando sought to produce born-digital scholarship in a form intended from the outset to take advantage of the digital medium.</ref> That meant trying to imagine how the scholarly text that one is researching and creating might take advantage of the yet emerging possibilities of a <ref target="#place_of_publication">web publication environment.</ref>
                                         <ref target="#collaboration">Hence, on the advice of our digital humanities co-investigator <persName key="Hockey, Susan M." ref="http://viaf.org/viaf/19935808" ana="webannotation:http://temp.lincsproject.ca/S153OaU3sZG">Susan Hockey</persName></ref>, the project adopted Standard Generalized Markup Language (the precursor to Extensible Markup Language or <abbr>XML</abbr>) as a means of encoding the text in a form that would make it amenable to reuse in applications that could not be developed during the initial stages of the Orlando Project.</ref>
@@ -1461,20 +1461,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/HhyTB6H4qv4">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/FIOEPVY2OZd">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/HhyTB6H4qv4",
+    "id": "http://temp.lincsproject.ca/FIOEPVY2OZd",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-05-26T15:26:51.691Z",
+    "created": "2026-05-28T15:03:32.650Z",
     "creator": {
         "id": "https://github.com/melisstuniewicz9",
         "type": "crm:E21_Person",
@@ -1534,14 +1534,22 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/HhyTB6H4qv4]"
+            },
+            {
+                "id": "/target/fTkKIV3Hm7F/selector/css/pgvHaoWCgdD",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/FIOEPVY2OZd]"
             }
         ]
     },
     "body": {
         "id": "http://viaf.org/viaf/104953085",
-        "label": "Brown, Susan",
         "type": "crm:E21_Person",
-        "entityType": "crm:E21_Person"
+        "label": "Brown, Susan Irene",
+        "description": "Susan Irene Brown Professor of English, Digital Humanities, Critical Infrastructure Studies, Victorian Writing, Women’s Writing, and Feminist Theory."
     },
     "P2_has_type": [
         "oa:identifying"
