@@ -585,7 +585,7 @@
                     <p xml:id="p1046">
                         <ref target="#non-book_media">
                             <ref target="#technology">
-                                <ref target="#spatiality"><orgName key="Orlando: Women's Writing in the British Isles from the Beginnings to the Present" ref="http://www.temp.lincsproject.ca/Orlando_Womens_Writing_in_the_British_Isles_from_the_Beginnings_to_the_Present_TITLE" ana="webannotation:http://temp.lincsproject.ca/x5j3OvWMcjM">Orlando</orgName>’s texts use tags based on <abbr>TEI</abbr> for entities such as place, but they also use a custom tag set designed specifically by the research team for the production of a digital literary history. This tag set demarcates spans of text according to several contexts, such as discussions of writers’ residences, travels, or migrations; fictional settings or non-fictional topographical descriptions; sites of theatrical productions; or where a writer engaged in political activism. Thus, the tagging of a sentence such as <q><persName key="Brooke, Frances, 1724?-1789" ref="http://viaf.org/viaf/5193747" ana="webannotation:http://temp.lincsproject.ca/gomFoKEVNJL">Frances Brooke</persName> sailed from England to join her husband in <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/0hE1rlybBmU" cert="high">Québec</placeName></q> under a <q>location</q> tag allows place as a destination of travel to be distinguished from a sentence such as <q>This novel is best known for its picture of settler or habitant life in Lower Canada, which <persName key="Brooke, Frances, 1724?-1789" ref="http://viaf.org/viaf/5193747" ana="webannotation:http://temp.lincsproject.ca/Xt6kgERRSLG">Frances Brooke</persName> drew from her own years there</q>
+                                <ref target="#spatiality"><orgName key="Orlando: Women's Writing in the British Isles from the Beginnings to the Present" ref="http://www.temp.lincsproject.ca/Orlando_Womens_Writing_in_the_British_Isles_from_the_Beginnings_to_the_Present_TITLE" ana="webannotation:http://temp.lincsproject.ca/x5j3OvWMcjM">Orlando</orgName>’s texts use tags based on <abbr>TEI</abbr> for entities such as place, but they also use a custom tag set designed specifically by the research team for the production of a digital literary history. This tag set demarcates spans of text according to several contexts, such as discussions of writers’ residences, travels, or migrations; fictional settings or non-fictional topographical descriptions; sites of theatrical productions; or where a writer engaged in political activism. Thus, the tagging of a sentence such as <q><persName key="Brooke, Frances, 1724?-1789" ref="http://viaf.org/viaf/5193747" ana="webannotation:http://temp.lincsproject.ca/gomFoKEVNJL">Frances Brooke</persName> sailed from <placeName key="England" ref="https://sws.geonames.org/6269131 " ana="webannotation:http://temp.lincsproject.ca/SsUr3ip2lWE">England</placeName> to join her husband in <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/0hE1rlybBmU" cert="high">Québec</placeName></q> under a <q>location</q> tag allows place as a destination of travel to be distinguished from a sentence such as <q>This novel is best known for its picture of settler or habitant life in Lower Canada, which <persName key="Brooke, Frances, 1724?-1789" ref="http://viaf.org/viaf/5193747" ana="webannotation:http://temp.lincsproject.ca/Xt6kgERRSLG">Frances Brooke</persName> drew from her own years there</q>
                                     <note place="inline">
                                         <bibl><persName key="Brown, Susan" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/LJKMnI9n58V">Brown</persName>, <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/CXfqFeqRXrv">Clements</persName>, and <persName key="Grundy, Isobel" ref="http://viaf.org/viaf/12322641" ana="webannotation:http://temp.lincsproject.ca/xVjCQhg2qRn">Grundy</persName></bibl>
                                     </note>. <ref target="#politics">Places often mentioned under the <q>politics</q> tag, for instance, include <placeName key="Hyde Park" ref="https://sws.geonames.org/2646325" ana="webannotation:http://temp.lincsproject.ca/NDJqMUu2O8g">Hyde Park</placeName> and <placeName key="Trafalgar Square" ref="https://sws.geonames.org/6619832" ana="webannotation:http://temp.lincsproject.ca/3XHik79FltH">Trafalgar Square</placeName> in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/ewkVtY3P0t4">London</placeName>, the nuclear research station at <placeName key="Aldermaston" ref="https://sws.geonames.org/2657544" ana="webannotation:http://temp.lincsproject.ca/K5rrPoLN9LP">Aldermaston</placeName> in <placeName key="Berkshire" ref="https://sws.geonames.org/2655856 " ana="webannotation:http://temp.lincsproject.ca/J4hhMvoyx9p">Berkshire</placeName> as the site of <ref target="#social_movement">demonstrations</ref>, and Holloway Prison as the place where <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/fDXe1L4qc2e">London</placeName> <ref target="#gender issue">
@@ -644,7 +644,7 @@
                     <head>Visualizations</head>
                     <p xml:id="p1053">
                         <ref target="#religion">
-                            <ref target="#historical_oppression">Consider the visualization we produced of the travels and global influence of <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/dBeu5p61iAK">Mary Ward</persName> (1585–1645), a Roman Catholic at a time when <ref target="#violence">people of this faith were a persecuted minority</ref> in England, whose lifelong ambition was to found a non-enclosed <ref target="#gender_issue">religious order for women modelled after the all-male Jesuits.</ref>
+                            <ref target="#historical_oppression">Consider the visualization we produced of the travels and global influence of <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/dBeu5p61iAK">Mary Ward</persName> (1585–1645), a Roman Catholic at a time when <ref target="#violence">people of this faith were a persecuted minority</ref> in <placeName key="England" ref="https://sws.geonames.org/6269131 " ana="webannotation:http://temp.lincsproject.ca/CxU5zOUIuZX">England</placeName>, whose lifelong ambition was to found a non-enclosed <ref target="#gender_issue">religious order for women modelled after the all-male Jesuits.</ref>
                             </ref>
                         </ref>
                     </p>
@@ -673,7 +673,7 @@
                             <figDesc>Figure 1.1e: Biographies of writers born between 1900-2000.</figDesc>
                         </figure>
                         <p xml:id="p1054">
-                            <ref target="#spatiality">This map produced many hits in England, numerous hits in continental <orgName key="Europe" ref="https://sws.geonames.org/6255148 " ana="webannotation:http://temp.lincsproject.ca/ooJMEuSVSrd">Europe</orgName>, and a few hits worldwide (see Figure 1.2).</ref>
+                            <ref target="#spatiality">This map produced many hits in <placeName key="England" ref="https://sws.geonames.org/6269131 " ana="webannotation:http://temp.lincsproject.ca/jJX4P4FU2Df">England</placeName>, numerous hits in continental <orgName key="Europe" ref="https://sws.geonames.org/6255148 " ana="webannotation:http://temp.lincsproject.ca/ooJMEuSVSrd">Europe</orgName>, and a few hits worldwide (see Figure 1.2).</ref>
                         </p>
                         <p xml:id="p1055">
                             <ref target="#representation_of_women">Figure 1.3 shows <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/8xyrGKEoVd6">Ward</persName>’s extensive travels around <orgName key="Europe" ref="https://sws.geonames.org/6255148 " ana="webannotation:http://temp.lincsproject.ca/t7WX3V4TQCH">Europe</orgName>: an extraordinary testimony to one woman’s influence at a time when travel was slow and dangerous.</ref>
@@ -15641,6 +15641,273 @@
     "body": {
         "id": "https://sws.geonames.org/2186224",
         "label": "New Zealand",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/SsUr3ip2lWE">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/SsUr3ip2lWE",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-31T19:28:14.485Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/FcIhKVmrYOH",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/FcIhKVmrYOH/selector/textPosition/QP7PfHiwUFe",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 13703,
+                "end": 13710,
+                "refinedBy": {
+                    "id": "/target/FcIhKVmrYOH/selector/textQuote/WEvWeNbsYuB",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "England",
+                    "prefix": " Thus, the tagging of a sentence such as Frances Brooke sailed from",
+                    "suffix": "to join her husband in Québec under a location tag allows place as a destination of travel to be distinguished from a sentence such as This novel is best known for its picture of settler or habitant life in Lower Canada, which Frances Brooke drew from her own years there\n                                    \n                                        Brown, Clements, and Grundy\n                                    "
+                }
+            },
+            {
+                "id": "/target/FcIhKVmrYOH/selector/css/cs0ilIvJXO0",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/SsUr3ip2lWE]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6269131 ",
+        "label": "England",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/CxU5zOUIuZX">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/CxU5zOUIuZX",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-31T19:28:14.879Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/8wHA3qZ7Zo7",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/8wHA3qZ7Zo7/selector/textPosition/n75N1CI6pBh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 21564,
+                "end": 21571,
+                "refinedBy": {
+                    "id": "/target/8wHA3qZ7Zo7/selector/textQuote/tKqW7GeTkDA",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "England",
+                    "prefix": "\n                    \n                \n                \n                    Visualizations\n                    \n                        \n                            Consider the visualization we produced of the travels and global influence of Mary Ward (1585–1645), a Roman Catholic at a time when people of this faith were a persecuted minority in",
+                    "suffix": " whose lifelong ambition was to found a non-enclosed religious order for women modelled after the all-male Jesuits"
+                }
+            },
+            {
+                "id": "/target/8wHA3qZ7Zo7/selector/css/Hfws3qhec6Y",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/CxU5zOUIuZX]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6269131 ",
+        "label": "England",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/jJX4P4FU2Df">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/jJX4P4FU2Df",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-31T19:28:15.117Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/bdwL2AeiKbi",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/bdwL2AeiKbi/selector/textPosition/rEjFx8z29FX",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 22846,
+                "end": 22853,
+                "refinedBy": {
+                    "id": "/target/bdwL2AeiKbi/selector/textQuote/OZhCTOyZsSS",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "England",
+                    "prefix": "\n                        \n                        \n                            This map produced many hits in",
+                    "suffix": " numerous hits in continental Europe, and a few hits worldwide (see Figure 1"
+                }
+            },
+            {
+                "id": "/target/bdwL2AeiKbi/selector/css/MsMHm8WyotC",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/jJX4P4FU2Df]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6269131 ",
+        "label": "England",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
     },
