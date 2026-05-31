@@ -676,7 +676,7 @@
                             <ref target="#spatiality">This map produced many hits in England, numerous hits in continental <orgName key="Europe" ref="https://sws.geonames.org/6255148 " ana="webannotation:http://temp.lincsproject.ca/ooJMEuSVSrd">Europe</orgName>, and a few hits worldwide (see Figure 1.2).</ref>
                         </p>
                         <p xml:id="p1055">
-                            <ref target="#representation_of_women">Figure 1.3 shows <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/8xyrGKEoVd6">Ward</persName>’s extensive travels around Europe: an extraordinary testimony to one woman’s influence at a time when travel was slow and dangerous.</ref>
+                            <ref target="#representation_of_women">Figure 1.3 shows <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/8xyrGKEoVd6">Ward</persName>’s extensive travels around <orgName key="Europe" ref="https://sws.geonames.org/6255148 " ana="webannotation:http://temp.lincsproject.ca/t7WX3V4TQCH">Europe</orgName>: an extraordinary testimony to one woman’s influence at a time when travel was slow and dangerous.</ref>
                         </p>
                         <p xml:id="p1056">Figure 1.4 indicates a concentration of hits in northern England (which reflects <ref target="#religion">the semi-underground life lived by Catholics</ref> during the time of <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/FYPY5bxdnjm">Ward</persName>’s adolescence) and a cluster of hits in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/pVYnJeOM17N">London</placeName>.</p>
                         <p xml:id="p1057">
@@ -689,7 +689,7 @@
                             <figure>
                                 <head>Figure 1.3</head>
                                 <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A577eae57-b584-4fcf-9fde-a5ba94d0f78b/datastream/JPG-DToC/view"/>
-                                <figDesc>Places related to <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/3Ct4eKy5sHL">Mary Ward's</persName> travels and influence in Europe.</figDesc>
+                                <figDesc>Places related to <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/3Ct4eKy5sHL">Mary Ward's</persName> travels and influence in <orgName key="Europe" ref="https://sws.geonames.org/6255148 " ana="webannotation:http://temp.lincsproject.ca/nixBPGRVWml">Europe</orgName>.</figDesc>
                             </figure>
                             <figure>
                                 <head>Figure 1.4</head>
@@ -760,7 +760,7 @@
                             </ref>
                         </p>
                         <p xml:id="p1066">
-                            <ref target="#representation_of_women">Figure 1.7 shows at a glance how widely these intrepid women penetrated the eastern seaboard of colonial North America, travelled from Newfoundland in the north to <placeName key="Jamaica" ref="https://sws.geonames.org/3489940" ana="webannotation:http://temp.lincsproject.ca/2YD0H701nRt">Jamaica</placeName> and Barbados in the south. It also shows their travels in Europe and eastwards to <placeName key="Hellenic Republic" ref="https://sws.geonames.org/390903" ana="webannotation:http://temp.lincsproject.ca/7yv7Cdmztbs">Greece</placeName>, <placeName key="Republic of Turkey" ref="https://sws.geonames.org/298795" ana="webannotation:http://temp.lincsproject.ca/WKWJkhwGUDM">Turkey</placeName>, and <placeName key="Jerusalem" ref="https://sws.geonames.org/281184" ana="webannotation:http://temp.lincsproject.ca/AKUtosiWsDB">Jerusalem</placeName>, as well as all over England and <placeName key="Ireland" ref="https://sws.geonames.org/2963597" ana="webannotation:http://temp.lincsproject.ca/JaIb1jJtVKM">Ireland</placeName>. <ref target="#religion">Like <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/5ujPdUWbkOp">Mary Ward</persName>, these members of the Society of Friends were driven by the determination to spread their faith worldwide.</ref>
+                            <ref target="#representation_of_women">Figure 1.7 shows at a glance how widely these intrepid women penetrated the eastern seaboard of colonial North America, travelled from <placeName key="Newfoundland and Labrador" ref="https://sws.geonames.org/6354959" ana="webannotation:http://temp.lincsproject.ca/jTHdUl3fp4v">Newfoundland</placeName> in the north to <placeName key="Jamaica" ref="https://sws.geonames.org/3489940" ana="webannotation:http://temp.lincsproject.ca/2YD0H701nRt">Jamaica</placeName> and Barbados in the south. It also shows their travels in <orgName key="Europe" ref="https://sws.geonames.org/6255148 " ana="webannotation:http://temp.lincsproject.ca/gZcDHVK50I1">Europe</orgName> and eastwards to <placeName key="Hellenic Republic" ref="https://sws.geonames.org/390903" ana="webannotation:http://temp.lincsproject.ca/7yv7Cdmztbs">Greece</placeName>, <placeName key="Republic of Turkey" ref="https://sws.geonames.org/298795" ana="webannotation:http://temp.lincsproject.ca/WKWJkhwGUDM">Turkey</placeName>, and <placeName key="Jerusalem" ref="https://sws.geonames.org/281184" ana="webannotation:http://temp.lincsproject.ca/AKUtosiWsDB">Jerusalem</placeName>, as well as all over England and <placeName key="Ireland" ref="https://sws.geonames.org/2963597" ana="webannotation:http://temp.lincsproject.ca/JaIb1jJtVKM">Ireland</placeName>. <ref target="#religion">Like <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/5ujPdUWbkOp">Mary Ward</persName>, these members of the Society of Friends were driven by the determination to spread their faith worldwide.</ref>
                             </ref>
                         </p>
                         <p xml:id="p1067">
@@ -14405,6 +14405,273 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/t7WX3V4TQCH">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/t7WX3V4TQCH",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-31T18:49:13.605Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/VxHawpNyNyU",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/VxHawpNyNyU/selector/textPosition/iFcFRBdYtWP",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 23062,
+                "end": 23068,
+                "refinedBy": {
+                    "id": "/target/VxHawpNyNyU/selector/textQuote/E07BUYPtUzo",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Europe",
+                    "prefix": "3 shows Ward’s extensive travels around",
+                    "suffix": " an extraordinary testimony to one woman’s influence at a time when travel was slow and dangerous"
+                }
+            },
+            {
+                "id": "/target/VxHawpNyNyU/selector/css/cUXds1J7MWB",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/t7WX3V4TQCH]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6255148 ",
+        "label": "Europe",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/nixBPGRVWml">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/nixBPGRVWml",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-31T18:49:13.824Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/V7yXkSJpMD1",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/V7yXkSJpMD1/selector/textPosition/UN3pcndYH7s",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 24587,
+                "end": 24593,
+                "refinedBy": {
+                    "id": "/target/V7yXkSJpMD1/selector/textQuote/0YHYLkdV99Q",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Europe",
+                    "prefix": "3\n                                \n                                Places related to Mary Ward's travels and influence in",
+                    "suffix": "\n                            \n                            \n                                Figure 1"
+                }
+            },
+            {
+                "id": "/target/V7yXkSJpMD1/selector/css/BoiQy7MciVP",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/nixBPGRVWml]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6255148 ",
+        "label": "Europe",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/gZcDHVK50I1">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/gZcDHVK50I1",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-31T18:49:14.040Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/53V8fLJ7y5e",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/53V8fLJ7y5e/selector/textPosition/asjVOQ5AHQx",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 33955,
+                "end": 33961,
+                "refinedBy": {
+                    "id": "/target/53V8fLJ7y5e/selector/textQuote/1uMGocYHbDi",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Europe",
+                    "prefix": " It also shows their travels in",
+                    "suffix": "and eastwards to Greece, Turkey, and Jerusalem, as well as all over England and Ireland"
+                }
+            },
+            {
+                "id": "/target/53V8fLJ7y5e/selector/css/YYS9hWyTs2N",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/gZcDHVK50I1]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6255148 ",
+        "label": "Europe",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/HrShhNxEYDw">
 <![CDATA[{
     "@context": [
@@ -15463,6 +15730,95 @@
     "body": {
         "id": "https://sws.geonames.org/1269750 ",
         "label": "Republic of India",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/jTHdUl3fp4v">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/jTHdUl3fp4v",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-31T19:14:45.465Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/wmvUwow7RPZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/wmvUwow7RPZ/selector/textPosition/ksbEJI3HTJJ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 33860,
+                "end": 33872,
+                "refinedBy": {
+                    "id": "/target/wmvUwow7RPZ/selector/textQuote/sV78xUxcizS",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Newfoundland",
+                    "prefix": "7 shows at a glance how widely these intrepid women penetrated the eastern seaboard of colonial North America, travelled from",
+                    "suffix": "in the north to Jamaica and Barbados in the south"
+                }
+            },
+            {
+                "id": "/target/wmvUwow7RPZ/selector/css/vzwNugiS0Eo",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/jTHdUl3fp4v]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6354959",
+        "label": "Newfoundland and Labrador",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
     },
