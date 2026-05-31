@@ -710,7 +710,7 @@
                             </ref>
                         </p>
                         <p xml:id="p1061">
-                            <ref target="#theme_or_topic">The outlying markers in the map of <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/Yk5Z5wcl2es">Mary Ward’s</persName> travels (<placeName key="Canada" ref="https://www.geonames.org/6251999/canada.html" ana="webannotation:http://temp.lincsproject.ca/DjGD36MrkAe">Canada</placeName>, <placeName key="United States" ref="https://sws.geonames.org/6252001" ana="webannotation:http://temp.lincsproject.ca/PZViYHaiBNc">the United States</placeName>, India, and Australia) shed light on two further considerations. They show the extent to which the context leveraged from markup is always already embedded in the specifics of the author’s life and works, and must therefore be understood as part of an ongoing process of humanistic interpretation and situated representation, rather than a positivist index of certain relations. These hits on <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/HhfbhaFVBK9">Ward</persName>’s map (Figure 1.2) reflect the information provided in Orlando’s entry on <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/JDpDiPpbSMW">Ward</persName> that <ref target="#religion">the order she founded flourishes today</ref> in those places.</ref>
+                            <ref target="#theme_or_topic">The outlying markers in the map of <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/Yk5Z5wcl2es">Mary Ward’s</persName> travels (<placeName key="Canada" ref="https://www.geonames.org/6251999/canada.html" ana="webannotation:http://temp.lincsproject.ca/DjGD36MrkAe">Canada</placeName>, <placeName key="United States" ref="https://sws.geonames.org/6252001" ana="webannotation:http://temp.lincsproject.ca/PZViYHaiBNc">the United States</placeName>, <placeName key="Republic of India" ref="https://sws.geonames.org/1269750 " ana="webannotation:http://temp.lincsproject.ca/TjlKL9mQyVv">India</placeName>, and Australia) shed light on two further considerations. They show the extent to which the context leveraged from markup is always already embedded in the specifics of the author’s life and works, and must therefore be understood as part of an ongoing process of humanistic interpretation and situated representation, rather than a positivist index of certain relations. These hits on <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/HhfbhaFVBK9">Ward</persName>’s map (Figure 1.2) reflect the information provided in Orlando’s entry on <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/JDpDiPpbSMW">Ward</persName> that <ref target="#religion">the order she founded flourishes today</ref> in those places.</ref>
                         </p>
                         <p xml:id="p1062">
                             <ref target="#spatiality">The way Orlando’s material on <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/WkIUaLMSiGF">Mary Ward</persName> figures on our map highlights one of the crucial aspects of the kind of mapping that will be involved in <abbr>CWRC</abbr> as a whole. There are, as mentioned above, rare projects involved in <abbr>CWRC</abbr> that focus on the idea of space and have mapping as a central component; however, for the bulk of <abbr>CWRC</abbr> projects, and certainly for donated data projects that predate the Collaboratory, these</ref>
@@ -15196,6 +15196,95 @@
     "body": {
         "id": "https://sws.geonames.org/2186224",
         "label": "New Zealand",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/TjlKL9mQyVv">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/TjlKL9mQyVv",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-31T18:46:26.451Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/ijPcPBm2xwS",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ijPcPBm2xwS/selector/textPosition/x703eR92UWv",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 26642,
+                "end": 26647,
+                "refinedBy": {
+                    "id": "/target/ijPcPBm2xwS/selector/textQuote/64fa6xH9Jsv",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "India",
+                    "prefix": "\n                                \n                            \n                        \n                        \n                            The outlying markers in the map of Mary Ward’s travels (Canada, the United States,",
+                    "suffix": " and Australia) shed light on two further considerations"
+                }
+            },
+            {
+                "id": "/target/ijPcPBm2xwS/selector/css/YJsC2Rg08Fa",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/TjlKL9mQyVv]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/1269750 ",
+        "label": "Republic of India",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
     },
