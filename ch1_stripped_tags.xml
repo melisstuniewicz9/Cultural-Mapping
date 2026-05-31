@@ -742,7 +742,7 @@
                                         </note>. As <persName key="Corrigan, John, 1952-...." ref="http://viaf.org/viaf/44364599" ana="webannotation:http://temp.lincsproject.ca/biQOhx8QyFC">John Corrigan</persName> affirms, <q>Complex data is dynamic data…It is data that is characterized by interaction between its various parts, which massage each other <figure>
                                                 <head>Figure 1.7</head>
                                                 <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A8043a3ee-1ff4-4453-94b1-13a52e329dde/datastream/JPG-DToC/view"/>
-                                                <figDesc>Places associated with the seventeenth-century Society of Friends in Orlando.</figDesc>
+                                                <figDesc>Places associated with the seventeenth-century <orgName key="Religious Society of Friends" ref="http://viaf.org/viaf/3829151474904900490007" ana="webannotation:http://temp.lincsproject.ca/6Ckk9c8VMXK">Society of Friends</orgName> in Orlando.</figDesc>
                                             </figure> continually in ways that alter our understanding of what we are looking at</q>
                                         <note place="inline">
                                             <bibl>80–81</bibl>
@@ -776,7 +776,7 @@
                                 <ref target="#politics">The example of <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/BiQAeOlAoYP">Ward</persName> gives rise to potent questions. How, for instance, might one map First Nations settlements <figure>
                                         <head>Figure 1.8</head>
                                         <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A6038108c-7313-4d53-99d3-dfeb89884338/datastream/JPG-DToC/view"/>
-                                        <figDesc>Enlarged portion of map of Society of Friends.</figDesc>
+                                        <figDesc>Enlarged portion of map of <orgName key="Religious Society of Friends" ref="http://viaf.org/viaf/3829151474904900490007" ana="webannotation:http://temp.lincsproject.ca/MUUW9o7LgkD">Society of Friends</orgName>.</figDesc>
                                     </figure> and activities as opposed to colonial activity, and how might one represent First Nations conceptions of space at varying points in history?</ref>
                             </ref>
                         </p>
@@ -16533,6 +16533,184 @@
         "label": "Commonwealth of Australia",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/6Ckk9c8VMXK">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/6Ckk9c8VMXK",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-31T19:59:58.370Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/LYqIQ1taN3J",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/LYqIQ1taN3J/selector/textPosition/Vxvs7mGl3Ci",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 31696,
+                "end": 31714,
+                "refinedBy": {
+                    "id": "/target/LYqIQ1taN3J/selector/textQuote/JLFCOQGDDpT",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Society of Friends",
+                    "prefix": "7\n                                                \n                                                Places associated with the seventeenth-century",
+                    "suffix": "in Orlando"
+                }
+            },
+            {
+                "id": "/target/LYqIQ1taN3J/selector/css/9AY4g0LAZar",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/6Ckk9c8VMXK]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/3829151474904900490007",
+        "label": "Religious Society of Friends",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/MUUW9o7LgkD">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/MUUW9o7LgkD",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-31T19:59:58.721Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/oAiMsayiZYx",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/oAiMsayiZYx/selector/textPosition/nbUb6t9zzPM",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36486,
+                "end": 36504,
+                "refinedBy": {
+                    "id": "/target/oAiMsayiZYx/selector/textQuote/vfLOlqt4zrC",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Society of Friends",
+                    "prefix": "8\n                                        \n                                        Enlarged portion of map of",
+                    "suffix": "\n                                     and activities as opposed to colonial activity, and how might one represent First Nations conceptions of space at varying points in history?\n                            \n                        \n                        \n                            \n                                \n                                    Both Ward’s case and that of the Quakers emphasize the problems of representation that emerge from mapping information of varying degrees of particularity within the same environment, and the tension between concepts of the spatial or geographical, on the one hand, and the national or political, on the other"
+                }
+            },
+            {
+                "id": "/target/oAiMsayiZYx/selector/css/HjeLptU9V1A",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/MUUW9o7LgkD]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/3829151474904900490007",
+        "label": "Religious Society of Friends",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
