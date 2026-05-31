@@ -888,7 +888,7 @@
                             <title level="m">TEI: Text Encoding Initiative.</title>
                             <ref target="http://www.tei-c.org/index.xml">http://www.tei-c.org/index.xml</ref>
                         </bibl>
-                        <bibl>Thomas, William G., <hi rend="small-caps">iii</hi>, Richard G. Healey, and Ian J. Cottingham. <title level="m">The Aurora Project</title>. University of Nebraska. <ref target="http://auroraproject.unl.edu/web/railroads.xhtml">http://auroraproject.unl.edu/web/railroads.xhtml</ref>
+                        <bibl>Thomas, William G., <hi rend="small-caps">iii</hi>, Richard G. Healey, and Ian J. Cottingham. <title level="m">The Aurora Project</title>. <orgName key="University of Nebraska–Lincoln" ref="http://viaf.org/viaf/312587805" ana="webannotation:http://temp.lincsproject.ca/sZP384jxtSA">University of Nebraska</orgName>. <ref target="http://auroraproject.unl.edu/web/railroads.xhtml">http://auroraproject.unl.edu/web/railroads.xhtml</ref>
                         </bibl>
                     </listBibl>
                     <listBibl>
@@ -16727,6 +16727,95 @@
         "type": "crm:E74_Group",
         "label": "Cambridge university press",
         "description": "Gwasg Prifysgol Caergrawnt"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/sZP384jxtSA">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/sZP384jxtSA",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-31T19:32:07.461Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/KEuVDLEO5rH",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/KEuVDLEO5rH/selector/textPosition/6zzwbyvDn3a",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 47636,
+                "end": 47658,
+                "refinedBy": {
+                    "id": "/target/KEuVDLEO5rH/selector/textQuote/PaEcwMVPBtG",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "University of Nebraska",
+                    "prefix": "",
+                    "suffix": " http://auroraproject"
+                }
+            },
+            {
+                "id": "/target/KEuVDLEO5rH/selector/css/6kJBh4WEjXI",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/sZP384jxtSA]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/312587805",
+        "type": "crm:E74_Group",
+        "label": "University of Nebraska–Lincoln",
+        "description": "University of Nebraska–Lincoln public university in Lincoln, Nebraska, United States"
     },
     "P2_has_type": [
         "oa:identifying"
