@@ -536,7 +536,7 @@
                     <p xml:id="p1040">
                         <ref target="#theme_or_topic">
                             <ref target="#spatiality">All of the research projects affiliated with <abbr><orgName key="Canadian Writing Research Collaboratory" ref="http://id.lincsproject.ca/Ph49VISFM8m" ana="webannotation:http://temp.lincsproject.ca/rgTWs0nYfgQ">CWRC</orgName></abbr> have a spatial component. Some are concerned with regional writing. <ref target="#genre_performance">A number of theatre projects seek to spatially track productions and networks of professionals.</ref>
-                                <ref target="#technology">The Editing Modernism in <placeName key="Canada" ref="https://www.geonames.org/6251999/canada.html" ana="webannotation:http://temp.lincsproject.ca/HrShhNxEYDw">Canada</placeName> project at <orgName key="University of Alberta" ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/LfjxTrZdjbb">the University of Alberta</orgName> has developed a smart phone app called <title level="m">WatsonWalk</title> based on <ref target="#history">walks taken by <persName key="Watson, Sheila, 1909-1998" ref="http://viaf.org/viaf/35268398" ana="webannotation:http://temp.lincsproject.ca/OQ3NBoCqbJ1">Sheila Watson</persName> while she and her husband <persName key="Watson, Wilfred, 1911-1998" ref="http://viaf.org/viaf/67854547" ana="webannotation:http://temp.lincsproject.ca/FljmkRoelkD">Wilfred Watson</persName> lived in <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/C8WJ5KQ3c3A">Paris</placeName> from 1955 to 1956</ref>, as documented in her journals.</ref> <persName key="Moruzi, Kristine" ref="http://viaf.org/viaf/260397385" ana="webannotation:http://temp.lincsproject.ca/AUHQ2ejoSfy">Kristine Moruzi’s</persName> project <title level="m">From Colonial to Modern: Transnational Girlhood in Australian, New Zealand, and Canadian Print Cultures <note place="inline">
+                                <ref target="#technology">The Editing Modernism in <placeName key="Canada" ref="https://www.geonames.org/6251999/canada.html" ana="webannotation:http://temp.lincsproject.ca/HrShhNxEYDw">Canada</placeName> project at <orgName key="University of Alberta" ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/LfjxTrZdjbb">the University of Alberta</orgName> has developed a smart phone app called <title level="m">WatsonWalk</title> based on <ref target="#history">walks taken by <persName key="Watson, Sheila, 1909-1998" ref="http://viaf.org/viaf/35268398" ana="webannotation:http://temp.lincsproject.ca/OQ3NBoCqbJ1">Sheila Watson</persName> while she and her husband <persName key="Watson, Wilfred, 1911-1998" ref="http://viaf.org/viaf/67854547" ana="webannotation:http://temp.lincsproject.ca/FljmkRoelkD">Wilfred Watson</persName> lived in <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/C8WJ5KQ3c3A">Paris</placeName> from 1955 to 1956</ref>, as documented in her journals.</ref> <persName key="Moruzi, Kristine" ref="http://viaf.org/viaf/260397385" ana="webannotation:http://temp.lincsproject.ca/AUHQ2ejoSfy">Kristine Moruzi’s</persName> project <title level="m">From Colonial to Modern: Transnational Girlhood in Australian, <placeName key="New Zealand" ref="https://sws.geonames.org/2186224" ana="webannotation:http://temp.lincsproject.ca/goX3E08SgLt">New Zealand</placeName>, and Canadian Print Cultures <note place="inline">
                                         <bibl>(1840–1940)</bibl>
                                     </note>
                                 </title> aims to map the relationship between places of production, places of publication, and places of dissemination. The most ambitious of <abbr><orgName key="Canadian Writing Research Collaboratory" ref="http://id.lincsproject.ca/Ph49VISFM8m" ana="webannotation:http://temp.lincsproject.ca/iulZN9R42QO">CWRC</orgName>’s</abbr> pilot projects is <title>Magazines, Travel, and Middlebrow Culture in Canada 1925–1960,</title> led by <persName key="Hammill, Faye." ref="http://viaf.org/viaf/42097474" ana="webannotation:http://temp.lincsproject.ca/RAad9vo8Elh">Faye Hammill</persName> of <orgName key="University of Strathclyde" ref="http://viaf.org/viaf/158205915" ana="webannotation:http://temp.lincsproject.ca/FjHIZR7ImQO">the University of Strathclyde</orgName>. <ref target="#genre_journalism">This project investigates geographical mobility as a form of upward mobility, and is designed to distinguish leisure travel from the enforced movement of migration and diaspora. The project uses middlebrow magazines to map shifts in travel patterns.</ref> If one takes seriously the claim that space <q>is not simply a passive reflection of social and cultural trends, but an active participant, i.e., geography is constitutive as well as representative</q>
@@ -15107,6 +15107,95 @@
     "body": {
         "id": "https://www.geonames.org/6251999/canada.html",
         "label": "Canada",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/goX3E08SgLt">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/goX3E08SgLt",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-31T18:36:15.862Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/zDQiMN63lnn",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/zDQiMN63lnn/selector/textPosition/pQ1JnEG0L6T",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5514,
+                "end": 5525,
+                "refinedBy": {
+                    "id": "/target/zDQiMN63lnn/selector/textQuote/HjaJpdQblXc",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "New Zealand",
+                    "prefix": " Kristine Moruzi’s project From Colonial to Modern: Transnational Girlhood in Australian,",
+                    "suffix": " and Canadian Print Cultures \n                                        (1840–1940)\n                                    \n                                 aims to map the relationship between places of production, places of publication, and places of dissemination"
+                }
+            },
+            {
+                "id": "/target/zDQiMN63lnn/selector/css/rJp58hYHxVA",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/goX3E08SgLt]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2186224",
+        "label": "New Zealand",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
     },
