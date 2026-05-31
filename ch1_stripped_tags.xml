@@ -760,7 +760,7 @@
                             </ref>
                         </p>
                         <p xml:id="p1066">
-                            <ref target="#representation_of_women">Figure 1.7 shows at a glance how widely these intrepid women penetrated the eastern seaboard of colonial North America, travelled from <placeName key="Newfoundland and Labrador" ref="https://sws.geonames.org/6354959" ana="webannotation:http://temp.lincsproject.ca/jTHdUl3fp4v">Newfoundland</placeName> in the north to <placeName key="Jamaica" ref="https://sws.geonames.org/3489940" ana="webannotation:http://temp.lincsproject.ca/2YD0H701nRt">Jamaica</placeName> and Barbados in the south. It also shows their travels in <orgName key="Europe" ref="https://sws.geonames.org/6255148 " ana="webannotation:http://temp.lincsproject.ca/gZcDHVK50I1">Europe</orgName> and eastwards to <placeName key="Hellenic Republic" ref="https://sws.geonames.org/390903" ana="webannotation:http://temp.lincsproject.ca/7yv7Cdmztbs">Greece</placeName>, <placeName key="Republic of Turkey" ref="https://sws.geonames.org/298795" ana="webannotation:http://temp.lincsproject.ca/WKWJkhwGUDM">Turkey</placeName>, and <placeName key="Jerusalem" ref="https://sws.geonames.org/281184" ana="webannotation:http://temp.lincsproject.ca/AKUtosiWsDB">Jerusalem</placeName>, as well as all over England and <placeName key="Ireland" ref="https://sws.geonames.org/2963597" ana="webannotation:http://temp.lincsproject.ca/JaIb1jJtVKM">Ireland</placeName>. <ref target="#religion">Like <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/5ujPdUWbkOp">Mary Ward</persName>, these members of the Society of Friends were driven by the determination to spread their faith worldwide.</ref>
+                            <ref target="#representation_of_women">Figure 1.7 shows at a glance how widely these intrepid women penetrated the eastern seaboard of colonial <placeName key="Barbados" ref="https://sws.geonames.org/3374084" ana="webannotation:http://temp.lincsproject.ca/p8TQV0Tippn">North America</placeName>, travelled from <placeName key="Newfoundland and Labrador" ref="https://sws.geonames.org/6354959" ana="webannotation:http://temp.lincsproject.ca/jTHdUl3fp4v">Newfoundland</placeName> in the north to <placeName key="Jamaica" ref="https://sws.geonames.org/3489940" ana="webannotation:http://temp.lincsproject.ca/2YD0H701nRt">Jamaica</placeName> and Barbados in the south. It also shows their travels in <orgName key="Europe" ref="https://sws.geonames.org/6255148 " ana="webannotation:http://temp.lincsproject.ca/gZcDHVK50I1">Europe</orgName> and eastwards to <placeName key="Hellenic Republic" ref="https://sws.geonames.org/390903" ana="webannotation:http://temp.lincsproject.ca/7yv7Cdmztbs">Greece</placeName>, <placeName key="Republic of Turkey" ref="https://sws.geonames.org/298795" ana="webannotation:http://temp.lincsproject.ca/WKWJkhwGUDM">Turkey</placeName>, and <placeName key="Jerusalem" ref="https://sws.geonames.org/281184" ana="webannotation:http://temp.lincsproject.ca/AKUtosiWsDB">Jerusalem</placeName>, as well as all over England and <placeName key="Ireland" ref="https://sws.geonames.org/2963597" ana="webannotation:http://temp.lincsproject.ca/JaIb1jJtVKM">Ireland</placeName>. <ref target="#religion">Like <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/5ujPdUWbkOp">Mary Ward</persName>, these members of the Society of Friends were driven by the determination to spread their faith worldwide.</ref>
                             </ref>
                         </p>
                         <p xml:id="p1067">
@@ -828,7 +828,7 @@
                     <p xml:id="p1074">
                         <ref target="#theory">
                             <ref target="#spatiality">
-                                <ref target="#technology">The challenges described here are by no means unique to this particular mapping project. They invoke the impact of drawing on uneven spatial data, in terms of its granularity (such as North America versus <placeName key="Halifax" ref="https://sws.geonames.org/6324729 " ana="webannotation:http://temp.lincsproject.ca/y5mLb1bETeR">Halifax</placeName>, <placeName key="Nova Scotia" ref="https://sws.geonames.org/6091530" ana="webannotation:http://temp.lincsproject.ca/6lKjuV03gn1">Nova Scotia</placeName>) and density (such as <abbr>CWRC</abbr> items that only have a few places mentioned in their metadata in contrast to a piece of travel writing in Orlando that already has extensive tagging). There is yet a further source of unevenness within <abbr>CWRC</abbr>: differences in the extent to which contextualizing semantic data is present within and across projects in the Collaboratory. A challenge for both <abbr>CWRC</abbr> and Orlando is the sheer density of spatial data across the collections, especially in relation to major population and publishing centres such as <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/lV0uY2mN9BG">London</placeName>, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/Zp4NTurgRjF">Toronto</placeName>, and <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/hMfbZH3gMQr">Montreal</placeName>. An ideal mapping interface would allow efficient processing and visualization of large quantities of spatial data in a web environment, easy faceting according to a range of criteria, and manual sifting of results, plus quick reference to the source text.</ref>
+                                <ref target="#technology">The challenges described here are by no means unique to this particular mapping project. They invoke the impact of drawing on uneven spatial data, in terms of its granularity (such as <placeName key="Barbados" ref="https://sws.geonames.org/3374084" ana="webannotation:http://temp.lincsproject.ca/8w7LgSHptKM">North America</placeName> versus <placeName key="Halifax" ref="https://sws.geonames.org/6324729 " ana="webannotation:http://temp.lincsproject.ca/y5mLb1bETeR">Halifax</placeName>, <placeName key="Nova Scotia" ref="https://sws.geonames.org/6091530" ana="webannotation:http://temp.lincsproject.ca/6lKjuV03gn1">Nova Scotia</placeName>) and density (such as <abbr>CWRC</abbr> items that only have a few places mentioned in their metadata in contrast to a piece of travel writing in Orlando that already has extensive tagging). There is yet a further source of unevenness within <abbr>CWRC</abbr>: differences in the extent to which contextualizing semantic data is present within and across projects in the Collaboratory. A challenge for both <abbr>CWRC</abbr> and Orlando is the sheer density of spatial data across the collections, especially in relation to major population and publishing centres such as <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/lV0uY2mN9BG">London</placeName>, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/Zp4NTurgRjF">Toronto</placeName>, and <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/hMfbZH3gMQr">Montreal</placeName>. An ideal mapping interface would allow efficient processing and visualization of large quantities of spatial data in a web environment, easy faceting according to a range of criteria, and manual sifting of results, plus quick reference to the source text.</ref>
                             </ref>
                         </ref>
                     </p>
@@ -15730,6 +15730,184 @@
     "body": {
         "id": "https://sws.geonames.org/1269750 ",
         "label": "Republic of India",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/p8TQV0Tippn">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/p8TQV0Tippn",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-31T19:15:32.474Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/s7Hl6M6xw4Z",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/s7Hl6M6xw4Z/selector/textPosition/0O9jiROuCp3",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 33830,
+                "end": 33843,
+                "refinedBy": {
+                    "id": "/target/s7Hl6M6xw4Z/selector/textQuote/z10dlKCxIol",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "North America",
+                    "prefix": "7 shows at a glance how widely these intrepid women penetrated the eastern seaboard of colonial",
+                    "suffix": " travelled from Newfoundland in the north to Jamaica and Barbados in the south"
+                }
+            },
+            {
+                "id": "/target/s7Hl6M6xw4Z/selector/css/GBSRJDGa1pU",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/p8TQV0Tippn]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/3374084",
+        "label": "Barbados",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/8w7LgSHptKM">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/8w7LgSHptKM",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-31T19:15:32.893Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/cztZhnsW5DQ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/cztZhnsW5DQ/selector/textPosition/t8oH0PDncIP",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 41728,
+                "end": 41741,
+                "refinedBy": {
+                    "id": "/target/cztZhnsW5DQ/selector/textQuote/eaBwEvRiAj2",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "North America",
+                    "prefix": " They invoke the impact of drawing on uneven spatial data, in terms of its granularity (such as",
+                    "suffix": "versus Halifax, Nova Scotia) and density (such as CWRC items that only have a few places mentioned in their metadata in contrast to a piece of travel writing in Orlando that already has extensive tagging)"
+                }
+            },
+            {
+                "id": "/target/cztZhnsW5DQ/selector/css/h4kWOEApzEH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/8w7LgSHptKM]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/3374084",
+        "label": "Barbados",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
     },
