@@ -565,7 +565,7 @@
                         <code>&amp;lt;PLACE&amp;gt;&amp;lt;SETTLEMENT&amp;gt;London&amp;lt;/SETTLEMENT&amp;gt;&amp;lt;REGION REG=Middlesex&amp;gt;&amp;lt;/REGION&amp;gt;&amp;lt;GEOG REG=England&amp;gt;&amp;lt;/GEOG&amp;gt;&amp;lt;/PLACE&amp;gt;</code>
                     </q>
                     <p xml:id="p1043">
-                        <ref target="#spatiality">Such tagging distinguishes this particular reference to <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/vESM7H7xJLU">London</placeName> from the more than two dozen other settlements around the world (including <placeName key="London" ref="https://sws.geonames.org/6058560" ana="webannotation:http://temp.lincsproject.ca/sEHcZjAF0zE">London</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/uffKLyNjadX">Ontario</placeName>) that take their name from the English city, from building names such as London House, and from proper names such as <placeName key="London, Jack" ref="http://viaf.org/viaf/46764200" ana="webannotation:http://temp.lincsproject.ca/QGiAtudl4N1">Jack London</placeName>.</ref>
+                        <ref target="#spatiality">Such tagging distinguishes this particular reference to <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/vESM7H7xJLU" cert="high" type="real">London</placeName> from the more than two dozen other settlements around the world (including <placeName key="London" ref="https://sws.geonames.org/6058560" ana="webannotation:http://temp.lincsproject.ca/sEHcZjAF0zE">London</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/uffKLyNjadX">Ontario</placeName>) that take their name from the English city, from building names such as London House, and from proper names such as <placeName key="London, Jack" ref="http://viaf.org/viaf/46764200" ana="webannotation:http://temp.lincsproject.ca/QGiAtudl4N1">Jack London</placeName>.</ref>
                     </p>
                     <p xml:id="p1044">
                         <ref target="#non-book_media">
@@ -4417,10 +4417,14 @@
         "id": "https://sws.geonames.org/2643743",
         "type": "crm:E53_Place",
         "label": "London",
-        "description": "England, Greater London, GB"
+        "description": "England, Greater London, GB",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh"
     ]
 }]]>
 				
@@ -17370,13 +17374,17 @@
 		
 
 		
+
+		
 </xenoData>
 	
 	
 	
 	
 	
+	
 	</standOff>
+
 
 
 
