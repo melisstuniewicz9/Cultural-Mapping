@@ -855,7 +855,7 @@
                         </bibl>
                         <bibl><persName key="Brown, Susan" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/5ARZZC8lMDB">Brown</persName>, <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/6KZopRLgdLw">Susan</persName>, and <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/pMGiRYCv8Ev">Patricia Clements</persName> et al. <title level="a">Tag Team: Computing, Collaborators, and the History of Women’s Writing in the British Isles</title>. <title level="s">Computing in the Humanities Working Papers</title> (April 1998). <ref target="http://projects.chass.utoronto.ca/chwp/orlando">http://projects.chass.utoronto.ca/chwp/orlando</ref>
                         </bibl>
-                        <bibl><persName key="Brown, Susan" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/61jRgq03BOM">Brown</persName>, <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/QbgAPqTbeQF">Susan</persName>, <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/VEfNqcL4tvo">Patricia Clements</persName>, and <persName key="Grundy, Isobel." ref="http://viaf.org/viaf/12322641" ana="webannotation:http://temp.lincsproject.ca/g4GAbObEunt">Isobel Grundy</persName>, eds. <title level="m"><orgName key="Orlando: Women's Writing in the British Isles from the Beginnings to the Present" ref="http://id.lincsproject.ca/zBkArbArQww" ana="webannotation:http://temp.lincsproject.ca/XuLTRmj3RvD">Orlando: Women’s Writing in the British Isles</orgName> from the Beginnings to the Present</title>. Cambridge: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/fZBOtE6JdiO">Cambridge University Press</orgName>, 2006–2012. <ref target="http://orlando.cambridge.org">http://orlando.cambridge.org</ref>
+                        <bibl><persName key="Brown, Susan" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/61jRgq03BOM">Brown</persName>, <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/QbgAPqTbeQF">Susan</persName>, <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/VEfNqcL4tvo">Patricia Clements</persName>, and <persName key="Grundy, Isobel." ref="http://viaf.org/viaf/12322641" ana="webannotation:http://temp.lincsproject.ca/g4GAbObEunt">Isobel Grundy</persName>, eds. <title level="m"><orgName key="Orlando: Women's Writing in the British Isles from the Beginnings to the Present" ref="http://id.lincsproject.ca/zBkArbArQww" ana="webannotation:http://temp.lincsproject.ca/XuLTRmj3RvD">Orlando: Women’s Writing in the British Isles</orgName> from the Beginnings to the Present</title>. <placeName key="Cambridge" ref="https://sws.geonames.org/2653941 " ana="webannotation:http://temp.lincsproject.ca/7bDYkORtK23">Cambridge</placeName>: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/fZBOtE6JdiO">Cambridge University Press</orgName>, 2006–2012. <ref target="http://orlando.cambridge.org">http://orlando.cambridge.org</ref>
                         </bibl>
                         <bibl>Coleman, Nicole, <persName key="Edelstein, Dan." ref="http://viaf.org/viaf/45481065" ana="webannotation:http://temp.lincsproject.ca/H3O11lflnmu">Dan Edelstein</persName>, and <persName key="Findlen, Paula." ref="http://viaf.org/viaf/9957596" ana="webannotation:http://temp.lincsproject.ca/vNO6PvfSFwW">Paula Findlen</persName>. <title level="m">Mapping the Republic of Letters</title>. <orgName key="Stanford university" ref="http://viaf.org/viaf/129582224" ana="webannotation:http://temp.lincsproject.ca/FDl7xhu9B67">Stanford University</orgName>. <ref target="https://republicofletters.stanford.edu">https://republicofletters.stanford.edu</ref>
                         </bibl>
@@ -18278,6 +18278,95 @@
     "body": {
         "id": "https://sws.geonames.org/2655192",
         "label": "The Scottish Borders",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/7bDYkORtK23">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/7bDYkORtK23",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-01T18:43:39.980Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/W08CqiJJqB7",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/W08CqiJJqB7/selector/textPosition/vKZbIPy7a8p",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45535,
+                "end": 45544,
+                "refinedBy": {
+                    "id": "/target/W08CqiJJqB7/selector/textQuote/nnTWc32A50V",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Cambridge",
+                    "prefix": "",
+                    "suffix": " Cambridge University Press, 2006–2012"
+                }
+            },
+            {
+                "id": "/target/W08CqiJJqB7/selector/css/Y3TQDP3Uozf",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/7bDYkORtK23]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2653941 ",
+        "label": "Cambridge",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
     },
