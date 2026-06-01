@@ -632,7 +632,7 @@
                     </p>
                     <p xml:id="p1051">
                         <ref target="#technology">
-                            <ref target="#spatiality">We considered a number of mapping tools—such as Exhibit (Huynh), OpenLayers (MetaCarta), Google Maps (<orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/BPggjrSd68Q">Google</orgName>), ArcGIS (Esri), and HyperCities (UCLA)—experimented with several, and achieved varying degrees of success depending, respectively, on the intuitiveness of their navigation, their ability to read and plot geo-referenced data, and the quality of the visualizations they produced. The maps discussed here were produced using the Map View component of the open source Exhibit 2.0 software produced by the SIMILE project (<abbr><orgName key="Massachusetts institute of technology" ref="http://viaf.org/viaf/150025207" ana="webannotation:http://temp.lincsproject.ca/CqSN0pzskDo">MIT</orgName></abbr>) and more recently sustained by Google. Exhibit enables the creation of dynamic websites with various views for rendering spatial data within a browser.</ref>
+                            <ref target="#spatiality">We considered a number of mapping tools—such as Exhibit (Huynh), OpenLayers (MetaCarta), Google Maps (<orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/BPggjrSd68Q">Google</orgName>), ArcGIS (<orgName key="Environmental Systems Research Institute (Redlands, Calif.)" ref="http://viaf.org/viaf/150806221" ana="webannotation:http://temp.lincsproject.ca/iHBw6yh49G2 webannotation:http://temp.lincsproject.ca/QdjrCpd7JZT">Esri</orgName>), and HyperCities (UCLA)—experimented with several, and achieved varying degrees of success depending, respectively, on the intuitiveness of their navigation, their ability to read and plot geo-referenced data, and the quality of the visualizations they produced. The maps discussed here were produced using the Map View component of the open source Exhibit 2.0 software produced by the SIMILE project (<abbr><orgName key="Massachusetts institute of technology" ref="http://viaf.org/viaf/150025207" ana="webannotation:http://temp.lincsproject.ca/CqSN0pzskDo">MIT</orgName></abbr>) and more recently sustained by Google. Exhibit enables the creation of dynamic websites with various views for rendering spatial data within a browser.</ref>
                         </ref>
                     </p>
                     <p xml:id="p1052">
@@ -17354,6 +17354,103 @@
         "type": "crm:E74_Group",
         "label": "University of Nebraska–Lincoln",
         "description": "University of Nebraska–Lincoln public university in Lincoln, Nebraska, United States"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/QdjrCpd7JZT">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/QdjrCpd7JZT",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-01T17:01:43.893Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/r6auDcq2dtJ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/r6auDcq2dtJ/selector/textPosition/6VbaS88aGql",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 19830,
+                "end": 19834,
+                "refinedBy": {
+                    "id": "/target/r6auDcq2dtJ/selector/textQuote/Ab393v8BJxH",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Esri",
+                    "prefix": "\n                            \n                        \n                    \n                    \n                        \n                            We considered a number of mapping tools—such as Exhibit (Huynh), OpenLayers (MetaCarta), Google Maps (Google), ArcGIS ",
+                    "suffix": ", and HyperCities (UCLA)—experimented with several, and achieved varying degrees of success depending, respectively, on the intuitiveness of their navigation, their ability to read and plot geo-referenced data, and the quality of the visualizations they produced"
+                }
+            },
+            {
+                "id": "/target/r6auDcq2dtJ/selector/css/5Wec3Wz19mi",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/iHBw6yh49G2]"
+            },
+            {
+                "id": "/target/r6auDcq2dtJ/selector/css/J2Ph9vHVadZ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/QdjrCpd7JZT]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/150806221",
+        "type": "crm:E74_Group",
+        "label": "Environmental Systems Research Institute (Redlands, Calif.)",
+        "description": "Environmental systems research institute"
     },
     "P2_has_type": [
         "oa:identifying"
