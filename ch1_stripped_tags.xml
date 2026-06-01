@@ -791,7 +791,7 @@
                         <p xml:id="p1070">
                             <ref target="#history">
                                 <ref target="#politics">
-                                    <ref target="#religion">If one looks at parts of the Quaker map in larger scale (Figure 1.8), one sees generic designators of a country alongside more precise hits on particular places within those countries.</ref> This combination can produce misleading ahistorical results: in earlier periods, for instance, current nations such as <placeName key="Federal Republic of Germany" ref="https://sws.geonames.org/2921044" ana="webannotation:http://temp.lincsproject.ca/0gaeDgkOIIv">Germany</placeName> and <placeName key="Italian Republic" ref="https://sws.geonames.org/3175395" ana="webannotation:http://temp.lincsproject.ca/VtZI1ZPE2QY">Italy</placeName> were not united political entities.</ref>
+                                    <ref target="#religion">If one looks at parts of the <orgName key="Religious Society of Friends" ref="https://viaf.org/en/viaf/3829151474904900490007" ana="webannotation:http://temp.lincsproject.ca/zxURjvVEvsE">Quaker</orgName> map in larger scale (Figure 1.8), one sees generic designators of a country alongside more precise hits on particular places within those countries.</ref> This combination can produce misleading ahistorical results: in earlier periods, for instance, current nations such as <placeName key="Federal Republic of Germany" ref="https://sws.geonames.org/2921044" ana="webannotation:http://temp.lincsproject.ca/0gaeDgkOIIv">Germany</placeName> and <placeName key="Italian Republic" ref="https://sws.geonames.org/3175395" ana="webannotation:http://temp.lincsproject.ca/VtZI1ZPE2QY">Italy</placeName> were not united political entities.</ref>
                             </ref>
                         </p>
                         <p xml:id="p1071">
@@ -17810,6 +17810,95 @@
         "type": "crm:E74_Group",
         "label": "Environmental Systems Research Institute (Redlands, Calif.)",
         "description": "Environmental systems research institute"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/zxURjvVEvsE">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/zxURjvVEvsE",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-01T17:42:47.100Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/RhWm6NsfNpc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/RhWm6NsfNpc/selector/textPosition/YhOz8eVBC4V",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37847,
+                "end": 37853,
+                "refinedBy": {
+                    "id": "/target/RhWm6NsfNpc/selector/textQuote/DBDlxxVq6jY",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Quaker",
+                    "prefix": "\n                                    \n                                \n                            \n                        \n                        \n                            \n                                \n                                    If one looks at parts of the",
+                    "suffix": "map in larger scale (Figure 1"
+                }
+            },
+            {
+                "id": "/target/RhWm6NsfNpc/selector/css/yNgwotX8vfa",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/zxURjvVEvsE]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://viaf.org/en/viaf/3829151474904900490007",
+        "label": "Religious Society of Friends",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
