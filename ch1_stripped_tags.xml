@@ -705,7 +705,7 @@
                         <p xml:id="p1060">
                             <ref target="#history">
                                 <ref target="#spatiality">
-                                    <ref target="#non-book_media">Even without the benefit of historical maps against which to view the spatial data, mapping and then comparing Orlando’s eighteenth-century <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/izKzwXfnoW6">London</placeName> and nineteenth-century <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/YDFJzEEf87Z">London</placeName> (Figures 1.5 and 1.6) clearly indicates the speed with which the boundaries of the city were moving outwards and the changes made, for instance, by roads taking over from <placeName key="River Thames" ref="https://sws.geonames.org/2636063" ana="webannotation:http://temp.lincsproject.ca/rIUV7FFUA4s">the River Thames</placeName> as transport corridors. Similarly, mapping and then comparing Orlando’s seventeenth-century and nineteenth-century Britain indicates the ways in which literary activity shifted as the centres of population shifted from the old agricultural centres to the new industrial centres.</ref>
+                                    <ref target="#non-book_media">Even without the benefit of historical maps against which to view the spatial data, mapping and then comparing Orlando’s eighteenth-century <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/izKzwXfnoW6">London</placeName> and nineteenth-century <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/YDFJzEEf87Z">London</placeName> (Figures 1.5 and 1.6) clearly indicates the speed with which the boundaries of the city were moving outwards and the changes made, for instance, by roads taking over from <placeName key="River Thames" ref="https://sws.geonames.org/2636063" ana="webannotation:http://temp.lincsproject.ca/rIUV7FFUA4s">the River Thames</placeName> as transport corridors. Similarly, mapping and then comparing Orlando’s seventeenth-century and nineteenth-century <placeName key="Britain" ref="https://sws.geonames.org/6301961" ana="webannotation:http://temp.lincsproject.ca/kohq12BtvE5">Britain</placeName> indicates the ways in which literary activity shifted as the centres of population shifted from the old agricultural centres to the new industrial centres.</ref>
                                 </ref>
                             </ref>
                         </p>
@@ -17810,6 +17810,95 @@
         "type": "crm:E74_Group",
         "label": "Environmental Systems Research Institute (Redlands, Calif.)",
         "description": "Environmental systems research institute"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/kohq12BtvE5">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/kohq12BtvE5",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-01T17:53:21.926Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/rYknoCIH0Xx",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/rYknoCIH0Xx/selector/textPosition/Xi06W3hZ228",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 26255,
+                "end": 26262,
+                "refinedBy": {
+                    "id": "/target/rYknoCIH0Xx/selector/textQuote/jaKX5n4SKvB",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Britain",
+                    "prefix": " Similarly, mapping and then comparing Orlando’s seventeenth-century and nineteenth-century",
+                    "suffix": "indicates the ways in which literary activity shifted as the centres of population shifted from the old agricultural centres to the new industrial centres"
+                }
+            },
+            {
+                "id": "/target/rYknoCIH0Xx/selector/css/NBjKkkuSc2a",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/kohq12BtvE5]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6301961",
+        "label": "Britain",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
