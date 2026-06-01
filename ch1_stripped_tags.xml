@@ -888,7 +888,7 @@
                             <title level="m">TEI: Text Encoding Initiative.</title>
                             <ref target="http://www.tei-c.org/index.xml">http://www.tei-c.org/index.xml</ref>
                         </bibl>
-                        <bibl>Thomas, William G., <hi rend="small-caps">iii</hi>, Richard G. Healey, and Ian J. Cottingham. <title level="m">The Aurora Project</title>. <orgName key="University of Nebraska–Lincoln" ref="http://viaf.org/viaf/312587805" ana="webannotation:http://temp.lincsproject.ca/sZP384jxtSA">University of Nebraska</orgName>. <ref target="http://auroraproject.unl.edu/web/railroads.xhtml">http://auroraproject.unl.edu/web/railroads.xhtml</ref>
+                        <bibl>Thomas, William G., <hi rend="small-caps">iii</hi>, <persName key="Healey, Richard G." ref="http://viaf.org/viaf/222743171" ana="webannotation:http://temp.lincsproject.ca/HrceJrO7Irf">Richard G. Healey</persName>, and Ian J. Cottingham. <title level="m">The Aurora Project</title>. <orgName key="University of Nebraska–Lincoln" ref="http://viaf.org/viaf/312587805" ana="webannotation:http://temp.lincsproject.ca/sZP384jxtSA">University of Nebraska</orgName>. <ref target="http://auroraproject.unl.edu/web/railroads.xhtml">http://auroraproject.unl.edu/web/railroads.xhtml</ref>
                         </bibl>
                     </listBibl>
                     <listBibl>
@@ -18166,6 +18166,95 @@
         "label": "The Scottish Borders",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/HrceJrO7Irf">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/HrceJrO7Irf",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-01T18:05:22.657Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/9d4AiY3aWKt",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/9d4AiY3aWKt/selector/textPosition/x8gnmF57qSD",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 47574,
+                "end": 47591,
+                "refinedBy": {
+                    "id": "/target/9d4AiY3aWKt/selector/textQuote/NkQ75Re6Gwr",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Richard G. Healey",
+                    "prefix": ", iii,",
+                    "suffix": " and Ian J"
+                }
+            },
+            {
+                "id": "/target/9d4AiY3aWKt/selector/css/ISBka93jlrI",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/HrceJrO7Irf]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/222743171",
+        "type": "crm:E21_Person",
+        "label": "Healey, Richard G.",
+        "description": "Healey, R. G."
     },
     "P2_has_type": [
         "oa:identifying"
