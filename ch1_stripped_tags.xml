@@ -514,7 +514,7 @@
                                 <ref target="#methodology">The application of computational spatial analysis in literary studies is relatively new, but the results are already evident in a number of impressive projects.</ref> These projects include an overview of the development of printing technologies <note place="inline">
                                     <bibl><orgName key="Prickman, Gregory J" ref="http://viaf.org/viaf/305283540" ana="webannotation:http://temp.lincsproject.ca/A0Jpofu6dXV" type="real">Prickman</orgName></bibl>
                                 </note>; an analysis of the impact of railway development <note place="inline">
-                                    <bibl>Thomas, Healey, and Cottingham</bibl>
+                                    <bibl>Thomas, <persName key="Healey, Richard G." ref="http://viaf.org/viaf/222743171" ana="webannotation:http://temp.lincsproject.ca/KsYPPJK369N">Healey</persName>, and Cottingham</bibl>
                                 </note>; and a study of the circulation of letters in early modern <orgName key="Europe" ref="https://sws.geonames.org/6255148 " ana="webannotation:http://temp.lincsproject.ca/jmbupenfidK">Europe</orgName> <note place="inline">
                                     <bibl>Coleman, <persName key="Edelstein, Dan." ref="http://viaf.org/viaf/45481065" ana="webannotation:http://temp.lincsproject.ca/1PDwrK6CdvA">Edelstein</persName>, and Findlen</bibl>
                                 </note>.</ref>
@@ -17471,6 +17471,95 @@
         "P2_has_type": [
             "edit:modeReal"
         ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/KsYPPJK369N">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/KsYPPJK369N",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-01T18:57:48.264Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/wj0krChq95O",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/wj0krChq95O/selector/textPosition/oSWd3WgR4KV",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2920,
+                "end": 2926,
+                "refinedBy": {
+                    "id": "/target/wj0krChq95O/selector/textQuote/OquPfSqEult",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Healey",
+                    "prefix": " These projects include an overview of the development of printing technologies \n                                    Prickman\n                                ; an analysis of the impact of railway development \n                                    Thomas,",
+                    "suffix": " and Cottingham\n                                ; and a study of the circulation of letters in early modern Europe \n                                    Coleman, Edelstein, and Findlen\n                                "
+                }
+            },
+            {
+                "id": "/target/wj0krChq95O/selector/css/xJDgMPnyEw2",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/KsYPPJK369N]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/222743171",
+        "type": "crm:E21_Person",
+        "label": "Healey, Richard G.",
+        "description": "Healey, R. G."
     },
     "P2_has_type": [
         "oa:identifying"
