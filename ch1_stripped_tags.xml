@@ -516,7 +516,7 @@
                                 </note>; an analysis of the impact of railway development <note place="inline">
                                     <bibl>Thomas, Healey, and Cottingham</bibl>
                                 </note>; and a study of the circulation of letters in early modern <orgName key="Europe" ref="https://sws.geonames.org/6255148 " ana="webannotation:http://temp.lincsproject.ca/jmbupenfidK">Europe</orgName> <note place="inline">
-                                    <bibl>Coleman, Edelstein, and Findlen</bibl>
+                                    <bibl>Coleman, <persName key="Edelstein, Dan." ref="http://viaf.org/viaf/45481065" ana="webannotation:http://temp.lincsproject.ca/1PDwrK6CdvA">Edelstein</persName>, and Findlen</bibl>
                                 </note>.</ref>
                         </ref>
                     </p>
@@ -17446,6 +17446,95 @@
         "P2_has_type": [
             "edit:modeReal"
         ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/1PDwrK6CdvA">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/1PDwrK6CdvA",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-01T17:22:58.035Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/mfL1EfTzpdF",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/mfL1EfTzpdF/selector/textPosition/K8niuONuayT",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 3088,
+                "end": 3097,
+                "refinedBy": {
+                    "id": "/target/mfL1EfTzpdF/selector/textQuote/Zes3Wp1taau",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Edelstein",
+                    "prefix": " These projects include an overview of the development of printing technologies \n                                    Prickman\n                                ; an analysis of the impact of railway development \n                                    Thomas, Healey, and Cottingham\n                                ; and a study of the circulation of letters in early modern Europe \n                                    Coleman,",
+                    "suffix": " and Findlen\n                                "
+                }
+            },
+            {
+                "id": "/target/mfL1EfTzpdF/selector/css/iDJQgoFrHvV",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/1PDwrK6CdvA]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/45481065",
+        "type": "crm:E21_Person",
+        "label": "Edelstein, Dan.",
+        "description": "Edelstein, Dan, 1975-...."
     },
     "P2_has_type": [
         "oa:identifying"
