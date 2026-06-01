@@ -898,7 +898,7 @@
                         <bibl>Cooper, David, and <persName key="Gregory, Ian N" ref="http://viaf.org/viaf/119669087" ana="webannotation:http://temp.lincsproject.ca/BRoOltZHx2J">Ian N. Gregory</persName>. <title level="a">Mapping the English Lake District: A Literary <abbr>GIS</abbr>
                             </title>. <title level="j">Transactions of the Institute of British Geographers</title> 36 (2011): 89–108.</bibl>
                         <bibl><persName key="Corrigan, John, 1952-...." ref="http://viaf.org/viaf/44364599" ana="webannotation:http://temp.lincsproject.ca/uZ1kSF12tA2">Corrigan</persName>, John. <title level="a">Qualitative <abbr>GIS</abbr> and Emergent Semantics</title>. <title level="m">Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. <placeName key="Bloomington" ref="https://sws.geonames.org/4254679 " ana="webannotation:http://temp.lincsproject.ca/WFkBQWN8BI1">Bloomington</placeName>: <orgName key="Indiana university press" ref="http://viaf.org/viaf/122335523" ana="webannotation:http://temp.lincsproject.ca/kGzM61tiEYM">Indiana University Press</orgName>, 2010. 76–88.</bibl>
-                        <bibl><persName key="Ian N. Gregory" ref="http://viaf.org/viaf/119669087" ana="webannotation:http://temp.lincsproject.ca/GPSroN3HMTB">Gregory</persName>, <persName key="Gregory, Ian N., 1970-...." ref="http://viaf.org/viaf/119669087" ana="webannotation:http://temp.lincsproject.ca/g9R7LMw7mAy">Ian</persName>. <title level="a">Exploiting Time and Space: A Challenge for <abbr>GIS</abbr> in the Digital Humanities</title>. <title level="m">The Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. Ed. David J. Bodenhamer, <persName key="Corrigan, John, 1952-...." ref="http://viaf.org/viaf/44364599" ana="webannotation:http://temp.lincsproject.ca/fSH4kex3J2x">John Corrigan</persName>, and Trevor M. Harris. Bloomington: <orgName key="Indiana university press" ref="http://viaf.org/viaf/122335523" ana="webannotation:http://temp.lincsproject.ca/Wa5t8QgVZmN">Indiana University Press</orgName>, 2010. 58–75.</bibl>
+                        <bibl><persName key="Gregory, Ian N., 1970-...." ref="http://viaf.org/viaf/119669087" ana="webannotation:http://temp.lincsproject.ca/l0CL6VbyXiV">Gregory</persName>, <persName key="Gregory, Ian N., 1970-...." ref="http://viaf.org/viaf/119669087" ana="webannotation:http://temp.lincsproject.ca/g9R7LMw7mAy">Ian</persName>. <title level="a">Exploiting Time and Space: A Challenge for <abbr>GIS</abbr> in the Digital Humanities</title>. <title level="m">The Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. Ed. David J. Bodenhamer, <persName key="Corrigan, John, 1952-...." ref="http://viaf.org/viaf/44364599" ana="webannotation:http://temp.lincsproject.ca/fSH4kex3J2x">John Corrigan</persName>, and Trevor M. Harris. Bloomington: <orgName key="Indiana university press" ref="http://viaf.org/viaf/122335523" ana="webannotation:http://temp.lincsproject.ca/Wa5t8QgVZmN">Indiana University Press</orgName>, 2010. 58–75.</bibl>
                         <bibl>Jenstad, Janelle. <title level="a">Using Early Modern Maps in Literary Studies: Views and Caveats from <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/Y6Dqi7TxAOw">London</placeName></title>. <title level="m">GeoHumanities: Art, History, Text at the Edge of Place</title>. Ed. Michael Dear, <persName key="Ketchum, Jim" ref="http://viaf.org/viaf/297864675" ana="webannotation:http://temp.lincsproject.ca/pjX1DsnjBLg">Jim Ketchum</persName>, <persName key="Luria, Sarah" ref="http://viaf.org/viaf/8482149068426665730009" ana="webannotation:http://temp.lincsproject.ca/TYUysPxYwKy">Sarah Luria</persName>, and <persName key="Richardson, Douglas, 1950-...." ref="http://viaf.org/viaf/19915312" ana="webannotation:http://temp.lincsproject.ca/HUiQxajDGO4">Douglas Richardson</persName>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/H0fyLN5TBP4">London</placeName>: <orgName key="Routledge Taylor &amp; Francis Group" ref="http://viaf.org/viaf/312803894" ana="webannotation:http://temp.lincsproject.ca/NWGPWgUnhtT">Routledge</orgName>, 2011. 112–19.</bibl>
                         <bibl>Warf, Barney, and Santa Arias. <title level="a">Introduction: The Reinsertion of Space in to the Social Sciences and Humanities</title>. <title level="m">The Spatial Turn: Interdisciplinary Perspectives</title>. Ed. Warf and Arias. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/OMOnmzDgwrj">London</placeName>: <orgName key="Routledge Taylor &amp; Francis Group" ref="http://viaf.org/viaf/312803894" ana="webannotation:http://temp.lincsproject.ca/oaovtGETL9I">Routledge</orgName>, 2008. 1–10.</bibl>
                     </listBibl>
@@ -13966,20 +13966,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/GPSroN3HMTB">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/l0CL6VbyXiV">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/GPSroN3HMTB",
+    "id": "http://temp.lincsproject.ca/l0CL6VbyXiV",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-06-01T18:14:53.143Z",
+    "created": "2026-06-01T18:17:00.290Z",
     "creator": {
         "id": "https://github.com/melisstuniewicz9",
         "type": "crm:E21_Person",
@@ -14047,14 +14047,22 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/GPSroN3HMTB]"
+            },
+            {
+                "id": "/target/0jtfkqFLhRY/selector/css/Ox4tpZJGEIn",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/l0CL6VbyXiV]"
             }
         ]
     },
     "body": {
         "id": "http://viaf.org/viaf/119669087",
-        "label": "Ian N. Gregory",
         "type": "crm:E21_Person",
-        "entityType": "crm:E21_Person"
+        "label": "Gregory, Ian N., 1970-....",
+        "description": "Gregory, Ian, 1970-"
     },
     "P2_has_type": [
         "oa:identifying"
