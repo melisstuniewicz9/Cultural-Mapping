@@ -805,7 +805,7 @@
                         </p>
                         <p xml:id="p1072">
                             <ref target="#writing_climate">
-                                <ref target="#spatiality">Figure 1.9 maps <placeName key="Scotland" ref="https://sws.geonames.org/2638360" ana="webannotation:http://temp.lincsproject.ca/mh5BhlRyITp">Scotland</placeName> as a setting for writing (fiction and non-fiction). It indicates the extent to which, within texts, more places are mentioned in general terms than in Orlando’s discussions of writers’ lives, which frequently supply the name of a town, village, castle, or farmhouse. Hence, many texts make reference simply to <placeName key="Scotland" ref="https://sws.geonames.org/2638360" ana="webannotation:http://temp.lincsproject.ca/bDwgbnTOvVb">Scotland</placeName>, or to the romantic regions of the Scottish Highlands or Scottish Borders, providing perhaps a fictitious place name within those areas. Again, a range of visualization strategies could designate <ref target="#close_reading">different levels of granularity on a single map and help distinguish particular locations from generalized areas, thereby creating a hermeneutic layer that represents less specific fictional regions.</ref>
+                                <ref target="#spatiality">Figure 1.9 maps <placeName key="Scotland" ref="https://sws.geonames.org/2638360" ana="webannotation:http://temp.lincsproject.ca/mh5BhlRyITp">Scotland</placeName> as a setting for writing (fiction and non-fiction). It indicates the extent to which, within texts, more places are mentioned in general terms than in Orlando’s discussions of writers’ lives, which frequently supply the name of a town, village, castle, or farmhouse. Hence, many texts make reference simply to <placeName key="Scotland" ref="https://sws.geonames.org/2638360" ana="webannotation:http://temp.lincsproject.ca/bDwgbnTOvVb">Scotland</placeName>, or to the romantic regions of <placeName key="Scottish Highlands" ref="https://sws.geonames.org/2646943" ana="webannotation:http://temp.lincsproject.ca/4dKtb43HXve">the Scottish Highlands</placeName> or Scottish Borders, providing perhaps a fictitious place name within those areas. Again, a range of visualization strategies could designate <ref target="#close_reading">different levels of granularity on a single map and help distinguish particular locations from generalized areas, thereby creating a hermeneutic layer that represents less specific fictional regions.</ref>
                                     <ref target="#intertextuality">These layers are akin to <q>the spaces—<persName key="Foucault, Michel, 1926-1984." ref="http://viaf.org/viaf/104722665" ana="webannotation:http://temp.lincsproject.ca/JL9O1mDaqaT">Foucault</persName>’s hetero­topias—that cannot be mapped, such as the marketplace, the theatre, the fairground, and the ship</q>
                                         <note place="inline">
                                             <bibl>Jenstad 117</bibl>
@@ -17899,6 +17899,95 @@
         "label": "Religious Society of Friends",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/4dKtb43HXve">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/4dKtb43HXve",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-01T17:47:47.851Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/B4F4jbq0PhR",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/ch1_stripped_tags.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/B4F4jbq0PhR/selector/textPosition/TSMSs2NHOnU",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 39372,
+                "end": 39394,
+                "refinedBy": {
+                    "id": "/target/B4F4jbq0PhR/selector/textQuote/jzUThvzTF56",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Scottish Highlands",
+                    "prefix": " Hence, many texts make reference simply to Scotland, or to the romantic regions of",
+                    "suffix": "or Scottish Borders, providing perhaps a fictitious place name within those areas"
+                }
+            },
+            {
+                "id": "/target/B4F4jbq0PhR/selector/css/95C7vI0Ei0b",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/4dKtb43HXve]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2646943",
+        "label": "Scottish Highlands",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
