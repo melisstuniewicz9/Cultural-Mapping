@@ -512,7 +512,7 @@
                             <ref target="#spatiality">
                                 <ref target="#technology">There are always complex reasons for an intensifying interest in space as a topic or analytical category</ref>, but there is no question that the current interest is fuelled by the greater accessibility of spatial technologies such as plotting tools and geographic information systems (<abbr>GIS</abbr>), made possible by the World Wide Web, that put a dazzling array of maps at our fingertips. These maps allow us to explore digital representations of space by interactively zooming in and out, experimenting with various layers of information, and <ref target="#close_reading">gathering granular analysis of a vast range of materials.</ref>
                                 <ref target="#methodology">The application of computational spatial analysis in literary studies is relatively new, but the results are already evident in a number of impressive projects.</ref> These projects include an overview of the development of printing technologies <note place="inline">
-                                    <bibl><orgName key="Prickman, Gregory J" ref="http://viaf.org/viaf/305283540" ana="webannotation:http://temp.lincsproject.ca/A0Jpofu6dXV">Prickman</orgName></bibl>
+                                    <bibl><orgName key="Prickman, Gregory J" ref="http://viaf.org/viaf/305283540" ana="webannotation:http://temp.lincsproject.ca/A0Jpofu6dXV" type="real">Prickman</orgName></bibl>
                                 </note>; an analysis of the impact of railway development <note place="inline">
                                     <bibl>Thomas, Healey, and Cottingham</bibl>
                                 </note>; and a study of the circulation of letters in early modern <orgName key="Europe" ref="https://sws.geonames.org/6255148 " ana="webannotation:http://temp.lincsproject.ca/jmbupenfidK">Europe</orgName> <note place="inline">
@@ -17442,7 +17442,10 @@
         "id": "http://viaf.org/viaf/305283540",
         "label": "Prickman, Gregory J",
         "type": "crm:E74_Group",
-        "entityType": "crm:E74_Group"
+        "entityType": "crm:E74_Group",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
