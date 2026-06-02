@@ -855,7 +855,7 @@
                         </bibl>
                         <bibl><persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/rlZu2A2PEn3">Brown</persName>, <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/jMs0tOygruO">Susan</persName>, and <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/G5BvtHIZdyw">Patricia Clements</persName> et al. <title level="a">Tag Team: Computing, Collaborators, and the History of Women’s Writing in the British Isles</title>. <title level="s">Computing in the Humanities Working Papers</title> (April 1998). <ref target="http://projects.chass.utoronto.ca/chwp/orlando">http://projects.chass.utoronto.ca/chwp/orlando</ref>
                         </bibl>
-                        <bibl><persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/txIMepH1r50">Brown</persName>, Susan, <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/schiKgw0wnX">Patricia Clements</persName>, and <persName key="Grundy, Isobel." ref="http://viaf.org/viaf/12322641" ana="webannotation:http://temp.lincsproject.ca/QVHMRhYZeq0">Isobel Grundy</persName>, eds. <title level="m">Orlando: Women’s Writing in the British Isles from the Beginnings to the Present</title>. Cambridge: Cambridge University Press, 2006–2012. <ref target="http://orlando.cambridge.org">http://orlando.cambridge.org</ref>
+                        <bibl><persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/txIMepH1r50">Brown</persName>, <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/yiMHHHus0Et">Susan</persName>, <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/schiKgw0wnX">Patricia Clements</persName>, and <persName key="Grundy, Isobel." ref="http://viaf.org/viaf/12322641" ana="webannotation:http://temp.lincsproject.ca/QVHMRhYZeq0">Isobel Grundy</persName>, eds. <title level="m">Orlando: Women’s Writing in the British Isles from the Beginnings to the Present</title>. Cambridge: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/tt18nVN2JIP">Cambridge University Press</orgName>, 2006–2012. <ref target="http://orlando.cambridge.org">http://orlando.cambridge.org</ref>
                         </bibl>
                         <bibl>Coleman, Nicole, Dan Edelstein, and Paula Findlen. <title level="m">Mapping the Republic of Letters</title>. Stanford University. <ref target="https://republicofletters.stanford.edu">https://republicofletters.stanford.edu</ref>
                         </bibl>
@@ -21830,6 +21830,184 @@
         "type": "crm:E21_Person",
         "label": "Brown, Susan Irene",
         "description": "Susan Irene Brown Professor of English, Digital Humanities, Critical Infrastructure Studies, Victorian Writing, Women’s Writing, and Feminist Theory."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/yiMHHHus0Et">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/yiMHHHus0Et",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T15:46:13.750Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/KrBg9UwKfGk",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/KrBg9UwKfGk/selector/textPosition/OR1z7lma4f1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45403,
+                "end": 45408,
+                "refinedBy": {
+                    "id": "/target/KrBg9UwKfGk/selector/textQuote/gtvBc7uQ573",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Susan",
+                    "prefix": "ca/chwp/orlando\n                        \n                        Brown,",
+                    "suffix": " Patricia Clements, and Isobel Grundy, eds"
+                }
+            },
+            {
+                "id": "/target/KrBg9UwKfGk/selector/css/gldQLTX7rZ1",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/yiMHHHus0Et]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/104953085",
+        "type": "crm:E21_Person",
+        "label": "Brown, Susan Irene",
+        "description": "Susan Irene Brown Professor of English, Digital Humanities, Critical Infrastructure Studies, Victorian Writing, Women’s Writing, and Feminist Theory."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/tt18nVN2JIP">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/tt18nVN2JIP",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T15:47:25.479Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/GgV724J6zL7",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/GgV724J6zL7/selector/textPosition/bFqsOIeiTgT",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45546,
+                "end": 45572,
+                "refinedBy": {
+                    "id": "/target/GgV724J6zL7/selector/textQuote/HGGFAXJtK67",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Cambridge University Press",
+                    "prefix": " Cambridge:",
+                    "suffix": " 2006–2012"
+                }
+            },
+            {
+                "id": "/target/GgV724J6zL7/selector/css/oxrJxiMKYnl",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/tt18nVN2JIP]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/127979069",
+        "type": "crm:E74_Group",
+        "label": "Cambridge university press",
+        "description": "Gwasg Prifysgol Caergrawnt"
     },
     "P2_has_type": [
         "oa:identifying"
