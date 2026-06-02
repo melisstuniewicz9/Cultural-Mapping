@@ -536,13 +536,13 @@
                     <p xml:id="p1040">
                         <ref target="#theme_or_topic">
                             <ref target="#spatiality">All of the research projects affiliated with <abbr>CWRC</abbr> have a spatial component. Some are concerned with regional writing. <ref target="#genre_performance">A number of theatre projects seek to spatially track productions and networks of professionals.</ref>
-                                <ref target="#technology">The Editing Modernism in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/jJxRMVMly45">Canada</placeName> project at the University of Alberta has developed a smart phone app called <title level="m">WatsonWalk</title> based on <ref target="#history">walks taken by Sheila Watson while she and her husband Wilfred Watson lived in Paris from 1955 to 1956</ref>, as documented in her journals.</ref> Kristine Moruzi’s project <title level="m">From Colonial to Modern: Transnational Girlhood in Australian, New Zealand, and Canadian Print Cultures <note place="inline">
+                                <ref target="#technology">The Editing Modernism in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/jJxRMVMly45">Canada</placeName> project at <orgName key="University of Alberta" ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/8iwdxNfSDj9">the University of Alberta</orgName> has developed a smart phone app called <title level="m">WatsonWalk</title> based on <ref target="#history">walks taken by Sheila Watson while she and her husband Wilfred Watson lived in Paris from 1955 to 1956</ref>, as documented in her journals.</ref> Kristine Moruzi’s project <title level="m">From Colonial to Modern: Transnational Girlhood in Australian, New Zealand, and Canadian Print Cultures <note place="inline">
                                         <bibl>(1840–1940)</bibl>
                                     </note>
                                 </title> aims to map the relationship between places of production, places of publication, and places of dissemination. The most ambitious of <abbr>CWRC’s</abbr> pilot projects is <title>Magazines, Travel, and Middlebrow Culture in Canada 1925–1960,</title> led by Faye Hammill of the University of Strathclyde. <ref target="#genre_journalism">This project investigates geographical mobility as a form of upward mobility, and is designed to distinguish leisure travel from the enforced movement of migration and diaspora. The project uses middlebrow magazines to map shifts in travel patterns.</ref> If one takes seriously the claim that space <q>is not simply a passive reflection of social and cultural trends, but an active participant, i.e., geography is constitutive as well as representative</q>
                                 <note place="inline">
                                     <bibl>Warf and Arias 10</bibl>
-                                </note>, then to make available a dynamic mapping environment that visualizes spatial relations is to give scholars a potentially transformative tool for investigating those constitutive relations. Yet, given the wide range of <abbr>CWRC</abbr> projects, the task of devising even a basic generalized system of mapping is a considerable challenge, as the project’s core development team learned in its initial experiments with spatial data contained in its largest seed project, the Orlando Project, housed at the University of Alberta.</ref>
+                                </note>, then to make available a dynamic mapping environment that visualizes spatial relations is to give scholars a potentially transformative tool for investigating those constitutive relations. Yet, given the wide range of <abbr>CWRC</abbr> projects, the task of devising even a basic generalized system of mapping is a considerable challenge, as the project’s core development team learned in its initial experiments with spatial data contained in its largest seed project, the Orlando Project, housed at <orgName key="University of Alberta" ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/8Uar09ZbiHh">the University of Alberta</orgName>.</ref>
                         </ref>
                     </p>
                     <p xml:id="p1041">
@@ -2770,6 +2770,184 @@
         "type": "crm:E53_Place",
         "label": "Canada",
         "description": "null, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/8iwdxNfSDj9">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/8iwdxNfSDj9",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:03:45.652Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/gb3fCeci4HP",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/gb3fCeci4HP/selector/textPosition/JQdNLdGABEW",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5205,
+                "end": 5230,
+                "refinedBy": {
+                    "id": "/target/gb3fCeci4HP/selector/textQuote/t63OzwXbaFx",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the University of Alberta",
+                    "prefix": "\n                                The Editing Modernism in Canada project at",
+                    "suffix": "has developed a smart phone app called WatsonWalk based on walks taken by Sheila Watson while she and her husband Wilfred Watson lived in Paris from 1955 to 1956, as documented in her journals"
+                }
+            },
+            {
+                "id": "/target/gb3fCeci4HP/selector/css/fJ3ssbWDNsE",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/8iwdxNfSDj9]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/155492116",
+        "type": "crm:E74_Group",
+        "label": "University of Alberta",
+        "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/8Uar09ZbiHh">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/8Uar09ZbiHh",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:03:45.933Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/1xT952vCv2N",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/1xT952vCv2N/selector/textPosition/EbLodRzcu67",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7007,
+                "end": 7032,
+                "refinedBy": {
+                    "id": "/target/1xT952vCv2N/selector/textQuote/GCn5Qpb8bQA",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the University of Alberta",
+                    "prefix": " Yet, given the wide range of CWRC projects, the task of devising even a basic generalized system of mapping is a considerable challenge, as the project’s core development team learned in its initial experiments with spatial data contained in its largest seed project, the Orlando Project, housed at",
+                    "suffix": "\n                        \n                    \n                    \n                        Orlando is the founding project behind CWRC"
+                }
+            },
+            {
+                "id": "/target/1xT952vCv2N/selector/css/FPkfymeiCEN",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/8Uar09ZbiHh]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/155492116",
+        "type": "crm:E74_Group",
+        "label": "University of Alberta",
+        "description": ""
     },
     "P2_has_type": [
         "oa:identifying"
