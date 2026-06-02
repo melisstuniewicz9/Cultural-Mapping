@@ -597,7 +597,7 @@
                     <p xml:id="p1047">
                         <ref target="#theme_or_topic">
                             <ref target="#spatiality">
-                                <ref target="#technology">As a result of having implemented such semantic tags in Orlando, then, we can contextualize each mention of a place name and explore the axes of geographical representation that will be useful to <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/GlbvFpjoUNr">CWRC</orgName></abbr>-affiliated researchers and in the delivery of <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/Xk6oETfT13t">CWRC</orgName></abbr> materials. <ref target="#methodology">The <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/aVNZE8LwRgC">CWRC</orgName></abbr> team needs to test spatial data infrastructure that can map diverse projects and varying articulations of spatial experience. For our initial explorations, we therefore selected two axes of representation that would be of broad interest to literary scholars: the travel or migration of writers or groups of writers; and trends in writers’ geographical subject matter (that is, places represented in writing).</ref>
+                                <ref target="#technology">As a result of having implemented such semantic tags in <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/VH8lFkiDLsu">Orlando</orgName>, then, we can contextualize each mention of a place name and explore the axes of geographical representation that will be useful to <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/GlbvFpjoUNr">CWRC</orgName></abbr>-affiliated researchers and in the delivery of <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/Xk6oETfT13t">CWRC</orgName></abbr> materials. <ref target="#methodology">The <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/aVNZE8LwRgC">CWRC</orgName></abbr> team needs to test spatial data infrastructure that can map diverse projects and varying articulations of spatial experience. For our initial explorations, we therefore selected two axes of representation that would be of broad interest to literary scholars: the travel or migration of writers or groups of writers; and trends in writers’ geographical subject matter (that is, places represented in writing).</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -608,9 +608,9 @@
                     <p xml:id="p1048">
                         <ref target="#methodology">
                             <ref target="#canon_formation">
-                                <ref target="#theme_or_topic">The methodology for <ref target="https://cwrc.ca">generating</ref> the maps discussed here involved several stages. <ref target="#technology">First, Orlando data was queried according to various parameters, drawing on the semantic tags discussed above, such as <q>return all biographies in a given range of birth dates,</q>
+                                <ref target="#theme_or_topic">The methodology for <ref target="https://cwrc.ca">generating</ref> the maps discussed here involved several stages. <ref target="#technology">First, <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/4QrwBJqLADy">Orlando</orgName> data was queried according to various parameters, drawing on the semantic tags discussed above, such as <q>return all biographies in a given range of birth dates,</q>
                                         <q>return all excerpts containing a given keyword,</q> or, <q>return all excerpts containing <q>Scotland</q> within discussions of <ref target="#violence">violence</ref> or <ref target="#politics">politics.</ref>
-                                        </q> Second, once the queried data was retrieved it was fed into a pre-processing stage in which geographical data was extracted, contextualized, and stored separately. By contextualization we mean specifically the association of geographical data with a declared temporal axis, or—when no date was mentioned in the precise context—with a speculation as to temporal location. We processed all place names returned by these search parameters into the form of events with spatial and temporal co-ordinates. <ref target="#non-book_media">In so doing, we avoided the necessity of visualizing all of Orlando’s spatial information in a single, temporally conflated map. In the absence of temporal information embedded in the spatial data itself, we drew on the fact that Orlando’s documents organize information in roughly chronological order to provisionally infer the temporality associated with a place by extrapolating from adjacent dated material. Based on this process of inference, each instance of geographical information produced by the initial extraction process was associated with a specific date or range of dates, the writer’s name, and the subject discussed, as well as the complete excerpt of the prose under each location as mentioned in Orlando.</ref>
+                                        </q> Second, once the queried data was retrieved it was fed into a pre-processing stage in which geographical data was extracted, contextualized, and stored separately. By contextualization we mean specifically the association of geographical data with a declared temporal axis, or—when no date was mentioned in the precise context—with a speculation as to temporal location. We processed all place names returned by these search parameters into the form of events with spatial and temporal co-ordinates. <ref target="#non-book_media">In so doing, we avoided the necessity of visualizing all of <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/dKpwpypKpMS">Orlando</orgName>’s spatial information in a single, temporally conflated map. In the absence of temporal information embedded in the spatial data itself, we drew on the fact that <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/Nnof6yGLDKX">Orlando</orgName>’s documents organize information in roughly chronological order to provisionally infer the temporality associated with a place by extrapolating from adjacent dated material. Based on this process of inference, each instance of geographical information produced by the initial extraction process was associated with a specific date or range of dates, the writer’s name, and the subject discussed, as well as the complete excerpt of the prose under each location as mentioned in <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/644TQQEn9bi">Orlando</orgName>.</ref>
                                     </ref>
                                 </ref>
                             </ref>
@@ -626,7 +626,7 @@
                     <p xml:id="p1050">
                         <ref target="#methodology">
                             <ref target="#technology">
-                                <ref target="#spatiality">For the purposes of these experiments, we geo-referenced the Orlando data with a Python script that uses GeoPy, a geo-referencing tool box that allows users to <q>locate the coordinates of addresses, cities, countries, and landmarks across the globe</q> by acquiring data from third party services such as Google Maps and GeoNames. Thus, an enriched subset of the Orlando data was created without modifying the original text base. By processing the contextual semantic information contained in Orlando’s custom tags, this subset of data was used to create geographical visualizations of travel and migration events, of writing about place that can be explored and faceted by means of semantic tags.</ref>
+                                <ref target="#spatiality">For the purposes of these experiments, we geo-referenced the <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/65UHNRqo1Ep">Orlando</orgName> data with a Python script that uses GeoPy, a geo-referencing tool box that allows users to <q>locate the coordinates of addresses, cities, countries, and landmarks across the globe</q> by acquiring data from third party services such as Google Maps and GeoNames. Thus, an enriched subset of the <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/KANSEJZnsak">Orlando</orgName> data was created without modifying the original text base. By processing the contextual semantic information contained in <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/ZFRbz9mAfKF">Orlando</orgName>’s custom tags, this subset of data was used to create geographical visualizations of travel and migration events, of writing about place that can be explored and faceted by means of semantic tags.</ref>
                             </ref>
                         </ref>
                     </p>
@@ -637,7 +637,7 @@
                     </p>
                     <p xml:id="p1052">
                         <ref target="#methodology">
-                            <ref target="#theme_or_topic">Because the place tagging is so dense, we found it essential to work progressively. Initially, we experimented with relatively small subsets of the Orlando materials in order to make the maps readable and meaningful. Later, we narrowed down references to a group of writers, specific countries, or a set of subjects.</ref> Figure 1.1 offers a bird’s eye view of a sample map, the basis for successive visualizations discussed below. It shows places mentioned in the Orlando biographies for the writers born in each century from 1500 to 2000. As Figure 1.1 makes clear, a single map showing all places mentioned in all of the biographies during this time span would contain a dizzying overabundance of data.</ref>
+                            <ref target="#theme_or_topic">Because the place tagging is so dense, we found it essential to work progressively. Initially, we experimented with relatively small subsets of the <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/WccuJTOAQxG">Orlando</orgName> materials in order to make the maps readable and meaningful. Later, we narrowed down references to a group of writers, specific countries, or a set of subjects.</ref> Figure 1.1 offers a bird’s eye view of a sample map, the basis for successive visualizations discussed below. It shows places mentioned in the <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/gMTAPYy9D2Q">Orlando</orgName> biographies for the writers born in each century from 1500 to 2000. As Figure 1.1 makes clear, a single map showing all places mentioned in all of the biographies during this time span would contain a dizzying overabundance of data.</ref>
                     </p>
                 </div>
                 <div type="section">
@@ -649,26 +649,26 @@
                         </ref>
                     </p>
                     <figure>
-                        <head>Subset of Orlando places</head>
+                        <head>Subset of <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/xiKqQafZG6G">Orlando</orgName> places</head>
                         <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Aeb21a41e-1f7a-4446-b26b-5bd25bbb830e/datastream/JPG-DToC/view"/>
                         <figDesc>Figure 1.1a: Biographies of writers born between 1500-1599.</figDesc>
                     </figure>
                     <figure>
-                        <head>Subset of Orlando places</head>
+                        <head>Subset of <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/gJdW8mWClWg">Orlando</orgName> places</head>
                         <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Accfa9c69-b589-4a24-b9fa-665e595158c3/manage/datastreams"/>
                         <figDesc>Figure 1.1b: Biographies of writers born between 1600-1699.</figDesc>
                     </figure>
                     <figure>
-                        <head>Subset of Orlando places</head>
+                        <head>Subset of <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/O0bCG3tWad0">Orlando</orgName> places</head>
                         <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A39c0d242-223b-4347-958f-0d6fed100d3d/datastream/JPG-DToC/view"/>
                         <figDesc>Figure 1.1c: Biographies of writers born between 1700-1799.</figDesc>
                     </figure>
                     <figure>
-                        <head>Subset of Orlando places</head>
+                        <head>Subset of <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/LYf8PzYNR21">Orlando</orgName> places</head>
                         <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Aa4956f56-fe4d-4e89-9455-9a1ffb2db540/datastream/JPG-DToC/view"/>
                         <figDesc>Figure 1.1d: Biographies of writers born between 1800-1899.</figDesc>
                         <figure>
-                            <head>Subset of Orlando places</head>
+                            <head>Subset of <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/rxFafQ9l1fU">Orlando</orgName> places</head>
                             <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A075b6876-6e57-4df8-b802-1c579161a9c5/datastream/JPG-DToC/view"/>
                             <figDesc>Figure 1.1e: Biographies of writers born between 1900-2000.</figDesc>
                         </figure>
@@ -684,7 +684,7 @@
                             </ref>
                         </p>
                         <p xml:id="p1058">
-                            <ref target="#spatiality">If is it possible to produce a map with this degree of detail from the life of a single writer as described in Orlando, imagine the potential for further visualizations. <ref target="#history">Maps produced from combining multiple writers into a single visualization would reveal a great deal about the relationships between groups of writers and the changing uses of space within the city of <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/DwBUw1eLaTj">London</placeName>, for example. Imagine the thickly populated general maps of eighteenth-century writers’ <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/63Z0faPv4BJ">London</placeName> or twentieth-century</ref>
+                            <ref target="#spatiality">If is it possible to produce a map with this degree of detail from the life of a single writer as described in <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/9czPnI8rlUd">Orlando</orgName>, imagine the potential for further visualizations. <ref target="#history">Maps produced from combining multiple writers into a single visualization would reveal a great deal about the relationships between groups of writers and the changing uses of space within the city of <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/DwBUw1eLaTj">London</placeName>, for example. Imagine the thickly populated general maps of eighteenth-century writers’ <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/63Z0faPv4BJ">London</placeName> or twentieth-century</ref>
                             </ref>
                             <figure>
                                 <head>Figure 1.3</head>
@@ -705,24 +705,24 @@
                         <p xml:id="p1060">
                             <ref target="#history">
                                 <ref target="#spatiality">
-                                    <ref target="#non-book_media">Even without the benefit of historical maps against which to view the spatial data, mapping and then comparing Orlando’s eighteenth-century <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/sfKQTjlNmUQ">London</placeName> and nineteenth-century <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/mmlMGVByHrr">London</placeName> (Figures 1.5 and 1.6) clearly indicates the speed with which the boundaries of the city were moving outwards and the changes made, for instance, by roads taking over from the River Thames as transport corridors. Similarly, mapping and then comparing Orlando’s seventeenth-century and nineteenth-century Britain indicates the ways in which literary activity shifted as the centres of population shifted from the old agricultural centres to the new industrial centres.</ref>
+                                    <ref target="#non-book_media">Even without the benefit of historical maps against which to view the spatial data, mapping and then comparing <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/O77ABBGwAyw">Orlando</orgName>’s eighteenth-century <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/sfKQTjlNmUQ">London</placeName> and nineteenth-century <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/mmlMGVByHrr">London</placeName> (Figures 1.5 and 1.6) clearly indicates the speed with which the boundaries of the city were moving outwards and the changes made, for instance, by roads taking over from the River Thames as transport corridors. Similarly, mapping and then comparing <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/heEcscNpV58">Orlando</orgName>’s seventeenth-century and nineteenth-century Britain indicates the ways in which literary activity shifted as the centres of population shifted from the old agricultural centres to the new industrial centres.</ref>
                                 </ref>
                             </ref>
                         </p>
                         <p xml:id="p1061">
-                            <ref target="#theme_or_topic">The outlying markers in the map of <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/6Agsy7OGoTV">Mary Ward’s</persName> travels (<placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/syaNBqQMwJk">Canada</placeName>, the United States, <placeName key="Republic of India" ref="https://sws.geonames.org/1269750" ana="webannotation:http://temp.lincsproject.ca/N2oMZwNX1Ny">India</placeName>, and Australia) shed light on two further considerations. They show the extent to which the context leveraged from markup is always already embedded in the specifics of the author’s life and works, and must therefore be understood as part of an ongoing process of humanistic interpretation and situated representation, rather than a positivist index of certain relations. These hits on <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/7Obr2bhDwWH">Ward</persName>’s map (Figure 1.2) reflect the information provided in Orlando’s entry on <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/9GDYabFdYs6">Ward</persName> that <ref target="#religion">the order she founded flourishes today</ref> in those places.</ref>
+                            <ref target="#theme_or_topic">The outlying markers in the map of <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/6Agsy7OGoTV">Mary Ward’s</persName> travels (<placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/syaNBqQMwJk">Canada</placeName>, the United States, <placeName key="Republic of India" ref="https://sws.geonames.org/1269750" ana="webannotation:http://temp.lincsproject.ca/N2oMZwNX1Ny">India</placeName>, and Australia) shed light on two further considerations. They show the extent to which the context leveraged from markup is always already embedded in the specifics of the author’s life and works, and must therefore be understood as part of an ongoing process of humanistic interpretation and situated representation, rather than a positivist index of certain relations. These hits on <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/7Obr2bhDwWH">Ward</persName>’s map (Figure 1.2) reflect the information provided in <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/4DG5jl2aTtX">Orlando</orgName>’s entry on <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/9GDYabFdYs6">Ward</persName> that <ref target="#religion">the order she founded flourishes today</ref> in those places.</ref>
                         </p>
                         <p xml:id="p1062">
-                            <ref target="#spatiality">The way Orlando’s material on Mary Ward figures on our map highlights one of the crucial aspects of the kind of mapping that will be involved in <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/FFV25euGP6B">CWRC</orgName></abbr> as a whole. There are, as mentioned above, rare projects involved in <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/fm41ypeucYK">CWRC</orgName></abbr> that focus on the idea of space and have mapping as a central component; however, for the bulk of <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/9cmm7B3re3l">CWRC</orgName></abbr> projects, and certainly for donated data projects that predate the Collaboratory, these</ref>
+                            <ref target="#spatiality">The way <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/RtJ52hLR7xG">Orlando</orgName>’s material on Mary Ward figures on our map highlights one of the crucial aspects of the kind of mapping that will be involved in <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/FFV25euGP6B">CWRC</orgName></abbr> as a whole. There are, as mentioned above, rare projects involved in <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/fm41ypeucYK">CWRC</orgName></abbr> that focus on the idea of space and have mapping as a central component; however, for the bulk of <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/9cmm7B3re3l">CWRC</orgName></abbr> projects, and certainly for donated data projects that predate the Collaboratory, these</ref>
                             <figure>
                                 <head>Figure 1.5</head>
                                 <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A1e502987-5452-45e7-a9e8-98b3c468afe9/datastream/JPG-DToC/view"/>
-                                <figDesc>Places in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/xjSZ7rx4YyK">London</placeName> associated with writers of the eighteenth century in Orlando.</figDesc>
+                                <figDesc>Places in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/xjSZ7rx4YyK">London</placeName> associated with writers of the eighteenth century in <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/qx29MG5aPva">Orlando</orgName>.</figDesc>
                             </figure>
                             <figure>
                                 <head>Figure 1.6</head>
                                 <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A56565066-25ba-481f-91b0-007e9c8f9d1b/datastream/JPG-DToC/view"/>
-                                <figDesc>Places in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/W9J21zwOxwc">London</placeName> associated with the writers of the nineteenth century in Orlando</figDesc>
+                                <figDesc>Places in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/W9J21zwOxwc">London</placeName> associated with the writers of the nineteenth century in <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/OT3stIJOfKy">Orlando</orgName></figDesc>
                             </figure>
                             <ref target="#spatiality">concerns are not central to the research aims that inform the way that spatial information is collected. The implications of this are twofold. <ref target="#theme_or_topic">
                                     <ref target="#close_reading">First, there will be many cases, such as that of <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/n8a0vWBJfrg">Mary Ward’s</persName> global reach, when spatial information is not as granular as it might be in a dedicated <abbr>GIS</abbr> project, which could lead to surprising results. Second, there will be an inherent unevenness in the granularity of the spatial data across the project as a whole. Some projects will dedicate considerable effort to linking spatial and temporal data to enable precise rendering of materials on maps that will support exploration of research questions developed with spatial analysis in mind. Other projects will produce spatial data more casually, in keeping with standard biographical, critical, or bibliographical methods.</ref>
@@ -742,7 +742,7 @@
                                         </note>. As John Corrigan affirms, <q>Complex data is dynamic data…It is data that is characterized by interaction between its various parts, which massage each other <figure>
                                                 <head>Figure 1.7</head>
                                                 <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A8043a3ee-1ff4-4453-94b1-13a52e329dde/datastream/JPG-DToC/view"/>
-                                                <figDesc>Places associated with the seventeenth-century <orgName key="Religious Society of Friends" ref="http://viaf.org/viaf/3829151474904900490007" ana="webannotation:http://temp.lincsproject.ca/lamPwlCGG0V">Society of Friends</orgName> in Orlando.</figDesc>
+                                                <figDesc>Places associated with the seventeenth-century <orgName key="Religious Society of Friends" ref="http://viaf.org/viaf/3829151474904900490007" ana="webannotation:http://temp.lincsproject.ca/lamPwlCGG0V">Society of Friends</orgName> in <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/ewxM40V5wIR">Orlando</orgName>.</figDesc>
                                             </figure> continually in ways that alter our understanding of what we are looking at</q>
                                         <note place="inline">
                                             <bibl>80–81</bibl>
@@ -766,7 +766,7 @@
                         <p xml:id="p1067">
                             <ref target="#religion">
                                 <ref target="#history">
-                                    <ref target="#spatiality">But this map also indicates hits in the American Midwest, where no Quakers, indeed no Europeans at all, had reached during the seventeenth century. It is not in the Midwest but in <q>America</q> generally that the <ref target="#non-book_media">Orlando text base says many Quakers travelled and preached. Likewise, it is not in Saskatchewan but in <q><placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/3C7DebIbMov">Canada</placeName></q> generally that <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/cgg7jdHph4O">Mary Ward’s</persName> order flourishes today (see Figure 1.2). <ref target="#politics">The fact that we are using a map based on current political boundaries as the basis for our visualization is historically insensitive and makes Saskatchewan the generalized geographical centre of <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/9jSW7X8n0fZ">Canada</placeName> at a time in history when such a notion was nonsensical.</ref> This problem would be partially resolved by using historical maps that represented the boundaries of <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/9bjQ8MpnlZP">Canada</placeName> as they existed in <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/HQrTkhENqqd">Ward</persName>’s lifetime, or the parts of the United States frequented by Europeans during the early activities of the Quakers.</ref> If the results for Mary Ward were shown on a historical map rather than a modern map, the <q>centres</q> of <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/AbNP5nuVOv9">Canada</placeName> and the United States (at least from a colonial perspective, on colonial maps) would lie much further to the east and the degree of misplacement would be lessened.</ref> Nation or country place names would still produce generalized results that are very misleading if represented by points, but the approximation to more distinct regions would be more evident.</ref>
+                                    <ref target="#spatiality">But this map also indicates hits in the American Midwest, where no Quakers, indeed no Europeans at all, had reached during the seventeenth century. It is not in the Midwest but in <q>America</q> generally that the <ref target="#non-book_media"><orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/Mvw8dDQzuTg">Orlando</orgName> text base says many Quakers travelled and preached. Likewise, it is not in Saskatchewan but in <q><placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/3C7DebIbMov">Canada</placeName></q> generally that <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/cgg7jdHph4O">Mary Ward’s</persName> order flourishes today (see Figure 1.2). <ref target="#politics">The fact that we are using a map based on current political boundaries as the basis for our visualization is historically insensitive and makes Saskatchewan the generalized geographical centre of <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/9jSW7X8n0fZ">Canada</placeName> at a time in history when such a notion was nonsensical.</ref> This problem would be partially resolved by using historical maps that represented the boundaries of <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/9bjQ8MpnlZP">Canada</placeName> as they existed in <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/HQrTkhENqqd">Ward</persName>’s lifetime, or the parts of the United States frequented by Europeans during the early activities of the Quakers.</ref> If the results for Mary Ward were shown on a historical map rather than a modern map, the <q>centres</q> of <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/AbNP5nuVOv9">Canada</placeName> and the United States (at least from a colonial perspective, on colonial maps) would lie much further to the east and the degree of misplacement would be lessened.</ref> Nation or country place names would still produce generalized results that are very misleading if represented by points, but the approximation to more distinct regions would be more evident.</ref>
                             </ref>
                         </p>
                         <p xml:id="p1068">
@@ -783,7 +783,7 @@
                         <p xml:id="p1069">
                             <ref target="#politics">
                                 <ref target="#theme_or_topic">
-                                    <ref target="#spatiality">Both <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/Mne6KBeYz5L">Ward</persName>’s case and that of the Quakers emphasize the problems of representation that emerge from mapping information of <ref target="#close_reading">varying degrees of particularity within the same environment</ref>, and the tension between concepts of the spatial or geographical, on the one hand, and the national or political, on the other. They remind us of the constructedness and historical contingency of visual representations of place and space, and invite us to explore ways that we might combine existing conventions of representation, such as the usual pins, lines, polygons, and gradients, to represent different, and at times conflicting, spatial references and associations contained in <ref target="#non-book_media">Orlando’s prose and in Orlando’s markup.</ref>
+                                    <ref target="#spatiality">Both <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/Mne6KBeYz5L">Ward</persName>’s case and that of the Quakers emphasize the problems of representation that emerge from mapping information of <ref target="#close_reading">varying degrees of particularity within the same environment</ref>, and the tension between concepts of the spatial or geographical, on the one hand, and the national or political, on the other. They remind us of the constructedness and historical contingency of visual representations of place and space, and invite us to explore ways that we might combine existing conventions of representation, such as the usual pins, lines, polygons, and gradients, to represent different, and at times conflicting, spatial references and associations contained in <ref target="#non-book_media"><orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/aXCUF9NOVrA">Orlando</orgName>’s prose and in <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/Btvyxm6yOfg">Orlando</orgName>’s markup.</ref>
                                     </ref>
                                 </ref>
                             </ref>
@@ -796,7 +796,7 @@
                         </p>
                         <p xml:id="p1071">
                             <ref target="#spatiality">
-                                <ref target="#writing_climate">The constructedness of space, as well as its constitutive aspects within literary culture and the production of subjectivities and sensibilities through literature, is especially relevant to Orlando and <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/OLQoX19abj1">CWRC</orgName></abbr> whose <figure>
+                                <ref target="#writing_climate">The constructedness of space, as well as its constitutive aspects within literary culture and the production of subjectivities and sensibilities through literature, is especially relevant to <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/bitFuJ8mpc9">Orlando</orgName> and <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/OLQoX19abj1">CWRC</orgName></abbr> whose <figure>
                                         <head>Figure 1.9</head>
                                         <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A1bd114ad-4cdc-469e-8580-f7c9b891fadf/datastream/JPG-DToC/view"/>
                                         <figDesc>Scotland as a literary setting.</figDesc>
@@ -805,7 +805,7 @@
                         </p>
                         <p xml:id="p1072">
                             <ref target="#writing_climate">
-                                <ref target="#spatiality">Figure 1.9 maps Scotland as a setting for writing (fiction and non-fiction). It indicates the extent to which, within texts, more places are mentioned in general terms than in Orlando’s discussions of writers’ lives, which frequently supply the name of a town, village, castle, or farmhouse. Hence, many texts make reference simply to Scotland, or to the romantic regions of the Scottish Highlands or Scottish Borders, providing perhaps a fictitious place name within those areas. Again, a range of visualization strategies could designate <ref target="#close_reading">different levels of granularity on a single map and help distinguish particular locations from generalized areas, thereby creating a hermeneutic layer that represents less specific fictional regions.</ref>
+                                <ref target="#spatiality">Figure 1.9 maps Scotland as a setting for writing (fiction and non-fiction). It indicates the extent to which, within texts, more places are mentioned in general terms than in <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/UPpe9LoC4wo">Orlando</orgName>’s discussions of writers’ lives, which frequently supply the name of a town, village, castle, or farmhouse. Hence, many texts make reference simply to Scotland, or to the romantic regions of the Scottish Highlands or Scottish Borders, providing perhaps a fictitious place name within those areas. Again, a range of visualization strategies could designate <ref target="#close_reading">different levels of granularity on a single map and help distinguish particular locations from generalized areas, thereby creating a hermeneutic layer that represents less specific fictional regions.</ref>
                                     <ref target="#intertextuality">These layers are akin to <q>the spaces—Foucault’s hetero­topias—that cannot be mapped, such as the marketplace, the theatre, the fairground, and the ship</q>
                                         <note place="inline">
                                             <bibl>Jenstad 117</bibl>
@@ -820,7 +820,7 @@
                     <p xml:id="p1073">
                         <ref target="#theory">
                             <ref target="#theme_or_topic">
-                                <ref target="#spatiality">Knowing what we want to map and, as far as possible, how we want to map our materials will be a great advantage to <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/PZmWvELhf4c">CWRC</orgName></abbr>. <ref target="#technology">When Orlando began, the kind of web-based mapping systems available today did not exist and, although we tried to anticipate what would be required for mapping, we struggled to sufficiently disambiguate place names for delivery and searchability as text. It is not surprising, then (despite the painstaking application of spatial metadata throughout the text base), that an extensive cleanup of place tagging was required to create the relatively straightforward maps represented in this chapter.</ref>
+                                <ref target="#spatiality">Knowing what we want to map and, as far as possible, how we want to map our materials will be a great advantage to <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/PZmWvELhf4c">CWRC</orgName></abbr>. <ref target="#technology">When <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/V4Tuq1WzRYM">Orlando</orgName> began, the kind of web-based mapping systems available today did not exist and, although we tried to anticipate what would be required for mapping, we struggled to sufficiently disambiguate place names for delivery and searchability as text. It is not surprising, then (despite the painstaking application of spatial metadata throughout the text base), that an extensive cleanup of place tagging was required to create the relatively straightforward maps represented in this chapter.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -828,7 +828,7 @@
                     <p xml:id="p1074">
                         <ref target="#theory">
                             <ref target="#spatiality">
-                                <ref target="#technology">The challenges described here are by no means unique to this particular mapping project. They invoke the impact of drawing on uneven spatial data, in terms of its granularity (such as North America versus Halifax, Nova Scotia) and density (such as <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/2Wn8bQRqrLz">CWRC</orgName></abbr> items that only have a few places mentioned in their metadata in contrast to a piece of travel writing in Orlando that already has extensive tagging). There is yet a further source of unevenness within <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/rcsmMrfzEL6">CWRC</orgName></abbr>: differences in the extent to which contextualizing semantic data is present within and across projects in the Collaboratory. A challenge for both <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/oekfvZeo6Vp">CWRC</orgName></abbr> and Orlando is the sheer density of spatial data across the collections, especially in relation to major population and publishing centres such as <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/DivIFpt1Zdd">London</placeName>, Toronto, and Montreal. An ideal mapping interface would allow efficient processing and visualization of large quantities of spatial data in a web environment, easy faceting according to a range of criteria, and manual sifting of results, plus quick reference to the source text.</ref>
+                                <ref target="#technology">The challenges described here are by no means unique to this particular mapping project. They invoke the impact of drawing on uneven spatial data, in terms of its granularity (such as North America versus Halifax, Nova Scotia) and density (such as <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/2Wn8bQRqrLz">CWRC</orgName></abbr> items that only have a few places mentioned in their metadata in contrast to a piece of travel writing in <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/SAoYfZyMFt5">Orlando</orgName> that already has extensive tagging). There is yet a further source of unevenness within <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/rcsmMrfzEL6">CWRC</orgName></abbr>: differences in the extent to which contextualizing semantic data is present within and across projects in the Collaboratory. A challenge for both <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/oekfvZeo6Vp">CWRC</orgName></abbr> and <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/EO2YbrvrfOB">Orlando</orgName> is the sheer density of spatial data across the collections, especially in relation to major population and publishing centres such as <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/DivIFpt1Zdd">London</placeName>, Toronto, and Montreal. An ideal mapping interface would allow efficient processing and visualization of large quantities of spatial data in a web environment, easy faceting according to a range of criteria, and manual sifting of results, plus quick reference to the source text.</ref>
                             </ref>
                         </ref>
                     </p>
@@ -7656,6 +7656,2765 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/mBzwfppaEpG]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/VH8lFkiDLsu">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/VH8lFkiDLsu",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:41.909Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/deIHwi6mm3R",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/deIHwi6mm3R/selector/textPosition/3KwOttMvUd2",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 14928,
+                "end": 14935,
+                "refinedBy": {
+                    "id": "/target/deIHwi6mm3R/selector/textQuote/DZHkUkaybyg",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": "\n                            \n                        \n                    \n                    \n                        \n                            \n                                As a result of having implemented such semantic tags in",
+                    "suffix": " then, we can contextualize each mention of a place name and explore the axes of geographical representation that will be useful to CWRC-affiliated researchers and in the delivery of CWRC materials"
+                }
+            },
+            {
+                "id": "/target/deIHwi6mm3R/selector/css/9C7sv8AwRgv",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/VH8lFkiDLsu]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/4QrwBJqLADy">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/4QrwBJqLADy",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:41.911Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/d8vXHYo6uGL",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/d8vXHYo6uGL/selector/textPosition/c7kSgriX49F",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15927,
+                "end": 15934,
+                "refinedBy": {
+                    "id": "/target/d8vXHYo6uGL/selector/textQuote/Y4OP5Ob0TN6",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": " First,",
+                    "suffix": "data was queried according to various parameters, drawing on the semantic tags discussed above, such as return all biographies in a given range of birth dates,\n                                        return all excerpts containing a given keyword, or, return all excerpts containing Scotland within discussions of violence or politics"
+                }
+            },
+            {
+                "id": "/target/d8vXHYo6uGL/selector/css/Kt91AzCyKJ1",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/4QrwBJqLADy]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/dKpwpypKpMS">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/dKpwpypKpMS",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:41.913Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/579PvE4e2x9",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/579PvE4e2x9/selector/textPosition/HwT4g2YjiUE",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16872,
+                "end": 16879,
+                "refinedBy": {
+                    "id": "/target/579PvE4e2x9/selector/textQuote/KJnYN7dybUW",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": " In so doing, we avoided the necessity of visualizing all of",
+                    "suffix": "s spatial information in a single, temporally conflated map"
+                }
+            },
+            {
+                "id": "/target/579PvE4e2x9/selector/css/B3a5MGen7OK",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/dKpwpypKpMS]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Nnof6yGLDKX">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Nnof6yGLDKX",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:41.914Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/iAPDEyrEIQM",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/iAPDEyrEIQM/selector/textPosition/79D9sfey9VR",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 17042,
+                "end": 17049,
+                "refinedBy": {
+                    "id": "/target/iAPDEyrEIQM/selector/textQuote/1UCqwbUYF4Y",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": " In the absence of temporal information embedded in the spatial data itself, we drew on the fact that",
+                    "suffix": "s documents organize information in roughly chronological order to provisionally infer the temporality associated with a place by extrapolating from adjacent dated material"
+                }
+            },
+            {
+                "id": "/target/iAPDEyrEIQM/selector/css/uUBvcdTioKr",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Nnof6yGLDKX]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/644TQQEn9bi">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/644TQQEn9bi",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:41.915Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/kiTeNhVSyfi",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/kiTeNhVSyfi/selector/textPosition/ElNCrH8VihL",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 17527,
+                "end": 17534,
+                "refinedBy": {
+                    "id": "/target/kiTeNhVSyfi/selector/textQuote/q1JE3rkz6rX",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": " Based on this process of inference, each instance of geographical information produced by the initial extraction process was associated with a specific date or range of dates, the writer’s name, and the subject discussed, as well as the complete excerpt of the prose under each location as mentioned in",
+                    "suffix": "\n                                    \n                                \n                            \n                        \n                    \n                    \n                        \n                            \n                                A third step consisted of matching place names to latitude and longitude information"
+                }
+            },
+            {
+                "id": "/target/kiTeNhVSyfi/selector/css/fGDtLyiwrHt",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/644TQQEn9bi]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/65UHNRqo1Ep">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/65UHNRqo1Ep",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:41.915Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/RA0c4y4A3Zt",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/RA0c4y4A3Zt/selector/textPosition/Bwvru77FSGN",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 18931,
+                "end": 18938,
+                "refinedBy": {
+                    "id": "/target/RA0c4y4A3Zt/selector/textQuote/KBPMZ7UzHnv",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": "\n                            \n                        \n                    \n                    \n                        \n                            \n                                For the purposes of these experiments, we geo-referenced the",
+                    "suffix": "data with a Python script that uses GeoPy, a geo-referencing tool box that allows users to locate the coordinates of addresses, cities, countries, and landmarks across the globe by acquiring data from third party services such as Google Maps and GeoNames"
+                }
+            },
+            {
+                "id": "/target/RA0c4y4A3Zt/selector/css/jtPic52mUxQ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/65UHNRqo1Ep]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/KANSEJZnsak">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/KANSEJZnsak",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:41.916Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/aIIYFuKMkCG",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/aIIYFuKMkCG/selector/textPosition/gQ07FEsJEdH",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 19227,
+                "end": 19234,
+                "refinedBy": {
+                    "id": "/target/aIIYFuKMkCG/selector/textQuote/qEaNQlRqhnc",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": " Thus, an enriched subset of the",
+                    "suffix": "data was created without modifying the original text base"
+                }
+            },
+            {
+                "id": "/target/aIIYFuKMkCG/selector/css/dRFLzByUYNK",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/KANSEJZnsak]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ZFRbz9mAfKF">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ZFRbz9mAfKF",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:41.916Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/mO3WwfbGsUj",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/mO3WwfbGsUj/selector/textPosition/edp2DonsKcO",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 19357,
+                "end": 19364,
+                "refinedBy": {
+                    "id": "/target/mO3WwfbGsUj/selector/textQuote/TjYuhIepSrb",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": " By processing the contextual semantic information contained in",
+                    "suffix": "s custom tags, this subset of data was used to create geographical visualizations of travel and migration events, of writing about place that can be explored and faceted by means of semantic tags"
+                }
+            },
+            {
+                "id": "/target/mO3WwfbGsUj/selector/css/QMZEBOzlkqs",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ZFRbz9mAfKF]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/WccuJTOAQxG">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/WccuJTOAQxG",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:41.917Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/40IUTwLTIpd",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/40IUTwLTIpd/selector/textPosition/khAksCxXQXh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 20663,
+                "end": 20670,
+                "refinedBy": {
+                    "id": "/target/40IUTwLTIpd/selector/textQuote/eLvaSiDJQ6t",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": " Initially, we experimented with relatively small subsets of the",
+                    "suffix": "materials in order to make the maps readable and meaningful"
+                }
+            },
+            {
+                "id": "/target/40IUTwLTIpd/selector/css/qNGYNtW7h3d",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/WccuJTOAQxG]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/gMTAPYy9D2Q">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/gMTAPYy9D2Q",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:41.917Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/zCUPPi2aCIU",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/zCUPPi2aCIU/selector/textPosition/mKF9xwenDVy",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 20975,
+                "end": 20982,
+                "refinedBy": {
+                    "id": "/target/zCUPPi2aCIU/selector/textQuote/FwXzIC7xnB6",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": " It shows places mentioned in the",
+                    "suffix": "biographies for the writers born in each century from 1500 to 2000"
+                }
+            },
+            {
+                "id": "/target/zCUPPi2aCIU/selector/css/DmJDO8z8bJX",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/gMTAPYy9D2Q]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xiKqQafZG6G">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xiKqQafZG6G",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:42.316Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/5foDJNdu1ea",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/5foDJNdu1ea/selector/textPosition/J9iPbR69ZQY",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 21818,
+                "end": 21825,
+                "refinedBy": {
+                    "id": "/target/5foDJNdu1ea/selector/textQuote/fkS5BinibkP",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": "\n                            \n                        \n                    \n                    \n                        Subset of",
+                    "suffix": "places\n                        \n                        Figure 1"
+                }
+            },
+            {
+                "id": "/target/5foDJNdu1ea/selector/css/TCHQoEsAR59",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xiKqQafZG6G]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/gJdW8mWClWg">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/gJdW8mWClWg",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:42.317Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/lyBxLGzagkj",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/lyBxLGzagkj/selector/textPosition/fXaBoLkRAfz",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 22018,
+                "end": 22025,
+                "refinedBy": {
+                    "id": "/target/lyBxLGzagkj/selector/textQuote/ZDkIgU7RABc",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": "\n                    \n                    \n                        Subset of",
+                    "suffix": "places\n                        \n                        Figure 1"
+                }
+            },
+            {
+                "id": "/target/lyBxLGzagkj/selector/css/o2QmEsdYaP1",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/gJdW8mWClWg]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/O0bCG3tWad0">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/O0bCG3tWad0",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:42.318Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ZECGiq7FLJ4",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ZECGiq7FLJ4/selector/textPosition/hgVvpCh4cPo",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 22218,
+                "end": 22225,
+                "refinedBy": {
+                    "id": "/target/ZECGiq7FLJ4/selector/textQuote/YX9P5mi7KKd",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": "\n                    \n                    \n                        Subset of",
+                    "suffix": "places\n                        \n                        Figure 1"
+                }
+            },
+            {
+                "id": "/target/ZECGiq7FLJ4/selector/css/7O1H9xLsSDg",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/O0bCG3tWad0]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/LYf8PzYNR21">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/LYf8PzYNR21",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:42.318Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/wBfNiaC9fPW",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/wBfNiaC9fPW/selector/textPosition/PZmij8nFzK9",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 22418,
+                "end": 22425,
+                "refinedBy": {
+                    "id": "/target/wBfNiaC9fPW/selector/textQuote/Er3UkvGKuFi",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": "\n                    \n                    \n                        Subset of",
+                    "suffix": "places\n                        \n                        Figure 1"
+                }
+            },
+            {
+                "id": "/target/wBfNiaC9fPW/selector/css/zOACGIX1djY",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/LYf8PzYNR21]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/rxFafQ9l1fU">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/rxFafQ9l1fU",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:42.319Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/rM4TdwWJ4M0",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/rM4TdwWJ4M0/selector/textPosition/jJQ0r6nAWJe",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 22605,
+                "end": 22612,
+                "refinedBy": {
+                    "id": "/target/rM4TdwWJ4M0/selector/textQuote/WuAZOtaYUPM",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": "\n                        \n                            Subset of",
+                    "suffix": "places\n                            \n                            Figure 1"
+                }
+            },
+            {
+                "id": "/target/rM4TdwWJ4M0/selector/css/U59ef8e5EOR",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/rxFafQ9l1fU]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/9czPnI8rlUd">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/9czPnI8rlUd",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:42.319Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/yhqLuAOapp3",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/yhqLuAOapp3/selector/textPosition/F20yJc45J3J",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 23984,
+                "end": 23991,
+                "refinedBy": {
+                    "id": "/target/yhqLuAOapp3/selector/textQuote/5irE9TnN7MC",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": "\n                            \n                        \n                        \n                            If is it possible to produce a map with this degree of detail from the life of a single writer as described in",
+                    "suffix": " imagine the potential for further visualizations"
+                }
+            },
+            {
+                "id": "/target/yhqLuAOapp3/selector/css/5UlG7Cm4Ihi",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/9czPnI8rlUd]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/O77ABBGwAyw">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/O77ABBGwAyw",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:42.320Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/nJ3yMCXP5a4",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/nJ3yMCXP5a4/selector/textPosition/Pe3ZFbqULyb",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 25886,
+                "end": 25893,
+                "refinedBy": {
+                    "id": "/target/nJ3yMCXP5a4/selector/textQuote/hiQceRwTdfT",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": "\n                            \n                        \n                        \n                            \n                                \n                                    Even without the benefit of historical maps against which to view the spatial data, mapping and then comparing",
+                    "suffix": "s eighteenth-century London and nineteenth-century London (Figures 1"
+                }
+            },
+            {
+                "id": "/target/nJ3yMCXP5a4/selector/css/aodNCqsbFZj",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/O77ABBGwAyw]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/heEcscNpV58">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/heEcscNpV58",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:42.320Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/96b6FThdNZo",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/96b6FThdNZo/selector/textPosition/NuE6p3QSEDp",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 26202,
+                "end": 26209,
+                "refinedBy": {
+                    "id": "/target/96b6FThdNZo/selector/textQuote/Enjlq10nXg9",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": " Similarly, mapping and then comparing",
+                    "suffix": "s seventeenth-century and nineteenth-century Britain indicates the ways in which literary activity shifted as the centres of population shifted from the old agricultural centres to the new industrial centres"
+                }
+            },
+            {
+                "id": "/target/96b6FThdNZo/selector/css/DQAXCAR0dRx",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/heEcscNpV58]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/4DG5jl2aTtX">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/4DG5jl2aTtX",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:42.320Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Gnzrl2MSZMi",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Gnzrl2MSZMi/selector/textPosition/ma38gcZFqTo",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27094,
+                "end": 27101,
+                "refinedBy": {
+                    "id": "/target/Gnzrl2MSZMi/selector/textQuote/ktv94aCgpf5",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": "2) reflect the information provided in",
+                    "suffix": "s entry on Ward that the order she founded flourishes today in those places"
+                }
+            },
+            {
+                "id": "/target/Gnzrl2MSZMi/selector/css/fnDzlPJR2Yk",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/4DG5jl2aTtX]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/RtJ52hLR7xG">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/RtJ52hLR7xG",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:42.321Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4NnEEu6nBQC",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4NnEEu6nBQC/selector/textPosition/9UkNf6Us7DE",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27265,
+                "end": 27272,
+                "refinedBy": {
+                    "id": "/target/4NnEEu6nBQC/selector/textQuote/dE3ti22vnVz",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": "\n                        \n                        \n                            The way",
+                    "suffix": "s material on Mary Ward figures on our map highlights one of the crucial aspects of the kind of mapping that will be involved in CWRC as a whole"
+                }
+            },
+            {
+                "id": "/target/4NnEEu6nBQC/selector/css/eDlKoDsGG4L",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/RtJ52hLR7xG]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/qx29MG5aPva">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/qx29MG5aPva",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:42.696Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/sm6cXk65VXQ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/sm6cXk65VXQ/selector/textPosition/PgCA1hsYKxS",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27879,
+                "end": 27886,
+                "refinedBy": {
+                    "id": "/target/sm6cXk65VXQ/selector/textQuote/qMtWKFFCd1z",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": "5\n                                \n                                Places in London associated with writers of the eighteenth century in",
+                    "suffix": "\n                            \n                            \n                                Figure 1"
+                }
+            },
+            {
+                "id": "/target/sm6cXk65VXQ/selector/css/oY9ZNjOW6Fl",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/qx29MG5aPva]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/OT3stIJOfKy">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/OT3stIJOfKy",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:42.697Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/o7873immJRl",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/o7873immJRl/selector/textPosition/y9NxAo8qI1z",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28128,
+                "end": 28135,
+                "refinedBy": {
+                    "id": "/target/o7873immJRl/selector/textQuote/aX04ImZmhrE",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": "6\n                                \n                                Places in London associated with the writers of the nineteenth century in",
+                    "suffix": "                            \n                            concerns are not central to the research aims that inform the way that spatial information is collected"
+                }
+            },
+            {
+                "id": "/target/o7873immJRl/selector/css/QrhhROCshqx",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/OT3stIJOfKy]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ewxM40V5wIR">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ewxM40V5wIR",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:42.698Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ezOnPQSLlC2",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ezOnPQSLlC2/selector/textPosition/vUljPIWtjmg",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 31718,
+                "end": 31725,
+                "refinedBy": {
+                    "id": "/target/ezOnPQSLlC2/selector/textQuote/XidrKUnPk2w",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": "7\n                                                \n                                                Places associated with the seventeenth-century Society of Friends in",
+                    "suffix": "\n                                             continually in ways that alter our understanding of what we are looking at\n                                        \n                                            80–81\n                                        "
+                }
+            },
+            {
+                "id": "/target/ezOnPQSLlC2/selector/css/Ukqzun4mPJs",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ewxM40V5wIR]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Mvw8dDQzuTg">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Mvw8dDQzuTg",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:42.699Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/GYlSBXKbn9A",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/GYlSBXKbn9A/selector/textPosition/OZOeWJYb4dW",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 34557,
+                "end": 34564,
+                "refinedBy": {
+                    "id": "/target/GYlSBXKbn9A/selector/textQuote/AfZrxNosxFS",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": " It is not in the Midwest but in America generally that the",
+                    "suffix": "text base says many Quakers travelled and preached"
+                }
+            },
+            {
+                "id": "/target/GYlSBXKbn9A/selector/css/Q9GPwxF02PU",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Mvw8dDQzuTg]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/aXCUF9NOVrA">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/aXCUF9NOVrA",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:42.699Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/SaWC3LLRtfq",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/SaWC3LLRtfq/selector/textPosition/u1Ya5IFuEVi",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37530,
+                "end": 37537,
+                "refinedBy": {
+                    "id": "/target/SaWC3LLRtfq/selector/textQuote/QBnyrsp0ga7",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": " They remind us of the constructedness and historical contingency of visual representations of place and space, and invite us to explore ways that we might combine existing conventions of representation, such as the usual pins, lines, polygons, and gradients, to represent different, and at times conflicting, spatial references and associations contained in",
+                    "suffix": "s prose and in Orlando’s markup"
+                }
+            },
+            {
+                "id": "/target/SaWC3LLRtfq/selector/css/0jFJTvsFQj7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/aXCUF9NOVrA]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Btvyxm6yOfg">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Btvyxm6yOfg",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:42.700Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Mg5ChD1ngfd",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Mg5ChD1ngfd/selector/textPosition/JWJNamuHDgC",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37553,
+                "end": 37560,
+                "refinedBy": {
+                    "id": "/target/Mg5ChD1ngfd/selector/textQuote/RSC5kz0aRti",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": " They remind us of the constructedness and historical contingency of visual representations of place and space, and invite us to explore ways that we might combine existing conventions of representation, such as the usual pins, lines, polygons, and gradients, to represent different, and at times conflicting, spatial references and associations contained in Orlando’s prose and in",
+                    "suffix": "s markup"
+                }
+            },
+            {
+                "id": "/target/Mg5ChD1ngfd/selector/css/u7lXTyYPJ1W",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Btvyxm6yOfg]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/bitFuJ8mpc9">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/bitFuJ8mpc9",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:42.700Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/hZur1GJwaZ5",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/hZur1GJwaZ5/selector/textPosition/c0tbdtNn6Hc",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38507,
+                "end": 38514,
+                "refinedBy": {
+                    "id": "/target/hZur1GJwaZ5/selector/textQuote/RruIlKbdn7P",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": "\n                            \n                        \n                        \n                            \n                                The constructedness of space, as well as its constitutive aspects within literary culture and the production of subjectivities and sensibilities through literature, is especially relevant to",
+                    "suffix": "and CWRC whose \n                                        Figure 1"
+                }
+            },
+            {
+                "id": "/target/hZur1GJwaZ5/selector/css/Y4ekJTI0jHz",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/bitFuJ8mpc9]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/UPpe9LoC4wo">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/UPpe9LoC4wo",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:42.701Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/1JklI8kgnF6",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/1JklI8kgnF6/selector/textPosition/Svj4eJZ229x",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 39173,
+                "end": 39180,
+                "refinedBy": {
+                    "id": "/target/1JklI8kgnF6/selector/textQuote/nyTUqqHFDym",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": " It indicates the extent to which, within texts, more places are mentioned in general terms than in",
+                    "suffix": "s discussions of writers’ lives, which frequently supply the name of a town, village, castle, or farmhouse"
+                }
+            },
+            {
+                "id": "/target/1JklI8kgnF6/selector/css/6Bc7sqojrO7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/UPpe9LoC4wo]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/V4Tuq1WzRYM">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/V4Tuq1WzRYM",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:42.701Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/GmG0fiLzf4D",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/GmG0fiLzf4D/selector/textPosition/8k9MXOLwnet",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 40837,
+                "end": 40844,
+                "refinedBy": {
+                    "id": "/target/GmG0fiLzf4D/selector/textQuote/B77WtisueT4",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": " When",
+                    "suffix": "began, the kind of web-based mapping systems available today did not exist and, although we tried to anticipate what would be required for mapping, we struggled to sufficiently disambiguate place names for delivery and searchability as text"
+                }
+            },
+            {
+                "id": "/target/GmG0fiLzf4D/selector/css/kSaz8NLayik",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/V4Tuq1WzRYM]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/SAoYfZyMFt5">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/SAoYfZyMFt5",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:42.701Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/K1sf4vzU8nX",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/K1sf4vzU8nX/selector/textPosition/up6wVuRYn0B",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 41903,
+                "end": 41910,
+                "refinedBy": {
+                    "id": "/target/K1sf4vzU8nX/selector/textQuote/bB9Bt6k3CKx",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": " They invoke the impact of drawing on uneven spatial data, in terms of its granularity (such as North America versus Halifax, Nova Scotia) and density (such as CWRC items that only have a few places mentioned in their metadata in contrast to a piece of travel writing in",
+                    "suffix": "that already has extensive tagging)"
+                }
+            },
+            {
+                "id": "/target/K1sf4vzU8nX/selector/css/Tn9T0Lx8GbI",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/SAoYfZyMFt5]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/EO2YbrvrfOB">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/EO2YbrvrfOB",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:34:43.240Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/AiI3RcVT29w",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/AiI3RcVT29w/selector/textPosition/HyZuLVTBeBc",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 42160,
+                "end": 42167,
+                "refinedBy": {
+                    "id": "/target/AiI3RcVT29w/selector/textQuote/res6Tj1fNRJ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Orlando",
+                    "prefix": " A challenge for both CWRC and",
+                    "suffix": "is the sheer density of spatial data across the collections, especially in relation to major population and publishing centres such as London, Toronto, and Montreal"
+                }
+            },
+            {
+                "id": "/target/AiI3RcVT29w/selector/css/wLjjkHgKaqz",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/EO2YbrvrfOB]"
             }
         ]
     },
