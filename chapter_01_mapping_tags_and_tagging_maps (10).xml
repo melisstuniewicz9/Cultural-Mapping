@@ -742,7 +742,7 @@
                                         </note>. As <persName key="Corrigan, John, 1952-...." ref="http://viaf.org/viaf/44364599" ana="webannotation:http://temp.lincsproject.ca/U4EQctjIZXf">John Corrigan</persName> affirms, <q>Complex data is dynamic data…It is data that is characterized by interaction between its various parts, which massage each other <figure>
                                                 <head>Figure 1.7</head>
                                                 <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A8043a3ee-1ff4-4453-94b1-13a52e329dde/datastream/JPG-DToC/view"/>
-                                                <figDesc>Places associated with the seventeenth-century <orgName key="Religious Society of Friends" ref="http://viaf.org/viaf/3829151474904900490007" ana="webannotation:http://temp.lincsproject.ca/lamPwlCGG0V">Society of Friends</orgName> in <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/ewxM40V5wIR">Orlando</orgName>.</figDesc>
+                                                <figDesc>Places associated with the seventeenth-century <orgName key="Society of Friends" ref="http://viaf.org/viaf/3829151474904900490007" ana="webannotation:http://temp.lincsproject.ca/NF5e0dYQtFv">Society of Friends</orgName> in <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/ewxM40V5wIR">Orlando</orgName>.</figDesc>
                                             </figure> continually in ways that alter our understanding of what we are looking at</q>
                                         <note place="inline">
                                             <bibl>80–81</bibl>
@@ -18805,20 +18805,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/lamPwlCGG0V">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/NF5e0dYQtFv">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/lamPwlCGG0V",
+    "id": "http://temp.lincsproject.ca/NF5e0dYQtFv",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-06-02T13:54:27.711Z",
+    "created": "2026-06-02T15:41:09.226Z",
     "creator": {
         "id": "https://github.com/melisstuniewicz9",
         "type": "crm:E21_Person",
@@ -18878,12 +18878,20 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/lamPwlCGG0V]"
+            },
+            {
+                "id": "/target/WGDH7Xt6bm4/selector/css/i78W2BXEyM4",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/NF5e0dYQtFv]"
             }
         ]
     },
     "body": {
         "id": "http://viaf.org/viaf/3829151474904900490007",
-        "label": "Religious Society of Friends",
+        "label": "Society of Friends",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
     },
