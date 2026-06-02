@@ -492,7 +492,7 @@
                 <byline>
                     <hi rend="italic">Leveraging Spatial Markup for Literary History</hi>
                 </byline>
-                <docAuthor> <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/l38EjyOiqAC">Susan Brown</persName>, <persName key="Grundy, Isobel." ref="http://viaf.org/viaf/12322641" ana="webannotation:http://temp.lincsproject.ca/t4chn7tEstr">Isobel Grundy</persName>, <persName key="Mariana Paredes Olea" ref="https://orcid.org/0000-0003-2566-0884" ana="webannotation:http://temp.lincsproject.ca/ydTHR3pm2m8">Mariana Paredes-Olea</persName>, Jeffery Antoniuk, &amp; <persName key="Breanna Mroczek" ref="https://orcid.org/0000-0001-6889-8994" ana="webannotation:http://temp.lincsproject.ca/SvGLwctxOb0">Breanna Mroczek</persName></docAuthor>
+                <docAuthor> <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/l38EjyOiqAC">Susan Brown</persName>, <persName key="Grundy, Isobel." ref="http://viaf.org/viaf/12322641" ana="webannotation:http://temp.lincsproject.ca/t4chn7tEstr">Isobel Grundy</persName>, <persName key="Mariana Paredes Olea" ref="https://orcid.org/0000-0003-2566-0884" ana="webannotation:http://temp.lincsproject.ca/ydTHR3pm2m8">Mariana Paredes-Olea</persName>, <persName key="Jeffery Antoniuk" ref="https://orcid.org/0000-0003-2632-8787" ana="webannotation:http://temp.lincsproject.ca/IbtGrmI7L7w">Jeffery Antoniuk</persName>, &amp; <persName key="Breanna Mroczek" ref="https://orcid.org/0000-0001-6889-8994" ana="webannotation:http://temp.lincsproject.ca/SvGLwctxOb0">Breanna Mroczek</persName></docAuthor>
                 <div type="section">
                     <head>Introduction</head>
                     <p xml:id="p1037">
@@ -26545,6 +26545,95 @@
     "body": {
         "id": "https://orcid.org/0000-0003-2566-0884",
         "label": "Mariana Paredes Olea",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/IbtGrmI7L7w">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/IbtGrmI7L7w",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T18:41:40.134Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/qFW1yCJyyRe",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps (10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps (10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/qFW1yCJyyRe/selector/textPosition/apQGVDAc4b8",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 275,
+                "end": 291,
+                "refinedBy": {
+                    "id": "/target/qFW1yCJyyRe/selector/textQuote/5LVLJ9cI5fT",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Jeffery Antoniuk",
+                    "prefix": "\n        \n            \n                \n                    Mapping Tags and Tagging Maps\n                \n                \n                    Leveraging Spatial Markup for Literary History\n                \n                 Susan Brown, Isobel Grundy, Mariana Paredes-Olea,",
+                    "suffix": " & Breanna Mroczek\n                \n                    Introduction\n                    \n                        The spatial turn is making itself felt throughout literary studies, as it is in other areas of the humanities and social sciences"
+                }
+            },
+            {
+                "id": "/target/qFW1yCJyyRe/selector/css/1LceP8PSP4P",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/IbtGrmI7L7w]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://orcid.org/0000-0003-2632-8787",
+        "label": "Jeffery Antoniuk",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
     },
