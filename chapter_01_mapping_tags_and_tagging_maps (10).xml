@@ -766,7 +766,7 @@
                         <p xml:id="p1067">
                             <ref target="#religion">
                                 <ref target="#history">
-                                    <ref target="#spatiality">But this map also indicates hits in the American Midwest, where no Quakers, indeed no Europeans at all, had reached during the seventeenth century. It is not in the Midwest but in <q>America</q> generally that the <ref target="#non-book_media"><orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/Mvw8dDQzuTg">Orlando</orgName> text base says many Quakers travelled and preached. Likewise, it is not in Saskatchewan but in <q><placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/3C7DebIbMov">Canada</placeName></q> generally that <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/cgg7jdHph4O">Mary Ward’s</persName> order flourishes today (see Figure 1.2). <ref target="#politics">The fact that we are using a map based on current political boundaries as the basis for our visualization is historically insensitive and makes <placeName key="Saskatchewan" ref="https://sws.geonames.org/6141242" ana="webannotation:http://temp.lincsproject.ca/6BHTQ9KaMfu">Saskatchewan</placeName> the generalized geographical centre of <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/9jSW7X8n0fZ">Canada</placeName> at a time in history when such a notion was nonsensical.</ref> This problem would be partially resolved by using historical maps that represented the boundaries of <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/9bjQ8MpnlZP">Canada</placeName> as they existed in <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/HQrTkhENqqd">Ward</persName>’s lifetime, or the parts of the United States frequented by Europeans during the early activities of the Quakers.</ref> If the results for <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/k9XSsXWNk6L">Mary Ward</persName> were shown on a historical map rather than a modern map, the <q>centres</q> of <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/AbNP5nuVOv9">Canada</placeName> and the United States (at least from a colonial perspective, on colonial maps) would lie much further to the east and the degree of misplacement would be lessened.</ref> Nation or country place names would still produce generalized results that are very misleading if represented by points, but the approximation to more distinct regions would be more evident.</ref>
+                                    <ref target="#spatiality">But this map also indicates hits in the American Midwest, where no Quakers, indeed no Europeans at all, had reached during the seventeenth century. It is not in the Midwest but in <q>America</q> generally that the <ref target="#non-book_media"><orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/Mvw8dDQzuTg">Orlando</orgName> text base says many Quakers travelled and preached. Likewise, it is not in Saskatchewan but in <q><placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/3C7DebIbMov">Canada</placeName></q> generally that <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/cgg7jdHph4O">Mary Ward’s</persName> order flourishes today (see Figure 1.2). <ref target="#politics">The fact that we are using a map based on current political boundaries as the basis for our visualization is historically insensitive and makes <placeName key="Saskatchewan" ref="https://sws.geonames.org/6141242" ana="webannotation:http://temp.lincsproject.ca/6BHTQ9KaMfu">Saskatchewan</placeName> the generalized geographical centre of <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/9jSW7X8n0fZ">Canada</placeName> at a time in history when such a notion was nonsensical.</ref> This problem would be partially resolved by using historical maps that represented the boundaries of <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/9bjQ8MpnlZP">Canada</placeName> as they existed in <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/HQrTkhENqqd">Ward</persName>’s lifetime, or the parts of the United States frequented by Europeans during the early activities of the Quakers.</ref> If the results for <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/k9XSsXWNk6L">Mary Ward</persName> were shown on a historical map rather than a modern map, the <q>centres</q> of <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/AbNP5nuVOv9">Canada</placeName> and <placeName key="United States" ref="https://sws.geonames.org/6252001" ana="webannotation:http://temp.lincsproject.ca/DLeEH6BsThM">the United States</placeName> (at least from a colonial perspective, on colonial maps) would lie much further to the east and the degree of misplacement would be lessened.</ref> Nation or country place names would still produce generalized results that are very misleading if represented by points, but the approximation to more distinct regions would be more evident.</ref>
                             </ref>
                         </p>
                         <p xml:id="p1068">
@@ -18255,6 +18255,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/Ay12POavNBo]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6252001",
+        "label": "United States",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/DLeEH6BsThM">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/DLeEH6BsThM",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T15:28:37.896Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/AO9wJ4CeagN",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/AO9wJ4CeagN/selector/textPosition/PbBNUkBwrC4",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 35353,
+                "end": 35370,
+                "refinedBy": {
+                    "id": "/target/AO9wJ4CeagN/selector/textQuote/cm9e1jDqJSZ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the United States",
+                    "prefix": " If the results for Mary Ward were shown on a historical map rather than a modern map, the centres of Canada and",
+                    "suffix": "(at least from a colonial perspective, on colonial maps) would lie much further to the east and the degree of misplacement would be lessened"
+                }
+            },
+            {
+                "id": "/target/AO9wJ4CeagN/selector/css/aWJSJjMqrJB",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/DLeEH6BsThM]"
             }
         ]
     },
