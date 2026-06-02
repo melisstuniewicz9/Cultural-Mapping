@@ -565,7 +565,7 @@
                         <code>&amp;lt;PLACE&amp;gt;&amp;lt;SETTLEMENT&amp;gt;London&amp;lt;/SETTLEMENT&amp;gt;&amp;lt;REGION REG=Middlesex&amp;gt;&amp;lt;/REGION&amp;gt;&amp;lt;GEOG REG=England&amp;gt;&amp;lt;/GEOG&amp;gt;&amp;lt;/PLACE&amp;gt;</code>
                     </q>
                     <p xml:id="p1043">
-                        <ref target="#spatiality">Such tagging distinguishes this particular reference to London from the more than two dozen other settlements around the world (including London, Ontario) that take their name from the English city, from building names such as London House, and from proper names such as Jack London.</ref>
+                        <ref target="#spatiality">Such tagging distinguishes this particular reference to <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/KZgIamr3YKH">London</placeName> from the more than two dozen other settlements around the world (including <placeName key="London" ref="https://sws.geonames.org/6058560" ana="webannotation:http://temp.lincsproject.ca/k1C89hwzUG9">London</placeName>, Ontario) that take their name from the English city, from building names such as London House, and from proper names such as Jack London.</ref>
                     </p>
                     <p xml:id="p1044">
                         <ref target="#non-book_media">
@@ -588,9 +588,9 @@
                                 <ref target="#spatiality">Orlando’s texts use tags based on <abbr>TEI</abbr> for entities such as place, but they also use a custom tag set designed specifically by the research team for the production of a digital literary history. This tag set demarcates spans of text according to several contexts, such as discussions of writers’ residences, travels, or migrations; fictional settings or non-fictional topographical descriptions; sites of theatrical productions; or where a writer engaged in political activism. Thus, the tagging of a sentence such as <q>Frances Brooke sailed from <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/9Oqs7LhSRr3">England</placeName> to join her husband in <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/FeNTqfTVlf4">Québec</placeName></q> under a <q>location</q> tag allows place as a destination of travel to be distinguished from a sentence such as <q>This novel is best known for its picture of settler or habitant life in Lower Canada, which Frances Brooke drew from her own years there</q>
                                     <note place="inline">
                                         <bibl>Brown, Clements, and Grundy</bibl>
-                                    </note>. <ref target="#politics">Places often mentioned under the <q>politics</q> tag, for instance, include Hyde Park and Trafalgar Square in London, the nuclear research station at Aldermaston in Berkshire as the site of <ref target="#social_movement">demonstrations</ref>, and Holloway Prison as the place where London <ref target="#gender issue">
+                                    </note>. <ref target="#politics">Places often mentioned under the <q>politics</q> tag, for instance, include Hyde Park and Trafalgar Square in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/Cm7Fv4mr7WU">London</placeName>, the nuclear research station at Aldermaston in Berkshire as the site of <ref target="#social_movement">demonstrations</ref>, and Holloway Prison as the place where <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/HCrKKAwGWrv">London</placeName> <ref target="#gender issue">
                                             <ref target="#social_movement">suffragettes</ref>
-                                        </ref> were incarcerated.</ref> These references to London as a place are all distinguishable from London as a place of birth, death, or publication, even within the current published interface of Orlando, which is entirely textual.</ref>
+                                        </ref> were incarcerated.</ref> These references to <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/xuPLORMBo6E">London</placeName> as a place are all distinguishable from <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/jQsMF5IDIZB">London</placeName> as a place of birth, death, or publication, even within the current published interface of Orlando, which is entirely textual.</ref>
                             </ref>
                         </ref>
                     </p>
@@ -619,7 +619,7 @@
                     <p xml:id="p1049">
                         <ref target="#methodology">
                             <ref target="#canon_formation">
-                                <ref target="#spatiality">A third step consisted of matching place names to latitude and longitude information. In advance of mapping, however, the existing spatial data needed to be enhanced. The mapping systems with which we experimented cannot produce a map from a simple place name like <q>London,</q> as it is not in itself geo-referenced, that is, related to a location on the earth. This is not a trivial process, even for materials in which the different forms of <q>London</q> have already been distinguished from one another. <ref target="#technology">Automated services for geo-referencing place names exist, but they produce a certain number of false or (in other respects) inadequate matches and so require considerable manual checking and cleanup.</ref> Within <abbr>CWRC</abbr>, new place data will be geo-referenced at the time of creation; the hundreds of thousands of place names contained in the <abbr>CWRC</abbr> data donations and seed data projects will undergo this process.</ref>
+                                <ref target="#spatiality">A third step consisted of matching place names to latitude and longitude information. In advance of mapping, however, the existing spatial data needed to be enhanced. The mapping systems with which we experimented cannot produce a map from a simple place name like <q><placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/4yIBTNLT71f">London</placeName>,</q> as it is not in itself geo-referenced, that is, related to a location on the earth. This is not a trivial process, even for materials in which the different forms of <q><placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/hijJpuMrsvD">London</placeName></q> have already been distinguished from one another. <ref target="#technology">Automated services for geo-referencing place names exist, but they produce a certain number of false or (in other respects) inadequate matches and so require considerable manual checking and cleanup.</ref> Within <abbr>CWRC</abbr>, new place data will be geo-referenced at the time of creation; the hundreds of thousands of place names contained in the <abbr>CWRC</abbr> data donations and seed data projects will undergo this process.</ref>
                             </ref>
                         </ref>
                     </p>
@@ -678,13 +678,13 @@
                         <p xml:id="p1055">
                             <ref target="#representation_of_women">Figure 1.3 shows Ward’s extensive travels around Europe: an extraordinary testimony to one woman’s influence at a time when travel was slow and dangerous.</ref>
                         </p>
-                        <p xml:id="p1056">Figure 1.4 indicates a concentration of hits in northern <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/C6LP5xxoAlK">England</placeName> (which reflects <ref target="#religion">the semi-underground life lived by Catholics</ref> during the time of Ward’s adolescence) and a cluster of hits in London.</p>
+                        <p xml:id="p1056">Figure 1.4 indicates a concentration of hits in northern <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/C6LP5xxoAlK">England</placeName> (which reflects <ref target="#religion">the semi-underground life lived by Catholics</ref> during the time of Ward’s adolescence) and a cluster of hits in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/KSKuYmgPR6D">London</placeName>.</p>
                         <p xml:id="p1057">
                             <ref target="#spatiality">Zooming in further in the Exhibit view reveals the various addresses or names of public buildings associated with Mary Ward. Most, but not all, of these addresses and buildings still exist today, which affirms the desirability of certain kinds of <ref target="#technology">mapping technologies for smart phone applications.</ref>
                             </ref>
                         </p>
                         <p xml:id="p1058">
-                            <ref target="#spatiality">If is it possible to produce a map with this degree of detail from the life of a single writer as described in Orlando, imagine the potential for further visualizations. <ref target="#history">Maps produced from combining multiple writers into a single visualization would reveal a great deal about the relationships between groups of writers and the changing uses of space within the city of London, for example. Imagine the thickly populated general maps of eighteenth-century writers’ London or twentieth-century</ref>
+                            <ref target="#spatiality">If is it possible to produce a map with this degree of detail from the life of a single writer as described in Orlando, imagine the potential for further visualizations. <ref target="#history">Maps produced from combining multiple writers into a single visualization would reveal a great deal about the relationships between groups of writers and the changing uses of space within the city of <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/DwBUw1eLaTj">London</placeName>, for example. Imagine the thickly populated general maps of eighteenth-century writers’ <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/63Z0faPv4BJ">London</placeName> or twentieth-century</ref>
                             </ref>
                             <figure>
                                 <head>Figure 1.3</head>
@@ -695,7 +695,7 @@
                                 <head>Figure 1.4</head>
                                 <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A206263d4-7084-4ab3-95b1-91bb866d04b9/datastream/JPG-DToC/view"/>
                                 <figDesc>Places related to <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/sm1F8uJG8QR">Mary Ward's</persName> travels and influence in <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/lTlpcOdjRJR">England</placeName>.</figDesc>
-                            </figure> writers’ London. <ref target="#close_reading">Theoretically, the degree of possible granularity knows no bounds.</ref>
+                            </figure> writers’ <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/noaUNMFvECQ">London</placeName>. <ref target="#close_reading">Theoretically, the degree of possible granularity knows no bounds.</ref>
                         </p>
                         <p xml:id="p1059">
                             <ref target="#spatiality">
@@ -705,7 +705,7 @@
                         <p xml:id="p1060">
                             <ref target="#history">
                                 <ref target="#spatiality">
-                                    <ref target="#non-book_media">Even without the benefit of historical maps against which to view the spatial data, mapping and then comparing Orlando’s eighteenth-century London and nineteenth-century London (Figures 1.5 and 1.6) clearly indicates the speed with which the boundaries of the city were moving outwards and the changes made, for instance, by roads taking over from the River Thames as transport corridors. Similarly, mapping and then comparing Orlando’s seventeenth-century and nineteenth-century Britain indicates the ways in which literary activity shifted as the centres of population shifted from the old agricultural centres to the new industrial centres.</ref>
+                                    <ref target="#non-book_media">Even without the benefit of historical maps against which to view the spatial data, mapping and then comparing Orlando’s eighteenth-century <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/sfKQTjlNmUQ">London</placeName> and nineteenth-century <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/mmlMGVByHrr">London</placeName> (Figures 1.5 and 1.6) clearly indicates the speed with which the boundaries of the city were moving outwards and the changes made, for instance, by roads taking over from the River Thames as transport corridors. Similarly, mapping and then comparing Orlando’s seventeenth-century and nineteenth-century Britain indicates the ways in which literary activity shifted as the centres of population shifted from the old agricultural centres to the new industrial centres.</ref>
                                 </ref>
                             </ref>
                         </p>
@@ -717,12 +717,12 @@
                             <figure>
                                 <head>Figure 1.5</head>
                                 <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A1e502987-5452-45e7-a9e8-98b3c468afe9/datastream/JPG-DToC/view"/>
-                                <figDesc>Places in London associated with writers of the eighteenth century in Orlando.</figDesc>
+                                <figDesc>Places in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/xjSZ7rx4YyK">London</placeName> associated with writers of the eighteenth century in Orlando.</figDesc>
                             </figure>
                             <figure>
                                 <head>Figure 1.6</head>
                                 <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A56565066-25ba-481f-91b0-007e9c8f9d1b/datastream/JPG-DToC/view"/>
-                                <figDesc>Places in London associated with the writers of the nineteenth century in Orlando</figDesc>
+                                <figDesc>Places in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/W9J21zwOxwc">London</placeName> associated with the writers of the nineteenth century in Orlando</figDesc>
                             </figure>
                             <ref target="#spatiality">concerns are not central to the research aims that inform the way that spatial information is collected. The implications of this are twofold. <ref target="#theme_or_topic">
                                     <ref target="#close_reading">First, there will be many cases, such as that of <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/n8a0vWBJfrg">Mary Ward’s</persName> global reach, when spatial information is not as granular as it might be in a dedicated <abbr>GIS</abbr> project, which could lead to surprising results. Second, there will be an inherent unevenness in the granularity of the spatial data across the project as a whole. Some projects will dedicate considerable effort to linking spatial and temporal data to enable precise rendering of materials on maps that will support exploration of research questions developed with spatial analysis in mind. Other projects will produce spatial data more casually, in keeping with standard biographical, critical, or bibliographical methods.</ref>
@@ -828,7 +828,7 @@
                     <p xml:id="p1074">
                         <ref target="#theory">
                             <ref target="#spatiality">
-                                <ref target="#technology">The challenges described here are by no means unique to this particular mapping project. They invoke the impact of drawing on uneven spatial data, in terms of its granularity (such as North America versus Halifax, Nova Scotia) and density (such as <abbr>CWRC</abbr> items that only have a few places mentioned in their metadata in contrast to a piece of travel writing in Orlando that already has extensive tagging). There is yet a further source of unevenness within <abbr>CWRC</abbr>: differences in the extent to which contextualizing semantic data is present within and across projects in the Collaboratory. A challenge for both <abbr>CWRC</abbr> and Orlando is the sheer density of spatial data across the collections, especially in relation to major population and publishing centres such as London, Toronto, and Montreal. An ideal mapping interface would allow efficient processing and visualization of large quantities of spatial data in a web environment, easy faceting according to a range of criteria, and manual sifting of results, plus quick reference to the source text.</ref>
+                                <ref target="#technology">The challenges described here are by no means unique to this particular mapping project. They invoke the impact of drawing on uneven spatial data, in terms of its granularity (such as North America versus Halifax, Nova Scotia) and density (such as <abbr>CWRC</abbr> items that only have a few places mentioned in their metadata in contrast to a piece of travel writing in Orlando that already has extensive tagging). There is yet a further source of unevenness within <abbr>CWRC</abbr>: differences in the extent to which contextualizing semantic data is present within and across projects in the Collaboratory. A challenge for both <abbr>CWRC</abbr> and Orlando is the sheer density of spatial data across the collections, especially in relation to major population and publishing centres such as <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/DivIFpt1Zdd">London</placeName>, Toronto, and Montreal. An ideal mapping interface would allow efficient processing and visualization of large quantities of spatial data in a web environment, easy faceting according to a range of criteria, and manual sifting of results, plus quick reference to the source text.</ref>
                             </ref>
                         </ref>
                     </p>
@@ -894,13 +894,13 @@
                     <listBibl>
                         <head>Print Sources</head>
                         <bibl>Bol, Peter K. <title level="a">What Do Humanists Want? What Do Humanists Need? What Might Humanists Get?</title>
-                            <title level="m">GeoHumanities: Art, History, Text at the Edge of Place</title>. Ed. Michael Dear, Jim Ketchum, Sarah Luria, and Douglas Richardson. London: Routledge, 2011. 296–308.</bibl>
+                            <title level="m">GeoHumanities: Art, History, Text at the Edge of Place</title>. Ed. Michael Dear, Jim Ketchum, Sarah Luria, and Douglas Richardson. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/FCpG1B6dooI">London</placeName>: Routledge, 2011. 296–308.</bibl>
                         <bibl>Cooper, David, and Ian N. Gregory. <title level="a">Mapping the English Lake District: A Literary <abbr>GIS</abbr>
                             </title>. <title level="j">Transactions of the Institute of British Geographers</title> 36 (2011): 89–108.</bibl>
                         <bibl>Corrigan, John. <title level="a">Qualitative <abbr>GIS</abbr> and Emergent Semantics</title>. <title level="m">Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. Bloomington: Indiana University Press, 2010. 76–88.</bibl>
                         <bibl>Gregory, Ian. <title level="a">Exploiting Time and Space: A Challenge for <abbr>GIS</abbr> in the Digital Humanities</title>. <title level="m">The Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. Ed. David J. Bodenhamer, John Corrigan, and Trevor M. Harris. Bloomington: Indiana University Press, 2010. 58–75.</bibl>
-                        <bibl>Jenstad, Janelle. <title level="a">Using Early Modern Maps in Literary Studies: Views and Caveats from London</title>. <title level="m">GeoHumanities: Art, History, Text at the Edge of Place</title>. Ed. Michael Dear, Jim Ketchum, Sarah Luria, and Douglas Richardson. London: Routledge, 2011. 112–19.</bibl>
-                        <bibl>Warf, Barney, and <persName key="Arias, Santa." ref="http://viaf.org/viaf/38729216" ana="webannotation:http://temp.lincsproject.ca/5rEl8YlLxzr">Santa Arias</persName>. <title level="a">Introduction: The Reinsertion of Space in to the Social Sciences and Humanities</title>. <title level="m">The Spatial Turn: Interdisciplinary Perspectives</title>. Ed. Warf and Arias. London: Routledge, 2008. 1–10.</bibl>
+                        <bibl>Jenstad, Janelle. <title level="a">Using Early Modern Maps in Literary Studies: Views and Caveats from <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/PtZyPZm5YEz">London</placeName></title>. <title level="m">GeoHumanities: Art, History, Text at the Edge of Place</title>. Ed. Michael Dear, Jim Ketchum, Sarah Luria, and Douglas Richardson. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/Xnn6k6wxTn9">London</placeName>: Routledge, 2011. 112–19.</bibl>
+                        <bibl>Warf, Barney, and <persName key="Arias, Santa." ref="http://viaf.org/viaf/38729216" ana="webannotation:http://temp.lincsproject.ca/5rEl8YlLxzr">Santa Arias</persName>. <title level="a">Introduction: The Reinsertion of Space in to the Social Sciences and Humanities</title>. <title level="m">The Spatial Turn: Interdisciplinary Perspectives</title>. Ed. Warf and Arias. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/LXA6uPbUzaf">London</placeName>: Routledge, 2008. 1–10.</bibl>
                     </listBibl>
                 </div>
             </div>
@@ -2940,6 +2940,1883 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/HOBnCaQOhSp]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "label": "London",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/KZgIamr3YKH">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/KZgIamr3YKH",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:58:16.422Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/UHDihXsqdgP",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/UHDihXsqdgP/selector/textPosition/tQrZ3NlxPw6",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9678,
+                "end": 9684,
+                "refinedBy": {
+                    "id": "/target/UHDihXsqdgP/selector/textQuote/7GgkZh8F9fM",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": "\n                             For example, the markup for the city of London is\n                    \n                    \n                        &lt;PLACE&gt;&lt;SETTLEMENT&gt;London&lt;/SETTLEMENT&gt;&lt;REGION REG=Middlesex&gt;&lt;/REGION&gt;&lt;GEOG REG=England&gt;&lt;/GEOG&gt;&lt;/PLACE&gt;\n                    \n                    \n                        Such tagging distinguishes this particular reference to",
+                    "suffix": "from the more than two dozen other settlements around the world (including London, Ontario) that take their name from the English city, from building names such as London House, and from proper names such as Jack London"
+                }
+            },
+            {
+                "id": "/target/UHDihXsqdgP/selector/css/zzxYXyykgtY",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/KZgIamr3YKH]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "label": "London",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/k1C89hwzUG9">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/k1C89hwzUG9",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:59:54.834Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ixL7LHrGC2W",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ixL7LHrGC2W/selector/textPosition/z2aWYyAZcNt",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9760,
+                "end": 9766,
+                "refinedBy": {
+                    "id": "/target/ixL7LHrGC2W/selector/textQuote/OO63hfOGfcJ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": "\n                             For example, the markup for the city of London is\n                    \n                    \n                        &lt;PLACE&gt;&lt;SETTLEMENT&gt;London&lt;/SETTLEMENT&gt;&lt;REGION REG=Middlesex&gt;&lt;/REGION&gt;&lt;GEOG REG=England&gt;&lt;/GEOG&gt;&lt;/PLACE&gt;\n                    \n                    \n                        Such tagging distinguishes this particular reference to London from the more than two dozen other settlements around the world (including",
+                    "suffix": " Ontario) that take their name from the English city, from building names such as London House, and from proper names such as Jack London"
+                }
+            },
+            {
+                "id": "/target/ixL7LHrGC2W/selector/css/haU93hHEfSL",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/9zxEmZAB13O]"
+            },
+            {
+                "id": "/target/ixL7LHrGC2W/selector/css/xWSyrbEcO8Z",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/k1C89hwzUG9]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6058560",
+        "label": "London",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Cm7Fv4mr7WU">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Cm7Fv4mr7WU",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:58:16.917Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/wuEsPCfFgna",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/wuEsPCfFgna/selector/textPosition/3MuATwHCGcB",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 14229,
+                "end": 14235,
+                "refinedBy": {
+                    "id": "/target/wuEsPCfFgna/selector/textQuote/cQ9H7nP9sqq",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": " Places often mentioned under the politics tag, for instance, include Hyde Park and Trafalgar Square in",
+                    "suffix": " the nuclear research station at Aldermaston in Berkshire as the site of demonstrations, and Holloway Prison as the place where London \n                                            suffragettes\n                                         were incarcerated"
+                }
+            },
+            {
+                "id": "/target/wuEsPCfFgna/selector/css/2R862CGNgeH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Cm7Fv4mr7WU]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "label": "London",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/HCrKKAwGWrv">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/HCrKKAwGWrv",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:58:16.917Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/EZng5aJrZbP",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/EZng5aJrZbP/selector/textPosition/FR1kLJq9FIs",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 14364,
+                "end": 14370,
+                "refinedBy": {
+                    "id": "/target/EZng5aJrZbP/selector/textQuote/P07HBCOHbzG",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": " Places often mentioned under the politics tag, for instance, include Hyde Park and Trafalgar Square in London, the nuclear research station at Aldermaston in Berkshire as the site of demonstrations, and Holloway Prison as the place where",
+                    "suffix": "\n                                            suffragettes\n                                         were incarcerated"
+                }
+            },
+            {
+                "id": "/target/EZng5aJrZbP/selector/css/mFfhgZ1JdOW",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/HCrKKAwGWrv]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "label": "London",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xuPLORMBo6E">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xuPLORMBo6E",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:58:16.918Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/l0TjCAz4kaw",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/l0TjCAz4kaw/selector/textPosition/dkaEhi7WGVt",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 14509,
+                "end": 14515,
+                "refinedBy": {
+                    "id": "/target/l0TjCAz4kaw/selector/textQuote/n8vPZLq9drZ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": " These references to",
+                    "suffix": "as a place are all distinguishable from London as a place of birth, death, or publication, even within the current published interface of Orlando, which is entirely textual"
+                }
+            },
+            {
+                "id": "/target/l0TjCAz4kaw/selector/css/mBScD525hrs",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xuPLORMBo6E]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "label": "London",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/jQsMF5IDIZB">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/jQsMF5IDIZB",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:58:16.918Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ndagY6Bet7J",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ndagY6Bet7J/selector/textPosition/3Ke0iyUKp46",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 14556,
+                "end": 14562,
+                "refinedBy": {
+                    "id": "/target/ndagY6Bet7J/selector/textQuote/3EwwxMIYiQk",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": " These references to London as a place are all distinguishable from",
+                    "suffix": "as a place of birth, death, or publication, even within the current published interface of Orlando, which is entirely textual"
+                }
+            },
+            {
+                "id": "/target/ndagY6Bet7J/selector/css/wK7xbE17FzB",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/jQsMF5IDIZB]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "label": "London",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/4yIBTNLT71f">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/4yIBTNLT71f",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:58:16.918Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/mKQGGmnLy0R",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/mKQGGmnLy0R/selector/textPosition/LOvGyJmgfne",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 18053,
+                "end": 18059,
+                "refinedBy": {
+                    "id": "/target/mKQGGmnLy0R/selector/textQuote/xO3NBznzcyb",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": " The mapping systems with which we experimented cannot produce a map from a simple place name like",
+                    "suffix": " as it is not in itself geo-referenced, that is, related to a location on the earth"
+                }
+            },
+            {
+                "id": "/target/mKQGGmnLy0R/selector/css/Dwspp835sZF",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/4yIBTNLT71f]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "label": "London",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/hijJpuMrsvD">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/hijJpuMrsvD",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:58:16.919Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/sbBORHM7JdS",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/sbBORHM7JdS/selector/textPosition/pL4CPkdblFN",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 18227,
+                "end": 18233,
+                "refinedBy": {
+                    "id": "/target/sbBORHM7JdS/selector/textQuote/p2XQcSQvDTY",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": " This is not a trivial process, even for materials in which the different forms of",
+                    "suffix": "have already been distinguished from one another"
+                }
+            },
+            {
+                "id": "/target/sbBORHM7JdS/selector/css/xAOiVgSLZ9j",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/hijJpuMrsvD]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "label": "London",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/KSKuYmgPR6D">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/KSKuYmgPR6D",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:58:16.919Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/X8sYB27mSdv",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/X8sYB27mSdv/selector/textPosition/Y8eutrZAtmy",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 23407,
+                "end": 23413,
+                "refinedBy": {
+                    "id": "/target/X8sYB27mSdv/selector/textQuote/gBYCJbbbCYU",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": "4 indicates a concentration of hits in northern England (which reflects the semi-underground life lived by Catholics during the time of Ward’s adolescence) and a cluster of hits in",
+                    "suffix": "\n                        \n                            Zooming in further in the Exhibit view reveals the various addresses or names of public buildings associated with Mary Ward"
+                }
+            },
+            {
+                "id": "/target/X8sYB27mSdv/selector/css/9baHHMkSprB",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/KSKuYmgPR6D]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "label": "London",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/DwBUw1eLaTj">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/DwBUw1eLaTj",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:58:16.920Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/p4j3HBKKEER",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/p4j3HBKKEER/selector/textPosition/mBctSH74for",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 24243,
+                "end": 24249,
+                "refinedBy": {
+                    "id": "/target/p4j3HBKKEER/selector/textQuote/KmsGbvKGELN",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": " Maps produced from combining multiple writers into a single visualization would reveal a great deal about the relationships between groups of writers and the changing uses of space within the city of",
+                    "suffix": " for example"
+                }
+            },
+            {
+                "id": "/target/p4j3HBKKEER/selector/css/k3egCoDhYZs",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/DwBUw1eLaTj]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "label": "London",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/63Z0faPv4BJ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/63Z0faPv4BJ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:58:16.920Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/a7zPMBLRiVi",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/a7zPMBLRiVi/selector/textPosition/9OHdeBNYROQ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 24338,
+                "end": 24344,
+                "refinedBy": {
+                    "id": "/target/a7zPMBLRiVi/selector/textQuote/IVwYnyzmf1E",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": " Imagine the thickly populated general maps of eighteenth-century writers’",
+                    "suffix": "or twentieth-century\n                            \n                            \n                                Figure 1"
+                }
+            },
+            {
+                "id": "/target/a7zPMBLRiVi/selector/css/NbhMxLHMXl1",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/63Z0faPv4BJ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "label": "London",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/noaUNMFvECQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/noaUNMFvECQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:58:17.438Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/w4aoXJNZLY3",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/w4aoXJNZLY3/selector/textPosition/FknEV8XCqHO",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 24863,
+                "end": 24869,
+                "refinedBy": {
+                    "id": "/target/w4aoXJNZLY3/selector/textQuote/xpu5tpaJhxt",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": "\n                             writers’",
+                    "suffix": " Theoretically, the degree of possible granularity knows no bounds"
+                }
+            },
+            {
+                "id": "/target/w4aoXJNZLY3/selector/css/hlG0lJJ3A93",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/noaUNMFvECQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "label": "London",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/sfKQTjlNmUQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/sfKQTjlNmUQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:58:17.439Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/BX9KcbCOZ7z",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/BX9KcbCOZ7z/selector/textPosition/yc3Sc2yW6Pw",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 25915,
+                "end": 25921,
+                "refinedBy": {
+                    "id": "/target/BX9KcbCOZ7z/selector/textQuote/MMBgicJyXW2",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": "\n                            \n                        \n                        \n                            \n                                \n                                    Even without the benefit of historical maps against which to view the spatial data, mapping and then comparing Orlando’s eighteenth-century",
+                    "suffix": "and nineteenth-century London (Figures 1"
+                }
+            },
+            {
+                "id": "/target/BX9KcbCOZ7z/selector/css/gexiksIviF7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/sfKQTjlNmUQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "label": "London",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/mmlMGVByHrr">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/mmlMGVByHrr",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:58:17.439Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ld7f2yHQ2o9",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ld7f2yHQ2o9/selector/textPosition/FNPoxsuI7gs",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 25945,
+                "end": 25951,
+                "refinedBy": {
+                    "id": "/target/ld7f2yHQ2o9/selector/textQuote/gyeC26j7qDl",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": "\n                            \n                        \n                        \n                            \n                                \n                                    Even without the benefit of historical maps against which to view the spatial data, mapping and then comparing Orlando’s eighteenth-century London and nineteenth-century",
+                    "suffix": "(Figures 1"
+                }
+            },
+            {
+                "id": "/target/ld7f2yHQ2o9/selector/css/Tv7i2bWkZve",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/mmlMGVByHrr]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "label": "London",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xjSZ7rx4YyK">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xjSZ7rx4YyK",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:58:17.440Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/10WzfAFtUhW",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/10WzfAFtUhW/selector/textPosition/AVTfazZuYRC",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27819,
+                "end": 27825,
+                "refinedBy": {
+                    "id": "/target/10WzfAFtUhW/selector/textQuote/8wbxsN1TSKE",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": "5\n                                \n                                Places in",
+                    "suffix": "associated with writers of the eighteenth century in Orlando"
+                }
+            },
+            {
+                "id": "/target/10WzfAFtUhW/selector/css/P00cdItrXE9",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xjSZ7rx4YyK]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "label": "London",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/W9J21zwOxwc">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/W9J21zwOxwc",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:58:17.440Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ZIaoutmwCcZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ZIaoutmwCcZ/selector/textPosition/txyUYnhUySw",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28064,
+                "end": 28070,
+                "refinedBy": {
+                    "id": "/target/ZIaoutmwCcZ/selector/textQuote/mSps0mT2h0t",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": "6\n                                \n                                Places in",
+                    "suffix": "associated with the writers of the nineteenth century in Orlando\n                            \n                            concerns are not central to the research aims that inform the way that spatial information is collected"
+                }
+            },
+            {
+                "id": "/target/ZIaoutmwCcZ/selector/css/O5OS1e2yKy5",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/W9J21zwOxwc]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "label": "London",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/DivIFpt1Zdd">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/DivIFpt1Zdd",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:58:17.440Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/CQIcVxdnYr1",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/CQIcVxdnYr1/selector/textPosition/lMUYmWCJbm1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 42303,
+                "end": 42309,
+                "refinedBy": {
+                    "id": "/target/CQIcVxdnYr1/selector/textQuote/OAHtmIofpLe",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": " A challenge for both CWRC and Orlando is the sheer density of spatial data across the collections, especially in relation to major population and publishing centres such as",
+                    "suffix": " Toronto, and Montreal"
+                }
+            },
+            {
+                "id": "/target/CQIcVxdnYr1/selector/css/8A4qr2S1Cfl",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/DivIFpt1Zdd]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "label": "London",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/FCpG1B6dooI">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/FCpG1B6dooI",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:58:17.441Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/OgTMjRqWFnB",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/OgTMjRqWFnB/selector/textPosition/tiBAJNGKZrd",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 48078,
+                "end": 48084,
+                "refinedBy": {
+                    "id": "/target/OgTMjRqWFnB/selector/textQuote/jSYYe7RA8KH",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": "",
+                    "suffix": " Routledge, 2011"
+                }
+            },
+            {
+                "id": "/target/OgTMjRqWFnB/selector/css/2VOSrvCngPQ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/FCpG1B6dooI]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "label": "London",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/PtZyPZm5YEz">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/PtZyPZm5YEz",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:58:17.441Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/8ZusOilLZMv",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/8ZusOilLZMv/selector/textPosition/8l2awJFWrJx",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 48927,
+                "end": 48933,
+                "refinedBy": {
+                    "id": "/target/8ZusOilLZMv/selector/textQuote/wQLxU0vlMmC",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": " Using Early Modern Maps in Literary Studies: Views and Caveats from",
+                    "suffix": " GeoHumanities: Art, History, Text at the Edge of Place"
+                }
+            },
+            {
+                "id": "/target/8ZusOilLZMv/selector/css/0q0CZlhK7s2",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/PtZyPZm5YEz]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "label": "London",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Xnn6k6wxTn9">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Xnn6k6wxTn9",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:58:17.442Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4S0LSkLGYhK",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4S0LSkLGYhK/selector/textPosition/xht0NPnReat",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 49059,
+                "end": 49065,
+                "refinedBy": {
+                    "id": "/target/4S0LSkLGYhK/selector/textQuote/KlLsaltWigO",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": "",
+                    "suffix": " Routledge, 2011"
+                }
+            },
+            {
+                "id": "/target/4S0LSkLGYhK/selector/css/0MeXuL1KK1R",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Xnn6k6wxTn9]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "label": "London",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/LXA6uPbUzaf">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/LXA6uPbUzaf",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:58:17.444Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/8x0zovuStlV",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/8x0zovuStlV/selector/textPosition/YvK11UjDicQ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 49298,
+                "end": 49304,
+                "refinedBy": {
+                    "id": "/target/8x0zovuStlV/selector/textQuote/qnXIlEWz8l8",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": "",
+                    "suffix": " Routledge, 2008"
+                }
+            },
+            {
+                "id": "/target/8x0zovuStlV/selector/css/EIA2cTHjiiI",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/LXA6uPbUzaf]"
             }
         ]
     },
