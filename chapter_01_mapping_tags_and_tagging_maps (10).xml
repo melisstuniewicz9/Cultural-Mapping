@@ -888,7 +888,7 @@
                             <title level="m">TEI: Text Encoding Initiative.</title>
                             <ref target="http://www.tei-c.org/index.xml">http://www.tei-c.org/index.xml</ref>
                         </bibl>
-                        <bibl><orgName key="Thomas, William G., 1964-...." ref="http://viaf.org/viaf/29822258" ana="webannotation:http://temp.lincsproject.ca/ZP672z6E85J">Thomas</orgName>, <persName key="Shakespeare, William, 1564-1616." ref="http://viaf.org/viaf/96994048" ana="webannotation:http://temp.lincsproject.ca/UQesOSTT9QD">William G.,</persName> <hi rend="small-caps">iii</hi>, <persName key="Healey, Richard G." ref="http://viaf.org/viaf/222743171" ana="webannotation:http://temp.lincsproject.ca/zAFfNimEm46">Richard G. Healey</persName>, and Ian J. Cottingham. <title level="m">The Aurora Project</title>. <orgName key="University of Nebraska–Lincoln" ref="http://viaf.org/viaf/312587805" ana="webannotation:http://temp.lincsproject.ca/l9w7BQAr518">University of Nebraska</orgName>. <ref target="http://auroraproject.unl.edu/web/railroads.xhtml">http://auroraproject.unl.edu/web/railroads.xhtml</ref>
+                        <bibl><orgName key="Thomas, William G., 1964-...." ref="http://viaf.org/viaf/29822258" ana="webannotation:http://temp.lincsproject.ca/ZP672z6E85J">Thomas</orgName>, <persName key="Thomas, William G., 1964-...." ref="http://viaf.org/viaf/29822258" ana="webannotation:http://temp.lincsproject.ca/9ZTQg8RRbk5">William G.,</persName> <hi rend="small-caps">iii</hi>, <persName key="Healey, Richard G." ref="http://viaf.org/viaf/222743171" ana="webannotation:http://temp.lincsproject.ca/zAFfNimEm46">Richard G. Healey</persName>, and Ian J. Cottingham. <title level="m">The Aurora Project</title>. <orgName key="University of Nebraska–Lincoln" ref="http://viaf.org/viaf/312587805" ana="webannotation:http://temp.lincsproject.ca/l9w7BQAr518">University of Nebraska</orgName>. <ref target="http://auroraproject.unl.edu/web/railroads.xhtml">http://auroraproject.unl.edu/web/railroads.xhtml</ref>
                         </bibl>
                     </listBibl>
                     <listBibl>
@@ -26645,20 +26645,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/UQesOSTT9QD">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/9ZTQg8RRbk5">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/UQesOSTT9QD",
+    "id": "http://temp.lincsproject.ca/9ZTQg8RRbk5",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-06-02T17:38:03.023Z",
+    "created": "2026-06-02T17:38:30.058Z",
     "creator": {
         "id": "https://github.com/melisstuniewicz9",
         "type": "crm:E21_Person",
@@ -26718,14 +26718,22 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/UQesOSTT9QD]"
+            },
+            {
+                "id": "/target/DTZsu4J6CVr/selector/css/EIYrSlBI2qI",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/9ZTQg8RRbk5]"
             }
         ]
     },
     "body": {
-        "id": "http://viaf.org/viaf/96994048",
+        "id": "http://viaf.org/viaf/29822258",
         "type": "crm:E21_Person",
-        "label": "Shakespeare, William, 1564-1616.",
-        "description": "Shakespeare, William"
+        "label": "Thomas, William G., 1964-....",
+        "description": "Thomas, William G. III 1964-"
     },
     "P2_has_type": [
         "oa:identifying"
