@@ -492,7 +492,7 @@
                 <byline>
                     <hi rend="italic">Leveraging Spatial Markup for Literary History</hi>
                 </byline>
-                <docAuthor> Susan Brown, Isobel Grundy, Mariana Paredes-Olea, Jeffery Antoniuk, &amp; Breanna Mroczek</docAuthor>
+                <docAuthor> <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/l38EjyOiqAC">Susan Brown</persName>, Isobel Grundy, Mariana Paredes-Olea, Jeffery Antoniuk, &amp; Breanna Mroczek</docAuthor>
                 <div type="section">
                     <head>Introduction</head>
                     <p xml:id="p1037">
@@ -546,7 +546,7 @@
                         </ref>
                     </p>
                     <p xml:id="p1041">
-                        <ref target="#theme_or_topic">Orlando is the founding project behind <abbr>CWRC</abbr>. <ref target="#canon_formation">Initiated in the mid-1990s by a small team of literary researchers, Susan Brown, Patricia Clements, and Isobel Grundy, just as graphical browser environments were exponentially expanding the usage of the World Wide Web, this research project sought to produce, from scratch, <ref target="#women_writing">
+                        <ref target="#theme_or_topic">Orlando is the founding project behind <abbr>CWRC</abbr>. <ref target="#canon_formation">Initiated in the mid-1990s by a small team of literary researchers, <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/TuzEAeaQciV">Susan Brown</persName>, Patricia Clements, and Isobel Grundy, just as graphical browser environments were exponentially expanding the usage of the World Wide Web, this research project sought to produce, from scratch, <ref target="#women_writing">
                                     <ref target="#intellectual_history">a history of women’s writing in the British Isles</ref> using computers <note place="inline">
                                         <bibl>Brown and Clements et al.</bibl>
                                     </note>. <ref target="#technology">
@@ -906,4 +906,192 @@
             </div>
         </body>
     </text>
+	<standOff type="annotation">
+		
+<xenoData>
+			
+<rdf:RDF>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/l38EjyOiqAC">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/l38EjyOiqAC",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:39:24.754Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/jACb8kSksIG",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/jACb8kSksIG/selector/textPosition/iMaTojJTpvi",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 225,
+                "end": 236,
+                "refinedBy": {
+                    "id": "/target/jACb8kSksIG/selector/textQuote/Cv11wqFEjl4",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Susan Brown",
+                    "prefix": "\n        \n            \n                \n                    Mapping Tags and Tagging Maps\n                \n                \n                    Leveraging Spatial Markup for Literary History\n                \n                ",
+                    "suffix": " Isobel Grundy, Mariana Paredes-Olea, Jeffery Antoniuk, & Breanna Mroczek\n                \n                    Introduction\n                    \n                        The spatial turn is making itself felt throughout literary studies, as it is in other areas of the humanities and social sciences"
+                }
+            },
+            {
+                "id": "/target/jACb8kSksIG/selector/css/GLtm0Bmxyh5",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/l38EjyOiqAC]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/104953085",
+        "type": "crm:E21_Person",
+        "label": "Brown, Susan Irene",
+        "description": "Susan Irene Brown Professor of English, Digital Humanities, Critical Infrastructure Studies, Victorian Writing, Women’s Writing, and Feminist Theory."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/TuzEAeaQciV">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/TuzEAeaQciV",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:39:24.755Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/uOUKPGos34z",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/uOUKPGos34z/selector/textPosition/dFauIUnxRS1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7238,
+                "end": 7249,
+                "refinedBy": {
+                    "id": "/target/uOUKPGos34z/selector/textQuote/VcaK7vACB2O",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Susan Brown",
+                    "prefix": " Initiated in the mid-1990s by a small team of literary researchers,",
+                    "suffix": " Patricia Clements, and Isobel Grundy, just as graphical browser environments were exponentially expanding the usage of the World Wide Web, this research project sought to produce, from scratch, \n                                    a history of women’s writing in the British Isles using computers \n                                        Brown and Clements et al"
+                }
+            },
+            {
+                "id": "/target/uOUKPGos34z/selector/css/JR9K6wj75AZ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/TuzEAeaQciV]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/104953085",
+        "type": "crm:E21_Person",
+        "label": "Brown, Susan Irene",
+        "description": "Susan Irene Brown Professor of English, Digital Humanities, Critical Infrastructure Studies, Victorian Writing, Women’s Writing, and Feminist Theory."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+			
+</rdf:RDF>
+		
+</xenoData>
+	</standOff>
 </TEI>
