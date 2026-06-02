@@ -894,7 +894,7 @@
                     <listBibl>
                         <head>Print Sources</head>
                         <bibl><persName key="Bol, Peter Kees" ref="http://viaf.org/viaf/56906098" ana="webannotation:http://temp.lincsproject.ca/FZ6Ieesu9S7">Bol</persName>, <persName key="Bol, Peter Kees" ref="http://viaf.org/viaf/56906098" ana="webannotation:http://temp.lincsproject.ca/sAu1kZbHoiW">Peter K.</persName> <title level="a">What Do Humanists Want? What Do Humanists Need? What Might Humanists Get?</title>
-                            <title level="m">GeoHumanities: Art, History, Text at the Edge of Place</title>. Ed. Michael Dear, <persName key="Ketchum, Jim" ref="http://viaf.org/viaf/297864675" ana="webannotation:http://temp.lincsproject.ca/CMlTe7DBX0n">Jim Ketchum</persName>, <persName key="Luria, Sarah" ref="http://viaf.org/viaf/8482149068426665730009" ana="webannotation:http://temp.lincsproject.ca/mDDWBotCEbz">Sarah Luria</persName>, and <persName key="Richardson, Douglas, 1950-...." ref="http://viaf.org/viaf/19915312" ana="webannotation:http://temp.lincsproject.ca/dOu2red2TmX">Douglas Richardson</persName>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/FCpG1B6dooI">London</placeName>: <orgName key="Taylor &amp; Francis" ref="http://viaf.org/viaf/126513615" ana="webannotation:http://temp.lincsproject.ca/oMf4QuW3SaC">Routledge</orgName>, 2011. 296–308.</bibl>
+                            <title level="m">GeoHumanities: Art, History, Text at the Edge of Place</title>. Ed. <persName key="Dear, M. J. (Michael J.)" ref="http://viaf.org/viaf/17347605" ana="webannotation:http://temp.lincsproject.ca/BGIJmag7rlD">Michael Dear</persName>, <persName key="Ketchum, Jim" ref="http://viaf.org/viaf/297864675" ana="webannotation:http://temp.lincsproject.ca/CMlTe7DBX0n">Jim Ketchum</persName>, <persName key="Luria, Sarah" ref="http://viaf.org/viaf/8482149068426665730009" ana="webannotation:http://temp.lincsproject.ca/mDDWBotCEbz">Sarah Luria</persName>, and <persName key="Richardson, Douglas, 1950-...." ref="http://viaf.org/viaf/19915312" ana="webannotation:http://temp.lincsproject.ca/dOu2red2TmX">Douglas Richardson</persName>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/FCpG1B6dooI">London</placeName>: <orgName key="Taylor &amp; Francis" ref="http://viaf.org/viaf/126513615" ana="webannotation:http://temp.lincsproject.ca/oMf4QuW3SaC">Routledge</orgName>, 2011. 296–308.</bibl>
                         <bibl>Cooper, David, and <persName key="Gregory, Ian N., 1970-...." ref="http://viaf.org/viaf/119669087" ana="webannotation:http://temp.lincsproject.ca/DX3GdFQr0cL">Ian N. Gregory</persName>. <title level="a">Mapping the English Lake District: A Literary <abbr>GIS</abbr>
                             </title>. <title level="j">Transactions of the Institute of British Geographers</title> 36 (2011): 89–108.</bibl>
                         <bibl>Corrigan, John. <title level="a">Qualitative <abbr>GIS</abbr> and Emergent Semantics</title>. <title level="m">Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. Bloomington: <orgName key="Indiana university press" ref="http://viaf.org/viaf/122335523" ana="webannotation:http://temp.lincsproject.ca/pkiusMY1RMr">Indiana University Press</orgName>, 2010. 76–88.</bibl>
@@ -24149,6 +24149,95 @@
         "type": "crm:E21_Person",
         "label": "Bol, Peter Kees",
         "description": "Bol, Peter Kees, 1948-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/BGIJmag7rlD">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/BGIJmag7rlD",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T17:09:36.379Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/3WnmrBP1MwT",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/3WnmrBP1MwT/selector/textPosition/9oS6vLeSBXl",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 48014,
+                "end": 48026,
+                "refinedBy": {
+                    "id": "/target/3WnmrBP1MwT/selector/textQuote/OjUZ3FS9fTw",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Michael Dear",
+                    "prefix": "",
+                    "suffix": " Jim Ketchum, Sarah Luria, and Douglas Richardson"
+                }
+            },
+            {
+                "id": "/target/3WnmrBP1MwT/selector/css/FSAeUKF2gBo",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/BGIJmag7rlD]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/17347605",
+        "type": "crm:E21_Person",
+        "label": "Dear, M. J. (Michael J.)",
+        "description": "Dear, Michael, 1944-...."
     },
     "P2_has_type": [
         "oa:identifying"
