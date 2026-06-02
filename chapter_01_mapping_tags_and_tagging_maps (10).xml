@@ -632,7 +632,7 @@
                     </p>
                     <p xml:id="p1051">
                         <ref target="#technology">
-                            <ref target="#spatiality">We considered a number of mapping tools—such as Exhibit (Huynh), OpenLayers (<object key="MetaCarta" ref="https://www.wikidata.org/wiki/Q6822273" ana="webannotation:http://temp.lincsproject.ca/swNTXSh5RpT">MetaCarta</object>), Google Maps (<orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/lRIRZAUGrgl">Google</orgName>), ArcGIS (<orgName key="Environmental Systems Research Institute (Redlands, Calif.)" ref="http://viaf.org/viaf/150806221" ana="webannotation:http://temp.lincsproject.ca/HWSMASbVWlB">Esri</orgName>), and HyperCities (UCLA)—experimented with several, and achieved varying degrees of success depending, respectively, on the intuitiveness of their navigation, their ability to read and plot geo-referenced data, and the quality of the visualizations they produced. The maps discussed here were produced using the Map View component of the open source Exhibit 2.0 software produced by the SIMILE project (<abbr><orgName key="Massachusetts institute of technology" ref="http://viaf.org/viaf/150025207" ana="webannotation:http://temp.lincsproject.ca/g9y90Yigtzl">MIT</orgName></abbr>) and more recently sustained by <orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/xZ894DMibrp">Google</orgName>. Exhibit enables the creation of dynamic websites with various views for rendering spatial data within a browser.</ref>
+                            <ref target="#spatiality">We considered a number of mapping tools—such as Exhibit (<object key="David François Huynh" ref="https://www.wikidata.org/wiki/Q102363461" ana="webannotation:http://temp.lincsproject.ca/lmktrXTFI0w">Huynh</object>), OpenLayers (<object key="MetaCarta" ref="https://www.wikidata.org/wiki/Q6822273" ana="webannotation:http://temp.lincsproject.ca/swNTXSh5RpT">MetaCarta</object>), Google Maps (<orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/lRIRZAUGrgl">Google</orgName>), ArcGIS (<orgName key="Environmental Systems Research Institute (Redlands, Calif.)" ref="http://viaf.org/viaf/150806221" ana="webannotation:http://temp.lincsproject.ca/HWSMASbVWlB">Esri</orgName>), and HyperCities (UCLA)—experimented with several, and achieved varying degrees of success depending, respectively, on the intuitiveness of their navigation, their ability to read and plot geo-referenced data, and the quality of the visualizations they produced. The maps discussed here were produced using the Map View component of the open source Exhibit 2.0 software produced by the SIMILE project (<abbr><orgName key="Massachusetts institute of technology" ref="http://viaf.org/viaf/150025207" ana="webannotation:http://temp.lincsproject.ca/g9y90Yigtzl">MIT</orgName></abbr>) and more recently sustained by <orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/xZ894DMibrp">Google</orgName>. Exhibit enables the creation of dynamic websites with various views for rendering spatial data within a browser.</ref>
                         </ref>
                     </p>
                     <p xml:id="p1052">
@@ -26903,6 +26903,95 @@
         "type": "crm:E53_Place",
         "label": "London House Hotel",
         "description": "England, Greater London, GB"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/lmktrXTFI0w">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/lmktrXTFI0w",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T18:18:14.178Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/AcWCdAOtnhE",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps (10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps (10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/AcWCdAOtnhE/selector/textPosition/mkYZah4QZ9P",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 19768,
+                "end": 19773,
+                "refinedBy": {
+                    "id": "/target/AcWCdAOtnhE/selector/textQuote/50eAdoxObA8",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Huynh",
+                    "prefix": "\n                            \n                        \n                    \n                    \n                        \n                            We considered a number of mapping tools—such as Exhibit ",
+                    "suffix": ", OpenLayers (MetaCarta), Google Maps (Google), ArcGIS (Esri), and HyperCities (UCLA)—experimented with several, and achieved varying degrees of success depending, respectively, on the intuitiveness of their navigation, their ability to read and plot geo-referenced data, and the quality of the visualizations they produced"
+                }
+            },
+            {
+                "id": "/target/AcWCdAOtnhE/selector/css/dvXppYhFFzM",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/lmktrXTFI0w]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q102363461",
+        "label": "David François Huynh",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
