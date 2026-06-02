@@ -828,7 +828,7 @@
                     <p xml:id="p1074">
                         <ref target="#theory">
                             <ref target="#spatiality">
-                                <ref target="#technology">The challenges described here are by no means unique to this particular mapping project. They invoke the impact of drawing on uneven spatial data, in terms of its granularity (such as North America versus Halifax, Nova Scotia) and density (such as <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/2Wn8bQRqrLz">CWRC</orgName></abbr> items that only have a few places mentioned in their metadata in contrast to a piece of travel writing in <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/SAoYfZyMFt5">Orlando</orgName> that already has extensive tagging). There is yet a further source of unevenness within <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/rcsmMrfzEL6">CWRC</orgName></abbr>: differences in the extent to which contextualizing semantic data is present within and across projects in the Collaboratory. A challenge for both <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/oekfvZeo6Vp">CWRC</orgName></abbr> and <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/EO2YbrvrfOB">Orlando</orgName> is the sheer density of spatial data across the collections, especially in relation to major population and publishing centres such as <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/DivIFpt1Zdd">London</placeName>, Toronto, and Montreal. An ideal mapping interface would allow efficient processing and visualization of large quantities of spatial data in a web environment, easy faceting according to a range of criteria, and manual sifting of results, plus quick reference to the source text.</ref>
+                                <ref target="#technology">The challenges described here are by no means unique to this particular mapping project. They invoke the impact of drawing on uneven spatial data, in terms of its granularity (such as North America versus Halifax, Nova Scotia) and density (such as <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/2Wn8bQRqrLz">CWRC</orgName></abbr> items that only have a few places mentioned in their metadata in contrast to a piece of travel writing in <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/SAoYfZyMFt5">Orlando</orgName> that already has extensive tagging). There is yet a further source of unevenness within <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/rcsmMrfzEL6">CWRC</orgName></abbr>: differences in the extent to which contextualizing semantic data is present within and across projects in the Collaboratory. A challenge for both <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/oekfvZeo6Vp">CWRC</orgName></abbr> and <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/EO2YbrvrfOB">Orlando</orgName> is the sheer density of spatial data across the collections, especially in relation to major population and publishing centres such as <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/DivIFpt1Zdd">London</placeName>, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/qQcLmdjAaa4">Toronto</placeName>, and Montreal. An ideal mapping interface would allow efficient processing and visualization of large quantities of spatial data in a web environment, easy faceting according to a range of criteria, and manual sifting of results, plus quick reference to the source text.</ref>
                             </ref>
                         </ref>
                     </p>
@@ -19420,6 +19420,95 @@
         "type": "crm:E21_Person",
         "label": "Jenstad, Janelle.",
         "description": "Janelle Jenstad professeure d'université canadienne"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/qQcLmdjAaa4">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/qQcLmdjAaa4",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T15:30:30.332Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/MpQsuAwPOaa",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/MpQsuAwPOaa/selector/textPosition/nfhuNIIVkGH",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 42311,
+                "end": 42318,
+                "refinedBy": {
+                    "id": "/target/MpQsuAwPOaa/selector/textQuote/7dYFKjmXNCE",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Toronto",
+                    "prefix": " A challenge for both CWRC and Orlando is the sheer density of spatial data across the collections, especially in relation to major population and publishing centres such as London,",
+                    "suffix": " and Montreal"
+                }
+            },
+            {
+                "id": "/target/MpQsuAwPOaa/selector/css/apK4i9B98xt",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/qQcLmdjAaa4]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6167865",
+        "label": "Toronto",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
