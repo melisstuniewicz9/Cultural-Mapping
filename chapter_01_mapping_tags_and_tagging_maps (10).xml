@@ -710,7 +710,7 @@
                             </ref>
                         </p>
                         <p xml:id="p1061">
-                            <ref target="#theme_or_topic">The outlying markers in the map of Mary Ward’s travels (<placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/syaNBqQMwJk">Canada</placeName>, the United States, India, and Australia) shed light on two further considerations. They show the extent to which the context leveraged from markup is always already embedded in the specifics of the author’s life and works, and must therefore be understood as part of an ongoing process of humanistic interpretation and situated representation, rather than a positivist index of certain relations. These hits on Ward’s map (Figure 1.2) reflect the information provided in Orlando’s entry on Ward that <ref target="#religion">the order she founded flourishes today</ref> in those places.</ref>
+                            <ref target="#theme_or_topic">The outlying markers in the map of <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/6Agsy7OGoTV">Mary Ward’s</persName> travels (<placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/syaNBqQMwJk">Canada</placeName>, the United States, India, and Australia) shed light on two further considerations. They show the extent to which the context leveraged from markup is always already embedded in the specifics of the author’s life and works, and must therefore be understood as part of an ongoing process of humanistic interpretation and situated representation, rather than a positivist index of certain relations. These hits on Ward’s map (Figure 1.2) reflect the information provided in Orlando’s entry on Ward that <ref target="#religion">the order she founded flourishes today</ref> in those places.</ref>
                         </p>
                         <p xml:id="p1062">
                             <ref target="#spatiality">The way Orlando’s material on Mary Ward figures on our map highlights one of the crucial aspects of the kind of mapping that will be involved in <abbr>CWRC</abbr> as a whole. There are, as mentioned above, rare projects involved in <abbr>CWRC</abbr> that focus on the idea of space and have mapping as a central component; however, for the bulk of <abbr>CWRC</abbr> projects, and certainly for donated data projects that predate the Collaboratory, these</ref>
@@ -3208,6 +3208,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/sm1F8uJG8QR]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/62341746",
+        "label": "Ward, Mary",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/6Agsy7OGoTV">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/6Agsy7OGoTV",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:49:09.058Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/giE8T3gchlM",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/giE8T3gchlM/selector/textPosition/cmqnkxfhNGK",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 26594,
+                "end": 26605,
+                "refinedBy": {
+                    "id": "/target/giE8T3gchlM/selector/textQuote/4pv7dXN1gXg",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Mary Ward’s",
+                    "prefix": "\n                                \n                            \n                        \n                        \n                            The outlying markers in the map of",
+                    "suffix": "travels (Canada, the United States, India, and Australia) shed light on two further considerations"
+                }
+            },
+            {
+                "id": "/target/giE8T3gchlM/selector/css/xDH1jtdlI91",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/6Agsy7OGoTV]"
             }
         ]
     },
