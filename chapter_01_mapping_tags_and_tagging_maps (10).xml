@@ -558,7 +558,7 @@
                     </p>
                     <p xml:id="p1042">
                         <ref target="#spatiality">Members of Orlando were keen to map its contents. <ref target="#methodology">
-                                <ref target="#technology">From the start, they assiduously tagged locations throughout the text base using nested tags, based on those developed by <orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/FUPdZCWXyAa">the Text Encoding Initiative</orgName> (<abbr>TEI</abbr>), to label places mentioned in many different contexts so that it would be possible to search and eventually map the materials that were being written. Thus, spatial information in Orlando was tagged with labels that specify that the text enveloped in the tag is a reference to a place, with sub-tags or nested tags demarcating the subcomponents of the spatial information.</ref>
+                                <ref target="#technology">From the start, they assiduously tagged locations throughout the text base using nested tags, based on those developed by <orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/FUPdZCWXyAa">the Text Encoding Initiative</orgName> (<abbr><orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/pWpUzlOmxq3">TEI</orgName></abbr>), to label places mentioned in many different contexts so that it would be possible to search and eventually map the materials that were being written. Thus, spatial information in Orlando was tagged with labels that specify that the text enveloped in the tag is a reference to a place, with sub-tags or nested tags demarcating the subcomponents of the spatial information.</ref>
                             </ref> For example, the markup for the city of <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/HOBnCaQOhSp">London</placeName> is</ref>
                     </p>
                     <q type="block">
@@ -3741,6 +3741,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/FUPdZCWXyAa]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/262867947",
+        "label": "Text Encoding Initiative",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/pWpUzlOmxq3">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/pWpUzlOmxq3",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:03:25.930Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ltAKmQPOtQE",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ltAKmQPOtQE/selector/textPosition/fpZv0zW7OT2",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 8882,
+                "end": 8885,
+                "refinedBy": {
+                    "id": "/target/ltAKmQPOtQE/selector/textQuote/pUXZXbdYb5S",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "TEI",
+                    "prefix": " \n                                From the start, they assiduously tagged locations throughout the text base using nested tags, based on those developed by the Text Encoding Initiative ",
+                    "suffix": ", to label places mentioned in many different contexts so that it would be possible to search and eventually map the materials that were being written"
+                }
+            },
+            {
+                "id": "/target/ltAKmQPOtQE/selector/css/lYLx9POep2k",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/pWpUzlOmxq3]"
             }
         ]
     },
