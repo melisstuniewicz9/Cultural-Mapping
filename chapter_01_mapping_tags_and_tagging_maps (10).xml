@@ -836,7 +836,7 @@
                         <ref target="#theory">
                             <ref target="#spatiality">
                                 <ref target="#theme_or_topic">
-                                    <ref target="#technology">Our early experimental work tackles only a few of the more obvious complexities of spatial and temporal mapping. We are also keenly aware that our pragmatic experimentation with existing open source tools means that, to date, we have relied on existing conventions for representation of space that may be inherently out of step with the nature of our undertaking. As Johanna Drucker urges, humanities visualization needs <q>interpretations that arise in observer-codependence, characterized by ambiguity and uncertainty, as the basis on which a representation is constructed</q> to create <q>a map whose basic coordinate grid is constructed as an effect of these ambiguities</q>
+                                    <ref target="#technology">Our early experimental work tackles only a few of the more obvious complexities of spatial and temporal mapping. We are also keenly aware that our pragmatic experimentation with existing open source tools means that, to date, we have relied on existing conventions for representation of space that may be inherently out of step with the nature of our undertaking. As <persName key="Drucker, Johanna, 1952-...." ref="http://viaf.org/viaf/71503942" ana="webannotation:http://temp.lincsproject.ca/u6kCYmLMubp">Johanna Drucker</persName> urges, humanities visualization needs <q>interpretations that arise in observer-codependence, characterized by ambiguity and uncertainty, as the basis on which a representation is constructed</q> to create <q>a map whose basic coordinate grid is constructed as an effect of these ambiguities</q>
                                         <note place="inline">
                                             <bibl>Drucker par. 2</bibl>
                                         </note>. The systems with which we have experimented thus far cannot begin to support such a nuanced model of spatial visualization. How best to address the mapping needs of literary scholars within <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/ifYmfHlIS2A">CWRC</orgName></abbr>, given the available resources, continues to drive our research. We look forward to learning what affordances other spatial visualization systems, such as Neatline with its attempt to incorporate an interpretive, humanistic perspective, can offer, and how we might adapt them to the kind of <ref target="#collaboration">collaborative, spontaneous, serendipitous mapping environment that <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/QcEnB2vJZ6h">CWRC</orgName></abbr> hopes to support.</ref>
@@ -19509,6 +19509,95 @@
         "label": "Toronto",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/u6kCYmLMubp">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/u6kCYmLMubp",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T15:30:51.408Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4actCKmBMcG",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4actCKmBMcG/selector/textPosition/tN9xBzvYcnQ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 43176,
+                "end": 43191,
+                "refinedBy": {
+                    "id": "/target/4actCKmBMcG/selector/textQuote/c9HT4RtMg1o",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Johanna Drucker",
+                    "prefix": " As",
+                    "suffix": "urges, humanities visualization needs interpretations that arise in observer-codependence, characterized by ambiguity and uncertainty, as the basis on which a representation is constructed to create a map whose basic coordinate grid is constructed as an effect of these ambiguities\n                                        \n                                            Drucker par"
+                }
+            },
+            {
+                "id": "/target/4actCKmBMcG/selector/css/cQIiV4TOWYE",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/u6kCYmLMubp]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/71503942",
+        "type": "crm:E21_Person",
+        "label": "Drucker, Johanna, 1952-....",
+        "description": "Drucker, Johanna"
     },
     "P2_has_type": [
         "oa:identifying"
