@@ -632,7 +632,7 @@
                     </p>
                     <p xml:id="p1051">
                         <ref target="#technology">
-                            <ref target="#spatiality">We considered a number of mapping tools—such as Exhibit (Huynh), OpenLayers (MetaCarta), Google Maps (<orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/lRIRZAUGrgl">Google</orgName>), ArcGIS (Esri), and HyperCities (UCLA)—experimented with several, and achieved varying degrees of success depending, respectively, on the intuitiveness of their navigation, their ability to read and plot geo-referenced data, and the quality of the visualizations they produced. The maps discussed here were produced using the Map View component of the open source Exhibit 2.0 software produced by the SIMILE project (<abbr><orgName key="Massachusetts institute of technology" ref="http://viaf.org/viaf/150025207" ana="webannotation:http://temp.lincsproject.ca/g9y90Yigtzl">MIT</orgName></abbr>) and more recently sustained by Google. Exhibit enables the creation of dynamic websites with various views for rendering spatial data within a browser.</ref>
+                            <ref target="#spatiality">We considered a number of mapping tools—such as Exhibit (Huynh), OpenLayers (MetaCarta), Google Maps (<orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/lRIRZAUGrgl">Google</orgName>), ArcGIS (<orgName key="Environmental Systems Research Institute (Redlands, Calif.)" ref="http://viaf.org/viaf/150806221" ana="webannotation:http://temp.lincsproject.ca/HWSMASbVWlB">Esri</orgName>), and HyperCities (UCLA)—experimented with several, and achieved varying degrees of success depending, respectively, on the intuitiveness of their navigation, their ability to read and plot geo-referenced data, and the quality of the visualizations they produced. The maps discussed here were produced using the Map View component of the open source Exhibit 2.0 software produced by the SIMILE project (<abbr><orgName key="Massachusetts institute of technology" ref="http://viaf.org/viaf/150025207" ana="webannotation:http://temp.lincsproject.ca/g9y90Yigtzl">MIT</orgName></abbr>) and more recently sustained by <orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/xZ894DMibrp">Google</orgName>. Exhibit enables the creation of dynamic websites with various views for rendering spatial data within a browser.</ref>
                         </ref>
                     </p>
                     <p xml:id="p1052">
@@ -15682,6 +15682,184 @@
         "type": "crm:E74_Group",
         "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
         "description": "Google firma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xZ894DMibrp">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xZ894DMibrp",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T15:18:53.559Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/PDpsdM9p8aM",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/PDpsdM9p8aM/selector/textPosition/dFCDFymi4al",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 20274,
+                "end": 20280,
+                "refinedBy": {
+                    "id": "/target/PDpsdM9p8aM/selector/textQuote/Rse7AASyVbm",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": "0 software produced by the SIMILE project (MIT) and more recently sustained by",
+                    "suffix": " Exhibit enables the creation of dynamic websites with various views for rendering spatial data within a browser"
+                }
+            },
+            {
+                "id": "/target/PDpsdM9p8aM/selector/css/yJXwhsml2n0",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xZ894DMibrp]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/HWSMASbVWlB">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/HWSMASbVWlB",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T15:20:01.424Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/88H96fLSLth",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/88H96fLSLth/selector/textPosition/iGqQbpwvvuh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 19830,
+                "end": 19834,
+                "refinedBy": {
+                    "id": "/target/88H96fLSLth/selector/textQuote/CzgnVbOASb8",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Esri",
+                    "prefix": "\n                            \n                        \n                    \n                    \n                        \n                            We considered a number of mapping tools—such as Exhibit (Huynh), OpenLayers (MetaCarta), Google Maps (Google), ArcGIS ",
+                    "suffix": ", and HyperCities (UCLA)—experimented with several, and achieved varying degrees of success depending, respectively, on the intuitiveness of their navigation, their ability to read and plot geo-referenced data, and the quality of the visualizations they produced"
+                }
+            },
+            {
+                "id": "/target/88H96fLSLth/selector/css/XM3i7kSuinT",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/HWSMASbVWlB]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/150806221",
+        "type": "crm:E74_Group",
+        "label": "Environmental Systems Research Institute (Redlands, Calif.)",
+        "description": "Environmental systems research institute"
     },
     "P2_has_type": [
         "oa:identifying"
