@@ -23079,10 +23079,9 @@
         ]
     },
     "body": {
-        "id": "http://viaf.org/viaf/153568718",
-        "type": "crm:E74_Group",
-        "label": "University of Cambridge.",
-        "description": "Varsity o Cambridge collegiate research varsity in Cambridge, Ingland, Unitit Kinrick"
+        "id": "https://nerve.lincsproject.ca/fHCr9yLIqgUsiIrTmtQJf",
+        "type": "crm:E53_Place",
+        "label": "Cambridge"
     },
     "P2_has_type": [
         "oa:identifying"
