@@ -551,7 +551,7 @@
                                         <bibl><persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/O3oD7NPqkia">Brown</persName> and <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/xYJDF3sD0PW">Clements</persName> et al.</bibl>
                                     </note>. <ref target="#technology">
                                         <ref target="#theme_or_topic">Rather than digitizing existing texts—the focus of many digital literary projects then and now—<orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/uBidPTO5uEn">Orlando</orgName> sought to produce born-digital scholarship in a form intended from the outset to take advantage of the digital medium.</ref> That meant trying to imagine how the scholarly text that one is researching and creating might take advantage of the yet emerging possibilities of a <ref target="#place_of_publication">web publication environment.</ref>
-                                        <ref target="#collaboration">Hence, on the advice of our digital humanities co-investigator <persName key="Hockey, Susan M." ref="http://viaf.org/viaf/19935808" ana="webannotation:http://temp.lincsproject.ca/tX8m4ojyjNq">Susan Hockey</persName></ref>, the project adopted Standard Generalized Markup Language (the precursor to Extensible Markup Language or <abbr>XML</abbr>) as a means of encoding the text in a form that would make it amenable to reuse in applications that could not be developed during the initial stages of the Orlando Project.</ref>
+                                        <ref target="#collaboration">Hence, on the advice of our digital humanities co-investigator <persName key="Hockey, Susan M." ref="http://viaf.org/viaf/19935808" ana="webannotation:http://temp.lincsproject.ca/tX8m4ojyjNq">Susan Hockey</persName></ref>, the project adopted Standard Generalized Markup Language (the precursor to Extensible Markup Language or <abbr>XML</abbr>) as a means of encoding the text in a form that would make it amenable to reuse in applications that could not be developed during the initial stages of <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/ixZmJKyfEsj">the Orlando Project</orgName>.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -7038,6 +7038,95 @@
     "body": {
         "id": "http://viaf.org/viaf/158205915",
         "label": "University of Strathclyde",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ixZmJKyfEsj">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ixZmJKyfEsj",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T16:22:19.681Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/L6Uxjppb4bw",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/L6Uxjppb4bw/selector/textPosition/fD8N32Qp5ox",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 8473,
+                "end": 8492,
+                "refinedBy": {
+                    "id": "/target/L6Uxjppb4bw/selector/textQuote/EwrCzpRqdCx",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Orlando Project",
+                    "prefix": "\n                                        Hence, on the advice of our digital humanities co-investigator Susan Hockey, the project adopted Standard Generalized Markup Language (the precursor to Extensible Markup Language or XML) as a means of encoding the text in a form that would make it amenable to reuse in applications that could not be developed during the initial stages of",
+                    "suffix": "\n                                \n                            \n                        \n                    \n                    \n                        Members of Orlando were keen to map its contents"
+                }
+            },
+            {
+                "id": "/target/L6Uxjppb4bw/selector/css/aT5MQjD20OY",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ixZmJKyfEsj]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
     },
