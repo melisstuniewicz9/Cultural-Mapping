@@ -739,7 +739,7 @@
                                     </note>. <ref target="#collaboration">Not all visualizations within <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/KiWDY2fQMeA">CWRC</orgName></abbr> will offer the highly interpretive, detailed, and exquisitely curated spatial and temporal representations of materials produced by a single scholar or co-ordinated team effort in a project to which mapping is central, but the ability to bring together sets of materials and to visualize their spatial data—the unexpected conjunction of materials—may garner serendipitous results. Moreover, embedding such visualizations within an extensive and multi-faceted knowledge environment, so that one can move between the visualizations and other lenses on a given set of materials, means that the mappings will offer a <q>dynamic rendering of culture,</q> which humanities scholars prefer over <q>static ones</q>
                                         <note place="inline">
                                             <bibl>Corrigan 80–81</bibl>
-                                        </note>. As John Corrigan affirms, <q>Complex data is dynamic data…It is data that is characterized by interaction between its various parts, which massage each other <figure>
+                                        </note>. As <persName key="Corrigan, John, 1952-...." ref="http://viaf.org/viaf/44364599" ana="webannotation:http://temp.lincsproject.ca/U4EQctjIZXf">John Corrigan</persName> affirms, <q>Complex data is dynamic data…It is data that is characterized by interaction between its various parts, which massage each other <figure>
                                                 <head>Figure 1.7</head>
                                                 <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A8043a3ee-1ff4-4453-94b1-13a52e329dde/datastream/JPG-DToC/view"/>
                                                 <figDesc>Places associated with the seventeenth-century <orgName key="Religious Society of Friends" ref="http://viaf.org/viaf/3829151474904900490007" ana="webannotation:http://temp.lincsproject.ca/lamPwlCGG0V">Society of Friends</orgName> in <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/ewxM40V5wIR">Orlando</orgName>.</figDesc>
@@ -18441,6 +18441,95 @@
         "type": "crm:E53_Place",
         "label": "Commonwealth of Australia",
         "description": "null, AU"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/U4EQctjIZXf">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/U4EQctjIZXf",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T15:26:52.922Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/wi8Fg2Wi2mm",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/wi8Fg2Wi2mm/selector/textPosition/DO6r0f9QyPH",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 31340,
+                "end": 31353,
+                "refinedBy": {
+                    "id": "/target/wi8Fg2Wi2mm/selector/textQuote/Gda5H3K834u",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "John Corrigan",
+                    "prefix": " As",
+                    "suffix": "affirms, Complex data is dynamic data…It is data that is characterized by interaction between its various parts, which massage each other \n                                                Figure 1"
+                }
+            },
+            {
+                "id": "/target/wi8Fg2Wi2mm/selector/css/qfta1zE8znQ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/U4EQctjIZXf]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/44364599",
+        "type": "crm:E21_Person",
+        "label": "Corrigan, John, 1952-....",
+        "description": "Corrigan, John"
     },
     "P2_has_type": [
         "oa:identifying"
