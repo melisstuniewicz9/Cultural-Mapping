@@ -644,7 +644,7 @@
                     <head>Visualizations</head>
                     <p xml:id="p1053">
                         <ref target="#religion">
-                            <ref target="#historical_oppression">Consider the visualization we produced of the travels and global influence of Mary Ward (1585–1645), a Roman Catholic at a time when <ref target="#violence">people of this faith were a persecuted minority</ref> in <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/F0BkCX82E4F">England</placeName>, whose lifelong ambition was to found a non-enclosed <ref target="#gender_issue">religious order for women modelled after the all-male Jesuits.</ref>
+                            <ref target="#historical_oppression">Consider the visualization we produced of the travels and global influence of Mary Ward (1585–1645), a Roman Catholic at a time when <ref target="#violence">people of this faith were a persecuted minority</ref> in <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/F0BkCX82E4F">England</placeName>, whose lifelong ambition was to found a non-enclosed <ref target="#gender_issue">religious order for women modelled after the all-male <orgName key="Jesuits" ref="http://viaf.org/viaf/141318503" ana="webannotation:http://temp.lincsproject.ca/AcDGoDxjMr4">Jesuits</orgName>.</ref>
                             </ref>
                         </ref>
                     </p>
@@ -15148,6 +15148,95 @@
         "type": "crm:E74_Group",
         "label": "Massachusetts institute of technology",
         "description": "Massachusetts Institute of Technology private university in Cambridge, Massachusetts, USA, founded 1861"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/AcDGoDxjMr4">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/AcDGoDxjMr4",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:35:34.840Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/aZ4Fj3SPsfs",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/aZ4Fj3SPsfs/selector/textPosition/hnV2uodiEQj",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 21679,
+                "end": 21686,
+                "refinedBy": {
+                    "id": "/target/aZ4Fj3SPsfs/selector/textQuote/RBABeiHVGC5",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Jesuits",
+                    "prefix": "\n                    \n                \n                \n                    Visualizations\n                    \n                        \n                            Consider the visualization we produced of the travels and global influence of Mary Ward (1585–1645), a Roman Catholic at a time when people of this faith were a persecuted minority in England, whose lifelong ambition was to found a non-enclosed religious order for women modelled after the all-male",
+                    "suffix": "\n                            \n                        \n                    \n                    \n                        Subset of Orlando places\n                        \n                        Figure 1"
+                }
+            },
+            {
+                "id": "/target/aZ4Fj3SPsfs/selector/css/S00z2kkUPrF",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/AcDGoDxjMr4]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/141318503",
+        "type": "crm:E74_Group",
+        "label": "Jesuits",
+        "description": "Jezuīti"
     },
     "P2_has_type": [
         "oa:identifying"
