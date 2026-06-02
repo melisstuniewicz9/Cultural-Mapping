@@ -548,7 +548,7 @@
                     <p xml:id="p1041">
                         <ref target="#theme_or_topic">Orlando is the founding project behind <abbr>CWRC</abbr>. <ref target="#canon_formation">Initiated in the mid-1990s by a small team of literary researchers, <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/TuzEAeaQciV">Susan Brown</persName>, <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/b3VvPNfErRv">Patricia Clements</persName>, and <persName key="Grundy, Isobel." ref="http://viaf.org/viaf/12322641" ana="webannotation:http://temp.lincsproject.ca/j06ULuzBS8i">Isobel Grundy</persName>, just as graphical browser environments were exponentially expanding the usage of the World Wide Web, this research project sought to produce, from scratch, <ref target="#women_writing">
                                     <ref target="#intellectual_history">a history of women’s writing in the British Isles</ref> using computers <note place="inline">
-                                        <bibl><persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/O3oD7NPqkia">Brown</persName> and Clements et al.</bibl>
+                                        <bibl><persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/O3oD7NPqkia">Brown</persName> and <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/xYJDF3sD0PW">Clements</persName> et al.</bibl>
                                     </note>. <ref target="#technology">
                                         <ref target="#theme_or_topic">Rather than digitizing existing texts—the focus of many digital literary projects then and now—Orlando sought to produce born-digital scholarship in a form intended from the outset to take advantage of the digital medium.</ref> That meant trying to imagine how the scholarly text that one is researching and creating might take advantage of the yet emerging possibilities of a <ref target="#place_of_publication">web publication environment.</ref>
                                         <ref target="#collaboration">Hence, on the advice of our digital humanities co-investigator <persName key="Hockey, Susan M." ref="http://viaf.org/viaf/19935808" ana="webannotation:http://temp.lincsproject.ca/tX8m4ojyjNq">Susan Hockey</persName></ref>, the project adopted Standard Generalized Markup Language (the precursor to Extensible Markup Language or <abbr>XML</abbr>) as a means of encoding the text in a form that would make it amenable to reuse in applications that could not be developed during the initial stages of the Orlando Project.</ref>
@@ -587,7 +587,7 @@
                             <ref target="#technology">
                                 <ref target="#spatiality">Orlando’s texts use tags based on <abbr>TEI</abbr> for entities such as place, but they also use a custom tag set designed specifically by the research team for the production of a digital literary history. This tag set demarcates spans of text according to several contexts, such as discussions of writers’ residences, travels, or migrations; fictional settings or non-fictional topographical descriptions; sites of theatrical productions; or where a writer engaged in political activism. Thus, the tagging of a sentence such as <q>Frances Brooke sailed from <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/9Oqs7LhSRr3">England</placeName> to join her husband in <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/FeNTqfTVlf4">Québec</placeName></q> under a <q>location</q> tag allows place as a destination of travel to be distinguished from a sentence such as <q>This novel is best known for its picture of settler or habitant life in Lower Canada, which Frances Brooke drew from her own years there</q>
                                     <note place="inline">
-                                        <bibl>Brown, Clements, and Grundy</bibl>
+                                        <bibl><persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/BE5pmNjqgXc">Brown</persName>, <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/TNBGLNPTPKn">Clements</persName>, and Grundy</bibl>
                                     </note>. <ref target="#politics">Places often mentioned under the <q>politics</q> tag, for instance, include Hyde Park and Trafalgar Square in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/Cm7Fv4mr7WU">London</placeName>, the nuclear research station at Aldermaston in Berkshire as the site of <ref target="#social_movement">demonstrations</ref>, and Holloway Prison as the place where <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/HCrKKAwGWrv">London</placeName> <ref target="#gender issue">
                                             <ref target="#social_movement">suffragettes</ref>
                                         </ref> were incarcerated.</ref> These references to <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/xuPLORMBo6E">London</placeName> as a place are all distinguishable from <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/jQsMF5IDIZB">London</placeName> as a place of birth, death, or publication, even within the current published interface of Orlando, which is entirely textual.</ref>
@@ -853,9 +853,9 @@
                         <bibl>
                             <title level="m">ArcGIS</title>. <ref target="http://www.esri.com/software/arcgis">http://www.esri.com/software/arcgis</ref>
                         </bibl>
-                        <bibl>Brown, Susan, and <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/G5BvtHIZdyw">Patricia Clements</persName> et al. <title level="a">Tag Team: Computing, Collaborators, and the History of Women’s Writing in the British Isles</title>. <title level="s">Computing in the Humanities Working Papers</title> (April 1998). <ref target="http://projects.chass.utoronto.ca/chwp/orlando">http://projects.chass.utoronto.ca/chwp/orlando</ref>
+                        <bibl><persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/rlZu2A2PEn3">Brown</persName>, Susan, and <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/G5BvtHIZdyw">Patricia Clements</persName> et al. <title level="a">Tag Team: Computing, Collaborators, and the History of Women’s Writing in the British Isles</title>. <title level="s">Computing in the Humanities Working Papers</title> (April 1998). <ref target="http://projects.chass.utoronto.ca/chwp/orlando">http://projects.chass.utoronto.ca/chwp/orlando</ref>
                         </bibl>
-                        <bibl>Brown, Susan, <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/schiKgw0wnX">Patricia Clements</persName>, and <persName key="Grundy, Isobel." ref="http://viaf.org/viaf/12322641" ana="webannotation:http://temp.lincsproject.ca/QVHMRhYZeq0">Isobel Grundy</persName>, eds. <title level="m">Orlando: Women’s Writing in the British Isles from the Beginnings to the Present</title>. Cambridge: Cambridge University Press, 2006–2012. <ref target="http://orlando.cambridge.org">http://orlando.cambridge.org</ref>
+                        <bibl><persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/txIMepH1r50">Brown</persName>, Susan, <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/schiKgw0wnX">Patricia Clements</persName>, and <persName key="Grundy, Isobel." ref="http://viaf.org/viaf/12322641" ana="webannotation:http://temp.lincsproject.ca/QVHMRhYZeq0">Isobel Grundy</persName>, eds. <title level="m">Orlando: Women’s Writing in the British Isles from the Beginnings to the Present</title>. Cambridge: Cambridge University Press, 2006–2012. <ref target="http://orlando.cambridge.org">http://orlando.cambridge.org</ref>
                         </bibl>
                         <bibl>Coleman, Nicole, Dan Edelstein, and Paula Findlen. <title level="m">Mapping the Republic of Letters</title>. Stanford University. <ref target="https://republicofletters.stanford.edu">https://republicofletters.stanford.edu</ref>
                         </bibl>
@@ -3126,6 +3126,451 @@
         "type": "crm:E21_Person",
         "label": "Brown, Susan Irene",
         "description": "Susan Irene Brown Professor of English, Digital Humanities, Critical Infrastructure Studies, Victorian Writing, Women’s Writing, and Feminist Theory."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/BE5pmNjqgXc">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/BE5pmNjqgXc",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:01:06.723Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/VRrF4PctCN5",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/VRrF4PctCN5/selector/textPosition/iyTqfpKIsCs",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 14060,
+                "end": 14065,
+                "refinedBy": {
+                    "id": "/target/VRrF4PctCN5/selector/textQuote/PEBsb5sAtd6",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Brown",
+                    "prefix": " Thus, the tagging of a sentence such as Frances Brooke sailed from England to join her husband in Québec under a location tag allows place as a destination of travel to be distinguished from a sentence such as This novel is best known for its picture of settler or habitant life in Lower Canada, which Frances Brooke drew from her own years there\n                                    \n                                       ",
+                    "suffix": " Clements, and Grundy\n                                    "
+                }
+            },
+            {
+                "id": "/target/VRrF4PctCN5/selector/css/jo7wiwrQ21v",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/BE5pmNjqgXc]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/104953085",
+        "type": "crm:E21_Person",
+        "label": "Brown, Susan Irene",
+        "description": "Susan Irene Brown Professor of English, Digital Humanities, Critical Infrastructure Studies, Victorian Writing, Women’s Writing, and Feminist Theory."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/rlZu2A2PEn3">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/rlZu2A2PEn3",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:01:06.886Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Fwtcx6XU7s7",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Fwtcx6XU7s7/selector/textPosition/ILkTLZJcBlc",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45107,
+                "end": 45112,
+                "refinedBy": {
+                    "id": "/target/Fwtcx6XU7s7/selector/textQuote/FCbzsRZnDr0",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Brown",
+                    "prefix": "com/software/arcgis\n                        \n                       ",
+                    "suffix": " Susan, and Patricia Clements et al"
+                }
+            },
+            {
+                "id": "/target/Fwtcx6XU7s7/selector/css/vS8ixoPArsA",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/rlZu2A2PEn3]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/104953085",
+        "type": "crm:E21_Person",
+        "label": "Brown, Susan Irene",
+        "description": "Susan Irene Brown Professor of English, Digital Humanities, Critical Infrastructure Studies, Victorian Writing, Women’s Writing, and Feminist Theory."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/txIMepH1r50">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/txIMepH1r50",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:01:07.061Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Bmz4Fsr9C9O",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Bmz4Fsr9C9O/selector/textPosition/YDzRmHMhtVD",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45396,
+                "end": 45401,
+                "refinedBy": {
+                    "id": "/target/Bmz4Fsr9C9O/selector/textQuote/3gafq3aQwRg",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Brown",
+                    "prefix": "ca/chwp/orlando\n                        \n                       ",
+                    "suffix": " Susan, Patricia Clements, and Isobel Grundy, eds"
+                }
+            },
+            {
+                "id": "/target/Bmz4Fsr9C9O/selector/css/bm0WyF13vcH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/txIMepH1r50]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/104953085",
+        "type": "crm:E21_Person",
+        "label": "Brown, Susan Irene",
+        "description": "Susan Irene Brown Professor of English, Digital Humanities, Critical Infrastructure Studies, Victorian Writing, Women’s Writing, and Feminist Theory."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xYJDF3sD0PW">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xYJDF3sD0PW",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:01:17.838Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/WfRTLGmrlbI",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/WfRTLGmrlbI/selector/textPosition/tGv6Wm9KJZI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7599,
+                "end": 7607,
+                "refinedBy": {
+                    "id": "/target/WfRTLGmrlbI/selector/textQuote/hxFDuAgf2Xe",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Clements",
+                    "prefix": " Initiated in the mid-1990s by a small team of literary researchers, Susan Brown, Patricia Clements, and Isobel Grundy, just as graphical browser environments were exponentially expanding the usage of the World Wide Web, this research project sought to produce, from scratch, \n                                    a history of women’s writing in the British Isles using computers \n                                        Brown and",
+                    "suffix": "et al"
+                }
+            },
+            {
+                "id": "/target/WfRTLGmrlbI/selector/css/x4sNoOAakOq",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xYJDF3sD0PW]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/59097729",
+        "type": "crm:E21_Person",
+        "label": "Clements, Patricia",
+        "description": "Clements, Patricia, 1940-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/TNBGLNPTPKn">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/TNBGLNPTPKn",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:01:18.145Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/qFL0nfOCwJd",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/qFL0nfOCwJd/selector/textPosition/ddRiNBMelLA",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 14067,
+                "end": 14075,
+                "refinedBy": {
+                    "id": "/target/qFL0nfOCwJd/selector/textQuote/50Wow0e3zrj",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Clements",
+                    "prefix": " Thus, the tagging of a sentence such as Frances Brooke sailed from England to join her husband in Québec under a location tag allows place as a destination of travel to be distinguished from a sentence such as This novel is best known for its picture of settler or habitant life in Lower Canada, which Frances Brooke drew from her own years there\n                                    \n                                        Brown,",
+                    "suffix": " and Grundy\n                                    "
+                }
+            },
+            {
+                "id": "/target/qFL0nfOCwJd/selector/css/x8VY7cNEURo",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/TNBGLNPTPKn]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/59097729",
+        "type": "crm:E21_Person",
+        "label": "Clements, Patricia",
+        "description": "Clements, Patricia, 1940-"
     },
     "P2_has_type": [
         "oa:identifying"
