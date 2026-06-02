@@ -588,7 +588,7 @@
                                 <ref target="#spatiality"><orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/GXZYwzYkODd">Orlando</orgName>’s texts use tags based on <abbr>TEI</abbr> for entities such as place, but they also use a custom tag set designed specifically by the research team for the production of a digital literary history. This tag set demarcates spans of text according to several contexts, such as discussions of writers’ residences, travels, or migrations; fictional settings or non-fictional topographical descriptions; sites of theatrical productions; or where a writer engaged in political activism. Thus, the tagging of a sentence such as <q><persName key="Brooke, Frances, 1724?-1789" ref="http://viaf.org/viaf/5193747" ana="webannotation:http://temp.lincsproject.ca/VVXzjKVLXL9">Frances Brooke</persName> sailed from <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/9Oqs7LhSRr3">England</placeName> to join her husband in <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/FeNTqfTVlf4">Québec</placeName></q> under a <q>location</q> tag allows place as a destination of travel to be distinguished from a sentence such as <q>This novel is best known for its picture of settler or habitant life in Lower Canada, which <persName key="Brooke, Frances, 1724?-1789" ref="http://viaf.org/viaf/5193747" ana="webannotation:http://temp.lincsproject.ca/wuhR7Z6GvDh">Frances Brooke</persName> drew from her own years there</q>
                                     <note place="inline">
                                         <bibl><persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/BE5pmNjqgXc">Brown</persName>, <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/TNBGLNPTPKn">Clements</persName>, and <persName key="Grundy, Isobel." ref="http://viaf.org/viaf/12322641" ana="webannotation:http://temp.lincsproject.ca/SZIgju5C5PQ">Grundy</persName></bibl>
-                                    </note>. <ref target="#politics">Places often mentioned under the <q>politics</q> tag, for instance, include Hyde Park and <placeName key="Trafalgar Square" ref="https://sws.geonames.org/6619832" ana="webannotation:http://temp.lincsproject.ca/EApLSIkGJPi">Trafalgar Square</placeName> in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/Cm7Fv4mr7WU">London</placeName>, the nuclear research station at <placeName key="Aldermaston" ref="https://sws.geonames.org/2657544" ana="webannotation:http://temp.lincsproject.ca/2AGVnvqbDYR">Aldermaston</placeName> in <placeName key="Berkshire" ref="https://sws.geonames.org/2655856" ana="webannotation:http://temp.lincsproject.ca/ipQuUMRJ43S">Berkshire</placeName> as the site of <ref target="#social_movement">demonstrations</ref>, and <placeName key="HM Prison Holloway" ref="http://www.wikidata.org/entity/Q381356" ana="webannotation:http://temp.lincsproject.ca/o8add9QseWT">Holloway Prison</placeName> as the place where <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/HCrKKAwGWrv">London</placeName> <ref target="#gender issue">
+                                    </note>. <ref target="#politics">Places often mentioned under the <q>politics</q> tag, for instance, include <placeName key="Hyde Park" ref="https://sws.geonames.org/2646325" ana="webannotation:http://temp.lincsproject.ca/arihTXWYmfD">Hyde Park</placeName> and <placeName key="Trafalgar Square" ref="https://sws.geonames.org/6619832" ana="webannotation:http://temp.lincsproject.ca/EApLSIkGJPi">Trafalgar Square</placeName> in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/Cm7Fv4mr7WU">London</placeName>, the nuclear research station at <placeName key="Aldermaston" ref="https://sws.geonames.org/2657544" ana="webannotation:http://temp.lincsproject.ca/2AGVnvqbDYR">Aldermaston</placeName> in <placeName key="Berkshire" ref="https://sws.geonames.org/2655856" ana="webannotation:http://temp.lincsproject.ca/ipQuUMRJ43S">Berkshire</placeName> as the site of <ref target="#social_movement">demonstrations</ref>, and <placeName key="HM Prison Holloway" ref="http://www.wikidata.org/entity/Q381356" ana="webannotation:http://temp.lincsproject.ca/o8add9QseWT">Holloway Prison</placeName> as the place where <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/HCrKKAwGWrv">London</placeName> <ref target="#gender issue">
                                             <ref target="#social_movement">suffragettes</ref>
                                         </ref> were incarcerated.</ref> These references to <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/xuPLORMBo6E">London</placeName> as a place are all distinguishable from <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/jQsMF5IDIZB">London</placeName> as a place of birth, death, or publication, even within the current published interface of <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/mBzwfppaEpG">Orlando</orgName>, which is entirely textual.</ref>
                             </ref>
@@ -14792,6 +14792,95 @@
         "type": "crm:E21_Person",
         "label": "Grundy, Isobel.",
         "description": "Isobel Grundy British professor of English and author of women's history books"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/arihTXWYmfD">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/arihTXWYmfD",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T15:16:29.109Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ky7TmrvyvOa",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ky7TmrvyvOa/selector/textPosition/CxtR6oiSKpW",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 14195,
+                "end": 14204,
+                "refinedBy": {
+                    "id": "/target/ky7TmrvyvOa/selector/textQuote/HgFR1VWBFvS",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Hyde Park",
+                    "prefix": " Places often mentioned under the politics tag, for instance, include",
+                    "suffix": "and Trafalgar Square in London, the nuclear research station at Aldermaston in Berkshire as the site of demonstrations, and Holloway Prison as the place where London \n                                            suffragettes\n                                         were incarcerated"
+                }
+            },
+            {
+                "id": "/target/ky7TmrvyvOa/selector/css/QPf3tbtUlDh",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/arihTXWYmfD]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2646325",
+        "label": "Hyde Park",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
