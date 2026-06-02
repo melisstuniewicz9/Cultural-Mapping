@@ -893,7 +893,7 @@
                     </listBibl>
                     <listBibl>
                         <head>Print Sources</head>
-                        <bibl>Bol, <persName key="Bol, Peter Kees" ref="http://viaf.org/viaf/56906098" ana="webannotation:http://temp.lincsproject.ca/sAu1kZbHoiW">Peter K.</persName> <title level="a">What Do Humanists Want? What Do Humanists Need? What Might Humanists Get?</title>
+                        <bibl><persName key="Bol, Peter Kees" ref="http://viaf.org/viaf/56906098" ana="webannotation:http://temp.lincsproject.ca/FZ6Ieesu9S7">Bol</persName>, <persName key="Bol, Peter Kees" ref="http://viaf.org/viaf/56906098" ana="webannotation:http://temp.lincsproject.ca/sAu1kZbHoiW">Peter K.</persName> <title level="a">What Do Humanists Want? What Do Humanists Need? What Might Humanists Get?</title>
                             <title level="m">GeoHumanities: Art, History, Text at the Edge of Place</title>. Ed. Michael Dear, Jim Ketchum, Sarah Luria, and Douglas Richardson. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/FCpG1B6dooI">London</placeName>: Routledge, 2011. 296–308.</bibl>
                         <bibl>Cooper, David, and Ian N. Gregory. <title level="a">Mapping the English Lake District: A Literary <abbr>GIS</abbr>
                             </title>. <title level="j">Transactions of the Institute of British Geographers</title> 36 (2011): 89–108.</bibl>
@@ -22275,6 +22275,95 @@
         "type": "crm:E74_Group",
         "label": "Stanford university",
         "description": "Stanford University private research university in Stanford, California, USA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/FZ6Ieesu9S7">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/FZ6Ieesu9S7",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T15:49:01.536Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/bYPnknabwlS",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/bYPnknabwlS/selector/textPosition/3qllk8SimG1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 47838,
+                "end": 47841,
+                "refinedBy": {
+                    "id": "/target/bYPnknabwlS/selector/textQuote/TyE2umzGXZa",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Bol",
+                    "prefix": "xhtml\n                        \n                    \n                    \n                        Print Sources\n                       ",
+                    "suffix": " Peter K"
+                }
+            },
+            {
+                "id": "/target/bYPnknabwlS/selector/css/nXhhEIZETxZ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/FZ6Ieesu9S7]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/56906098",
+        "type": "crm:E21_Person",
+        "label": "Bol, Peter Kees",
+        "description": "Bol, Peter Kees, 1948-...."
     },
     "P2_has_type": [
         "oa:identifying"
