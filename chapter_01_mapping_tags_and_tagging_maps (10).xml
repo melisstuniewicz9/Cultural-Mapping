@@ -888,7 +888,7 @@
                             <title level="m">TEI: Text Encoding Initiative.</title>
                             <ref target="http://www.tei-c.org/index.xml">http://www.tei-c.org/index.xml</ref>
                         </bibl>
-                        <bibl><orgName key="Thomas, William G., 1964-...." ref="http://viaf.org/viaf/29822258" ana="webannotation:http://temp.lincsproject.ca/ZP672z6E85J">Thomas</orgName>, William G., <hi rend="small-caps">iii</hi>, <persName key="Healey, Richard G." ref="http://viaf.org/viaf/222743171" ana="webannotation:http://temp.lincsproject.ca/zAFfNimEm46">Richard G. Healey</persName>, and Ian J. Cottingham. <title level="m">The Aurora Project</title>. <orgName key="University of Nebraska–Lincoln" ref="http://viaf.org/viaf/312587805" ana="webannotation:http://temp.lincsproject.ca/l9w7BQAr518">University of Nebraska</orgName>. <ref target="http://auroraproject.unl.edu/web/railroads.xhtml">http://auroraproject.unl.edu/web/railroads.xhtml</ref>
+                        <bibl><orgName key="Thomas, William G., 1964-...." ref="http://viaf.org/viaf/29822258" ana="webannotation:http://temp.lincsproject.ca/ZP672z6E85J">Thomas</orgName>, <persName key="Shakespeare, William, 1564-1616." ref="http://viaf.org/viaf/96994048" ana="webannotation:http://temp.lincsproject.ca/UQesOSTT9QD">William G.,</persName> <hi rend="small-caps">iii</hi>, <persName key="Healey, Richard G." ref="http://viaf.org/viaf/222743171" ana="webannotation:http://temp.lincsproject.ca/zAFfNimEm46">Richard G. Healey</persName>, and Ian J. Cottingham. <title level="m">The Aurora Project</title>. <orgName key="University of Nebraska–Lincoln" ref="http://viaf.org/viaf/312587805" ana="webannotation:http://temp.lincsproject.ca/l9w7BQAr518">University of Nebraska</orgName>. <ref target="http://auroraproject.unl.edu/web/railroads.xhtml">http://auroraproject.unl.edu/web/railroads.xhtml</ref>
                         </bibl>
                     </listBibl>
                     <listBibl>
@@ -26637,6 +26637,95 @@
         "type": "crm:E53_Place",
         "label": "London House Hotel",
         "description": "England, Greater London, GB"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/UQesOSTT9QD">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/UQesOSTT9QD",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T17:38:03.023Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/DTZsu4J6CVr",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps (10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps (10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/DTZsu4J6CVr/selector/textPosition/5k8zsnzHgT2",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 47557,
+                "end": 47568,
+                "refinedBy": {
+                    "id": "/target/DTZsu4J6CVr/selector/textQuote/OxWTfKPGxdz",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "William G.,",
+                    "prefix": "xml\n                        \n                        Thomas,",
+                    "suffix": "iii, Richard G"
+                }
+            },
+            {
+                "id": "/target/DTZsu4J6CVr/selector/css/QnPpfGQPMj0",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/UQesOSTT9QD]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/96994048",
+        "type": "crm:E21_Person",
+        "label": "Shakespeare, William, 1564-1616.",
+        "description": "Shakespeare, William"
     },
     "P2_has_type": [
         "oa:identifying"
