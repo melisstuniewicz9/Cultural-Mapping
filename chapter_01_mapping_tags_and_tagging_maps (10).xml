@@ -875,7 +875,7 @@
                         <bibl>
                             <title level="m">HyperCities</title>. <orgName key="University of California, Los Angeles" ref="http://viaf.org/viaf/122477083" ana="webannotation:http://temp.lincsproject.ca/9aI9FEuHiR4">University of California, Los Angeles</orgName>. <ref target="http://hypercities.com">http://hypercities.com</ref>
                         </bibl>
-                        <bibl>MetaCarta. <title level="m">OpenLayers</title>. Open Source Geospatial Foundation. <ref target="http://openlayers.org">http://openlayers.org</ref>
+                        <bibl>MetaCarta. <title level="m">OpenLayers</title>. <orgName key="Open Source Geospatial Foundation" ref="http://viaf.org/viaf/167491447" ana="webannotation:http://temp.lincsproject.ca/lA9ue6Le9DI">Open Source Geospatial Foundation</orgName>. <ref target="http://openlayers.org">http://openlayers.org</ref>
                         </bibl>
                         <bibl><orgName key="Prickman, Gregory J." ref="http://viaf.org/viaf/305283540" ana="webannotation:http://temp.lincsproject.ca/vdC8WTB7Gvn">Prickman</orgName>, <persName key="Prickman, Gregory J." ref="http://viaf.org/viaf/305283540" ana="webannotation:http://temp.lincsproject.ca/CrcNcp0pJ19">Gregory</persName>. <title level="m">The Atlas of Early Printing</title>. <orgName key="University of Iowa. Libraries" ref="http://viaf.org/viaf/4081151778217518130006" ana="webannotation:http://temp.lincsproject.ca/y84VqHOtXw4">University of Iowa Libraries</orgName>. <ref target="http://atlas.lib.uiowa.edu">http://atlas.lib.uiowa.edu</ref>
                         </bibl>
@@ -26637,6 +26637,95 @@
         "type": "crm:E53_Place",
         "label": "London House Hotel",
         "description": "England, Greater London, GB"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/lA9ue6Le9DI">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/lA9ue6Le9DI",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T17:38:47.327Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/sxKlRbxfrAT",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps (10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps (10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/sxKlRbxfrAT/selector/textPosition/dKj2SDvEJ5k",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 46796,
+                "end": 46829,
+                "refinedBy": {
+                    "id": "/target/sxKlRbxfrAT/selector/textQuote/0jVsigsW0ZW",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Open Source Geospatial Foundation",
+                    "prefix": "",
+                    "suffix": " http://openlayers"
+                }
+            },
+            {
+                "id": "/target/sxKlRbxfrAT/selector/css/zFy8GzYjIs5",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/lA9ue6Le9DI]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/167491447",
+        "type": "crm:E74_Group",
+        "label": "Open Source Geospatial Foundation",
+        "description": "OSGeo Polska."
     },
     "P2_has_type": [
         "oa:identifying"
