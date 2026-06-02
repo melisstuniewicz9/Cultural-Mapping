@@ -760,7 +760,7 @@
                             </ref>
                         </p>
                         <p xml:id="p1066">
-                            <ref target="#representation_of_women">Figure 1.7 shows at a glance how widely these intrepid women penetrated the eastern seaboard of colonial North America, travelled from Newfoundland in the north to Jamaica and Barbados in the south. It also shows their travels in Europe and eastwards to Greece, Turkey, and Jerusalem, as well as all over <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/0sj3Q7dPtpE">England</placeName> and Ireland. <ref target="#religion">Like <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/gy9hkNb05hd">Mary Ward</persName>, these members of the Society of Friends were driven by the determination to spread their faith worldwide.</ref>
+                            <ref target="#representation_of_women">Figure 1.7 shows at a glance how widely these intrepid women penetrated the eastern seaboard of colonial North America, travelled from <placeName key="Newfoundland and Labrador" ref="https://sws.geonames.org/6354959" ana="webannotation:http://temp.lincsproject.ca/aiDJtDrP92X">Newfoundland</placeName> in the north to Jamaica and Barbados in the south. It also shows their travels in Europe and eastwards to Greece, Turkey, and <placeName key="Jerusalem" ref="https://sws.geonames.org/281184" ana="webannotation:http://temp.lincsproject.ca/eE9yBGnaIGd">Jerusalem</placeName>, as well as all over <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/0sj3Q7dPtpE">England</placeName> and Ireland. <ref target="#religion">Like <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/gy9hkNb05hd">Mary Ward</persName>, these members of the Society of Friends were driven by the determination to spread their faith worldwide.</ref>
                             </ref>
                         </p>
                         <p xml:id="p1067">
@@ -805,7 +805,7 @@
                         </p>
                         <p xml:id="p1072">
                             <ref target="#writing_climate">
-                                <ref target="#spatiality">Figure 1.9 maps <placeName key="Scotland" ref="https://sws.geonames.org/2638360" ana="webannotation:http://temp.lincsproject.ca/rO62MiyODWl">Scotland</placeName> as a setting for writing (fiction and non-fiction). It indicates the extent to which, within texts, more places are mentioned in general terms than in <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/UPpe9LoC4wo">Orlando</orgName>’s discussions of writers’ lives, which frequently supply the name of a town, village, castle, or farmhouse. Hence, many texts make reference simply to <placeName key="Scotland" ref="https://sws.geonames.org/2638360" ana="webannotation:http://temp.lincsproject.ca/y6uwtC6ntJF">Scotland</placeName>, or to the romantic regions of <placeName key="Scottish Highlands" ref="https://sws.geonames.org/2646943" ana="webannotation:http://temp.lincsproject.ca/GTWFYbfGIJf">the Scottish Highlands</placeName> or Scottish Borders, providing perhaps a fictitious place name within those areas. Again, a range of visualization strategies could designate <ref target="#close_reading">different levels of granularity on a single map and help distinguish particular locations from generalized areas, thereby creating a hermeneutic layer that represents less specific fictional regions.</ref>
+                                <ref target="#spatiality">Figure 1.9 maps <placeName key="Scotland" ref="https://sws.geonames.org/2638360" ana="webannotation:http://temp.lincsproject.ca/rO62MiyODWl">Scotland</placeName> as a setting for writing (fiction and non-fiction). It indicates the extent to which, within texts, more places are mentioned in general terms than in <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/UPpe9LoC4wo">Orlando</orgName>’s discussions of writers’ lives, which frequently supply the name of a town, village, castle, or farmhouse. Hence, many texts make reference simply to <placeName key="Scotland" ref="https://sws.geonames.org/2638360" ana="webannotation:http://temp.lincsproject.ca/y6uwtC6ntJF">Scotland</placeName>, or to the romantic regions of <placeName key="Scottish Highlands" ref="https://sws.geonames.org/2646943" ana="webannotation:http://temp.lincsproject.ca/GTWFYbfGIJf">the Scottish Highlands</placeName> or <placeName key="The Scottish Borders" ref="https://sws.geonames.org/2655192" ana="webannotation:http://temp.lincsproject.ca/4nycL9dYsgi">Scottish Borders</placeName>, providing perhaps a fictitious place name within those areas. Again, a range of visualization strategies could designate <ref target="#close_reading">different levels of granularity on a single map and help distinguish particular locations from generalized areas, thereby creating a hermeneutic layer that represents less specific fictional regions.</ref>
                                     <ref target="#intertextuality">These layers are akin to <q>the spaces—<persName key="Foucault, Michel, 1926-1984." ref="http://viaf.org/viaf/104722665" ana="webannotation:http://temp.lincsproject.ca/qCE6fZOz5NA">Foucault</persName>’s hetero­topias—that cannot be mapped, such as the marketplace, the theatre, the fairground, and the ship</q>
                                         <note place="inline">
                                             <bibl>Jenstad 117</bibl>
@@ -19072,6 +19072,184 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/aiDJtDrP92X">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/aiDJtDrP92X",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T15:35:58.676Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/YAZ2F8kBQ6w",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/YAZ2F8kBQ6w/selector/textPosition/8aIEwArR8NX",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 33860,
+                "end": 33872,
+                "refinedBy": {
+                    "id": "/target/YAZ2F8kBQ6w/selector/textQuote/V3owFMaehmR",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Newfoundland",
+                    "prefix": "7 shows at a glance how widely these intrepid women penetrated the eastern seaboard of colonial North America, travelled from",
+                    "suffix": "in the north to Jamaica and Barbados in the south"
+                }
+            },
+            {
+                "id": "/target/YAZ2F8kBQ6w/selector/css/YruGHnzawbD",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/aiDJtDrP92X]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6354959",
+        "type": "crm:E53_Place",
+        "label": "Newfoundland and Labrador",
+        "description": "Newfoundland and Labrador, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/eE9yBGnaIGd">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/eE9yBGnaIGd",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T15:36:15.827Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/bZWl9ODxXN2",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/bZWl9ODxXN2/selector/textPosition/AnqEXTH0LXz",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 33999,
+                "end": 34008,
+                "refinedBy": {
+                    "id": "/target/bZWl9ODxXN2/selector/textQuote/uZDZ6xvYf3q",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Jerusalem",
+                    "prefix": " It also shows their travels in Europe and eastwards to Greece, Turkey, and",
+                    "suffix": " as well as all over England and Ireland"
+                }
+            },
+            {
+                "id": "/target/bZWl9ODxXN2/selector/css/3hqFolsP3NL",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/eE9yBGnaIGd]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/281184",
+        "type": "crm:E53_Place",
+        "label": "Jerusalem",
+        "description": "Jerusalem, IL"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/6BHTQ9KaMfu">
 <![CDATA[{
     "@context": [
@@ -19418,6 +19596,95 @@
     "body": {
         "id": "https://sws.geonames.org/2646943",
         "label": "Scottish Highlands",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/4nycL9dYsgi">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/4nycL9dYsgi",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T15:35:38.734Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/NilEadxqOU0",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/NilEadxqOU0/selector/textPosition/MYKVpxfFuFy",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 39398,
+                "end": 39414,
+                "refinedBy": {
+                    "id": "/target/NilEadxqOU0/selector/textQuote/gXkAMrin7I2",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Scottish Borders",
+                    "prefix": " Hence, many texts make reference simply to Scotland, or to the romantic regions of the Scottish Highlands or",
+                    "suffix": " providing perhaps a fictitious place name within those areas"
+                }
+            },
+            {
+                "id": "/target/NilEadxqOU0/selector/css/FBITrUMhuVk",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/4nycL9dYsgi]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2655192",
+        "label": "The Scottish Borders",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
     },
