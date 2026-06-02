@@ -791,7 +791,7 @@
                         <p xml:id="p1070">
                             <ref target="#history">
                                 <ref target="#politics">
-                                    <ref target="#religion">If one looks at parts of the Quaker map in larger scale (Figure 1.8), one sees generic designators of a country alongside more precise hits on particular places within those countries.</ref> This combination can produce misleading ahistorical results: in earlier periods, for instance, current nations such as Germany and Italy were not united political entities.</ref>
+                                    <ref target="#religion">If one looks at parts of the Quaker map in larger scale (Figure 1.8), one sees generic designators of a country alongside more precise hits on particular places within those countries.</ref> This combination can produce misleading ahistorical results: in earlier periods, for instance, current nations such as <placeName key="Federal Republic of Germany" ref="https://sws.geonames.org/2921044" ana="webannotation:http://temp.lincsproject.ca/xMt3WowmmKc">Germany</placeName> and Italy were not united political entities.</ref>
                             </ref>
                         </p>
                         <p xml:id="p1071">
@@ -8295,6 +8295,95 @@
         "label": "Religious Society of Friends",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xMt3WowmmKc">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xMt3WowmmKc",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:15:11.609Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/zaMZjB4awWV",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/zaMZjB4awWV/selector/textPosition/va8j1Mw4qEz",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38122,
+                "end": 38129,
+                "refinedBy": {
+                    "id": "/target/zaMZjB4awWV/selector/textQuote/1D2nRBnyc7i",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Germany",
+                    "prefix": " This combination can produce misleading ahistorical results: in earlier periods, for instance, current nations such as",
+                    "suffix": "and Italy were not united political entities"
+                }
+            },
+            {
+                "id": "/target/zaMZjB4awWV/selector/css/3cpTmlclwX2",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xMt3WowmmKc]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2921044",
+        "type": "crm:E53_Place",
+        "label": "Federal Republic of Germany",
+        "description": "null, DE"
     },
     "P2_has_type": [
         "oa:identifying"
