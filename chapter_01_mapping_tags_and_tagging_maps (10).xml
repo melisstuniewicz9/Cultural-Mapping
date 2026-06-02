@@ -752,7 +752,7 @@
                         </p>
                         <p xml:id="p1064">
                             <ref target="#spatiality">
-                                <ref target="#theme_or_topic">The diversity of project aims and data granularity drives home the importance, indeed the necessity, of allowing the reader to move from a map to the source data that lies behind it. <ref target="#intertextuality">Whereas a number of impressive mapping projects associated with writing, such as Gregory Prickman’s <title level="m">The Atlas of Early Printing,</title> provide maps that represent data without giving access to the specific source information that underlies each point in a map (as is typical of printed maps), users of <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/ikWkfrZ13lG">CWRC</orgName></abbr> maps will need to be able to access the text that is the source of the visualization in order to determine the relevance of particular points on a map, and subsequently the nature of the connection to the place in question.</ref> Information pertaining to provenance also may prove particularly important in this context. Given the inevitability of divergent practices with respect to spatial data on different projects, it will be important to allow those who are creating spatial visualizations of <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/rpac0DJwfsW">CWRC</orgName></abbr> materials to filter out certain sets of information deemed incompatible with the terms of their inquiry.</ref>
+                                <ref target="#theme_or_topic">The diversity of project aims and data granularity drives home the importance, indeed the necessity, of allowing the reader to move from a map to the source data that lies behind it. <ref target="#intertextuality">Whereas a number of impressive mapping projects associated with writing, such as <persName key="Prickman, Gregory J." ref="http://viaf.org/viaf/305283540" ana="webannotation:http://temp.lincsproject.ca/AeuvrppngAb">Gregory Prickman’s</persName> <title level="m">The Atlas of Early Printing,</title> provide maps that represent data without giving access to the specific source information that underlies each point in a map (as is typical of printed maps), users of <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/ikWkfrZ13lG">CWRC</orgName></abbr> maps will need to be able to access the text that is the source of the visualization in order to determine the relevance of particular points on a map, and subsequently the nature of the connection to the place in question.</ref> Information pertaining to provenance also may prove particularly important in this context. Given the inevitability of divergent practices with respect to spatial data on different projects, it will be important to allow those who are creating spatial visualizations of <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/rpac0DJwfsW">CWRC</orgName></abbr> materials to filter out certain sets of information deemed incompatible with the terms of their inquiry.</ref>
                             </ref>
                         </p>
                         <p xml:id="p1065">
@@ -18983,6 +18983,94 @@
         "label": "Religious Society of Friends",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/AeuvrppngAb">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/AeuvrppngAb",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T15:41:48.057Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/FQ8wqpLI9yo",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/FQ8wqpLI9yo/selector/textPosition/jMs8MgkPb0I",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 32417,
+                "end": 32435,
+                "refinedBy": {
+                    "id": "/target/FQ8wqpLI9yo/selector/textQuote/37fx3imEzIl",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Gregory Prickman’s",
+                    "prefix": " Whereas a number of impressive mapping projects associated with writing, such as",
+                    "suffix": "The Atlas of Early Printing, provide maps that represent data without giving access to the specific source information that underlies each point in a map (as is typical of printed maps), users of CWRC maps will need to be able to access the text that is the source of the visualization in order to determine the relevance of particular points on a map, and subsequently the nature of the connection to the place in question"
+                }
+            },
+            {
+                "id": "/target/FQ8wqpLI9yo/selector/css/sWdMJmPfvtg",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/AeuvrppngAb]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/305283540",
+        "type": "crm:E21_Person",
+        "label": "Prickman, Gregory J."
     },
     "P2_has_type": [
         "oa:identifying"
