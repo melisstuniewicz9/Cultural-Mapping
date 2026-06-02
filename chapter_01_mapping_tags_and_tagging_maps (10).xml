@@ -859,7 +859,7 @@
                         </bibl>
                         <bibl><orgName key="Mullen, Nicole C." ref="http://viaf.org/viaf/4597810" ana="webannotation:http://temp.lincsproject.ca/bOcEFDSnJB1">Coleman</orgName>, <persName key="Coleman, Catherine Nicole" ref="http://viaf.org/viaf/16161149770334942128" ana="webannotation:http://temp.lincsproject.ca/V4RLLbgpy4H">Nicole</persName>, <persName key="Edelstein, Dan." ref="http://viaf.org/viaf/45481065" ana="webannotation:http://temp.lincsproject.ca/UqwwHdEHEQk">Dan Edelstein</persName>, and <persName key="Findlen, Paula." ref="http://viaf.org/viaf/9957596" ana="webannotation:http://temp.lincsproject.ca/TlsHvgr7bWr">Paula Findlen</persName>. <title level="m">Mapping the Republic of Letters</title>. <orgName key="Stanford university" ref="http://viaf.org/viaf/129582224" ana="webannotation:http://temp.lincsproject.ca/EnlQxH21pkQ">Stanford University</orgName>. <ref target="https://republicofletters.stanford.edu">https://republicofletters.stanford.edu</ref>
                         </bibl>
-                        <bibl><persName key="Drucker, Johanna, 1952-...." ref="http://viaf.org/viaf/71503942" ana="webannotation:http://temp.lincsproject.ca/tHYepatq3IL">Drucker</persName>, <persName key="Drucker, Johanna, 1952-...." ref="http://viaf.org/viaf/71503942" ana="webannotation:http://temp.lincsproject.ca/fcPDDEo3RZG">Johanna</persName>. <title level="a">Humanities Approaches to Graphical Display</title>. <title level="j">DHQ: Digital Humanities Quarterly</title> 5.1 (2011). <ref target="http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html">http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html</ref>
+                        <bibl><persName key="Drucker, Johanna, 1952-...." ref="http://viaf.org/viaf/71503942" ana="webannotation:http://temp.lincsproject.ca/tHYepatq3IL">Drucker</persName>, <persName key="Drucker, Johanna, 1952-...." ref="http://viaf.org/viaf/71503942" ana="webannotation:http://temp.lincsproject.ca/fcPDDEo3RZG">Johanna</persName>. <title level="a">Humanities Approaches to Graphical Display</title>. <title level="j"><orgName key="Digital Humanities Quarterly" ref="https://www.wikidata.org/wiki/Q5275881" ana="webannotation:http://temp.lincsproject.ca/2kBUjVIuM6F">DHQ</orgName>: Digital Humanities Quarterly</title> 5.1 (2011). <ref target="http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html">http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html</ref>
                         </bibl>
                         <bibl>
                             <title level="m">GeoNames</title>. <ref target="http://www.geonames.org">http://www.geonames.org</ref>
@@ -27081,6 +27081,95 @@
         "label": "David François Huynh",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/2kBUjVIuM6F">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/2kBUjVIuM6F",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T18:19:28.047Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ie1PYFhBRZF",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps (10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps (10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ie1PYFhBRZF/selector/textPosition/VGvmOHentwr",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45918,
+                "end": 45921,
+                "refinedBy": {
+                    "id": "/target/ie1PYFhBRZF/selector/textQuote/DGvNSXvISXc",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "DHQ",
+                    "prefix": "",
+                    "suffix": " Digital Humanities Quarterly 5"
+                }
+            },
+            {
+                "id": "/target/ie1PYFhBRZF/selector/css/IBMSfYEuY1v",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/2kBUjVIuM6F]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q5275881",
+        "label": "Digital Humanities Quarterly",
+        "type": "frbroo:F1",
+        "entityType": "frbroo:F1"
     },
     "P2_has_type": [
         "oa:identifying"
