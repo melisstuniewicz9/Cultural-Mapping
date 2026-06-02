@@ -705,7 +705,7 @@
                         <p xml:id="p1060">
                             <ref target="#history">
                                 <ref target="#spatiality">
-                                    <ref target="#non-book_media">Even without the benefit of historical maps against which to view the spatial data, mapping and then comparing <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/O77ABBGwAyw">Orlando</orgName>’s eighteenth-century <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/sfKQTjlNmUQ">London</placeName> and nineteenth-century <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/mmlMGVByHrr">London</placeName> (Figures 1.5 and 1.6) clearly indicates the speed with which the boundaries of the city were moving outwards and the changes made, for instance, by roads taking over from the River Thames as transport corridors. Similarly, mapping and then comparing <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/heEcscNpV58">Orlando</orgName>’s seventeenth-century and nineteenth-century Britain indicates the ways in which literary activity shifted as the centres of population shifted from the old agricultural centres to the new industrial centres.</ref>
+                                    <ref target="#non-book_media">Even without the benefit of historical maps against which to view the spatial data, mapping and then comparing <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/O77ABBGwAyw">Orlando</orgName>’s eighteenth-century <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/sfKQTjlNmUQ">London</placeName> and nineteenth-century <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/mmlMGVByHrr">London</placeName> (Figures 1.5 and 1.6) clearly indicates the speed with which the boundaries of the city were moving outwards and the changes made, for instance, by roads taking over from the River Thames as transport corridors. Similarly, mapping and then comparing <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/heEcscNpV58">Orlando</orgName>’s seventeenth-century and nineteenth-century <placeName key="Britain" ref="https://sws.geonames.org/6301961" ana="webannotation:http://temp.lincsproject.ca/ODzq53vDgZ2">Britain</placeName> indicates the ways in which literary activity shifted as the centres of population shifted from the old agricultural centres to the new industrial centres.</ref>
                                 </ref>
                             </ref>
                         </p>
@@ -16928,6 +16928,95 @@
         "label": "Ward, Mary",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ODzq53vDgZ2">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ODzq53vDgZ2",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T15:17:14.639Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/kp7XMq2AHWL",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/kp7XMq2AHWL/selector/textPosition/S8zjmOMPRT1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 26255,
+                "end": 26262,
+                "refinedBy": {
+                    "id": "/target/kp7XMq2AHWL/selector/textQuote/TCZnhTyjy2Y",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Britain",
+                    "prefix": " Similarly, mapping and then comparing Orlando’s seventeenth-century and nineteenth-century",
+                    "suffix": "indicates the ways in which literary activity shifted as the centres of population shifted from the old agricultural centres to the new industrial centres"
+                }
+            },
+            {
+                "id": "/target/kp7XMq2AHWL/selector/css/1vlcHyLuBqi",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ODzq53vDgZ2]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6301961",
+        "label": "Britain",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
