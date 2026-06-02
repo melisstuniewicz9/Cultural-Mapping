@@ -882,7 +882,7 @@
                         <bibl>Scholars’ Lab. <title level="m">Neatline: Plot Your Course in Space and Time</title>. <orgName key="University of Virginia. Library." ref="http://viaf.org/viaf/154761183" ana="webannotation:http://temp.lincsproject.ca/LFwSVNK8iYq">University of Virginia Library</orgName>. <ref target="http://neatline.org">http://neatline.org</ref>
                         </bibl>
                         <bibl>
-                            <title level="m">The SIMILE Project</title>. <orgName key="Massachusetts institute of technology" ref="http://viaf.org/viaf/150025207" ana="webannotation:http://temp.lincsproject.ca/ew8iLQO7St0">Massachusetts Institute of Technology</orgName>. <ref target="http://simile-widgets.org">http://simile-widgets.org</ref>
+                            <title level="m"><orgName key="SIMILE" ref="https://www.wikidata.org/wiki/Q7390401" ana="webannotation:http://temp.lincsproject.ca/oizfQ21sp1m">The SIMILE Project</orgName></title>. <orgName key="Massachusetts institute of technology" ref="http://viaf.org/viaf/150025207" ana="webannotation:http://temp.lincsproject.ca/ew8iLQO7St0">Massachusetts Institute of Technology</orgName>. <ref target="http://simile-widgets.org">http://simile-widgets.org</ref>
                         </bibl>
                         <bibl>
                             <title level="m">TEI: Text Encoding Initiative.</title>
@@ -23793,6 +23793,95 @@
         "type": "crm:E74_Group",
         "label": "University of Virginia. Library.",
         "description": "University of Virginia Libraries library consortium"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/oizfQ21sp1m">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/oizfQ21sp1m",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T17:08:42.239Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/RVCxwstUDTi",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/RVCxwstUDTi/selector/textPosition/Eh34san0RZp",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 47247,
+                "end": 47265,
+                "refinedBy": {
+                    "id": "/target/RVCxwstUDTi/selector/textQuote/MOm5P2icYMj",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "The SIMILE Project",
+                    "prefix": "org\n                        \n                        \n                           ",
+                    "suffix": " Massachusetts Institute of Technology"
+                }
+            },
+            {
+                "id": "/target/RVCxwstUDTi/selector/css/cBTQO8LPmgv",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/oizfQ21sp1m]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q7390401",
+        "label": "SIMILE",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
