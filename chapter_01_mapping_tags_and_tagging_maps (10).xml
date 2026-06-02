@@ -542,7 +542,7 @@
                                 </title> aims to map the relationship between places of production, places of publication, and places of dissemination. The most ambitious of <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/XGypZLjpwiy">CWRC</orgName>’s</abbr> pilot projects is <title>Magazines, Travel, and Middlebrow Culture in Canada 1925–1960,</title> led by <persName key="Hammill, Faye." ref="http://viaf.org/viaf/42097474" ana="webannotation:http://temp.lincsproject.ca/TBeVcmXWdw2">Faye Hammill</persName> of <orgName key="University of Strathclyde" ref="http://viaf.org/viaf/158205915" ana="webannotation:http://temp.lincsproject.ca/nBBORk7l1mZ">the University of Strathclyde</orgName>. <ref target="#genre_journalism">This project investigates geographical mobility as a form of upward mobility, and is designed to distinguish leisure travel from the enforced movement of migration and diaspora. The project uses middlebrow magazines to map shifts in travel patterns.</ref> If one takes seriously the claim that space <q>is not simply a passive reflection of social and cultural trends, but an active participant, i.e., geography is constitutive as well as representative</q>
                                 <note place="inline">
                                     <bibl>Warf and Arias 10</bibl>
-                                </note>, then to make available a dynamic mapping environment that visualizes spatial relations is to give scholars a potentially transformative tool for investigating those constitutive relations. Yet, given the wide range of <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/GrJlthlef8d">CWRC</orgName></abbr> projects, the task of devising even a basic generalized system of mapping is a considerable challenge, as the project’s core development team learned in its initial experiments with spatial data contained in its largest seed project, the Orlando Project, housed at <orgName key="University of Alberta" ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/8Uar09ZbiHh">the University of Alberta</orgName>.</ref>
+                                </note>, then to make available a dynamic mapping environment that visualizes spatial relations is to give scholars a potentially transformative tool for investigating those constitutive relations. Yet, given the wide range of <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/GrJlthlef8d">CWRC</orgName></abbr> projects, the task of devising even a basic generalized system of mapping is a considerable challenge, as the project’s core development team learned in its initial experiments with spatial data contained in its largest seed project, <orgName key="Orlando" ref="https://www.wikidata.org/wiki/Q60672320" ana="webannotation:http://temp.lincsproject.ca/H2KDpujdvvJ">the Orlando Project</orgName>, housed at <orgName key="University of Alberta" ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/8Uar09ZbiHh">the University of Alberta</orgName>.</ref>
                         </ref>
                     </p>
                     <p xml:id="p1041">
@@ -7038,6 +7038,95 @@
     "body": {
         "id": "http://viaf.org/viaf/158205915",
         "label": "University of Strathclyde",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/H2KDpujdvvJ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/H2KDpujdvvJ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T16:26:48.161Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/lc1L0bX1PKR",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/lc1L0bX1PKR/selector/textPosition/vs7zI99dgp7",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6976,
+                "end": 6995,
+                "refinedBy": {
+                    "id": "/target/lc1L0bX1PKR/selector/textQuote/fty7ZkL9oC5",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Orlando Project",
+                    "prefix": " Yet, given the wide range of CWRC projects, the task of devising even a basic generalized system of mapping is a considerable challenge, as the project’s core development team learned in its initial experiments with spatial data contained in its largest seed project,",
+                    "suffix": " housed at the University of Alberta"
+                }
+            },
+            {
+                "id": "/target/lc1L0bX1PKR/selector/css/b6Z23kuk9R2",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/H2KDpujdvvJ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q60672320",
+        "label": "Orlando",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
     },
