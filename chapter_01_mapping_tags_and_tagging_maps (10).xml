@@ -859,7 +859,7 @@
                         </bibl>
                         <bibl>Coleman, Nicole, <persName key="Edelstein, Dan." ref="http://viaf.org/viaf/45481065" ana="webannotation:http://temp.lincsproject.ca/UqwwHdEHEQk">Dan Edelstein</persName>, and <persName key="Findlen, Paula." ref="http://viaf.org/viaf/9957596" ana="webannotation:http://temp.lincsproject.ca/TlsHvgr7bWr">Paula Findlen</persName>. <title level="m">Mapping the Republic of Letters</title>. <orgName key="Stanford university" ref="http://viaf.org/viaf/129582224" ana="webannotation:http://temp.lincsproject.ca/EnlQxH21pkQ">Stanford University</orgName>. <ref target="https://republicofletters.stanford.edu">https://republicofletters.stanford.edu</ref>
                         </bibl>
-                        <bibl>Drucker, Johanna. <title level="a">Humanities Approaches to Graphical Display</title>. <title level="j">DHQ: Digital Humanities Quarterly</title> 5.1 (2011). <ref target="http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html">http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html</ref>
+                        <bibl>Drucker, <persName key="Drucker, Johanna, 1952-...." ref="http://viaf.org/viaf/71503942" ana="webannotation:http://temp.lincsproject.ca/fcPDDEo3RZG">Johanna</persName>. <title level="a">Humanities Approaches to Graphical Display</title>. <title level="j">DHQ: Digital Humanities Quarterly</title> 5.1 (2011). <ref target="http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html">http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html</ref>
                         </bibl>
                         <bibl>
                             <title level="m">GeoNames</title>. <ref target="http://www.geonames.org">http://www.geonames.org</ref>
@@ -22630,6 +22630,95 @@
         "type": "crm:E74_Group",
         "label": "Stanford university",
         "description": "Stanford University private research university in Stanford, California, USA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/fcPDDEo3RZG">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/fcPDDEo3RZG",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T16:31:17.887Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/gNzZVFxrlt0",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/gNzZVFxrlt0/selector/textPosition/iJY1lwqbJtu",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45865,
+                "end": 45872,
+                "refinedBy": {
+                    "id": "/target/gNzZVFxrlt0/selector/textQuote/rpuBfwRI4Mk",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Johanna",
+                    "prefix": "edu\n                        \n                        Drucker,",
+                    "suffix": " Humanities Approaches to Graphical Display"
+                }
+            },
+            {
+                "id": "/target/gNzZVFxrlt0/selector/css/liVE43gHltM",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/fcPDDEo3RZG]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/71503942",
+        "type": "crm:E21_Person",
+        "label": "Drucker, Johanna, 1952-....",
+        "description": "Drucker, Johanna"
     },
     "P2_has_type": [
         "oa:identifying"
