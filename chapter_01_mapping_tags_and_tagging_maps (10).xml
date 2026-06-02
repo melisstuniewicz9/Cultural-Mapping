@@ -857,7 +857,7 @@
                         </bibl>
                         <bibl><persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/txIMepH1r50">Brown</persName>, <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/yiMHHHus0Et">Susan</persName>, <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/schiKgw0wnX">Patricia Clements</persName>, and <persName key="Grundy, Isobel." ref="http://viaf.org/viaf/12322641" ana="webannotation:http://temp.lincsproject.ca/QVHMRhYZeq0">Isobel Grundy</persName>, eds. <title level="m">Orlando: Women’s Writing in the British Isles from the Beginnings to the Present</title>. Cambridge: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/tt18nVN2JIP">Cambridge University Press</orgName>, 2006–2012. <ref target="http://orlando.cambridge.org">http://orlando.cambridge.org</ref>
                         </bibl>
-                        <bibl>Coleman, Nicole, Dan Edelstein, and Paula Findlen. <title level="m">Mapping the Republic of Letters</title>. <orgName key="Stanford university" ref="http://viaf.org/viaf/129582224" ana="webannotation:http://temp.lincsproject.ca/EnlQxH21pkQ">Stanford University</orgName>. <ref target="https://republicofletters.stanford.edu">https://republicofletters.stanford.edu</ref>
+                        <bibl>Coleman, Nicole, <persName key="Edelstein, Dan." ref="http://viaf.org/viaf/45481065" ana="webannotation:http://temp.lincsproject.ca/UqwwHdEHEQk">Dan Edelstein</persName>, and Paula Findlen. <title level="m">Mapping the Republic of Letters</title>. <orgName key="Stanford university" ref="http://viaf.org/viaf/129582224" ana="webannotation:http://temp.lincsproject.ca/EnlQxH21pkQ">Stanford University</orgName>. <ref target="https://republicofletters.stanford.edu">https://republicofletters.stanford.edu</ref>
                         </bibl>
                         <bibl>Drucker, Johanna. <title level="a">Humanities Approaches to Graphical Display</title>. <title level="j">DHQ: Digital Humanities Quarterly</title> 5.1 (2011). <ref target="http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html">http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html</ref>
                         </bibl>
@@ -22008,6 +22008,95 @@
         "type": "crm:E74_Group",
         "label": "Cambridge university press",
         "description": "Gwasg Prifysgol Caergrawnt"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/UqwwHdEHEQk">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/UqwwHdEHEQk",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T15:47:57.378Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/LDBGsQB9mbB",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/LDBGsQB9mbB/selector/textPosition/5oYykwYx57i",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45680,
+                "end": 45693,
+                "refinedBy": {
+                    "id": "/target/LDBGsQB9mbB/selector/textQuote/sQdiWMb8HDF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Dan Edelstein",
+                    "prefix": "org\n                        \n                        Coleman, Nicole,",
+                    "suffix": " and Paula Findlen"
+                }
+            },
+            {
+                "id": "/target/LDBGsQB9mbB/selector/css/mdDpPMTLWns",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/UqwwHdEHEQk]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/45481065",
+        "type": "crm:E21_Person",
+        "label": "Edelstein, Dan.",
+        "description": "Edelstein, Dan, 1975-...."
     },
     "P2_has_type": [
         "oa:identifying"
