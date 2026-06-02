@@ -870,7 +870,7 @@
                         <bibl>
                             <title level="m">Google Maps</title>. <ref target="http://maps.google.ca">http://maps.google.ca</ref>
                         </bibl>
-                        <bibl>Huynh, David François. <title level="m">Exhibit</title>. <orgName key="Massachusetts institute of technology" ref="http://viaf.org/viaf/150025207" ana="webannotation:http://temp.lincsproject.ca/8HXvtin9ezS">Massachusetts Institute of Technology</orgName>. <ref target="http://www.simile-widgets.org/exhibit">http://www.simile-widgets.org/exhibit</ref>
+                        <bibl>Huynh, <persName key="David François Huynh" ref="https://www.wikidata.org/wiki/Q102363461" ana="webannotation:http://temp.lincsproject.ca/7zFC5TMqQm0">David François</persName>. <title level="m">Exhibit</title>. <orgName key="Massachusetts institute of technology" ref="http://viaf.org/viaf/150025207" ana="webannotation:http://temp.lincsproject.ca/8HXvtin9ezS">Massachusetts Institute of Technology</orgName>. <ref target="http://www.simile-widgets.org/exhibit">http://www.simile-widgets.org/exhibit</ref>
                         </bibl>
                         <bibl>
                             <title level="m">HyperCities</title>. <orgName key="University of California, Los Angeles" ref="http://viaf.org/viaf/122477083" ana="webannotation:http://temp.lincsproject.ca/9aI9FEuHiR4">University of California, Los Angeles</orgName>. <ref target="http://hypercities.com">http://hypercities.com</ref>
@@ -26903,6 +26903,95 @@
         "type": "crm:E53_Place",
         "label": "London House Hotel",
         "description": "England, Greater London, GB"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/7zFC5TMqQm0">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/7zFC5TMqQm0",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T18:17:22.621Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/G6rt5URuOdJ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps (10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps (10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/G6rt5URuOdJ/selector/textPosition/iZXHU1cz6VU",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 46469,
+                "end": 46483,
+                "refinedBy": {
+                    "id": "/target/G6rt5URuOdJ/selector/textQuote/FgIT5oGKDUw",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "David François",
+                    "prefix": "ca\n                        \n                        Huynh,",
+                    "suffix": " Exhibit"
+                }
+            },
+            {
+                "id": "/target/G6rt5URuOdJ/selector/css/jpbpZ3ivrBD",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/7zFC5TMqQm0]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q102363461",
+        "label": "David François Huynh",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
