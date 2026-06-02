@@ -809,7 +809,7 @@
                                     <ref target="#intertextuality">These layers are akin to <q>the spaces—<persName key="Foucault, Michel, 1926-1984." ref="http://viaf.org/viaf/104722665" ana="webannotation:http://temp.lincsproject.ca/qCE6fZOz5NA">Foucault</persName>’s hetero­topias—that cannot be mapped, such as the marketplace, the theatre, the fairground, and the ship</q>
                                         <note place="inline">
                                             <bibl>Jenstad 117</bibl>
-                                        </note> that Janelle Jenstad identifies as challenges to mapping early modern London in ways that are responsive to the needs of literary scholars. Although such mapping presents difficulties, there is real potential for this kind of visualization to assist in understanding some of the characteristics of the representation of space, and of particular spaces, in literature.</ref>
+                                        </note> that <persName key="Jenstad, Janelle." ref="http://viaf.org/viaf/125150746959316301336" ana="webannotation:http://temp.lincsproject.ca/zPGOP0d6xQ7">Janelle Jenstad</persName> identifies as challenges to mapping early modern London in ways that are responsive to the needs of literary scholars. Although such mapping presents difficulties, there is real potential for this kind of visualization to assist in understanding some of the characteristics of the representation of space, and of particular spaces, in literature.</ref>
                                 </ref>
                             </ref>
                         </p>
@@ -19331,6 +19331,95 @@
         "type": "crm:E21_Person",
         "label": "Foucault, Michel, 1926-1984.",
         "description": "Foucault, Michel"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/zPGOP0d6xQ7">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/zPGOP0d6xQ7",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T15:29:55.441Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/pvpIUfN9Svc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/pvpIUfN9Svc/selector/textPosition/1h7aVJ3oZYe",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 40067,
+                "end": 40082,
+                "refinedBy": {
+                    "id": "/target/pvpIUfN9Svc/selector/textQuote/UfDyLKeYP6J",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Janelle Jenstad",
+                    "prefix": "\n                                    These layers are akin to the spaces—Foucault’s hetero­topias—that cannot be mapped, such as the marketplace, the theatre, the fairground, and the ship\n                                        \n                                            Jenstad 117\n                                         that",
+                    "suffix": "identifies as challenges to mapping early modern London in ways that are responsive to the needs of literary scholars"
+                }
+            },
+            {
+                "id": "/target/pvpIUfN9Svc/selector/css/2a1itYSU7Pb",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/zPGOP0d6xQ7]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/125150746959316301336",
+        "type": "crm:E21_Person",
+        "label": "Jenstad, Janelle.",
+        "description": "Janelle Jenstad professeure d'université canadienne"
     },
     "P2_has_type": [
         "oa:identifying"
