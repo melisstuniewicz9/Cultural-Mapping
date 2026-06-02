@@ -877,7 +877,7 @@
                         </bibl>
                         <bibl>MetaCarta. <title level="m">OpenLayers</title>. Open Source Geospatial Foundation. <ref target="http://openlayers.org">http://openlayers.org</ref>
                         </bibl>
-                        <bibl><orgName key="Prickman, Gregory J." ref="http://viaf.org/viaf/305283540" ana="webannotation:http://temp.lincsproject.ca/vdC8WTB7Gvn">Prickman</orgName>, Gregory. <title level="m">The Atlas of Early Printing</title>. University of Iowa Libraries. <ref target="http://atlas.lib.uiowa.edu">http://atlas.lib.uiowa.edu</ref>
+                        <bibl><orgName key="Prickman, Gregory J." ref="http://viaf.org/viaf/305283540" ana="webannotation:http://temp.lincsproject.ca/vdC8WTB7Gvn">Prickman</orgName>, <persName key="Prickman, Gregory J." ref="http://viaf.org/viaf/305283540" ana="webannotation:http://temp.lincsproject.ca/CrcNcp0pJ19">Gregory</persName>. <title level="m">The Atlas of Early Printing</title>. University of Iowa Libraries. <ref target="http://atlas.lib.uiowa.edu">http://atlas.lib.uiowa.edu</ref>
                         </bibl>
                         <bibl>Scholars’ Lab. <title level="m">Neatline: Plot Your Course in Space and Time</title>. University of Virginia Library. <ref target="http://neatline.org">http://neatline.org</ref>
                         </bibl>
@@ -22363,6 +22363,94 @@
         "type": "crm:E74_Group",
         "label": "Stanford university",
         "description": "Stanford University private research university in Stanford, California, USA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/CrcNcp0pJ19">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/CrcNcp0pJ19",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T15:51:48.416Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/g9GEXSRGDpN",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/g9GEXSRGDpN/selector/textPosition/JYbcSoua45O",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 46912,
+                "end": 46919,
+                "refinedBy": {
+                    "id": "/target/g9GEXSRGDpN/selector/textQuote/8bOz9paqOpI",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Gregory",
+                    "prefix": "org\n                        \n                        Prickman,",
+                    "suffix": " The Atlas of Early Printing"
+                }
+            },
+            {
+                "id": "/target/g9GEXSRGDpN/selector/css/xgkSIKLLRV1",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/CrcNcp0pJ19]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/305283540",
+        "type": "crm:E21_Person",
+        "label": "Prickman, Gregory J."
     },
     "P2_has_type": [
         "oa:identifying"
