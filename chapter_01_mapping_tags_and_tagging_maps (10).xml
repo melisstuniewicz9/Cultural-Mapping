@@ -496,7 +496,7 @@
                 <div type="section">
                     <head>Introduction</head>
                     <p xml:id="p1037">
-                        <ref target="#theory">The <q>spatial turn</q> is making itself felt throughout literary studies, as it is in other areas of the humanities and social sciences.</ref> As <persName key="Warf, Barney, 1956-...." ref="http://viaf.org/viaf/29646209" ana="webannotation:http://temp.lincsproject.ca/7xfR5HZliIa">Barney Warf</persName> and Santa Arias argue,</p>
+                        <ref target="#theory">The <q>spatial turn</q> is making itself felt throughout literary studies, as it is in other areas of the humanities and social sciences.</ref> As <persName key="Warf, Barney, 1956-...." ref="http://viaf.org/viaf/29646209" ana="webannotation:http://temp.lincsproject.ca/7xfR5HZliIa">Barney Warf</persName> and <persName key="Arias, Santa." ref="http://viaf.org/viaf/38729216" ana="webannotation:http://temp.lincsproject.ca/kgkQKpd3YDD">Santa Arias</persName> argue,</p>
                     <q type="block">
                         <ref target="#theory">
                             <ref target="#theme_or_topic">
@@ -900,7 +900,7 @@
                         <bibl>Corrigan, John. <title level="a">Qualitative <abbr>GIS</abbr> and Emergent Semantics</title>. <title level="m">Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. Bloomington: Indiana University Press, 2010. 76–88.</bibl>
                         <bibl>Gregory, Ian. <title level="a">Exploiting Time and Space: A Challenge for <abbr>GIS</abbr> in the Digital Humanities</title>. <title level="m">The Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. Ed. David J. Bodenhamer, John Corrigan, and Trevor M. Harris. Bloomington: Indiana University Press, 2010. 58–75.</bibl>
                         <bibl>Jenstad, Janelle. <title level="a">Using Early Modern Maps in Literary Studies: Views and Caveats from London</title>. <title level="m">GeoHumanities: Art, History, Text at the Edge of Place</title>. Ed. Michael Dear, Jim Ketchum, Sarah Luria, and Douglas Richardson. London: Routledge, 2011. 112–19.</bibl>
-                        <bibl>Warf, Barney, and Santa Arias. <title level="a">Introduction: The Reinsertion of Space in to the Social Sciences and Humanities</title>. <title level="m">The Spatial Turn: Interdisciplinary Perspectives</title>. Ed. Warf and Arias. London: Routledge, 2008. 1–10.</bibl>
+                        <bibl>Warf, Barney, and <persName key="Arias, Santa." ref="http://viaf.org/viaf/38729216" ana="webannotation:http://temp.lincsproject.ca/5rEl8YlLxzr">Santa Arias</persName>. <title level="a">Introduction: The Reinsertion of Space in to the Social Sciences and Humanities</title>. <title level="m">The Spatial Turn: Interdisciplinary Perspectives</title>. Ed. Warf and Arias. London: Routledge, 2008. 1–10.</bibl>
                     </listBibl>
                 </div>
             </div>
@@ -1438,6 +1438,182 @@
         "type": "crm:E21_Person",
         "label": "Warf, Barney, 1956-....",
         "description": "Warf, Barney"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/kgkQKpd3YDD">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/kgkQKpd3YDD",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:42:25.676Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/f1VVnhAbv7R",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/f1VVnhAbv7R/selector/textPosition/hPK4QcclfFd",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 556,
+                "end": 567,
+                "refinedBy": {
+                    "id": "/target/f1VVnhAbv7R/selector/textQuote/w8uzuK5YXEF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Santa Arias",
+                    "prefix": " As Barney Warf and",
+                    "suffix": "argue,\n                    \n                        \n                            \n                                Recent works in the fields of literary and cultural studies, sociology, political science, anthropology, history, and art history have become increasingly spatial in their orientation"
+                }
+            },
+            {
+                "id": "/target/f1VVnhAbv7R/selector/css/lnaSFUNkO8c",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/kgkQKpd3YDD]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/38729216",
+        "type": "crm:E21_Person",
+        "label": "Arias, Santa."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/5rEl8YlLxzr">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/5rEl8YlLxzr",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:42:25.955Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/sjh1iPZjIhz",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/sjh1iPZjIhz/selector/textPosition/26MukdC7XwG",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 49134,
+                "end": 49145,
+                "refinedBy": {
+                    "id": "/target/sjh1iPZjIhz/selector/textQuote/Do5MpKlibli",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Santa Arias",
+                    "prefix": "\n                        Warf, Barney, and",
+                    "suffix": " Introduction: The Reinsertion of Space in to the Social Sciences and Humanities"
+                }
+            },
+            {
+                "id": "/target/sjh1iPZjIhz/selector/css/13iCNho8lMH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/5rEl8YlLxzr]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/38729216",
+        "type": "crm:E21_Person",
+        "label": "Arias, Santa."
     },
     "P2_has_type": [
         "oa:identifying"
