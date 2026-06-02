@@ -521,7 +521,7 @@
                         </ref>
                     </p>
                     <p xml:id="p1039">
-                        <ref target="#technology">Given that the Canadian Writing Research Collaboratory (<abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/sFKkzyPbz8C">CWRC</orgName></abbr>) is dedicated to creating an online environment for research on writing and seeks to offer traditional scholars a wider array of computational tools than those they typically incorporate into their research, it is hardly surprising that the literary researchers involved in <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/4S4wPqjEjaZ">CWRC</orgName>’s</abbr> development have consistently identified the mapping of literary data as a highly desirable feature of a shared digital tool set. <ref target="#spatiality">The precise nature of the mapping required for most <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/l5RYcjST2YB">CWRC</orgName></abbr> projects has yet to be established, but there is definite interest in how the spatial and temporal aspects of literary research intersect. <ref target="#canon_formation">
+                        <ref target="#technology">Given that <orgName key="Canadian Writing Research Collaboratory" ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/bZWn2mdH9se">the Canadian Writing Research Collaboratory</orgName> (<abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/sFKkzyPbz8C">CWRC</orgName></abbr>) is dedicated to creating an online environment for research on writing and seeks to offer traditional scholars a wider array of computational tools than those they typically incorporate into their research, it is hardly surprising that the literary researchers involved in <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/4S4wPqjEjaZ">CWRC</orgName>’s</abbr> development have consistently identified the mapping of literary data as a highly desirable feature of a shared digital tool set. <ref target="#spatiality">The precise nature of the mapping required for most <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/l5RYcjST2YB">CWRC</orgName></abbr> projects has yet to be established, but there is definite interest in how the spatial and temporal aspects of literary research intersect. <ref target="#canon_formation">
                                     <ref target="#history">Historical maps are also desirable for their representation of literary materials or activities from the past, as are maps that might represent slices of time or change over time. As <persName key="Bol, Peter Kees" ref="http://viaf.org/viaf/56906098" ana="webannotation:http://temp.lincsproject.ca/boohKuo9RR0">Peter K. Bol</persName> argues, <q>if we fail to see that change over time unfolds differently across space, we substitute a single history for the reality of multiple histories</q>
                                         <note place="inline">
                                             <bibl>297</bibl>
@@ -535,18 +535,18 @@
                     </p>
                     <p xml:id="p1040">
                         <ref target="#theme_or_topic">
-                            <ref target="#spatiality">All of the research projects affiliated with <abbr>CWRC</abbr> have a spatial component. Some are concerned with regional writing. <ref target="#genre_performance">A number of theatre projects seek to spatially track productions and networks of professionals.</ref>
+                            <ref target="#spatiality">All of the research projects affiliated with <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/9ACTtiXachU">CWRC</orgName></abbr> have a spatial component. Some are concerned with regional writing. <ref target="#genre_performance">A number of theatre projects seek to spatially track productions and networks of professionals.</ref>
                                 <ref target="#technology">The Editing Modernism in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/jJxRMVMly45">Canada</placeName> project at <orgName key="University of Alberta" ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/8iwdxNfSDj9">the University of Alberta</orgName> has developed a smart phone app called <title level="m">WatsonWalk</title> based on <ref target="#history">walks taken by <persName key="Watson, Sheila, 1909-1998" ref="http://viaf.org/viaf/35268398" ana="webannotation:http://temp.lincsproject.ca/Oh87D0eONFW">Sheila Watson</persName> while she and her husband <persName key="Watson, Wilfred, 1911-1998" ref="http://viaf.org/viaf/67854547" ana="webannotation:http://temp.lincsproject.ca/EmjlNNXdfDy">Wilfred Watson</persName> lived in <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/JGxGrsMvyVz">Paris</placeName> from 1955 to 1956</ref>, as documented in her journals.</ref> <persName key="Moruzi, Kristine." ref="http://viaf.org/viaf/260397385" ana="webannotation:http://temp.lincsproject.ca/B4kDyjN4uld">Kristine Moruzi’s</persName> project <title level="m">From Colonial to Modern: Transnational Girlhood in Australian, <placeName key="New Zealand" ref="https://sws.geonames.org/2186223" ana="webannotation:http://temp.lincsproject.ca/RqspdZRQlRJ">New Zealand</placeName>, and Canadian Print Cultures <note place="inline">
                                         <bibl>(1840–1940)</bibl>
                                     </note>
-                                </title> aims to map the relationship between places of production, places of publication, and places of dissemination. The most ambitious of <abbr>CWRC’s</abbr> pilot projects is <title>Magazines, Travel, and Middlebrow Culture in Canada 1925–1960,</title> led by <persName key="Hammill, Faye." ref="http://viaf.org/viaf/42097474" ana="webannotation:http://temp.lincsproject.ca/TBeVcmXWdw2">Faye Hammill</persName> of <orgName key="University of Strathclyde" ref="http://viaf.org/viaf/158205915" ana="webannotation:http://temp.lincsproject.ca/nBBORk7l1mZ">the University of Strathclyde</orgName>. <ref target="#genre_journalism">This project investigates geographical mobility as a form of upward mobility, and is designed to distinguish leisure travel from the enforced movement of migration and diaspora. The project uses middlebrow magazines to map shifts in travel patterns.</ref> If one takes seriously the claim that space <q>is not simply a passive reflection of social and cultural trends, but an active participant, i.e., geography is constitutive as well as representative</q>
+                                </title> aims to map the relationship between places of production, places of publication, and places of dissemination. The most ambitious of <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/XGypZLjpwiy">CWRC</orgName>’s</abbr> pilot projects is <title>Magazines, Travel, and Middlebrow Culture in Canada 1925–1960,</title> led by <persName key="Hammill, Faye." ref="http://viaf.org/viaf/42097474" ana="webannotation:http://temp.lincsproject.ca/TBeVcmXWdw2">Faye Hammill</persName> of <orgName key="University of Strathclyde" ref="http://viaf.org/viaf/158205915" ana="webannotation:http://temp.lincsproject.ca/nBBORk7l1mZ">the University of Strathclyde</orgName>. <ref target="#genre_journalism">This project investigates geographical mobility as a form of upward mobility, and is designed to distinguish leisure travel from the enforced movement of migration and diaspora. The project uses middlebrow magazines to map shifts in travel patterns.</ref> If one takes seriously the claim that space <q>is not simply a passive reflection of social and cultural trends, but an active participant, i.e., geography is constitutive as well as representative</q>
                                 <note place="inline">
                                     <bibl>Warf and Arias 10</bibl>
-                                </note>, then to make available a dynamic mapping environment that visualizes spatial relations is to give scholars a potentially transformative tool for investigating those constitutive relations. Yet, given the wide range of <abbr>CWRC</abbr> projects, the task of devising even a basic generalized system of mapping is a considerable challenge, as the project’s core development team learned in its initial experiments with spatial data contained in its largest seed project, the Orlando Project, housed at <orgName key="University of Alberta" ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/8Uar09ZbiHh">the University of Alberta</orgName>.</ref>
+                                </note>, then to make available a dynamic mapping environment that visualizes spatial relations is to give scholars a potentially transformative tool for investigating those constitutive relations. Yet, given the wide range of <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/GrJlthlef8d">CWRC</orgName></abbr> projects, the task of devising even a basic generalized system of mapping is a considerable challenge, as the project’s core development team learned in its initial experiments with spatial data contained in its largest seed project, the Orlando Project, housed at <orgName key="University of Alberta" ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/8Uar09ZbiHh">the University of Alberta</orgName>.</ref>
                         </ref>
                     </p>
                     <p xml:id="p1041">
-                        <ref target="#theme_or_topic">Orlando is the founding project behind <abbr>CWRC</abbr>. <ref target="#canon_formation">Initiated in the mid-1990s by a small team of literary researchers, <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/TuzEAeaQciV">Susan Brown</persName>, <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/b3VvPNfErRv">Patricia Clements</persName>, and <persName key="Grundy, Isobel." ref="http://viaf.org/viaf/12322641" ana="webannotation:http://temp.lincsproject.ca/j06ULuzBS8i">Isobel Grundy</persName>, just as graphical browser environments were exponentially expanding the usage of the World Wide Web, this research project sought to produce, from scratch, <ref target="#women_writing">
+                        <ref target="#theme_or_topic">Orlando is the founding project behind <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/hwEnfMT2G9r">CWRC</orgName></abbr>. <ref target="#canon_formation">Initiated in the mid-1990s by a small team of literary researchers, <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/TuzEAeaQciV">Susan Brown</persName>, <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/b3VvPNfErRv">Patricia Clements</persName>, and <persName key="Grundy, Isobel." ref="http://viaf.org/viaf/12322641" ana="webannotation:http://temp.lincsproject.ca/j06ULuzBS8i">Isobel Grundy</persName>, just as graphical browser environments were exponentially expanding the usage of the World Wide Web, this research project sought to produce, from scratch, <ref target="#women_writing">
                                     <ref target="#intellectual_history">a history of women’s writing in <placeName key="British Isles" ref="https://sws.geonames.org/2654669" ana="webannotation:http://temp.lincsproject.ca/uUAGIxxSxsJ">the British Isles</placeName></ref> using computers <note place="inline">
                                         <bibl><persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/O3oD7NPqkia">Brown</persName> and <persName key="Clements, Patricia" ref="http://viaf.org/viaf/59097729" ana="webannotation:http://temp.lincsproject.ca/xYJDF3sD0PW">Clements</persName> et al.</bibl>
                                     </note>. <ref target="#technology">
@@ -570,7 +570,7 @@
                     <p xml:id="p1044">
                         <ref target="#non-book_media">
                             <ref target="#theory">
-                                <ref target="#spatiality">The Orlando text base comprises several types of materials in which such spatial information occurs: bibliographical entries that identify locations of publishing activities; events that usually (though not always) specify the places where those events occurred; and detailed bio-critical entries on particular writers that contain information about locations related to their subjects’ lives and writing careers, as well as the places involved in the poems, plays, novels, travel writings, or other texts they produced. Orlando’s bio-critical entries on writers thus contain rich spatial information, as do the bibliographical and contextual event material. Among Orlando’s more than eight million words of born-digital scholarship, there are (at the time of writing) a total of 65,488 place tags and a total of 10,657 unique place names. <ref target="#technology">On the basis of this extensive set of materials, the Orlando and <abbr>CWRC</abbr> teams have conducted experimental geographical visualizations as a means of exploring how best to implement mapping functionality within the Collaboratory platform. We have begun with information related to writers’ places of residence, travel, migration, and social networks, and how this biographical data may relate to facets of their writing careers, such as places of production or reception, literary settings, and topographical descriptions. Here, we report the results of this first foray into the complex interrelationship of data, tools, and graphical interfaces.</ref>
+                                <ref target="#spatiality">The Orlando text base comprises several types of materials in which such spatial information occurs: bibliographical entries that identify locations of publishing activities; events that usually (though not always) specify the places where those events occurred; and detailed bio-critical entries on particular writers that contain information about locations related to their subjects’ lives and writing careers, as well as the places involved in the poems, plays, novels, travel writings, or other texts they produced. Orlando’s bio-critical entries on writers thus contain rich spatial information, as do the bibliographical and contextual event material. Among Orlando’s more than eight million words of born-digital scholarship, there are (at the time of writing) a total of 65,488 place tags and a total of 10,657 unique place names. <ref target="#technology">On the basis of this extensive set of materials, the Orlando and <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/E863VIteHJ2">CWRC</orgName></abbr> teams have conducted experimental geographical visualizations as a means of exploring how best to implement mapping functionality within the Collaboratory platform. We have begun with information related to writers’ places of residence, travel, migration, and social networks, and how this biographical data may relate to facets of their writing careers, such as places of production or reception, literary settings, and topographical descriptions. Here, we report the results of this first foray into the complex interrelationship of data, tools, and graphical interfaces.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -597,7 +597,7 @@
                     <p xml:id="p1047">
                         <ref target="#theme_or_topic">
                             <ref target="#spatiality">
-                                <ref target="#technology">As a result of having implemented such semantic tags in Orlando, then, we can contextualize each mention of a place name and explore the axes of geographical representation that will be useful to <abbr>CWRC</abbr>-affiliated researchers and in the delivery of <abbr>CWRC</abbr> materials. <ref target="#methodology">The <abbr>CWRC</abbr> team needs to test spatial data infrastructure that can map diverse projects and varying articulations of spatial experience. For our initial explorations, we therefore selected two axes of representation that would be of broad interest to literary scholars: the travel or migration of writers or groups of writers; and trends in writers’ geographical subject matter (that is, places represented in writing).</ref>
+                                <ref target="#technology">As a result of having implemented such semantic tags in Orlando, then, we can contextualize each mention of a place name and explore the axes of geographical representation that will be useful to <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/GlbvFpjoUNr">CWRC</orgName></abbr>-affiliated researchers and in the delivery of <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/Xk6oETfT13t">CWRC</orgName></abbr> materials. <ref target="#methodology">The <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/aVNZE8LwRgC">CWRC</orgName></abbr> team needs to test spatial data infrastructure that can map diverse projects and varying articulations of spatial experience. For our initial explorations, we therefore selected two axes of representation that would be of broad interest to literary scholars: the travel or migration of writers or groups of writers; and trends in writers’ geographical subject matter (that is, places represented in writing).</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -619,7 +619,7 @@
                     <p xml:id="p1049">
                         <ref target="#methodology">
                             <ref target="#canon_formation">
-                                <ref target="#spatiality">A third step consisted of matching place names to latitude and longitude information. In advance of mapping, however, the existing spatial data needed to be enhanced. The mapping systems with which we experimented cannot produce a map from a simple place name like <q><placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/4yIBTNLT71f">London</placeName>,</q> as it is not in itself geo-referenced, that is, related to a location on the earth. This is not a trivial process, even for materials in which the different forms of <q><placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/hijJpuMrsvD">London</placeName></q> have already been distinguished from one another. <ref target="#technology">Automated services for geo-referencing place names exist, but they produce a certain number of false or (in other respects) inadequate matches and so require considerable manual checking and cleanup.</ref> Within <abbr>CWRC</abbr>, new place data will be geo-referenced at the time of creation; the hundreds of thousands of place names contained in the <abbr>CWRC</abbr> data donations and seed data projects will undergo this process.</ref>
+                                <ref target="#spatiality">A third step consisted of matching place names to latitude and longitude information. In advance of mapping, however, the existing spatial data needed to be enhanced. The mapping systems with which we experimented cannot produce a map from a simple place name like <q><placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/4yIBTNLT71f">London</placeName>,</q> as it is not in itself geo-referenced, that is, related to a location on the earth. This is not a trivial process, even for materials in which the different forms of <q><placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/hijJpuMrsvD">London</placeName></q> have already been distinguished from one another. <ref target="#technology">Automated services for geo-referencing place names exist, but they produce a certain number of false or (in other respects) inadequate matches and so require considerable manual checking and cleanup.</ref> Within <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/q69W0K57Eny">CWRC</orgName></abbr>, new place data will be geo-referenced at the time of creation; the hundreds of thousands of place names contained in the <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/4cQr93vrgtw">CWRC</orgName></abbr> data donations and seed data projects will undergo this process.</ref>
                             </ref>
                         </ref>
                     </p>
@@ -699,7 +699,7 @@
                         </p>
                         <p xml:id="p1059">
                             <ref target="#spatiality">
-                                <ref target="#non-book_media">The availability of map resources is a relevant issue. How badly does <abbr>CWRC</abbr>, in particular, need online historical maps? <ref target="#technology">The interlayering of maps from different centuries enabled by the HyperCities platform, for example, produces beautiful contrasts and juxtapositions</ref>, but spatial relations are not the focus of most <abbr>CWRC</abbr> projects. What emerged from our initial round of experiments is that spatially mapping events from roughly the same period does not necessarily provide insight into changing historical patterns in relation to place and space.</ref>
+                                <ref target="#non-book_media">The availability of map resources is a relevant issue. How badly does <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/cN7FOdU4JhK">CWRC</orgName></abbr>, in particular, need online historical maps? <ref target="#technology">The interlayering of maps from different centuries enabled by the HyperCities platform, for example, produces beautiful contrasts and juxtapositions</ref>, but spatial relations are not the focus of most <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/2b8A2aVT8rC">CWRC</orgName></abbr> projects. What emerged from our initial round of experiments is that spatially mapping events from roughly the same period does not necessarily provide insight into changing historical patterns in relation to place and space.</ref>
                             </ref>
                         </p>
                         <p xml:id="p1060">
@@ -713,7 +713,7 @@
                             <ref target="#theme_or_topic">The outlying markers in the map of <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/6Agsy7OGoTV">Mary Ward’s</persName> travels (<placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/syaNBqQMwJk">Canada</placeName>, the United States, <placeName key="Republic of India" ref="https://sws.geonames.org/1269750" ana="webannotation:http://temp.lincsproject.ca/N2oMZwNX1Ny">India</placeName>, and Australia) shed light on two further considerations. They show the extent to which the context leveraged from markup is always already embedded in the specifics of the author’s life and works, and must therefore be understood as part of an ongoing process of humanistic interpretation and situated representation, rather than a positivist index of certain relations. These hits on Ward’s map (Figure 1.2) reflect the information provided in Orlando’s entry on Ward that <ref target="#religion">the order she founded flourishes today</ref> in those places.</ref>
                         </p>
                         <p xml:id="p1062">
-                            <ref target="#spatiality">The way Orlando’s material on Mary Ward figures on our map highlights one of the crucial aspects of the kind of mapping that will be involved in <abbr>CWRC</abbr> as a whole. There are, as mentioned above, rare projects involved in <abbr>CWRC</abbr> that focus on the idea of space and have mapping as a central component; however, for the bulk of <abbr>CWRC</abbr> projects, and certainly for donated data projects that predate the Collaboratory, these</ref>
+                            <ref target="#spatiality">The way Orlando’s material on Mary Ward figures on our map highlights one of the crucial aspects of the kind of mapping that will be involved in <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/FFV25euGP6B">CWRC</orgName></abbr> as a whole. There are, as mentioned above, rare projects involved in <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/fm41ypeucYK">CWRC</orgName></abbr> that focus on the idea of space and have mapping as a central component; however, for the bulk of <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/9cmm7B3re3l">CWRC</orgName></abbr> projects, and certainly for donated data projects that predate the Collaboratory, these</ref>
                             <figure>
                                 <head>Figure 1.5</head>
                                 <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A1e502987-5452-45e7-a9e8-98b3c468afe9/datastream/JPG-DToC/view"/>
@@ -727,7 +727,7 @@
                             <ref target="#spatiality">concerns are not central to the research aims that inform the way that spatial information is collected. The implications of this are twofold. <ref target="#theme_or_topic">
                                     <ref target="#close_reading">First, there will be many cases, such as that of <persName key="Ward, Mary" ref="http://viaf.org/viaf/62341746" ana="webannotation:http://temp.lincsproject.ca/n8a0vWBJfrg">Mary Ward’s</persName> global reach, when spatial information is not as granular as it might be in a dedicated <abbr>GIS</abbr> project, which could lead to surprising results. Second, there will be an inherent unevenness in the granularity of the spatial data across the project as a whole. Some projects will dedicate considerable effort to linking spatial and temporal data to enable precise rendering of materials on maps that will support exploration of research questions developed with spatial analysis in mind. Other projects will produce spatial data more casually, in keeping with standard biographical, critical, or bibliographical methods.</ref>
                                 </ref>
-                                <ref target="#collaboration">Thus, <abbr>CWRC</abbr> maps rendered from data produced across the Collaboratory will differ considerably from maps created by single projects. Although the format of the data will be interoperable, it will vary considerably from data produced by a single project with uniform principles, aims, and methods in the production of spatial data.</ref> While all maps require interpretation, <abbr>CWRC’s</abbr> maps will, for this reason, require careful readerly analysis. Hence, the rhetoric of the interface will need to signal that the map is not a finished product but an interpretive tool, one of several offered by the Collaboratory.</ref>
+                                <ref target="#collaboration">Thus, <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/EjL1ZRRhoAL">CWRC</orgName></abbr> maps rendered from data produced across the Collaboratory will differ considerably from maps created by single projects. Although the format of the data will be interoperable, it will vary considerably from data produced by a single project with uniform principles, aims, and methods in the production of spatial data.</ref> While all maps require interpretation, <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/jd7hTQSeLTO">CWRC</orgName>’s</abbr> maps will, for this reason, require careful readerly analysis. Hence, the rhetoric of the interface will need to signal that the map is not a finished product but an interpretive tool, one of several offered by the Collaboratory.</ref>
                         </p>
                         <p xml:id="p1063">
                             <ref target="#technology">
@@ -736,7 +736,7 @@
                                     </ref>
                                     <note place="inline">
                                         <bibl>Scholars’ Lab</bibl>
-                                    </note>. <ref target="#collaboration">Not all visualizations within <abbr>CWRC</abbr> will offer the highly interpretive, detailed, and exquisitely curated spatial and temporal representations of materials produced by a single scholar or co-ordinated team effort in a project to which mapping is central, but the ability to bring together sets of materials and to visualize their spatial data—the unexpected conjunction of materials—may garner serendipitous results. Moreover, embedding such visualizations within an extensive and multi-faceted knowledge environment, so that one can move between the visualizations and other lenses on a given set of materials, means that the mappings will offer a <q>dynamic rendering of culture,</q> which humanities scholars prefer over <q>static ones</q>
+                                    </note>. <ref target="#collaboration">Not all visualizations within <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/KiWDY2fQMeA">CWRC</orgName></abbr> will offer the highly interpretive, detailed, and exquisitely curated spatial and temporal representations of materials produced by a single scholar or co-ordinated team effort in a project to which mapping is central, but the ability to bring together sets of materials and to visualize their spatial data—the unexpected conjunction of materials—may garner serendipitous results. Moreover, embedding such visualizations within an extensive and multi-faceted knowledge environment, so that one can move between the visualizations and other lenses on a given set of materials, means that the mappings will offer a <q>dynamic rendering of culture,</q> which humanities scholars prefer over <q>static ones</q>
                                         <note place="inline">
                                             <bibl>Corrigan 80–81</bibl>
                                         </note>. As John Corrigan affirms, <q>Complex data is dynamic data…It is data that is characterized by interaction between its various parts, which massage each other <figure>
@@ -752,7 +752,7 @@
                         </p>
                         <p xml:id="p1064">
                             <ref target="#spatiality">
-                                <ref target="#theme_or_topic">The diversity of project aims and data granularity drives home the importance, indeed the necessity, of allowing the reader to move from a map to the source data that lies behind it. <ref target="#intertextuality">Whereas a number of impressive mapping projects associated with writing, such as Gregory Prickman’s <title level="m">The Atlas of Early Printing,</title> provide maps that represent data without giving access to the specific source information that underlies each point in a map (as is typical of printed maps), users of <abbr>CWRC</abbr> maps will need to be able to access the text that is the source of the visualization in order to determine the relevance of particular points on a map, and subsequently the nature of the connection to the place in question.</ref> Information pertaining to provenance also may prove particularly important in this context. Given the inevitability of divergent practices with respect to spatial data on different projects, it will be important to allow those who are creating spatial visualizations of <abbr>CWRC</abbr> materials to filter out certain sets of information deemed incompatible with the terms of their inquiry.</ref>
+                                <ref target="#theme_or_topic">The diversity of project aims and data granularity drives home the importance, indeed the necessity, of allowing the reader to move from a map to the source data that lies behind it. <ref target="#intertextuality">Whereas a number of impressive mapping projects associated with writing, such as Gregory Prickman’s <title level="m">The Atlas of Early Printing,</title> provide maps that represent data without giving access to the specific source information that underlies each point in a map (as is typical of printed maps), users of <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/ikWkfrZ13lG">CWRC</orgName></abbr> maps will need to be able to access the text that is the source of the visualization in order to determine the relevance of particular points on a map, and subsequently the nature of the connection to the place in question.</ref> Information pertaining to provenance also may prove particularly important in this context. Given the inevitability of divergent practices with respect to spatial data on different projects, it will be important to allow those who are creating spatial visualizations of <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/rpac0DJwfsW">CWRC</orgName></abbr> materials to filter out certain sets of information deemed incompatible with the terms of their inquiry.</ref>
                             </ref>
                         </p>
                         <p xml:id="p1065">
@@ -796,7 +796,7 @@
                         </p>
                         <p xml:id="p1071">
                             <ref target="#spatiality">
-                                <ref target="#writing_climate">The constructedness of space, as well as its constitutive aspects within literary culture and the production of subjectivities and sensibilities through literature, is especially relevant to Orlando and <abbr>CWRC</abbr> whose <figure>
+                                <ref target="#writing_climate">The constructedness of space, as well as its constitutive aspects within literary culture and the production of subjectivities and sensibilities through literature, is especially relevant to Orlando and <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/OLQoX19abj1">CWRC</orgName></abbr> whose <figure>
                                         <head>Figure 1.9</head>
                                         <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A1bd114ad-4cdc-469e-8580-f7c9b891fadf/datastream/JPG-DToC/view"/>
                                         <figDesc>Scotland as a literary setting.</figDesc>
@@ -820,7 +820,7 @@
                     <p xml:id="p1073">
                         <ref target="#theory">
                             <ref target="#theme_or_topic">
-                                <ref target="#spatiality">Knowing what we want to map and, as far as possible, how we want to map our materials will be a great advantage to <abbr>CWRC</abbr>. <ref target="#technology">When Orlando began, the kind of web-based mapping systems available today did not exist and, although we tried to anticipate what would be required for mapping, we struggled to sufficiently disambiguate place names for delivery and searchability as text. It is not surprising, then (despite the painstaking application of spatial metadata throughout the text base), that an extensive cleanup of place tagging was required to create the relatively straightforward maps represented in this chapter.</ref>
+                                <ref target="#spatiality">Knowing what we want to map and, as far as possible, how we want to map our materials will be a great advantage to <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/PZmWvELhf4c">CWRC</orgName></abbr>. <ref target="#technology">When Orlando began, the kind of web-based mapping systems available today did not exist and, although we tried to anticipate what would be required for mapping, we struggled to sufficiently disambiguate place names for delivery and searchability as text. It is not surprising, then (despite the painstaking application of spatial metadata throughout the text base), that an extensive cleanup of place tagging was required to create the relatively straightforward maps represented in this chapter.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -828,7 +828,7 @@
                     <p xml:id="p1074">
                         <ref target="#theory">
                             <ref target="#spatiality">
-                                <ref target="#technology">The challenges described here are by no means unique to this particular mapping project. They invoke the impact of drawing on uneven spatial data, in terms of its granularity (such as North America versus Halifax, Nova Scotia) and density (such as <abbr>CWRC</abbr> items that only have a few places mentioned in their metadata in contrast to a piece of travel writing in Orlando that already has extensive tagging). There is yet a further source of unevenness within <abbr>CWRC</abbr>: differences in the extent to which contextualizing semantic data is present within and across projects in the Collaboratory. A challenge for both <abbr>CWRC</abbr> and Orlando is the sheer density of spatial data across the collections, especially in relation to major population and publishing centres such as <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/DivIFpt1Zdd">London</placeName>, Toronto, and Montreal. An ideal mapping interface would allow efficient processing and visualization of large quantities of spatial data in a web environment, easy faceting according to a range of criteria, and manual sifting of results, plus quick reference to the source text.</ref>
+                                <ref target="#technology">The challenges described here are by no means unique to this particular mapping project. They invoke the impact of drawing on uneven spatial data, in terms of its granularity (such as North America versus Halifax, Nova Scotia) and density (such as <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/2Wn8bQRqrLz">CWRC</orgName></abbr> items that only have a few places mentioned in their metadata in contrast to a piece of travel writing in Orlando that already has extensive tagging). There is yet a further source of unevenness within <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/rcsmMrfzEL6">CWRC</orgName></abbr>: differences in the extent to which contextualizing semantic data is present within and across projects in the Collaboratory. A challenge for both <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/oekfvZeo6Vp">CWRC</orgName></abbr> and Orlando is the sheer density of spatial data across the collections, especially in relation to major population and publishing centres such as <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/DivIFpt1Zdd">London</placeName>, Toronto, and Montreal. An ideal mapping interface would allow efficient processing and visualization of large quantities of spatial data in a web environment, easy faceting according to a range of criteria, and manual sifting of results, plus quick reference to the source text.</ref>
                             </ref>
                         </ref>
                     </p>
@@ -839,8 +839,8 @@
                                     <ref target="#technology">Our early experimental work tackles only a few of the more obvious complexities of spatial and temporal mapping. We are also keenly aware that our pragmatic experimentation with existing open source tools means that, to date, we have relied on existing conventions for representation of space that may be inherently out of step with the nature of our undertaking. As Johanna Drucker urges, humanities visualization needs <q>interpretations that arise in observer-codependence, characterized by ambiguity and uncertainty, as the basis on which a representation is constructed</q> to create <q>a map whose basic coordinate grid is constructed as an effect of these ambiguities</q>
                                         <note place="inline">
                                             <bibl>Drucker par. 2</bibl>
-                                        </note>. The systems with which we have experimented thus far cannot begin to support such a nuanced model of spatial visualization. How best to address the mapping needs of literary scholars within <abbr>CWRC</abbr>, given the available resources, continues to drive our research. We look forward to learning what affordances other spatial visualization systems, such as Neatline with its attempt to incorporate an interpretive, humanistic perspective, can offer, and how we might adapt them to the kind of <ref target="#collaboration">collaborative, spontaneous, serendipitous mapping environment that <abbr>CWRC</abbr> hopes to support.</ref>
-                                        <abbr>CWRC</abbr> also hopes to incorporate more focused, curated mapping work. Creating even a relatively simple environment within which scholars of wide-ranging perspectives can play with place and space as part of their respective investigations will help advance scholarly reflection on mapping itself and discovery of what kinds of mapping are most conducive to scholarly analysis and interpretation in the field of literary historical studies. But we know we still have considerable ground to cover.</ref>
+                                        </note>. The systems with which we have experimented thus far cannot begin to support such a nuanced model of spatial visualization. How best to address the mapping needs of literary scholars within <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/ifYmfHlIS2A">CWRC</orgName></abbr>, given the available resources, continues to drive our research. We look forward to learning what affordances other spatial visualization systems, such as Neatline with its attempt to incorporate an interpretive, humanistic perspective, can offer, and how we might adapt them to the kind of <ref target="#collaboration">collaborative, spontaneous, serendipitous mapping environment that <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/QcEnB2vJZ6h">CWRC</orgName></abbr> hopes to support.</ref>
+                                        <abbr><orgName key="Canadian Writing Research Collaboratory " ref="https://www.wikidata.org/wiki/Q134008740" ana="webannotation:http://temp.lincsproject.ca/Trivr65Shu9">CWRC</orgName></abbr> also hopes to incorporate more focused, curated mapping work. Creating even a relatively simple environment within which scholars of wide-ranging perspectives can play with place and space as part of their respective investigations will help advance scholarly reflection on mapping itself and discovery of what kinds of mapping are most conducive to scholarly analysis and interpretation in the field of literary historical studies. But we know we still have considerable ground to cover.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -1977,6 +1977,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/bZWn2mdH9se">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/bZWn2mdH9se",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:30:11.766Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4UWNr9dVt4j",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4UWNr9dVt4j/selector/textPosition/vdWIHkebW65",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 3247,
+                "end": 3290,
+                "refinedBy": {
+                    "id": "/target/4UWNr9dVt4j/selector/textQuote/8Bo1gAN2DKP",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Canadian Writing Research Collaboratory",
+                    "prefix": "\n                        \n                    \n                    \n                        Given that",
+                    "suffix": "(CWRC) is dedicated to creating an online environment for research on writing and seeks to offer traditional scholars a wider array of computational tools than those they typically incorporate into their research, it is hardly surprising that the literary researchers involved in CWRC’s development have consistently identified the mapping of literary data as a highly desirable feature of a shared digital tool set"
+                }
+            },
+            {
+                "id": "/target/4UWNr9dVt4j/selector/css/v0bxZJNTOnl",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/bZWn2mdH9se]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/sFKkzyPbz8C">
 <![CDATA[{
     "@context": [
@@ -2228,6 +2317,2498 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/l5RYcjST2YB]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/9ACTtiXachU">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/9ACTtiXachU",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:41.899Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/zQ2ukA1GIAn",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/zQ2ukA1GIAn/selector/textPosition/Jk4u8nfandV",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 4961,
+                "end": 4965,
+                "refinedBy": {
+                    "id": "/target/zQ2ukA1GIAn/selector/textQuote/QakeMUDplmY",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": "\n                                \n                            \n                        \n                    \n                    \n                        \n                            All of the research projects affiliated with",
+                    "suffix": "have a spatial component"
+                }
+            },
+            {
+                "id": "/target/zQ2ukA1GIAn/selector/css/3irfshSy3QA",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/9ACTtiXachU]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/XGypZLjpwiy">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/XGypZLjpwiy",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:42.371Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/BxDJal9DNKr",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/BxDJal9DNKr/selector/textPosition/tjzvwHN967a",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5811,
+                "end": 5815,
+                "refinedBy": {
+                    "id": "/target/BxDJal9DNKr/selector/textQuote/IlTlTJRiVOq",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " The most ambitious of",
+                    "suffix": "s pilot projects is Magazines, Travel, and Middlebrow Culture in Canada 1925–1960, led by Faye Hammill of the University of Strathclyde"
+                }
+            },
+            {
+                "id": "/target/BxDJal9DNKr/selector/css/zVhWwoHoHSo",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/XGypZLjpwiy]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/GrJlthlef8d">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/GrJlthlef8d",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:42.371Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Psts1FyeULc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Psts1FyeULc/selector/textPosition/PEc5w8qagU8",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6737,
+                "end": 6741,
+                "refinedBy": {
+                    "id": "/target/Psts1FyeULc/selector/textQuote/plFHPXLGjsb",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " Yet, given the wide range of",
+                    "suffix": "projects, the task of devising even a basic generalized system of mapping is a considerable challenge, as the project’s core development team learned in its initial experiments with spatial data contained in its largest seed project, the Orlando Project, housed at the University of Alberta"
+                }
+            },
+            {
+                "id": "/target/Psts1FyeULc/selector/css/FP1OV6hjEzz",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/GrJlthlef8d]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/hwEnfMT2G9r">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/hwEnfMT2G9r",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:42.372Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/C0j4dggalOK",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/C0j4dggalOK/selector/textPosition/FyPIU6qq3zq",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7164,
+                "end": 7168,
+                "refinedBy": {
+                    "id": "/target/C0j4dggalOK/selector/textQuote/RAFB93nUQkH",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": "\n                        \n                    \n                    \n                        Orlando is the founding project behind",
+                    "suffix": " Initiated in the mid-1990s by a small team of literary researchers, Susan Brown, Patricia Clements, and Isobel Grundy, just as graphical browser environments were exponentially expanding the usage of the World Wide Web, this research project sought to produce, from scratch, \n                                    a history of women’s writing in the British Isles using computers \n                                        Brown and Clements et al"
+                }
+            },
+            {
+                "id": "/target/C0j4dggalOK/selector/css/kzK6TGRDxnn",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/hwEnfMT2G9r]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/E863VIteHJ2">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/E863VIteHJ2",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:42.372Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/f18kMe63YUA",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/f18kMe63YUA/selector/textPosition/U4bP90el2LF",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10939,
+                "end": 10943,
+                "refinedBy": {
+                    "id": "/target/f18kMe63YUA/selector/textQuote/1mNLcFRL6bI",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " On the basis of this extensive set of materials, the Orlando and",
+                    "suffix": "teams have conducted experimental geographical visualizations as a means of exploring how best to implement mapping functionality within the Collaboratory platform"
+                }
+            },
+            {
+                "id": "/target/f18kMe63YUA/selector/css/mwmPKHERzWh",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/E863VIteHJ2]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/GlbvFpjoUNr">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/GlbvFpjoUNr",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:42.373Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/eKR8w3XzfVc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/eKR8w3XzfVc/selector/textPosition/QrG5aLTYyPz",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15068,
+                "end": 15072,
+                "refinedBy": {
+                    "id": "/target/eKR8w3XzfVc/selector/textQuote/ZDXYdbgza7Q",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": "\n                            \n                        \n                    \n                    \n                        \n                            \n                                As a result of having implemented such semantic tags in Orlando, then, we can contextualize each mention of a place name and explore the axes of geographical representation that will be useful to",
+                    "suffix": "affiliated researchers and in the delivery of CWRC materials"
+                }
+            },
+            {
+                "id": "/target/eKR8w3XzfVc/selector/css/8B6LTYCKKrS",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/GlbvFpjoUNr]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Xk6oETfT13t">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Xk6oETfT13t",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:42.373Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/qzjmUhKygLr",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/qzjmUhKygLr/selector/textPosition/leoPoJFOe8t",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15119,
+                "end": 15123,
+                "refinedBy": {
+                    "id": "/target/qzjmUhKygLr/selector/textQuote/i4dCRLfdUrG",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": "\n                            \n                        \n                    \n                    \n                        \n                            \n                                As a result of having implemented such semantic tags in Orlando, then, we can contextualize each mention of a place name and explore the axes of geographical representation that will be useful to CWRC-affiliated researchers and in the delivery of",
+                    "suffix": "materials"
+                }
+            },
+            {
+                "id": "/target/qzjmUhKygLr/selector/css/uPWOOIiNLkp",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Xk6oETfT13t]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/aVNZE8LwRgC">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/aVNZE8LwRgC",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:42.374Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/uYJhD0MCtdG",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/uYJhD0MCtdG/selector/textPosition/PvFWSEbUJcs",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15139,
+                "end": 15143,
+                "refinedBy": {
+                    "id": "/target/uYJhD0MCtdG/selector/textQuote/baVSqoMj1RQ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " The",
+                    "suffix": "team needs to test spatial data infrastructure that can map diverse projects and varying articulations of spatial experience"
+                }
+            },
+            {
+                "id": "/target/uYJhD0MCtdG/selector/css/QRFIx9WD5R0",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/aVNZE8LwRgC]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/q69W0K57Eny">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/q69W0K57Eny",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:42.375Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/swMGBMqTmA9",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/swMGBMqTmA9/selector/textPosition/GltSn9kR7DW",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 18491,
+                "end": 18495,
+                "refinedBy": {
+                    "id": "/target/swMGBMqTmA9/selector/textQuote/gFa0DVUTLlH",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " Within",
+                    "suffix": " new place data will be geo-referenced at the time of creation; the hundreds of thousands of place names contained in the CWRC data donations and seed data projects will undergo this process"
+                }
+            },
+            {
+                "id": "/target/swMGBMqTmA9/selector/css/dDjdCIjcW3t",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/q69W0K57Eny]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/4cQr93vrgtw">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/4cQr93vrgtw",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:42.377Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/RgcPINpsgwg",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/RgcPINpsgwg/selector/textPosition/AvmoWOBDF2g",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 18618,
+                "end": 18622,
+                "refinedBy": {
+                    "id": "/target/RgcPINpsgwg/selector/textQuote/1Yh9l06qt6Q",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " Within CWRC, new place data will be geo-referenced at the time of creation; the hundreds of thousands of place names contained in the",
+                    "suffix": "data donations and seed data projects will undergo this process"
+                }
+            },
+            {
+                "id": "/target/RgcPINpsgwg/selector/css/AAnV6nBaofc",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/4cQr93vrgtw]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/cN7FOdU4JhK">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/cN7FOdU4JhK",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:42.379Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/gCx2OEN8uR7",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/gCx2OEN8uR7/selector/textPosition/HojZ4Fs2HNR",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 25119,
+                "end": 25123,
+                "refinedBy": {
+                    "id": "/target/gCx2OEN8uR7/selector/textQuote/JAxAE9nEIGj",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " How badly does",
+                    "suffix": " in particular, need online historical maps? The interlayering of maps from different centuries enabled by the HyperCities platform, for example, produces beautiful contrasts and juxtapositions, but spatial relations are not the focus of most CWRC projects"
+                }
+            },
+            {
+                "id": "/target/gCx2OEN8uR7/selector/css/iPs3zcJCVbn",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/cN7FOdU4JhK]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/2b8A2aVT8rC">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/2b8A2aVT8rC",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:42.769Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ZIPHDC6ThE7",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ZIPHDC6ThE7/selector/textPosition/7kyMqs2orv4",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 25367,
+                "end": 25371,
+                "refinedBy": {
+                    "id": "/target/ZIPHDC6ThE7/selector/textQuote/y0ST4jxfA3H",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " How badly does CWRC, in particular, need online historical maps? The interlayering of maps from different centuries enabled by the HyperCities platform, for example, produces beautiful contrasts and juxtapositions, but spatial relations are not the focus of most",
+                    "suffix": "projects"
+                }
+            },
+            {
+                "id": "/target/ZIPHDC6ThE7/selector/css/I6yAZgPJSFF",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/2b8A2aVT8rC]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/FFV25euGP6B">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/FFV25euGP6B",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:42.770Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/jZBAArhmWR4",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/jZBAArhmWR4/selector/textPosition/8fPTJl6QLih",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27402,
+                "end": 27406,
+                "refinedBy": {
+                    "id": "/target/jZBAArhmWR4/selector/textQuote/8MY4kx4OxVe",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": "\n                        \n                        \n                            The way Orlando’s material on Mary Ward figures on our map highlights one of the crucial aspects of the kind of mapping that will be involved in",
+                    "suffix": "as a whole"
+                }
+            },
+            {
+                "id": "/target/jZBAArhmWR4/selector/css/RcZ7KfIg3A1",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/FFV25euGP6B]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/fm41ypeucYK">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/fm41ypeucYK",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:42.770Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/zljNgvgUCWj",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/zljNgvgUCWj/selector/textPosition/QgUiUzDB1fT",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27476,
+                "end": 27480,
+                "refinedBy": {
+                    "id": "/target/zljNgvgUCWj/selector/textQuote/n7MEGwvRp3a",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " There are, as mentioned above, rare projects involved in",
+                    "suffix": "that focus on the idea of space and have mapping as a central component; however, for the bulk of CWRC projects, and certainly for donated data projects that predate the Collaboratory, these\n                            \n                                Figure 1"
+                }
+            },
+            {
+                "id": "/target/zljNgvgUCWj/selector/css/2agJYTEpZPJ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/fm41ypeucYK]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/9cmm7B3re3l">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/9cmm7B3re3l",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:42.771Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/glwy2NRHigc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/glwy2NRHigc/selector/textPosition/74NKKEugQby",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27579,
+                "end": 27583,
+                "refinedBy": {
+                    "id": "/target/glwy2NRHigc/selector/textQuote/lfNIqO3ew4v",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " There are, as mentioned above, rare projects involved in CWRC that focus on the idea of space and have mapping as a central component; however, for the bulk of",
+                    "suffix": "projects, and certainly for donated data projects that predate the Collaboratory, these\n                            \n                                Figure 1"
+                }
+            },
+            {
+                "id": "/target/glwy2NRHigc/selector/css/0xLZtiH2crc",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/9cmm7B3re3l]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/EjL1ZRRhoAL">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/EjL1ZRRhoAL",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:42.771Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/M3XTIzjYH3s",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/M3XTIzjYH3s/selector/textPosition/nPaUI0110oK",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 29121,
+                "end": 29125,
+                "refinedBy": {
+                    "id": "/target/M3XTIzjYH3s/selector/textQuote/m7J3kqN3oZw",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": "\n                                \n                                Thus,",
+                    "suffix": "maps rendered from data produced across the Collaboratory will differ considerably from maps created by single projects"
+                }
+            },
+            {
+                "id": "/target/M3XTIzjYH3s/selector/css/cOHz8By9oCq",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/EjL1ZRRhoAL]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/jd7hTQSeLTO">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/jd7hTQSeLTO",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:42.771Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/uRtsv63hU7T",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/uRtsv63hU7T/selector/textPosition/NohbdqvWXgh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 29484,
+                "end": 29488,
+                "refinedBy": {
+                    "id": "/target/uRtsv63hU7T/selector/textQuote/a1YVXXMeIqQ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " While all maps require interpretation,",
+                    "suffix": "s maps will, for this reason, require careful readerly analysis"
+                }
+            },
+            {
+                "id": "/target/uRtsv63hU7T/selector/css/ONxg43CwAkO",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/jd7hTQSeLTO]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/KiWDY2fQMeA">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/KiWDY2fQMeA",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:42.772Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/xP7gVnB7HmS",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/xP7gVnB7HmS/selector/textPosition/TIsHZ7gWf6u",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 30497,
+                "end": 30501,
+                "refinedBy": {
+                    "id": "/target/xP7gVnB7HmS/selector/textQuote/bdUndBYRKim",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " Not all visualizations within",
+                    "suffix": "will offer the highly interpretive, detailed, and exquisitely curated spatial and temporal representations of materials produced by a single scholar or co-ordinated team effort in a project to which mapping is central, but the ability to bring together sets of materials and to visualize their spatial data—the unexpected conjunction of materials—may garner serendipitous results"
+                }
+            },
+            {
+                "id": "/target/xP7gVnB7HmS/selector/css/KDS4X9kyopG",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/KiWDY2fQMeA]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ikWkfrZ13lG">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ikWkfrZ13lG",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:42.772Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Jdziy4JIoO7",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Jdziy4JIoO7/selector/textPosition/awHQFTEY44z",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 32632,
+                "end": 32636,
+                "refinedBy": {
+                    "id": "/target/Jdziy4JIoO7/selector/textQuote/86DePJslmFq",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " Whereas a number of impressive mapping projects associated with writing, such as Gregory Prickman’s The Atlas of Early Printing, provide maps that represent data without giving access to the specific source information that underlies each point in a map (as is typical of printed maps), users of",
+                    "suffix": "maps will need to be able to access the text that is the source of the visualization in order to determine the relevance of particular points on a map, and subsequently the nature of the connection to the place in question"
+                }
+            },
+            {
+                "id": "/target/Jdziy4JIoO7/selector/css/FSQRywvHGbw",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ikWkfrZ13lG]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/rpac0DJwfsW">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/rpac0DJwfsW",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:42.772Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/vLlRGvSeECz",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/vLlRGvSeECz/selector/textPosition/uuXKhVnrnEm",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 33131,
+                "end": 33135,
+                "refinedBy": {
+                    "id": "/target/vLlRGvSeECz/selector/textQuote/uAS6AJlnzNg",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " Given the inevitability of divergent practices with respect to spatial data on different projects, it will be important to allow those who are creating spatial visualizations of",
+                    "suffix": "materials to filter out certain sets of information deemed incompatible with the terms of their inquiry"
+                }
+            },
+            {
+                "id": "/target/vLlRGvSeECz/selector/css/cdwERyhZ39P",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/rpac0DJwfsW]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/OLQoX19abj1">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/OLQoX19abj1",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:42.773Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/nsfHa06NTlS",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/nsfHa06NTlS/selector/textPosition/kGFuYkrh6LR",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38519,
+                "end": 38523,
+                "refinedBy": {
+                    "id": "/target/nsfHa06NTlS/selector/textQuote/BguH6OT2GUU",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": "\n                            \n                        \n                        \n                            \n                                The constructedness of space, as well as its constitutive aspects within literary culture and the production of subjectivities and sensibilities through literature, is especially relevant to Orlando and",
+                    "suffix": "whose \n                                        Figure 1"
+                }
+            },
+            {
+                "id": "/target/nsfHa06NTlS/selector/css/5xyOW79WQYK",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/OLQoX19abj1]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/PZmWvELhf4c">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/PZmWvELhf4c",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:43.169Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/TZA39kZFjOd",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/TZA39kZFjOd/selector/textPosition/Ex0iBs8h1iy",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 40826,
+                "end": 40830,
+                "refinedBy": {
+                    "id": "/target/TZA39kZFjOd/selector/textQuote/ux0hb2UVsmF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": "\n                                \n                            \n                        \n                    \n                \n                \n                    Conclusions\n                    \n                        \n                            \n                                Knowing what we want to map and, as far as possible, how we want to map our materials will be a great advantage to",
+                    "suffix": " When Orlando began, the kind of web-based mapping systems available today did not exist and, although we tried to anticipate what would be required for mapping, we struggled to sufficiently disambiguate place names for delivery and searchability as text"
+                }
+            },
+            {
+                "id": "/target/TZA39kZFjOd/selector/css/d8cZpES5Om5",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/PZmWvELhf4c]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/2Wn8bQRqrLz">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/2Wn8bQRqrLz",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:43.170Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/0mdll6JMws8",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/0mdll6JMws8/selector/textPosition/zFGw82ZDXFT",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 41792,
+                "end": 41796,
+                "refinedBy": {
+                    "id": "/target/0mdll6JMws8/selector/textQuote/kZGfsmHfMR2",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " They invoke the impact of drawing on uneven spatial data, in terms of its granularity (such as North America versus Halifax, Nova Scotia) and density (such as",
+                    "suffix": "items that only have a few places mentioned in their metadata in contrast to a piece of travel writing in Orlando that already has extensive tagging)"
+                }
+            },
+            {
+                "id": "/target/0mdll6JMws8/selector/css/X3Y0G2oGp2x",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/2Wn8bQRqrLz]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/rcsmMrfzEL6">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/rcsmMrfzEL6",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:43.170Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/T2sNmpErHxX",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/T2sNmpErHxX/selector/textPosition/vrU3W2fYgpi",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 41999,
+                "end": 42003,
+                "refinedBy": {
+                    "id": "/target/T2sNmpErHxX/selector/textQuote/8tMI3nFJLLq",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " There is yet a further source of unevenness within",
+                    "suffix": " differences in the extent to which contextualizing semantic data is present within and across projects in the Collaboratory"
+                }
+            },
+            {
+                "id": "/target/T2sNmpErHxX/selector/css/bH9S0s92k5b",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/rcsmMrfzEL6]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/oekfvZeo6Vp">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/oekfvZeo6Vp",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:43.170Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Zyi5nodAOvQ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Zyi5nodAOvQ/selector/textPosition/AzZsJC7HnQk",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 42151,
+                "end": 42155,
+                "refinedBy": {
+                    "id": "/target/Zyi5nodAOvQ/selector/textQuote/qWJWwYfErEO",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " A challenge for both",
+                    "suffix": "and Orlando is the sheer density of spatial data across the collections, especially in relation to major population and publishing centres such as London, Toronto, and Montreal"
+                }
+            },
+            {
+                "id": "/target/Zyi5nodAOvQ/selector/css/IZbXjdIMPT5",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/oekfvZeo6Vp]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ifYmfHlIS2A">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ifYmfHlIS2A",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:43.171Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/oNUwWEMvn5j",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/oNUwWEMvn5j/selector/textPosition/aFyFOjWm0P8",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 43806,
+                "end": 43810,
+                "refinedBy": {
+                    "id": "/target/oNUwWEMvn5j/selector/textQuote/2okhJkVoETw",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " How best to address the mapping needs of literary scholars within",
+                    "suffix": " given the available resources, continues to drive our research"
+                }
+            },
+            {
+                "id": "/target/oNUwWEMvn5j/selector/css/sCXn7oPbr8Y",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ifYmfHlIS2A]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/QcEnB2vJZ6h">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/QcEnB2vJZ6h",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:43.171Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/yW23nKdB3TU",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/yW23nKdB3TU/selector/textPosition/9o46ns1UhJB",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 44169,
+                "end": 44173,
+                "refinedBy": {
+                    "id": "/target/yW23nKdB3TU/selector/textQuote/1f4fOKhR5JK",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " We look forward to learning what affordances other spatial visualization systems, such as Neatline with its attempt to incorporate an interpretive, humanistic perspective, can offer, and how we might adapt them to the kind of collaborative, spontaneous, serendipitous mapping environment that",
+                    "suffix": "hopes to support"
+                }
+            },
+            {
+                "id": "/target/yW23nKdB3TU/selector/css/2xAd75R56lu",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/QcEnB2vJZ6h]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q134008740",
+        "label": "Canadian Writing Research Collaboratory ",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Trivr65Shu9">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Trivr65Shu9",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T14:29:43.172Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/H0w78inKVRN",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/H0w78inKVRN/selector/textPosition/OY0v8WsotFn",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 44232,
+                "end": 44236,
+                "refinedBy": {
+                    "id": "/target/H0w78inKVRN/selector/textQuote/b2f2w69eVHV",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": "\n                                       ",
+                    "suffix": "also hopes to incorporate more focused, curated mapping work"
+                }
+            },
+            {
+                "id": "/target/H0w78inKVRN/selector/css/cNCq6UBf651",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Trivr65Shu9]"
             }
         ]
     },
