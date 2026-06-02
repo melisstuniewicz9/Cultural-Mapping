@@ -512,7 +512,7 @@
                             <ref target="#spatiality">
                                 <ref target="#technology">There are always complex reasons for an intensifying interest in space as a topic or analytical category</ref>, but there is no question that the current interest is fuelled by the greater accessibility of spatial technologies such as plotting tools and geographic information systems (<abbr>GIS</abbr>), made possible by the World Wide Web, that put a dazzling array of maps at our fingertips. These maps allow us to explore digital representations of space by interactively zooming in and out, experimenting with various layers of information, and <ref target="#close_reading">gathering granular analysis of a vast range of materials.</ref>
                                 <ref target="#methodology">The application of computational spatial analysis in literary studies is relatively new, but the results are already evident in a number of impressive projects.</ref> These projects include an overview of the development of printing technologies <note place="inline">
-                                    <bibl>Prickman</bibl>
+                                    <bibl><orgName key="Prickman, Gregory J." ref="http://viaf.org/viaf/305283540" ana="webannotation:http://temp.lincsproject.ca/fSV1PsH8UI3">Prickman</orgName></bibl>
                                 </note>; an analysis of the impact of railway development <note place="inline">
                                     <bibl>Thomas, Healey, and Cottingham</bibl>
                                 </note>; and a study of the circulation of letters in early modern <orgName key="Europe" ref="https://sws.geonames.org/6255148" ana="webannotation:http://temp.lincsproject.ca/QLGPEamJXd0">Europe</orgName> <note place="inline">
@@ -1614,6 +1614,94 @@
         "id": "http://viaf.org/viaf/38729216",
         "type": "crm:E21_Person",
         "label": "Arias, Santa."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/fSV1PsH8UI3">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/fSV1PsH8UI3",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-02T13:56:20.854Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/uupUqH47gJn",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps%20(10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/uupUqH47gJn/selector/textPosition/Niod6tL9e5J",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2783,
+                "end": 2791,
+                "refinedBy": {
+                    "id": "/target/uupUqH47gJn/selector/textQuote/DaAD0XIwGa4",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Prickman",
+                    "prefix": " These projects include an overview of the development of printing technologies \n                                   ",
+                    "suffix": "                                ; an analysis of the impact of railway development \n                                    Thomas, Healey, and Cottingham\n                                ; and a study of the circulation of letters in early modern Europe \n                                    Coleman, Edelstein, and Findlen\n                                "
+                }
+            },
+            {
+                "id": "/target/uupUqH47gJn/selector/css/xuBCTwWT4MT",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/fSV1PsH8UI3]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/305283540",
+        "type": "crm:E21_Person",
+        "label": "Prickman, Gregory J."
     },
     "P2_has_type": [
         "oa:identifying"
