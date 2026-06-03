@@ -429,7 +429,7 @@
                                                         </ref>
                                                         <bibl>Knowles, <title level="a">Voices (Off)</title> 95</bibl>
                                                     </ref>. <ref target="#response_formal">André Loiselle’s assertion that the anthology was the most distinguished of a group first published in the mid-1980s <bibl>n. pag.</bibl> points to the continual praise bestowed upon this text.</ref> Thompson’s <title level="m">White Biting Dog</title> appears, perhaps not coincidentally, in a 2003 collection of her work introduced by Knowles, entitled <title level="m">Late 20th Century Plays</title>
-                                                </ref>. Nonetheless, the production histories of <title level="m">White Biting Dog</title> and <title level="m">Fronteras Americanas</title> are far from extensive. There is a discrepancy between the discourse of the canonization project (see below), which for the first time made these texts accessible and soon widely taught, and the theatre community’s allegiance to that project</ref>. Though <title level="m">White Biting Dog</title> did have a subsequent production in 1990 at the Grand Theatre <bibl>dir. Maya Ardal</bibl> after its 1984 premiere at Tarragon Theatre <bibl>dir. Bill Glassco</bibl>, and though it returned to Tarragon on its ten-year anniversary in 1994 <bibl>dir. Morris Panych</bibl>, before its Soulpepper revival the play never reached large audiences. Similarly, after the 1993 premiere of <title level="m">Fronteras Americanas</title> at Tarragon <bibl>dir. Jim Warren</bibl>, Theatre Aquarius produced the play in 1995 <bibl>dir. Christopher McHarge</bibl> and the only other production, prior to Soulpepper’s, was at the <placeName key="Adelaide" ref="https://sws.geonames.org/2078025" ana="webannotation:http://temp.lincsproject.ca/443CGmj0mns">Adelaide</placeName>, <placeName key="Commonwealth of Australia" ref="https://sws.geonames.org/2077456 " ana="webannotation:http://temp.lincsproject.ca/6ut8AAZ2vHp">Australia</placeName> 9’s Nexus Multicultural Arts Festival <bibl>dir. Sam Haren</bibl> (for references regarding this production history see Ardal; Glassco; Haren; McHarge; Panych; Warren). <ref target="response_formal">According to the Canadian Actors’ Equity Association’s classification system, which ranks theatres according to box office potential, the 2011 productions of <title level="m">White Biting Dog</title> at the Young Centre’s Michael Young Theatre (category D) and <title level="m">Fronteras Americanas</title> at the Young Centre’s Marilyn and Charles Baillie Theatre (category A) promoted both plays to higher ranked venues than previous productions (<abbr>CAEA</abbr>)</ref>.</note> That gesture reflected an increasing interest—in theatrical and scholarly circles alike—in the challenges of preserving and recovering the non-textual elements of theatrical performance. <ref target="#archive">If the canon is performative, how can one archive it for posterity, and who should be the archivist(s)?</ref>
+                                                </ref>. Nonetheless, the production histories of <title level="m">White Biting Dog</title> and <title level="m">Fronteras Americanas</title> are far from extensive. There is a discrepancy between the discourse of the canonization project (see below), which for the first time made these texts accessible and soon widely taught, and the theatre community’s allegiance to that project</ref>. Though <title level="m">White Biting Dog</title> did have a subsequent production in 1990 at the Grand Theatre <bibl>dir. Maya Ardal</bibl> after its 1984 premiere at Tarragon Theatre <bibl>dir. Bill Glassco</bibl>, and though it returned to Tarragon on its ten-year anniversary in 1994 <bibl>dir. Morris Panych</bibl>, before its Soulpepper revival the play never reached large audiences. Similarly, after the 1993 premiere of <title level="m">Fronteras Americanas</title> at Tarragon <bibl>dir. Jim Warren</bibl>, Theatre Aquarius produced the play in 1995 <bibl>dir. </bibl> and the only other production, prior to Soulpepper’s, was at the <placeName key="Adelaide" ref="https://sws.geonames.org/2078025" ana="webannotation:http://temp.lincsproject.ca/443CGmj0mns">Adelaide</placeName>, <placeName key="Commonwealth of Australia" ref="https://sws.geonames.org/2077456 " ana="webannotation:http://temp.lincsproject.ca/6ut8AAZ2vHp">Australia</placeName> 9’s Nexus Multicultural Arts Festival <bibl>dir. Sam Haren</bibl> (for references regarding this production history see Ardal; Glassco; Haren; McHarge; Panych; Warren). <ref target="response_formal">According to the Canadian Actors’ Equity Association’s classification system, which ranks theatres according to box office potential, the 2011 productions of <title level="m">White Biting Dog</title> at the Young Centre’s Michael Young Theatre (category D) and <title level="m">Fronteras Americanas</title> at the Young Centre’s Marilyn and Charles Baillie Theatre (category A) promoted both plays to higher ranked venues than previous productions (<abbr>CAEA</abbr>)</ref>.</note> That gesture reflected an increasing interest—in theatrical and scholarly circles alike—in the challenges of preserving and recovering the non-textual elements of theatrical performance. <ref target="#archive">If the canon is performative, how can one archive it for posterity, and who should be the archivist(s)?</ref>
                                     </ref>
                                 </ref>
                             </ref>
@@ -441,7 +441,7 @@
                                 <ref target="#archive">
                                     <ref target="#technology">
                                         <ref target="#methodology">We propose that as printed text becomes increasingly unsatisfying as a means of archiving a theatrical canon, the digital Simulated Environment for Theatre (<abbr>SET</abbr>) provides some useful functions to supplement textual records. <ref target="#theme_or_topic">In particular, <abbr>SET</abbr> enables a materialist-semiotic perspective on the archive by accommodating both print-based and performative records. The precursor to <abbr>SET</abbr> was Watching the Script, a project we initiated in 2003 that aimed to enrich the ways in which plays could be read. It allowed users to see text displayed in proximity to an abstract visualization of <q>characters</q> (coloured dots) in <q>space</q> (a two-dimensional grid), thereby positioning users as watchers, rather than readers, of script <note place="inline">
-                                                    <bibl>Roberts-Smith et al., <title level="a">Visualizing Theatrical Text</title>
+                                                    <bibl>Roberts-Smith et al., <title level="a">Visualizing <persName key="McHarge, Christopher Paul, 1961-" ref="http://viaf.org/viaf/105178021" ana="webannotation:http://temp.lincsproject.ca/j9Fmy3m4ClO">Theatrical </persName>Text</title>
                                                     </bibl>
                                                 </note>. <ref target="#collaboration">In 2008, when a domain expert in theatre joined our research team, we began to ask how the performative function of theatrical text might be visualized in relation to material theatrical phenomena that exist in time and <ref target="#spatiality">space</ref>
                                                     <note place="inline">
@@ -8700,6 +8700,94 @@
         "type": "crm:E21_Person",
         "label": "Knowles, Richard Paul, 1950-....",
         "description": "Knowles, Ric, 1950-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/j9Fmy3m4ClO">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/j9Fmy3m4ClO",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T18:23:20.434Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/nU6D9cBT5Bq",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/nU6D9cBT5Bq/selector/textPosition/cndPR6HjHZT",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 4178,
+                "end": 4197,
+                "refinedBy": {
+                    "id": "/target/nU6D9cBT5Bq/selector/textQuote/38NJjfWXduJ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Christopher McHarge",
+                    "prefix": "",
+                    "suffix": "and the only other production, prior to Soulpepper’s, was at the Adelaide, Australia 9’s Nexus Multicultural Arts Festival dir"
+                }
+            },
+            {
+                "id": "/target/nU6D9cBT5Bq/selector/css/YxtALJzJm48",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/j9Fmy3m4ClO]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/105178021",
+        "type": "crm:E21_Person",
+        "label": "McHarge, Christopher Paul, 1961-"
     },
     "P2_has_type": [
         "oa:identifying"
