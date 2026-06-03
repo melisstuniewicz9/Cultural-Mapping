@@ -1259,7 +1259,7 @@
                     </bibl>
                     <bibl>Knowles, Ric. <title level="a">Introduction: Judith Thompson in Criticism.</title>
                         <title level="m">Judith Thompson: Critical Perspectives on Canadian Theatre in English. Ed. Knowles</title>. Vol. 3. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/mSXZv8oTloW">Toronto</placeName>: Playwrights Canada Press, 2005. vii–xv.</bibl>
-                    <bibl>. <title level="m">Reading the Material Theatre</title>. Cambridge: Cambridge University Press, 1994.</bibl>
+                    <bibl>. <title level="m">Reading the Material Theatre</title>. Cambridge: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/oBKGInIEHZ2">Cambridge University Press</orgName>, 1994.</bibl>
                     <bibl>. <title level="a">Voices (Off): Deconstructing the Modern English-Canadian Dramatic Canon</title>. <title level="m">Canadian Canons: Essays in Literary Value</title>. Ed. Robert Lecker. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/uStDTlImhdz">Toronto</placeName>: University of Toronto Press, 1991. 91–111.</bibl>
                     <bibl>LePage, Sue, des. <title level="a">Technical drawings for <title level="m">White Biting Dog</title>, by Judith Thompson</title>. Tarragon Theatre, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/4hd1UYQwSm9">Toronto</placeName>, ON, 1984. L.W. Conolly Theatre Archives, University of Guelph Library, <placeName key="Guelph" ref="https://sws.geonames.org/5967629" ana="webannotation:http://temp.lincsproject.ca/68l0n0R7yx6">Guelph</placeName>, ON.</bibl>
                     <bibl>Loiselle, André. <title level="a">Review of <title level="m">Modern Canadian Plays</title>, ed. Jerry Wasserman</title>. <title level="j">Theatre Research in Canada / <hi xml:lang="fr-CA">Recherches théâtrales au Canada</hi>
@@ -5856,6 +5856,95 @@
         "type": "crm:E74_Group",
         "label": "University of Iowa Press.",
         "description": "University of Iowa Press university press"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/oBKGInIEHZ2">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/oBKGInIEHZ2",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T16:08:52.614Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/aOvvlqSQ9Ye",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/aOvvlqSQ9Ye/selector/textPosition/XR850NWqhGm",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 94534,
+                "end": 94560,
+                "refinedBy": {
+                    "id": "/target/aOvvlqSQ9Ye/selector/textQuote/l3oRgxTqLgY",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Cambridge University Press",
+                    "prefix": " Cambridge:",
+                    "suffix": " 1994"
+                }
+            },
+            {
+                "id": "/target/aOvvlqSQ9Ye/selector/css/vqsTzosFXhS",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/oBKGInIEHZ2]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/127979069",
+        "type": "crm:E74_Group",
+        "label": "Cambridge university press",
+        "description": "Gwasg Prifysgol Caergrawnt"
     },
     "P2_has_type": [
         "oa:identifying"
