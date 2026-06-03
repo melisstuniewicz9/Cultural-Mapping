@@ -960,7 +960,7 @@
                     <head>Visualizing Conditions of Production</head>
                     <p xml:id="p1168">
                         <ref target="writing_climate">
-                            <ref target="#politics">As Jonathan Dollimore and Alan Sinfield put it, <q>texts [are] inseparable from the conditions of their production and reception in history [and are] involved, necessarily, in the making of cultural meanings which are always, finally, political meanings</q>
+                            <ref target="#politics">As <persName key="Dollimore, Jonathan." ref="http://viaf.org/viaf/94895497" ana="webannotation:http://temp.lincsproject.ca/clGYxjyDmM3">Jonathan Dollimore</persName> and Alan Sinfield put it, <q>texts [are] inseparable from the conditions of their production and reception in history [and are] involved, necessarily, in the making of cultural meanings which are always, finally, political meanings</q>
                                 <note place="inline">
                                     <bibl>qtd. in Knowles, <title level="m">Reading</title> 13</bibl>
                                 </note>
@@ -8788,6 +8788,95 @@
         "id": "http://viaf.org/viaf/105178021",
         "type": "crm:E21_Person",
         "label": "McHarge, Christopher Paul, 1961-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/clGYxjyDmM3">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/clGYxjyDmM3",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T18:29:00.799Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/B72n7PEDfa0",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/B72n7PEDfa0/selector/textPosition/elf3IOH1xJL",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 63158,
+                "end": 63176,
+                "refinedBy": {
+                    "id": "/target/B72n7PEDfa0/selector/textQuote/NrfC0snbVgJ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Jonathan Dollimore",
+                    "prefix": "\n                            \n                        \n                    \n                \n                \n                    Visualizing Conditions of Production\n                    \n                        \n                            As",
+                    "suffix": "and Alan Sinfield put it, texts [are] inseparable from the conditions of their production and reception in history [and are] involved, necessarily, in the making of cultural meanings which are always, finally, political meanings\n                                \n                                    qtd"
+                }
+            },
+            {
+                "id": "/target/B72n7PEDfa0/selector/css/jfTlF6cfFM0",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/clGYxjyDmM3]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/94895497",
+        "type": "crm:E21_Person",
+        "label": "Dollimore, Jonathan.",
+        "description": "Dollimore, Jonathan, 1948-"
     },
     "P2_has_type": [
         "oa:identifying"
