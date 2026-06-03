@@ -1312,7 +1312,7 @@
                             <title level="m">Fronteras Americanas</title>, by Guillermo Verdecchia. Set Glenn Davidson. Perf. Guillermo Verdecchia</title>. Tarragon Theatre, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/iAzLQy6Onsm">Toronto</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943 " ana="webannotation:http://temp.lincsproject.ca/2NJR24zvvcK">ON</placeName>, October 1993.</bibl>
                     <bibl>. <title level="m">
                             <title level="m">Fronteras Americanas</title>, by Guillermo Verdecchia. Set Glenn Davidson. Perf. Guillermo Verdecchia</title>. Soulpepper Theatre Company, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/WzqUT6tuKPj">Toronto</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943 " ana="webannotation:http://temp.lincsproject.ca/uMQ6LEogoxa">ON</placeName>, May 2012.</bibl>
-                    <bibl>Wasserman, Jerry, ed. <title level="m">Modern Canadian Plays</title>. 4th ed. Vol. 2. Vancouver: Talonbooks, 2001.</bibl>
+                    <bibl>Wasserman, Jerry, ed. <title level="m">Modern Canadian Plays</title>. 4th ed. Vol. 2. <placeName key="Vancouver" ref="https://sws.geonames.org/6173331 " ana="webannotation:http://temp.lincsproject.ca/DokgQa9eFgG">Vancouver</placeName>: Talonbooks, 2001.</bibl>
                     <bibl>Worthen, William. <title level="m">Drama: Between Poetry and Performance</title>. Malden, MA: Wiley-Blackwell, 2010.</bibl>
                     <bibl>Zaiontz, Keren. <title level="a">The Instability of Walls, Pillars, and Floors in Bluemouth Inc. Presents <title level="m">What the Thunder Said</title>
                         </title>. <title level="m">Canadian Devised Theatre: Reluctant Texts from Exuberant Performance</title>. Ed. Bruce Barton, Natalie Corbett, Birgit Schreyer Duarte, and Keren Zaiontz. <placeName key="Ottawa" ref="https://sws.geonames.org/6094817 " ana="webannotation:http://temp.lincsproject.ca/xshpiB2O8qv">Ottawa</placeName>: Borealis Press, 2008. 8–17.</bibl>
@@ -8966,6 +8966,95 @@
         "type": "crm:E21_Person",
         "label": "Dollimore, Jonathan.",
         "description": "Dollimore, Jonathan, 1948-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/DokgQa9eFgG">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/DokgQa9eFgG",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T18:31:33.002Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/NMooOaXOGOp",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/NMooOaXOGOp/selector/textPosition/NIbFiceTjJT",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 101903,
+                "end": 101912,
+                "refinedBy": {
+                    "id": "/target/NMooOaXOGOp/selector/textQuote/1jqNJbQTTdU",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Vancouver",
+                    "prefix": "",
+                    "suffix": " Talonbooks, 2001"
+                }
+            },
+            {
+                "id": "/target/NMooOaXOGOp/selector/css/SjA2cAC7S2p",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/DokgQa9eFgG]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6173331 ",
+        "label": "Vancouver",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
