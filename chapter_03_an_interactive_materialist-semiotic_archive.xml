@@ -413,7 +413,7 @@
                     <title level="a">An Interactive, Materialist-Semiotic Archive</title>
                 </head>
                 <byline>Visualizing the Canadian Theatrical Canon in the Simulated Environment for Theatre</byline>
-                <docAuthor> Sasha Kovacs and Jennifer Roberts-Smith, Teresa M. Dobson, Sandra Gabriele, Omar Rodriguez-Arenas, Stan Ruecker, Stéfan Sinclair, Shawn DeSouza-Coelho</docAuthor>
+                <docAuthor> Sasha Kovacs and <persName key="Roberts-Smith, Jennifer." ref="http://viaf.org/viaf/84150746934616301371" ana="webannotation:http://temp.lincsproject.ca/akpOeHZzyai">Jennifer Roberts-Smith</persName>, Teresa M. Dobson, Sandra Gabriele, Omar Rodriguez-Arenas, Stan Ruecker, Stéfan Sinclair, Shawn DeSouza-Coelho</docAuthor>
                 <div type="section">
                     <head>Introduction</head>
                     <p xml:id="p1138">
@@ -4617,9 +4617,102 @@
 }]]>
 				
 </rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/akpOeHZzyai">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/akpOeHZzyai",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T15:37:38.559Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ZrmIrVYWb5a",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ZrmIrVYWb5a/selector/textPosition/s4bvhAS1aN2",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 255,
+                "end": 277,
+                "refinedBy": {
+                    "id": "/target/ZrmIrVYWb5a/selector/textQuote/iQ62QeLicVG",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Jennifer Roberts-Smith",
+                    "prefix": "\n        \n            \n                \n                    An Interactive, Materialist-Semiotic Archive\n                \n                Visualizing the Canadian Theatrical Canon in the Simulated Environment for Theatre\n                 Sasha Kovacs and",
+                    "suffix": " Teresa M"
+                }
+            },
+            {
+                "id": "/target/ZrmIrVYWb5a/selector/css/3Q7ZKM3Orgy",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/akpOeHZzyai]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/84150746934616301371",
+        "type": "crm:E21_Person",
+        "label": "Roberts-Smith, Jennifer.",
+        "description": "Roberts-Smith, Jennifer, 19..-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 			
 </rdf:RDF>
 		
+
+		
 </xenoData>
+	
 	</standOff>
+
 </TEI>
