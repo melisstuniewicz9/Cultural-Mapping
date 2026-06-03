@@ -1219,7 +1219,7 @@
                     <head>Works Cited</head>
                     <bibl>Al-Solaylee, Kamal. <title level="a">Dead White Guys: European Classics Still Dominate Canadian Theatres</title>. <title level="j">Walrus</title> September 2011. <ref target="http://walrusmagazine.com/articles/2011.09-theatre-dead-white-guys">http://walrusmagazine.com/articles/2011.09-theatre-dead-white-guys</ref>
                     </bibl>
-                    <bibl>Alter, Robert. <title level="m">Canon and Creativity: Modern Writing and the Authority of Scripture</title>. New Haven, <placeName key="Connecticut" ref="https://sws.geonames.org/4831725" ana="webannotation:http://temp.lincsproject.ca/uAYuStyFjzu">CT</placeName>: <orgName key="Yale university press" ref="http://viaf.org/viaf/121971897" ana="webannotation:http://temp.lincsproject.ca/PiPQRzEBFVg">Yale University Press</orgName>, 2000.</bibl>
+                    <bibl>Alter, Robert. <title level="m">Canon and Creativity: Modern Writing and the Authority of Scripture</title>. <placeName key="New Haven" ref="https://sws.geonames.org/4839366 " ana="webannotation:http://temp.lincsproject.ca/s9lqCCdBRIT">New Haven</placeName>, <placeName key="Connecticut" ref="https://sws.geonames.org/4831725" ana="webannotation:http://temp.lincsproject.ca/uAYuStyFjzu">CT</placeName>: <orgName key="Yale university press" ref="http://viaf.org/viaf/121971897" ana="webannotation:http://temp.lincsproject.ca/PiPQRzEBFVg">Yale University Press</orgName>, 2000.</bibl>
                     <bibl>Ardal, Maya, dir. <title level="m">Graphic poster for production of <title level="m">White Biting Dog</title>, by Judith Thompson</title>. Grand Theatre, <placeName key="London" ref="https://sws.geonames.org/6058560 " ana="webannotation:http://temp.lincsproject.ca/PVvtHKaZ4Tz">London</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943 " ana="webannotation:http://temp.lincsproject.ca/T6Mp0IDjP4e">ON</placeName>, 1990. L.W. Conolly Theatre Archives, University of Guelph Library, <placeName key="Guelph" ref="https://sws.geonames.org/5967629" ana="webannotation:http://temp.lincsproject.ca/jgQRLBpnkXX">Guelph</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943 " ana="webannotation:http://temp.lincsproject.ca/iCARg3W770W">ON</placeName>.</bibl>
                     <bibl>Barton, Bruce. <title level="a">Creating Spaces</title>. <title level="m">Developing Nation: New Play Creation in English-Speaking Canada</title>. Ed. Barton. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/1sS73zJKfDw">Toronto</placeName>: Playwrights Canada Press, 2009. v–xxii.</bibl>
                     <bibl>. <title level="a">Evoking Theatre: From Reluctance to Exuberance</title>. <title level="m">Canadian Devised Theatre: Reluctant Texts from Exuberant Performance</title>. Ed. Bruce Barton, Natalie Corbett, Birgit Schreyer Duarte, and Keren Zaiontz. <placeName key="Ottawa" ref="https://sws.geonames.org/6094817 " ana="webannotation:http://temp.lincsproject.ca/P7hdSdCwoRU">Ottawa</placeName>: Borealis Press, 2008. 1–5.</bibl>
@@ -11191,6 +11191,95 @@
         "type": "crm:E53_Place",
         "label": "Canada",
         "description": "null, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/s9lqCCdBRIT">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/s9lqCCdBRIT",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T19:12:08.167Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/LWzc5ZLyk3E",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/LWzc5ZLyk3E/selector/textPosition/WKUBChV1xaH",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 89522,
+                "end": 89531,
+                "refinedBy": {
+                    "id": "/target/LWzc5ZLyk3E/selector/textQuote/MeNhHtkDiop",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "New Haven",
+                    "prefix": "",
+                    "suffix": " CT: Yale University Press, 2000"
+                }
+            },
+            {
+                "id": "/target/LWzc5ZLyk3E/selector/css/MnJXQK7AVdg",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/s9lqCCdBRIT]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/4839366 ",
+        "label": "New Haven",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
