@@ -424,7 +424,7 @@
                                             <ref target="#canon_formation"><persName key="Knowles, Richard Paul, 1950-...." ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/iHsjGNYjjES">Ric Knowles</persName>, in his analysis of the establishment of the English-Canadian canon, confirms the historical contexts that shape Nestruck’s assertion: <q>before 1980 few Canadian scripts received a second production</q>
                                                 <bibl>Knowles, <title level="a">Voices (Off)</title> 91</bibl>. <ref target="#anthologizaton">
                                                     <ref target="#editions">Knowles suggests that the <q>quixotic and unpredictable</q> nature of the Canadian dramatic environment <bibl>
-                                                            <title level="a">Voices (Off)</title> 91</bibl> led to the development of three <q>national anthologies</q> that sought to stabilize the dramatic canon. One of these, Jerry Wasserman’s two-volume anthology, <title level="m">Modern Canadian Plays</title>, which features the work of Judith Thompson (<title level="m">Lion in the Streets</title>) and <persName key="Verdecchia, Guillermo" ref="http://viaf.org/viaf/41927151" ana="webannotation:http://temp.lincsproject.ca/cx0hXtZTMQw">Guillermo Verdecchia</persName> (<title level="m">Fronteras Americanas</title>) in its fourth <bibl>2011</bibl> edition, <ref target="#education">
+                                                            <title level="a">Voices (Off)</title> 91</bibl> led to the development of three <q>national anthologies</q> that sought to stabilize the dramatic canon. One of these, Jerry Wasserman’s two-volume anthology, <title level="m">Modern Canadian Plays</title>, which features the work of <persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/t4WtM06nBnq">Judith Thompson</persName> (<title level="m">Lion in the Streets</title>) and <persName key="Verdecchia, Guillermo" ref="http://viaf.org/viaf/41927151" ana="webannotation:http://temp.lincsproject.ca/cx0hXtZTMQw">Guillermo Verdecchia</persName> (<title level="m">Fronteras Americanas</title>) in its fourth <bibl>2011</bibl> edition, <ref target="#education">
                                                             <q>shaped curricula</q> and <q>heavily influenced subsequent scholarship</q>
                                                         </ref>
                                                         <bibl>Knowles, <title level="a">Voices (Off)</title> 95</bibl>
@@ -11723,6 +11723,95 @@
     "body": {
         "id": "http://viaf.org/viaf/41927151",
         "label": "Verdecchia, Guillermo",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/t4WtM06nBnq">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/t4WtM06nBnq",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T23:03:52.787Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/tnQr9zivwuR",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/tnQr9zivwuR/selector/textPosition/hOM4jl2tXwA",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2575,
+                "end": 2590,
+                "refinedBy": {
+                    "id": "/target/tnQr9zivwuR/selector/textQuote/RTVrKBGoOgl",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Judith Thompson",
+                    "prefix": " One of these, Jerry Wasserman’s two-volume anthology, Modern Canadian Plays, which features the work of",
+                    "suffix": "(Lion in the Streets) and Guillermo Verdecchia (Fronteras Americanas) in its fourth 2011 edition, \n                                                            shaped curricula and heavily influenced subsequent scholarship\n                                                        \n                                                        Knowles, Voices (Off) 95\n                                                    "
+                }
+            },
+            {
+                "id": "/target/tnQr9zivwuR/selector/css/daY8XIIbBOr",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/t4WtM06nBnq]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/66498292",
+        "label": "Thompson, Judith",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
     },
