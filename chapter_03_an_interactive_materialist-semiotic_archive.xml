@@ -420,7 +420,7 @@
                         <ref target="#critique_of_canon">
                             <ref target="#intellectual_history">
                                 <ref target="#genre_performance">
-                                    <ref target="#response_formal">In its 2011 season, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/mmSnnASj5rv">Toronto</placeName>’s Soulpepper Theatre Company contributed to a notable and <q>problematic,</q> to cite <title level="j"><orgName key="Globe and Mail (Firm)" ref="http://viaf.org/viaf/157050868" ana="webannotation:http://temp.lincsproject.ca/qQAseEIN3Cs">Globe and Mail</orgName></title> critic <persName key="Nestruck, J. Kelly" ref="https://www.wikidata.org/wiki/Q16221465" ana="webannotation:http://temp.lincsproject.ca/r9MzgjbM4Qu">J. Kelly Nestruck</persName>, revival movement in the history of Canadian theatre (<title level="a">Canadian Revivals</title>)</ref>. <ref target="#recognitions">The two <q>revivals</q> mounted by the company, Guillermo Verdecchia’s <title level="m">Fronteras Americanas</title> and Judith Thompson’s <title level="m">White Biting Dog</title>, were both Governor General’s (<abbr>GG</abbr>) Literary Award–winning plays, which, despite their past successes and their status in the Canadian theatrical canon, had rarely, if ever, been revived on such a scale</ref>. This, in itself, was not surprising; as Nestruck observed, <q>in the country’s theatre ecology, second productions have always been harder to get than first productions…And revivals of older plays? For a long while, they were even rarer</q> (<title level="a">Canadian Revivals</title>). <ref target="#methodology">What was surprising was the intervention of Soulpepper’s productions into the traditional construction of the Canadian theatrical canon as a body of printed, rather than performed, works. In a gesture that we argue demonstrates what Ric Knowles has called a materialist-semiotic approach to theatre, Soulpepper publicized its revivals as re-presenting important past performances, rather than re-producing important published works.<note xml:id="n100" place="end">
+                                    <ref target="#response_formal">In its 2011 season, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/mmSnnASj5rv">Toronto</placeName>’s Soulpepper Theatre Company contributed to a notable and <q>problematic,</q> to cite <title level="j"><orgName key="Globe and Mail (Firm)" ref="http://viaf.org/viaf/157050868" ana="webannotation:http://temp.lincsproject.ca/qQAseEIN3Cs">Globe and Mail</orgName></title> critic <persName key="Nestruck, J. Kelly" ref="https://www.wikidata.org/wiki/Q16221465" ana="webannotation:http://temp.lincsproject.ca/r9MzgjbM4Qu">J. Kelly Nestruck</persName>, revival movement in the history of Canadian theatre (<title level="a">Canadian Revivals</title>)</ref>. <ref target="#recognitions">The two <q>revivals</q> mounted by the company, Guillermo Verdecchia’s <title level="m">Fronteras Americanas</title> and Judith Thompson’s <title level="m">White Biting Dog</title>, were both Governor General’s (<abbr>GG</abbr>) Literary Award–winning plays, which, despite their past successes and their status in the Canadian theatrical canon, had rarely, if ever, been revived on such a scale</ref>. This, in itself, was not surprising; as Nestruck observed, <q>in the country’s theatre ecology, second productions have always been harder to get than first productions…And revivals of older plays? For a long while, they were even rarer</q> (<title level="a">Canadian Revivals</title>). <ref target="#methodology">What was surprising was the intervention of Soulpepper’s productions into the traditional construction of the Canadian theatrical canon as a body of printed, rather than performed, works. In a gesture that we argue demonstrates what <persName key="Knowles, Richard Paul, 1950-...." ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/1m13xqvT630">Ric Knowles</persName> has called a materialist-semiotic approach to theatre, Soulpepper publicized its revivals as re-presenting important past performances, rather than re-producing important published works.<note xml:id="n100" place="end">
                                             <ref target="#canon_formation">Ric Knowles, in his analysis of the establishment of the English-Canadian canon, confirms the historical contexts that shape Nestruck’s assertion: <q>before 1980 few Canadian scripts received a second production</q>
                                                 <bibl>Knowles, <title level="a">Voices (Off)</title> 91</bibl>. <ref target="#anthologizaton">
                                                     <ref target="#editions">Knowles suggests that the <q>quixotic and unpredictable</q> nature of the Canadian dramatic environment <bibl>
@@ -8433,6 +8433,95 @@
         "label": "Rodriguez-Arenas, Omar",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/1m13xqvT630">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/1m13xqvT630",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T18:19:18.942Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/5J8EQvJeBUV",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/5J8EQvJeBUV/selector/textPosition/AmBzLmwHj7X",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 1619,
+                "end": 1630,
+                "refinedBy": {
+                    "id": "/target/5J8EQvJeBUV/selector/textQuote/TqHMrE5l5ix",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ric Knowles",
+                    "prefix": " In a gesture that we argue demonstrates what",
+                    "suffix": "has called a materialist-semiotic approach to theatre, Soulpepper publicized its revivals as re-presenting important past performances, rather than re-producing important published works"
+                }
+            },
+            {
+                "id": "/target/5J8EQvJeBUV/selector/css/dpizxqmgxuo",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/1m13xqvT630]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/51820035",
+        "type": "crm:E21_Person",
+        "label": "Knowles, Richard Paul, 1950-....",
+        "description": "Knowles, Ric, 1950-"
     },
     "P2_has_type": [
         "oa:identifying"
