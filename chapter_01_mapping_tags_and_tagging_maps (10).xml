@@ -895,7 +895,7 @@
                         <head>Print Sources</head>
                         <bibl><persName key="Bol, Peter Kees" ref="http://viaf.org/viaf/56906098" ana="webannotation:http://temp.lincsproject.ca/FZ6Ieesu9S7">Bol</persName>, <persName key="Bol, Peter Kees" ref="http://viaf.org/viaf/56906098" ana="webannotation:http://temp.lincsproject.ca/sAu1kZbHoiW">Peter K.</persName> <title level="a">What Do Humanists Want? What Do Humanists Need? What Might Humanists Get?</title>
                             <title level="m">GeoHumanities: Art, History, Text at the Edge of Place</title>. Ed. <persName key="Dear, M. J. (Michael J.)" ref="http://viaf.org/viaf/17347605" ana="webannotation:http://temp.lincsproject.ca/BGIJmag7rlD">Michael Dear</persName>, <persName key="Ketchum, Jim" ref="http://viaf.org/viaf/297864675" ana="webannotation:http://temp.lincsproject.ca/CMlTe7DBX0n">Jim Ketchum</persName>, <persName key="Luria, Sarah" ref="http://viaf.org/viaf/8482149068426665730009" ana="webannotation:http://temp.lincsproject.ca/mDDWBotCEbz">Sarah Luria</persName>, and <persName key="Richardson, Douglas, 1950-...." ref="http://viaf.org/viaf/19915312" ana="webannotation:http://temp.lincsproject.ca/dOu2red2TmX">Douglas Richardson</persName>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/FCpG1B6dooI">London</placeName>: <orgName key="Taylor &amp; Francis" ref="http://viaf.org/viaf/126513615" ana="webannotation:http://temp.lincsproject.ca/oMf4QuW3SaC">Routledge</orgName>, 2011. 296–308.</bibl>
-                        <bibl><persName key="David Cooper" ref="https://orcid.org/0000-0001-7578-7918" ana="webannotation:http://temp.lincsproject.ca/ExiWXykYMZO">Cooper</persName>, David, and <persName key="Gregory, Ian N., 1970-...." ref="http://viaf.org/viaf/119669087" ana="webannotation:http://temp.lincsproject.ca/DX3GdFQr0cL">Ian N. Gregory</persName>. <title level="a"><title key="Mapping the English Lake District: a literary GIS" ref="http://www.wikidata.org/entity/Q58297727" ana="webannotation:http://temp.lincsproject.ca/sZQ152rmzB3">Mapping the English Lake District</title>: A Literary <abbr>GIS</abbr>
+                        <bibl><persName key="David Cooper" ref="https://orcid.org/0000-0001-7578-7918" ana="webannotation:http://temp.lincsproject.ca/ExiWXykYMZO">Cooper</persName>, <persName key="David Copper" ref="https://orcid.org/0000-0001-7578-7918" ana="webannotation:http://temp.lincsproject.ca/dpbA0mmZufS">David</persName>, and <persName key="Gregory, Ian N., 1970-...." ref="http://viaf.org/viaf/119669087" ana="webannotation:http://temp.lincsproject.ca/DX3GdFQr0cL">Ian N. Gregory</persName>. <title level="a"><title key="Mapping the English Lake District: a literary GIS" ref="http://www.wikidata.org/entity/Q58297727" ana="webannotation:http://temp.lincsproject.ca/sZQ152rmzB3">Mapping the English Lake District</title>: A Literary <abbr>GIS</abbr>
                             </title>. <title level="j">Transactions of <orgName key="Institute of British geographers" ref="http://viaf.org/viaf/145056055" ana="webannotation:http://temp.lincsproject.ca/SYqVWzm7kw7">the Institute of British Geographers</orgName></title> 36 (2011): 89–108.</bibl>
                         <bibl>Corrigan, <persName key="Corrigan, John, 1952-...." ref="http://viaf.org/viaf/44364599" ana="webannotation:http://temp.lincsproject.ca/uhn6fA3yjDU">John</persName>. <title level="a">Qualitative <abbr>GIS</abbr> and Emergent Semantics</title>. <title level="m">Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. : <orgName key="Indiana university press" ref="http://viaf.org/viaf/122335523" ana="webannotation:http://temp.lincsproject.ca/pkiusMY1RMr">Indiana University Press</orgName>, 2010. 76–88.</bibl>
                         <bibl>Gregory, Ian. <title level="a">Exploiting Time and Space: A Challenge for <abbr>GIS</abbr> in the Digital Humanities</title>. <title level="m">The Spatial Humanities: <abbr>GIS</abbr> and the Future of Humanities Scholarship</title>. Ed. <persName key="Bodenhamer, David J." ref="http://viaf.org/viaf/73914431" ana="webannotation:http://temp.lincsproject.ca/dIVlLaCZ8sm">David J. Bodenhamer</persName>, <persName key="Corrigan, John, 1952-...." ref="http://viaf.org/viaf/44364599" ana="webannotation:http://temp.lincsproject.ca/L1TXbq7jTCd">John Corrigan</persName>, and <persName key="Harris, Trevor M." ref="http://viaf.org/viaf/6734702" ana="webannotation:http://temp.lincsproject.ca/ICqOo7vVuZP">Trevor M. Harris</persName>. <placeName key="Bloomington" ref="https://sws.geonames.org/4254679 " ana="webannotation:http://temp.lincsproject.ca/1TlXKBIDdGf">Bloomington</placeName>: <orgName key="Indiana university press" ref="http://viaf.org/viaf/122335523" ana="webannotation:http://temp.lincsproject.ca/gGyCH1NmCng">Indiana University Press</orgName>, 2010. 58–75.</bibl>
@@ -27985,6 +27985,95 @@
     "body": {
         "id": "https://orcid.org/0000-0001-7578-7918",
         "label": "David Cooper",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/dpbA0mmZufS">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/dpbA0mmZufS",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T13:48:32.071Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4xRPTGsR08y",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps (10).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_01_mapping_tags_and_tagging_maps (10).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Mapping Tags and Tagging Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4xRPTGsR08y/selector/textPosition/llJoLwd6Qs0",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 48144,
+                "end": 48149,
+                "refinedBy": {
+                    "id": "/target/4xRPTGsR08y/selector/textQuote/8efd7lkl69n",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "David",
+                    "prefix": "\n                        Cooper,",
+                    "suffix": " and Ian N"
+                }
+            },
+            {
+                "id": "/target/4xRPTGsR08y/selector/css/XdUAmcP8ndJ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/dpbA0mmZufS]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://orcid.org/0000-0001-7578-7918",
+        "label": "David Copper",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
     },
