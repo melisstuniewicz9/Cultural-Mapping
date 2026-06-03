@@ -1292,7 +1292,7 @@
                     <bibl>Ruecker, Stan, Ali Grotkowski, Sandra Gabriele, Jennifer Roberts-Smith, <persName key="Sinclair, Stéfan." ref="http://viaf.org/viaf/180011800" ana="webannotation:http://temp.lincsproject.ca/VxRSYN9exxr">Stéfan Sinclair</persName>, Teresa Dobson, Annemarie Akong, Sally Fung, and Omar Rodriguez. <title level="a">Abstraction and Realism in the Design of Avatars for the Simulated Environment for Theatre</title>. <title level="j">Visual Communication Journal</title> 12.4 (2013): 459–72.</bibl>
                     <bibl>Salter, Denis. <title level="a">The Idea of a National Theatre</title>. <title level="m">Canadian Canons: Essays in Literary Value</title>. Ed. Robert Lecker. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/ESBRPm8VBnw">Toronto</placeName>: <orgName key="University of Toronto. Press" ref="http://viaf.org/viaf/126595939" ana="webannotation:http://temp.lincsproject.ca/m5DoUJTKjQi">University of Toronto Press</orgName>, 1991. 71–90.</bibl>
                     <bibl>Schechner, Richard. <title level="m">Between Theatre and Anthropology</title>. <placeName key="Pennsylvania" ref="https://sws.geonames.org/6254927" ana="webannotation:http://temp.lincsproject.ca/nGyS8Vb18lN">Pennsylvania</placeName>: <orgName key="University of Pennsylvania. Press" ref="http://viaf.org/viaf/159571939" ana="webannotation:http://temp.lincsproject.ca/mUaRDso1h8G">University of Pennsylvania Press</orgName>, 1995.</bibl>
-                    <bibl>Sela-Sheffy, Rakefet. <title level="a">Canon Formation Revisited: Canon and Cultural Production</title>. <title level="j">Neohelicon</title> 29.2 (2002): 141–59.</bibl>
+                    <bibl><orgName key="Sela-Sheffy, Rakefet, 1954-...." ref="http://viaf.org/viaf/29769581" ana="webannotation:http://temp.lincsproject.ca/kmUj2BuaEEe">Sela-Sheffy</orgName>, Rakefet. <title level="a">Canon Formation Revisited: Canon and Cultural Production</title>. <title level="j">Neohelicon</title> 29.2 (2002): 141–59.</bibl>
                     <bibl>Soulpepper Theatre Company. <title level="a">Archives</title>. Soulpepper Theatre Company, 2011. <ref target="http://www.soulpepper.ca/the_company/archives.aspx">http://www.soulpepper.ca/the_company/archives.aspx</ref>
                     </bibl>
                     <bibl>. <title level="a">The Company/The Soulpepper Difference</title>. Soulpepper Theatre Company, 2011. <ref target="http://www.soulpepper.ca/the_company/the_soulpepper_difference.aspx">http://www.soulpepper.ca/the_company/the_soulpepper_difference.aspx</ref>
@@ -8966,6 +8966,95 @@
         "type": "crm:E21_Person",
         "label": "Dollimore, Jonathan.",
         "description": "Dollimore, Jonathan, 1948-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/kmUj2BuaEEe">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/kmUj2BuaEEe",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T18:37:08.165Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/HuZttAE9ILo",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/HuZttAE9ILo/selector/textPosition/fVMFraRsAzB",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 99802,
+                "end": 99813,
+                "refinedBy": {
+                    "id": "/target/HuZttAE9ILo/selector/textQuote/ic2cfZhqBqV",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Sela-Sheffy",
+                    "prefix": "\n                   ",
+                    "suffix": " Rakefet"
+                }
+            },
+            {
+                "id": "/target/HuZttAE9ILo/selector/css/BOYKGUHDw5K",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/kmUj2BuaEEe]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/29769581",
+        "type": "crm:E21_Person",
+        "label": "Sela-Sheffy, Rakefet, 1954-....",
+        "description": "Selaʿ-Šefî, Raqqefet 1954-"
     },
     "P2_has_type": [
         "oa:identifying"
