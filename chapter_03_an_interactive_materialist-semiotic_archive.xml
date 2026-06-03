@@ -413,7 +413,7 @@
                     <title level="a">An Interactive, Materialist-Semiotic Archive</title>
                 </head>
                 <byline>Visualizing the Canadian Theatrical Canon in the Simulated Environment for Theatre</byline>
-                <docAuthor> <persName key="Kovacs, Alexandra" ref="http://viaf.org/viaf/9151654747208282268" ana="webannotation:http://temp.lincsproject.ca/K8JGD1Ey57m">Sasha Kovacs</persName> and <persName key="Roberts-Smith, Jennifer." ref="http://viaf.org/viaf/84150746934616301371" ana="webannotation:http://temp.lincsproject.ca/akpOeHZzyai">Jennifer Roberts-Smith</persName>, <persName key="Dobson, Teresa M., 1967-" ref="http://viaf.org/viaf/105568038" ana="webannotation:http://temp.lincsproject.ca/FTAIuYZKT7v">Teresa M. Dobson</persName>, <persName key="Gabriele, Sandra, 1972-...." ref="http://viaf.org/viaf/171038746" ana="webannotation:http://temp.lincsproject.ca/IIA6T2xW07P">Sandra Gabriele</persName>, Omar Rodriguez-Arenas, <persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/DKSg3UQoGCy">Stan Ruecker</persName>, <persName key="Sinclair, Stéfan." ref="http://viaf.org/viaf/180011800" ana="webannotation:http://temp.lincsproject.ca/6G5zOiUn7Ky">Stéfan Sinclair</persName>, <persName key="DeSouza-Coelho, Shawn" ref="http://viaf.org/viaf/15150868097722070403" ana="webannotation:http://temp.lincsproject.ca/zOKISpmpOXL">Shawn DeSouza-Coelho</persName></docAuthor>
+                <docAuthor> <persName key="Kovacs, Alexandra" ref="http://viaf.org/viaf/9151654747208282268" ana="webannotation:http://temp.lincsproject.ca/K8JGD1Ey57m">Sasha Kovacs</persName> and <persName key="Roberts-Smith, Jennifer." ref="http://viaf.org/viaf/84150746934616301371" ana="webannotation:http://temp.lincsproject.ca/akpOeHZzyai">Jennifer Roberts-Smith</persName>, <persName key="Dobson, Teresa M., 1967-" ref="http://viaf.org/viaf/105568038" ana="webannotation:http://temp.lincsproject.ca/FTAIuYZKT7v">Teresa M. Dobson</persName>, <persName key="Gabriele, Sandra, 1972-...." ref="http://viaf.org/viaf/171038746" ana="webannotation:http://temp.lincsproject.ca/IIA6T2xW07P">Sandra Gabriele</persName>, <persName key="Rodriguez-Arenas, Omar" ref="https://orcid.org/0000-0001-7428-995X" ana="webannotation:http://temp.lincsproject.ca/LczVcBLWbBC">Omar Rodriguez-Arenas</persName>, <persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/DKSg3UQoGCy">Stan Ruecker</persName>, <persName key="Sinclair, Stéfan." ref="http://viaf.org/viaf/180011800" ana="webannotation:http://temp.lincsproject.ca/6G5zOiUn7Ky">Stéfan Sinclair</persName>, <persName key="DeSouza-Coelho, Shawn" ref="http://viaf.org/viaf/15150868097722070403" ana="webannotation:http://temp.lincsproject.ca/zOKISpmpOXL">Shawn DeSouza-Coelho</persName></docAuthor>
                 <div type="section">
                     <head>Introduction</head>
                     <p xml:id="p1138">
@@ -8351,8 +8351,99 @@
 }]]>
 				
 </rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/LczVcBLWbBC">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/LczVcBLWbBC",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T18:12:22.210Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/hudK8mLIlyv",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/hudK8mLIlyv/selector/textPosition/pAjNGxg3lq1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 314,
+                "end": 335,
+                "refinedBy": {
+                    "id": "/target/hudK8mLIlyv/selector/textQuote/9kx3Vj9jDBl",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Omar Rodriguez-Arenas",
+                    "prefix": " Dobson, Sandra Gabriele,",
+                    "suffix": " Stan Ruecker, Stéfan Sinclair, Shawn DeSouza-Coelho\n                \n                    Introduction\n                    \n                        \n                            \n                                \n                                    In its 2011 season, Toronto’s Soulpepper Theatre Company contributed to a notable and problematic, to cite Globe and Mail critic J"
+                }
+            },
+            {
+                "id": "/target/hudK8mLIlyv/selector/css/5oqCrxglq5B",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/LczVcBLWbBC]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://orcid.org/0000-0001-7428-995X",
+        "label": "Rodriguez-Arenas, Omar",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 			
 </rdf:RDF>
+		
+
 		
 
 		
@@ -8361,7 +8452,9 @@
 </xenoData>
 	
 	
+	
 	</standOff>
+
 
 
 </TEI>
