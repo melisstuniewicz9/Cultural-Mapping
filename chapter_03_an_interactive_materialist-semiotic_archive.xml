@@ -413,7 +413,7 @@
                     <title level="a">An Interactive, Materialist-Semiotic Archive</title>
                 </head>
                 <byline>Visualizing the Canadian Theatrical Canon in the Simulated Environment for Theatre</byline>
-                <docAuthor> Sasha Kovacs and <persName key="Roberts-Smith, Jennifer." ref="http://viaf.org/viaf/84150746934616301371" ana="webannotation:http://temp.lincsproject.ca/akpOeHZzyai">Jennifer Roberts-Smith</persName>, Teresa M. Dobson, <persName key="Gabriele, Sandra, 1972-...." ref="http://viaf.org/viaf/171038746" ana="webannotation:http://temp.lincsproject.ca/IIA6T2xW07P">Sandra Gabriele</persName>, Omar Rodriguez-Arenas, Stan Ruecker, Stéfan Sinclair, Shawn DeSouza-Coelho</docAuthor>
+                <docAuthor> Sasha Kovacs and <persName key="Roberts-Smith, Jennifer." ref="http://viaf.org/viaf/84150746934616301371" ana="webannotation:http://temp.lincsproject.ca/akpOeHZzyai">Jennifer Roberts-Smith</persName>, Teresa M. Dobson, <persName key="Gabriele, Sandra, 1972-...." ref="http://viaf.org/viaf/171038746" ana="webannotation:http://temp.lincsproject.ca/IIA6T2xW07P">Sandra Gabriele</persName>, Omar Rodriguez-Arenas, <persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/DKSg3UQoGCy">Stan Ruecker</persName>, Stéfan Sinclair, Shawn DeSouza-Coelho</docAuthor>
                 <div type="section">
                     <head>Introduction</head>
                     <p xml:id="p1138">
@@ -1269,7 +1269,7 @@
                     <bibl>Marshall, Raymond, stage manager. <title level="a">Prompt script. <title level="m">White Biting Dog</title>, by Judith Thompson</title>. Tarragon Theatre, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/leRyJ2bxzvH">Toronto</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943 " ana="webannotation:http://temp.lincsproject.ca/34ZQQ72Ct3x">ON</placeName>, [1984]. L.W. Conolly Theatre Archives. University of Guelph Library, <placeName key="Guelph" ref="https://sws.geonames.org/5967629" ana="webannotation:http://temp.lincsproject.ca/EPwBd9WuLdH">Guelph</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943 " ana="webannotation:http://temp.lincsproject.ca/UHq8qnKbUh4">ON</placeName>.</bibl>
                     <bibl>Maufort, Marc. <title level="a">Exploring the Other Side of the Dark: Judith Thompson’s Magic Realism</title>. <title level="m">
                             <q>Union in Partition</q>: Essays in Honour of Jeanne Delbaere</title>. Ed. Gilbert Debusscher and Maufort. Liege: L3-Liege Language and Literature, 1997. 191–200.</bibl>
-                    <bibl>McHarge, Christopher. <title level="a">House Program, Theatre Aquarius Production of <title level="m">Fronteras Americanas</title>, by Guillermo Verdecchia, 1995</title>. Theatre Aquarius Archives, University of Guelph Library, <placeName key="Guelph" ref="https://sws.geonames.org/5967629" ana="webannotation:http://temp.lincsproject.ca/GzU5xMR68Wp">Guelph</placeName>, ON.</bibl>
+                    <bibl>McHarge, Christopher. <title level="a">House Program, Theatre Aquarius Production of <title level="m">Fronteras Americanas</title>, by Guillermo Verdecchia, 1995</title>. Theatre Aquarius Archives, University of Guelph Library, <placeName key="Guelph" ref="https://sws.geonames.org/5967629" ana="webannotation:http://temp.lincsproject.ca/GzU5xMR68Wp">Guelph</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943 " ana="webannotation:http://temp.lincsproject.ca/QnwN9DMv2Ct">ON</placeName>.</bibl>
                     <bibl>Nestruck, J. Kelly. <title level="a">Canadian Revivals on the Rise</title>. <title level="j"><orgName key="Globe and Mail (Firm)" ref="http://viaf.org/viaf/157050868" ana="webannotation:http://temp.lincsproject.ca/QgjRIBicyW4">Globe and Mail</orgName></title> 23 September 2011. <ref target="http://www.theglobeandmail.com/arts/theatre-and-performance/nestruck-on-theatre/canadian-revivals-on-the-rise/article617676/">http://www.theglobeandmail.com/arts/theatre-and-performance/nestruck-on-theatre/canadian-revivals-on-the-rise/article617676/</ref>
                     </bibl>
                     <bibl>. <title level="a">Remount without a Cause</title>. <title level="j">Globe and Mail</title> 12 May 2011. <ref target="http://www.theglobeandmail.com/news/arts/theatrefronteras-americanas-remount-without-a-cause/article2020028/">http://www.theglobeandmail.com/news/arts/theatrefronteras-americanas-remount-without-a-cause/article2020028/</ref>
@@ -1282,13 +1282,13 @@
                     <bibl>Ouzounian, Richard. <title level="a">Is Tarragon Dropping of Healey Play Dramatic Cowardice?</title>
                         <title level="j">Toronto Star</title> 3 February 2012. <ref target="http://www.thestar.com/article/1126131--is-tarragon-dropping-of-healey-play-dramatic-cowardice-ouzounian">http://www.thestar.com/article/1126131--is-tarragon-dropping-of-healey-play-dramatic-cowardice-ouzounian</ref>
                     </bibl>
-                    <bibl>Palk, Nancy, dir. <title level="m">White Biting Dog</title>, by Judith Thompson. Set Christina Poddubiuk. Perf. Gregory Prest, Fiona Reid, Mike Ross, Michaela Washburn, Joseph Ziegler. Soulpepper Theatre, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/3URPbtRkwlr">Toronto</placeName>, ON. 15 August 2011.</bibl>
-                    <bibl>Panych, Morris, dir. <title level="a">Performance file for <title level="m">White Biting Dog</title>, by Judith Thompson</title>. Tarragon Theatre, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/rAlhs1X72gV">Toronto</placeName>, ON, 1994. L.W. Conolly Theatre Archives, <orgName key="University of Guelph. Library" ref="http://viaf.org/viaf/131292914" ana="webannotation:http://temp.lincsproject.ca/vy3Xy80Bqom">University of Guelph Library</orgName>, <placeName key="Guelph" ref="https://sws.geonames.org/5967629" ana="webannotation:http://temp.lincsproject.ca/UoFsbuo5I0w">Guelph</placeName>, ON.</bibl>
+                    <bibl>Palk, Nancy, dir. <title level="m">White Biting Dog</title>, by Judith Thompson. Set Christina Poddubiuk. Perf. Gregory Prest, Fiona Reid, Mike Ross, Michaela Washburn, Joseph Ziegler. Soulpepper Theatre, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/3URPbtRkwlr">Toronto</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943 " ana="webannotation:http://temp.lincsproject.ca/ymRM4JR2WK0">ON</placeName>. 15 August 2011.</bibl>
+                    <bibl>Panych, Morris, dir. <title level="a">Performance file for <title level="m">White Biting Dog</title>, by Judith Thompson</title>. Tarragon Theatre, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/rAlhs1X72gV">Toronto</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943 " ana="webannotation:http://temp.lincsproject.ca/1LU3yXjkyIr">ON</placeName>, 1994. L.W. Conolly Theatre Archives, <orgName key="University of Guelph. Library" ref="http://viaf.org/viaf/131292914" ana="webannotation:http://temp.lincsproject.ca/vy3Xy80Bqom">University of Guelph Library</orgName>, <placeName key="Guelph" ref="https://sws.geonames.org/5967629" ana="webannotation:http://temp.lincsproject.ca/UoFsbuo5I0w">Guelph</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943 " ana="webannotation:http://temp.lincsproject.ca/iuNuYQQ4CFD">ON</placeName>.</bibl>
                     <bibl>Quick, Andrew. <title level="m">The Wooster Group Workbook</title>. <placeName key="New York" ref="https://sws.geonames.org/5128638 " ana="webannotation:http://temp.lincsproject.ca/g2YrO3xKgMh">New York</placeName>: Routledge, 2007.</bibl>
                     <bibl>Revington, Dereck. <title level="a">[Photograph: <hi rend="italic">The Luminous Veil</hi>.]</title> 2003.</bibl>
                     <bibl>Roach, Joseph. <title level="m">Cities of the Dead: Circum-Atlantic Performance</title>. <placeName key="New York" ref="https://sws.geonames.org/5128638 " ana="webannotation:http://temp.lincsproject.ca/M86yxech6Xc">New York</placeName>: <orgName key="Columbia university press" ref="http://viaf.org/viaf/127175063" ana="webannotation:http://temp.lincsproject.ca/T2FOzAzukl5">Columbia University Press</orgName>, 1996.</bibl>
-                    <bibl>Roberts-Smith, Jennifer, Shawn DeSouza-Coelho, Teresa Dobson, Sandra Gabriele, Omar Rodriguez-Arenas, Stan Ruecker, Stéfan Sinclair, Annemarie Akong, Matt Bouchard, Diane Jakacki, David Lam, and Lesley Northam. <title level="a">Visualizing Theatrical Text: from Watching the Script to the Simulated Environment for Theatre (<abbr>SET</abbr>)</title>. <title level="j">Digital Humanities Quarterly</title> 7.3 (2013).</bibl>
-                    <bibl>Roberts-Smith, Jennifer, Shawn DeSouza-Coelho, Teresa Dobson, Sandra Gabriele, Stan Ruecker, Stéfan Sinclair, Alexandra (Sasha) Kovacs, and Daniel So. <title level="a">Visualizing Theatre Historiography: Judith Thompson’s <title level="m">White Biting Dog</title> (1984 and 2011) in the Simulated Environment for Theatre (<abbr>SET</abbr>)</title>. <title level="m">Digital Inquiry into Textual Relations: Research and Teaching with Online Tools</title>. Ed. Susan Brown and Stan Ruecker. Spec. issue of <title level="j">Digital Studies/Le champ numérique</title> 3.2 (2012).</bibl>
+                    <bibl>Roberts-Smith, Jennifer, Shawn DeSouza-Coelho, Teresa Dobson, Sandra Gabriele, Omar Rodriguez-Arenas, <persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/fNYZ93f51cd">Stan Ruecker</persName>, Stéfan Sinclair, Annemarie Akong, Matt Bouchard, Diane Jakacki, David Lam, and Lesley Northam. <title level="a">Visualizing Theatrical Text: from Watching the Script to the Simulated Environment for Theatre (<abbr>SET</abbr>)</title>. <title level="j">Digital Humanities Quarterly</title> 7.3 (2013).</bibl>
+                    <bibl>Roberts-Smith, Jennifer, Shawn DeSouza-Coelho, Teresa Dobson, Sandra Gabriele, <persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/wF13jClGUT1">Stan Ruecker</persName>, Stéfan Sinclair, Alexandra (Sasha) Kovacs, and Daniel So. <title level="a">Visualizing Theatre Historiography: Judith Thompson’s <title level="m">White Biting Dog</title> (1984 and 2011) in the Simulated Environment for Theatre (<abbr>SET</abbr>)</title>. <title level="m">Digital Inquiry into Textual Relations: Research and Teaching with Online Tools</title>. Ed. Susan Brown and <persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/NmoKgksQx1u">Stan Ruecker</persName>. Spec. issue of <title level="j">Digital Studies/Le champ numérique</title> 3.2 (2012).</bibl>
                     <bibl>Ruecker, Stan, Ali Grotkowski, Sandra Gabriele, Jennifer Roberts-Smith, Stéfan Sinclair, Teresa Dobson, Annemarie Akong, Sally Fung, and Omar Rodriguez. <title level="a">Abstraction and Realism in the Design of Avatars for the Simulated Environment for Theatre</title>. <title level="j">Visual Communication Journal</title> 12.4 (2013): 459–72.</bibl>
                     <bibl>Salter, Denis. <title level="a">The Idea of a National Theatre</title>. <title level="m">Canadian Canons: Essays in Literary Value</title>. Ed. Robert Lecker. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/ESBRPm8VBnw">Toronto</placeName>: <orgName key="University of Toronto. Press" ref="http://viaf.org/viaf/126595939" ana="webannotation:http://temp.lincsproject.ca/m5DoUJTKjQi">University of Toronto Press</orgName>, 1991. 71–90.</bibl>
                     <bibl>Schechner, Richard. <title level="m">Between Theatre and Anthropology</title>. <placeName key="Pennsylvania" ref="https://sws.geonames.org/6254927" ana="webannotation:http://temp.lincsproject.ca/nGyS8Vb18lN">Pennsylvania</placeName>: <orgName key="University of Pennsylvania. Press" ref="http://viaf.org/viaf/159571939" ana="webannotation:http://temp.lincsproject.ca/mUaRDso1h8G">University of Pennsylvania Press</orgName>, 1995.</bibl>
@@ -1309,9 +1309,9 @@
                     <bibl>von Tiedemann, Cylla. <title level="a">[Digital Photograph, Mike Ross and Michaela Washburn in <title level="m">White Biting Dog</title>, by Judith Thompson.]</title> Photo Gallery, Soulpepper Theatre Company, 2011. <ref target="http://www.soulpepper.ca/performances/11_season/white_biting_dog.aspx#overview">http://www.soulpepper.ca/performances/11_season/white_biting_dog.aspx#overview</ref>
                     </bibl>
                     <bibl>Warren, Jim, dir. <title level="m">
-                            <title level="m">Fronteras Americanas</title>, by Guillermo Verdecchia. Set Glenn Davidson. Perf. Guillermo Verdecchia</title>. Tarragon Theatre, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/iAzLQy6Onsm">Toronto</placeName>, ON, October 1993.</bibl>
+                            <title level="m">Fronteras Americanas</title>, by Guillermo Verdecchia. Set Glenn Davidson. Perf. Guillermo Verdecchia</title>. Tarragon Theatre, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/iAzLQy6Onsm">Toronto</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943 " ana="webannotation:http://temp.lincsproject.ca/2NJR24zvvcK">ON</placeName>, October 1993.</bibl>
                     <bibl>. <title level="m">
-                            <title level="m">Fronteras Americanas</title>, by Guillermo Verdecchia. Set Glenn Davidson. Perf. Guillermo Verdecchia</title>. Soulpepper Theatre Company, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/WzqUT6tuKPj">Toronto</placeName>, ON, May 2012.</bibl>
+                            <title level="m">Fronteras Americanas</title>, by Guillermo Verdecchia. Set Glenn Davidson. Perf. Guillermo Verdecchia</title>. Soulpepper Theatre Company, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/WzqUT6tuKPj">Toronto</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943 " ana="webannotation:http://temp.lincsproject.ca/uMQ6LEogoxa">ON</placeName>, May 2012.</bibl>
                     <bibl>Wasserman, Jerry, ed. <title level="m">Modern Canadian Plays</title>. 4th ed. Vol. 2. Vancouver: Talonbooks, 2001.</bibl>
                     <bibl>Worthen, William. <title level="m">Drama: Between Poetry and Performance</title>. Malden, MA: Wiley-Blackwell, 2010.</bibl>
                     <bibl>Zaiontz, Keren. <title level="a">The Instability of Walls, Pillars, and Floors in Bluemouth Inc. Presents <title level="m">What the Thunder Said</title>
@@ -4796,6 +4796,362 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/DKSg3UQoGCy">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/DKSg3UQoGCy",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T17:39:26.456Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/fXPfXMsgS3z",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/fXPfXMsgS3z/selector/textPosition/E0cJA7y7dBq",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 337,
+                "end": 349,
+                "refinedBy": {
+                    "id": "/target/fXPfXMsgS3z/selector/textQuote/3mGkt2i9R1q",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Stan Ruecker",
+                    "prefix": " Dobson, Sandra Gabriele, Omar Rodriguez-Arenas,",
+                    "suffix": " Stéfan Sinclair, Shawn DeSouza-Coelho\n                \n                    Introduction\n                    \n                        \n                            \n                                \n                                    In its 2011 season, Toronto’s Soulpepper Theatre Company contributed to a notable and problematic, to cite Globe and Mail critic J"
+                }
+            },
+            {
+                "id": "/target/fXPfXMsgS3z/selector/css/M6976IYonnS",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/DKSg3UQoGCy]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/165153459",
+        "type": "crm:E21_Person",
+        "label": "Ruecker, Stan",
+        "description": "Stan Ruecker researcher, ORCID id # 0000-0003-0099-1687"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/fNYZ93f51cd">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/fNYZ93f51cd",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T17:39:27.003Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/8sxM2C6F2Sp",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/8sxM2C6F2Sp/selector/textPosition/mUnGbC5MTMf",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 98424,
+                "end": 98436,
+                "refinedBy": {
+                    "id": "/target/8sxM2C6F2Sp/selector/textQuote/Tb3hXCnoJIO",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Stan Ruecker",
+                    "prefix": "\n                    Roberts-Smith, Jennifer, Shawn DeSouza-Coelho, Teresa Dobson, Sandra Gabriele, Omar Rodriguez-Arenas,",
+                    "suffix": " Stéfan Sinclair, Annemarie Akong, Matt Bouchard, Diane Jakacki, David Lam, and Lesley Northam"
+                }
+            },
+            {
+                "id": "/target/8sxM2C6F2Sp/selector/css/1hzqJeqYC7E",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/fNYZ93f51cd]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/165153459",
+        "type": "crm:E21_Person",
+        "label": "Ruecker, Stan",
+        "description": "Stan Ruecker researcher, ORCID id # 0000-0003-0099-1687"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/wF13jClGUT1">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/wF13jClGUT1",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T17:39:27.338Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/3DCd0go7TrJ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/3DCd0go7TrJ/selector/textPosition/WjvKT0jcPlT",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 98775,
+                "end": 98787,
+                "refinedBy": {
+                    "id": "/target/3DCd0go7TrJ/selector/textQuote/ReId1i9BLdJ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Stan Ruecker",
+                    "prefix": "\n                    Roberts-Smith, Jennifer, Shawn DeSouza-Coelho, Teresa Dobson, Sandra Gabriele,",
+                    "suffix": " Stéfan Sinclair, Alexandra (Sasha) Kovacs, and Daniel So"
+                }
+            },
+            {
+                "id": "/target/3DCd0go7TrJ/selector/css/MBHiWHuBKwA",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/wF13jClGUT1]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/165153459",
+        "type": "crm:E21_Person",
+        "label": "Ruecker, Stan",
+        "description": "Stan Ruecker researcher, ORCID id # 0000-0003-0099-1687"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/NmoKgksQx1u">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/NmoKgksQx1u",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T17:39:27.656Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/FKqG4S9owV7",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/FKqG4S9owV7/selector/textPosition/5CUam7aJhrm",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 99083,
+                "end": 99095,
+                "refinedBy": {
+                    "id": "/target/FKqG4S9owV7/selector/textQuote/H6Cz8ZkoPvd",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Stan Ruecker",
+                    "prefix": " Susan Brown and",
+                    "suffix": " Spec"
+                }
+            },
+            {
+                "id": "/target/FKqG4S9owV7/selector/css/ziKbItoQaN0",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/NmoKgksQx1u]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/165153459",
+        "type": "crm:E21_Person",
+        "label": "Ruecker, Stan",
+        "description": "Stan Ruecker researcher, ORCID id # 0000-0003-0099-1687"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/443CGmj0mns">
 <![CDATA[{
     "@context": [
@@ -5581,6 +5937,540 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/UHq8qnKbUh4]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6093943 ",
+        "label": "Ontario",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/QnwN9DMv2Ct">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/QnwN9DMv2Ct",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T17:36:59.994Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/OsLlVyGIadK",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/OsLlVyGIadK/selector/textPosition/C2UbIzMJUB2",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 96181,
+                "end": 96183,
+                "refinedBy": {
+                    "id": "/target/OsLlVyGIadK/selector/textQuote/5XSnIroiXpQ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "ON",
+                    "prefix": " Theatre Aquarius Archives, University of Guelph Library, Guelph,",
+                    "suffix": "\n                    Nestruck, J"
+                }
+            },
+            {
+                "id": "/target/OsLlVyGIadK/selector/css/8bvEJwoL0Kp",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/QnwN9DMv2Ct]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6093943 ",
+        "label": "Ontario",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ymRM4JR2WK0">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ymRM4JR2WK0",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T17:36:59.996Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/pVcFCuNfXui",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/pVcFCuNfXui/selector/textPosition/4BkpF1lqowi",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 97777,
+                "end": 97779,
+                "refinedBy": {
+                    "id": "/target/pVcFCuNfXui/selector/textQuote/8L7XPPIydhr",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "ON",
+                    "prefix": " Soulpepper Theatre, Toronto,",
+                    "suffix": " 15 August 2011"
+                }
+            },
+            {
+                "id": "/target/pVcFCuNfXui/selector/css/shQ0aur0Lhr",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ymRM4JR2WK0]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6093943 ",
+        "label": "Ontario",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/1LU3yXjkyIr">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/1LU3yXjkyIr",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T17:36:59.997Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4tvAVxJWUS3",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4tvAVxJWUS3/selector/textPosition/YDygYJMwJIp",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 97924,
+                "end": 97926,
+                "refinedBy": {
+                    "id": "/target/4tvAVxJWUS3/selector/textQuote/oFXZF3H9K4M",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "ON",
+                    "prefix": " Tarragon Theatre, Toronto,",
+                    "suffix": " 1994"
+                }
+            },
+            {
+                "id": "/target/4tvAVxJWUS3/selector/css/h5BQi1YZZmz",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/1LU3yXjkyIr]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6093943 ",
+        "label": "Ontario",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/iuNuYQQ4CFD">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/iuNuYQQ4CFD",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T17:36:59.998Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/KSixpU3Fx3Y",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/KSixpU3Fx3Y/selector/textPosition/ZMuYNQM0uff",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 98003,
+                "end": 98005,
+                "refinedBy": {
+                    "id": "/target/KSixpU3Fx3Y/selector/textQuote/o0r0020uT4E",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "ON",
+                    "prefix": " Conolly Theatre Archives, University of Guelph Library, Guelph,",
+                    "suffix": "\n                    Quick, Andrew"
+                }
+            },
+            {
+                "id": "/target/KSixpU3Fx3Y/selector/css/cE6GMNdnq0j",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/iuNuYQQ4CFD]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6093943 ",
+        "label": "Ontario",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/2NJR24zvvcK">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/2NJR24zvvcK",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T17:36:59.999Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Bor937kQAg2",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Bor937kQAg2/selector/textPosition/yNVjzgZC1Uz",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 101607,
+                "end": 101609,
+                "refinedBy": {
+                    "id": "/target/Bor937kQAg2/selector/textQuote/RuDdACVRofa",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "ON",
+                    "prefix": " Tarragon Theatre, Toronto,",
+                    "suffix": " October 1993"
+                }
+            },
+            {
+                "id": "/target/Bor937kQAg2/selector/css/TH1R8Nowxfz",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/2NJR24zvvcK]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6093943 ",
+        "label": "Ontario",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/uMQ6LEogoxa">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/uMQ6LEogoxa",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T17:36:59.999Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/IwQHYrbuVv9",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/IwQHYrbuVv9/selector/textPosition/DKvIm9oL2Wd",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 101808,
+                "end": 101810,
+                "refinedBy": {
+                    "id": "/target/IwQHYrbuVv9/selector/textQuote/OUBJHM2RJn3",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "ON",
+                    "prefix": " Soulpepper Theatre Company, Toronto,",
+                    "suffix": " May 2012"
+                }
+            },
+            {
+                "id": "/target/IwQHYrbuVv9/selector/css/767AUQD5SYz",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/uMQ6LEogoxa]"
             }
         ]
     },
