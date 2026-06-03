@@ -719,7 +719,7 @@
                     <p xml:id="p1154">
                         <ref target="#genre_performance">
                             <ref target="#canon_formation">
-                                <ref target="#theory">To further complicate theoretical matters, this method of reproducing the Canadian canon—by engaging the written text as well as the material and cultural conditions that surrounded the text’s original theatrical production—is as much anti-historical as it is a historicizing gesture.</ref> As Joseph Roach points out, <q>performance, like memory, operates as both quotation and invention</q>
+                                <ref target="#theory">To further complicate theoretical matters, this method of reproducing the Canadian canon—by engaging the written text as well as the material and cultural conditions that surrounded the text’s original theatrical production—is as much anti-historical as it is a historicizing gesture.</ref> As <persName key="Roach, Joseph R., 1947-...." ref="http://viaf.org/viaf/108484472" ana="webannotation:http://temp.lincsproject.ca/zfled77pofY">Joseph Roach</persName> points out, <q>performance, like memory, operates as both quotation and invention</q>
                                 <note place="inline">
                                     <bibl>33</bibl>
                                 </note>. Or, in Richard Schechner’s formulation, because performance is repeated, it is <q>always subject to revision</q> and <q>reinvention from the second time to the nth time</q>
@@ -12971,6 +12971,95 @@
         "type": "crm:E21_Person",
         "label": "Verdecchia, Guillermo",
         "description": "Verdecchia, Guillermo, 1962-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/zfled77pofY">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/zfled77pofY",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T22:50:18.075Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/8XLqC30ZCgs",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/8XLqC30ZCgs/selector/textPosition/ISYLLPbNeYd",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 39078,
+                "end": 39090,
+                "refinedBy": {
+                    "id": "/target/8XLqC30ZCgs/selector/textQuote/Huz7VYgCb28",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Joseph Roach",
+                    "prefix": " As",
+                    "suffix": "points out, performance, like memory, operates as both quotation and invention\n                                \n                                    33\n                                "
+                }
+            },
+            {
+                "id": "/target/8XLqC30ZCgs/selector/css/xa3FOwmFQjx",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/zfled77pofY]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/108484472",
+        "type": "crm:E21_Person",
+        "label": "Roach, Joseph R., 1947-....",
+        "description": "Roach, Joseph R."
     },
     "P2_has_type": [
         "oa:identifying"
