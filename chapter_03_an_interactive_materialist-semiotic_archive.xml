@@ -1222,7 +1222,7 @@
                     <bibl>Alter, Robert. <title level="m">Canon and Creativity: Modern Writing and the Authority of Scripture</title>. New Haven, CT: Yale University Press, 2000.</bibl>
                     <bibl>Ardal, Maya, dir. <title level="m">Graphic poster for production of <title level="m">White Biting Dog</title>, by Judith Thompson</title>. Grand Theatre, London, ON, 1990. L.W. Conolly Theatre Archives, University of Guelph Library, Guelph, ON.</bibl>
                     <bibl>Barton, Bruce. <title level="a">Creating Spaces</title>. <title level="m">Developing Nation: New Play Creation in English-Speaking Canada</title>. Ed. Barton. Toronto: Playwrights Canada Press, 2009. v–xxii.</bibl>
-                    <bibl>. <title level="a">Evoking Theatre: From Reluctance to Exuberance</title>. <title level="m">Canadian Devised Theatre: Reluctant Texts from Exuberant Performance</title>. Ed. Bruce Barton, Natalie Corbett, Birgit Schreyer Duarte, and Keren Zaiontz. Ottawa: Borealis Press, 2008. 1–5.</bibl>
+                    <bibl>. <title level="a">Evoking Theatre: From Reluctance to Exuberance</title>. <title level="m">Canadian Devised Theatre: Reluctant Texts from Exuberant Performance</title>. Ed. Bruce Barton, Natalie Corbett, Birgit Schreyer Duarte, and Keren Zaiontz. <placeName key="Ottawa" ref="https://sws.geonames.org/6094817 " ana="webannotation:http://temp.lincsproject.ca/P7hdSdCwoRU">Ottawa</placeName>: Borealis Press, 2008. 1–5.</bibl>
                     <bibl>Benson, Eugene, and L.W. Conolly. <title level="m">English-Canadian Theatre</title>. Toronto: Oxford University Press, 1987.</bibl>
                     <bibl>Biber, Douglas. <title level="a">Corpus Linguistics and the Study of Literature: Back to the Future?</title>
                         <title level="j">Scientific Study of Literature</title> 1.1 (2011): 15–23.</bibl>
@@ -1230,7 +1230,7 @@
                         <title level="m">[Bloor Street Viaduct in 1920]</title>. City of Toronto Archives, fonds 1244, item 2473.</bibl>
                     <bibl>
                         <title level="m">[Bloor Street Viaduct in 1984, Side View]</title>. City of Toronto Archives, fonds 268, file 7, item 11.</bibl>
-                    <bibl>Bluemouth Inc. <title level="a">What the Thunder Said</title>. <title level="m">Canadian Devised Theatre: Reluctant Texts from Exuberant Performance</title>. Ed. Bruce Barton, Natalie Corbett, Birgit Schreyer Duarte, and Keren Zaiontz. Ottawa: Borealis Press, 2008. 18–57.</bibl>
+                    <bibl>Bluemouth Inc. <title level="a">What the Thunder Said</title>. <title level="m">Canadian Devised Theatre: Reluctant Texts from Exuberant Performance</title>. Ed. Bruce Barton, Natalie Corbett, Birgit Schreyer Duarte, and Keren Zaiontz. <placeName key="Ottawa" ref="https://sws.geonames.org/6094817 " ana="webannotation:http://temp.lincsproject.ca/oIbIowSLddk">Ottawa</placeName>: Borealis Press, 2008. 18–57.</bibl>
                     <bibl>Canadian Actors’ Equity Association (<abbr>CAEA</abbr>). <title level="a">Canadian Theatre Agreement for 2009–2012</title>. <title level="m">Equity Online</title>. <ref target="http://www.caea.com">http://www.caea.com</ref>
                     </bibl>
                     <bibl>
@@ -1315,7 +1315,7 @@
                     <bibl>Wasserman, Jerry, ed. <title level="m">Modern Canadian Plays</title>. 4th ed. Vol. 2. Vancouver: Talonbooks, 2001.</bibl>
                     <bibl>Worthen, William. <title level="m">Drama: Between Poetry and Performance</title>. Malden, MA: Wiley-Blackwell, 2010.</bibl>
                     <bibl>Zaiontz, Keren. <title level="a">The Instability of Walls, Pillars, and Floors in Bluemouth Inc. Presents <title level="m">What the Thunder Said</title>
-                        </title>. <title level="m">Canadian Devised Theatre: Reluctant Texts from Exuberant Performance</title>. Ed. Bruce Barton, Natalie Corbett, Birgit Schreyer Duarte, and Keren Zaiontz. Ottawa: Borealis Press, 2008. 8–17.</bibl>
+                        </title>. <title level="m">Canadian Devised Theatre: Reluctant Texts from Exuberant Performance</title>. Ed. Bruce Barton, Natalie Corbett, Birgit Schreyer Duarte, and Keren Zaiontz. <placeName key="Ottawa" ref="https://sws.geonames.org/6094817 " ana="webannotation:http://temp.lincsproject.ca/xshpiB2O8qv">Ottawa</placeName>: Borealis Press, 2008. 8–17.</bibl>
                 </div>
             </div>
         </body>
@@ -1496,6 +1496,273 @@
         "type": "crm:E74_Group",
         "label": "University of Guelph.",
         "description": "Université de Guelph"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/P7hdSdCwoRU">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/P7hdSdCwoRU",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T15:06:39.063Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/8420Vj95fsZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/8420Vj95fsZ/selector/textPosition/qjqIifW5Mjb",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 90196,
+                "end": 90202,
+                "refinedBy": {
+                    "id": "/target/8420Vj95fsZ/selector/textQuote/kaBdvzmbEil",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ottawa",
+                    "prefix": "",
+                    "suffix": " Borealis Press, 2008"
+                }
+            },
+            {
+                "id": "/target/8420Vj95fsZ/selector/css/eTs56d4CNPb",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/P7hdSdCwoRU]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6094817 ",
+        "label": "Ottawa",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/oIbIowSLddk">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/oIbIowSLddk",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T15:06:39.651Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/amaRRYU24Dp",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/amaRRYU24Dp/selector/textPosition/cBv6jk0UM1m",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 91003,
+                "end": 91009,
+                "refinedBy": {
+                    "id": "/target/amaRRYU24Dp/selector/textQuote/Mn9WZn3qHMY",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ottawa",
+                    "prefix": "",
+                    "suffix": " Borealis Press, 2008"
+                }
+            },
+            {
+                "id": "/target/amaRRYU24Dp/selector/css/qN5zfYffOWO",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/oIbIowSLddk]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6094817 ",
+        "label": "Ottawa",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xshpiB2O8qv">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xshpiB2O8qv",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T15:06:39.976Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/QXTs9tgEG2v",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/QXTs9tgEG2v/selector/textPosition/s5kI2WEA3GB",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 102349,
+                "end": 102355,
+                "refinedBy": {
+                    "id": "/target/QXTs9tgEG2v/selector/textQuote/D11swr87DmP",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ottawa",
+                    "prefix": "",
+                    "suffix": " Borealis Press, 2008"
+                }
+            },
+            {
+                "id": "/target/QXTs9tgEG2v/selector/css/1HlheJybXak",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xshpiB2O8qv]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6094817 ",
+        "label": "Ottawa",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
