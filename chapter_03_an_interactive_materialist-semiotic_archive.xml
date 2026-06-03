@@ -1213,7 +1213,7 @@
                     <head>Authors’ note</head>
                     <p xml:id="p1183" rend="authors-note">
                         <ref target="#collaboration">
-                            <ref target="#economics">This research was funded by an Image, Text, Sound, and Technology Grant and a Standard Research Grant from the Social Sciences and Humanities Research Council of Canada</ref>. We are grateful to Eleanor Antoncic and Sue LePage (Tarragon Theatre); Drew Baker (Theatron 3); Toby Malone, Christina Poddubiuk, and Kelly Read (Soulpepper Theatre Company); Dereck Revington (University of Waterloo); the City of Toronto Archives; and the L.W. Conolly Theatre Archives (<orgName key="University of Guelph." ref="http://viaf.org/viaf/125486960" ana="webannotation:http://temp.lincsproject.ca/J75HQfxtLdv">University of Guelph</orgName>)</ref>.</p>
+                            <ref target="#economics">This research was funded by an Image, Text, Sound, and Technology Grant and a Standard Research Grant from the Social Sciences and Humanities Research Council of Canada</ref>. We are grateful to Eleanor Antoncic and Sue LePage (Tarragon Theatre); Drew Baker (Theatron 3); Toby Malone, Christina Poddubiuk, and Kelly Read (Soulpepper Theatre Company); Dereck Revington (<orgName key="University of Waterloo." ref="http://viaf.org/viaf/125162070" ana="webannotation:http://temp.lincsproject.ca/RyQbmtwrY13">University of Waterloo</orgName>); the City of Toronto Archives; and the L.W. Conolly Theatre Archives (<orgName key="University of Guelph." ref="http://viaf.org/viaf/125486960" ana="webannotation:http://temp.lincsproject.ca/J75HQfxtLdv">University of Guelph</orgName>)</ref>.</p>
                 </div>
                 <div type="section">
                     <head>Works Cited</head>
@@ -1325,6 +1325,95 @@
 <xenoData>
 			
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/RyQbmtwrY13">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/RyQbmtwrY13",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T15:04:46.943Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/L7qsIriplTd",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/L7qsIriplTd/selector/textPosition/SHjjkDWrnsA",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 89034,
+                "end": 89056,
+                "refinedBy": {
+                    "id": "/target/L7qsIriplTd/selector/textQuote/SAKLw3gLHtv",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "University of Waterloo",
+                    "prefix": " We are grateful to Eleanor Antoncic and Sue LePage (Tarragon Theatre); Drew Baker (Theatron 3); Toby Malone, Christina Poddubiuk, and Kelly Read (Soulpepper Theatre Company); Dereck Revington ",
+                    "suffix": "; the City of Toronto Archives; and the L"
+                }
+            },
+            {
+                "id": "/target/L7qsIriplTd/selector/css/RUi7ZvdOpgZ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/RyQbmtwrY13]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/125162070",
+        "type": "crm:E74_Group",
+        "label": "University of Waterloo.",
+        "description": "université de Waterloo université de l'Ontario, au Canada"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/J75HQfxtLdv">
 <![CDATA[{
