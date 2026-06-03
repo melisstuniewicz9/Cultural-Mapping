@@ -1283,7 +1283,7 @@
                         <title level="j">Toronto Star</title> 3 February 2012. <ref target="http://www.thestar.com/article/1126131--is-tarragon-dropping-of-healey-play-dramatic-cowardice-ouzounian">http://www.thestar.com/article/1126131--is-tarragon-dropping-of-healey-play-dramatic-cowardice-ouzounian</ref>
                     </bibl>
                     <bibl>Palk, Nancy, dir. <title level="m">White Biting Dog</title>, by Judith Thompson. Set Christina Poddubiuk. Perf. Gregory Prest, Fiona Reid, Mike Ross, Michaela Washburn, Joseph Ziegler. Soulpepper Theatre, Toronto, ON. 15 August 2011.</bibl>
-                    <bibl>Panych, Morris, dir. <title level="a">Performance file for <title level="m">White Biting Dog</title>, by Judith Thompson</title>. Tarragon Theatre, Toronto, ON, 1994. L.W. Conolly Theatre Archives, University of Guelph Library, Guelph, ON.</bibl>
+                    <bibl>Panych, Morris, dir. <title level="a">Performance file for <title level="m">White Biting Dog</title>, by Judith Thompson</title>. Tarragon Theatre, Toronto, ON, 1994. L.W. Conolly Theatre Archives, <orgName key="University of Guelph. Library" ref="http://viaf.org/viaf/131292914" ana="webannotation:http://temp.lincsproject.ca/vy3Xy80Bqom">University of Guelph Library</orgName>, Guelph, ON.</bibl>
                     <bibl>Quick, Andrew. <title level="m">The Wooster Group Workbook</title>. New York: Routledge, 2007.</bibl>
                     <bibl>Revington, Dereck. <title level="a">[Photograph: <hi rend="italic">The Luminous Veil</hi>.]</title> 2003.</bibl>
                     <bibl>Roach, Joseph. <title level="m">Cities of the Dead: Circum-Atlantic Performance</title>. New York: <orgName key="Columbia university press" ref="http://viaf.org/viaf/127175063" ana="webannotation:http://temp.lincsproject.ca/T2FOzAzukl5">Columbia University Press</orgName>, 1996.</bibl>
@@ -1763,6 +1763,94 @@
         "type": "crm:E74_Group",
         "label": "Yale university press",
         "description": "Yale University Press university press associated with Yale University"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/vy3Xy80Bqom">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/vy3Xy80Bqom",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T15:30:31.066Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/HIJqPWgOnDN",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/HIJqPWgOnDN/selector/textPosition/J7D5iEa8fiA",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 97965,
+                "end": 97993,
+                "refinedBy": {
+                    "id": "/target/HIJqPWgOnDN/selector/textQuote/mtSJ1x89cuc",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "University of Guelph Library",
+                    "prefix": " Conolly Theatre Archives,",
+                    "suffix": " Guelph, ON"
+                }
+            },
+            {
+                "id": "/target/HIJqPWgOnDN/selector/css/MAvTopPdDE9",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/vy3Xy80Bqom]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/131292914",
+        "type": "crm:E74_Group",
+        "label": "University of Guelph. Library"
     },
     "P2_has_type": [
         "oa:identifying"
