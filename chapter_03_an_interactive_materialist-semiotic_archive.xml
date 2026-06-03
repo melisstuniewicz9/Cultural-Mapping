@@ -637,7 +637,7 @@
                     <p xml:id="p1148">
                         <ref target="#intellectual_history">
                             <ref target="#canon_formation">
-                                <ref target="#genre_performance">The memory of the 1984 production was at the forefront of Palk’s mind as she approached her own production. Palk recalled a <q>fantastic</q> opening night, while Verdecchia and Warren revisited a previously successful production; both revivals were framed by Soulpepper as attempts to return in some way to a performed ideal, rather than a textual one. This was arguably a radical and progressive departure from traditional constructions of the Canadian canon, and one that reflected a movement (pace Nestruck) in both critical and academic circles. As Bruce Barton asks, <q>why not push hard on (even against) the historical preoccupation with a Canadian dramatic canon?</q>
+                                <ref target="#genre_performance">The memory of the 1984 production was at the forefront of Palk’s mind as she approached her own production. Palk recalled a <q>fantastic</q> opening night, while <persName key="Verdecchia, Guillermo" ref="http://viaf.org/viaf/41927151" ana="webannotation:http://temp.lincsproject.ca/MCOliz03UGa">Verdecchia</persName> and Warren revisited a previously successful production; both revivals were framed by Soulpepper as attempts to return in some way to a performed ideal, rather than a textual one. This was arguably a radical and progressive departure from traditional constructions of the Canadian canon, and one that reflected a movement (pace Nestruck) in both critical and academic circles. As Bruce Barton asks, <q>why not push hard on (even against) the historical preoccupation with a Canadian dramatic canon?</q>
                                 </ref>
                             </ref>
                         </ref>
@@ -647,10 +647,10 @@
                         </note>.</p>
                     <p xml:id="p1149">
                         <ref target="#intellectual_history">
-                            <ref target="#genre_performance">Soulpepper’s desire to revive performance history was as evident on stage as it was off stage, and (perhaps ironically) seems to have been the focus of much of the criticism of its 2011 revivals. In the one-man show <title level="m">Fronteras American</title> as, for example, the playwright himself played the roles of <q>Wideload</q> and <q>Verdecchia,</q> as he had done in the original production.<note xml:id="n135" place="end">There is a difficulty in using an alternate actor, since this one-man show is a personal story and features a character named Verdecchia. Verdecchia himself, however, has expressed a desire for alternate casting scenarios: <q>I’d love to see—some day, I hope—<ref target="#gender_issue">
+                            <ref target="#genre_performance">Soulpepper’s desire to revive performance history was as evident on stage as it was off stage, and (perhaps ironically) seems to have been the focus of much of the criticism of its 2011 revivals. In the one-man show <title level="m">Fronteras American</title> as, for example, the playwright himself played the roles of <q>Wideload</q> and <q><persName key="Verdecchia, Guillermo" ref="http://viaf.org/viaf/41927151" ana="webannotation:http://temp.lincsproject.ca/Jvu5Sd2mWHq">Verdecchia</persName>,</q> as he had done in the original production.<note xml:id="n135" place="end">There is a difficulty in using an alternate actor, since this one-man show is a personal story and features a character named <persName key="Verdecchia, Guillermo" ref="http://viaf.org/viaf/41927151" ana="webannotation:http://temp.lincsproject.ca/xgGmoO3YEQn">Verdecchia</persName>. <persName key="Verdecchia, Guillermo" ref="http://viaf.org/viaf/41927151" ana="webannotation:http://temp.lincsproject.ca/CN9YXN3wYtf">Verdecchia</persName> himself, however, has expressed a desire for alternate casting scenarios: <q>I’d love to see—some day, I hope—<ref target="#gender_issue">
                                             <ref target="#nationality">a production of <title level="m">Fronteras Americana </title>s that is transgendered and cast with an Asian actor, or something.</ref>
                                         </ref> I’d really like to see somebody take the border theme to the nth degree</q>
-                                    <bibl>qtd. in Wasserman 310</bibl>. This suggests that the 2011 casting of Verdecchia was deliberate.</note>
+                                    <bibl>qtd. in Wasserman 310</bibl>. This suggests that the 2011 casting of <persName key="Verdecchia, Guillermo" ref="http://viaf.org/viaf/41927151" ana="webannotation:http://temp.lincsproject.ca/ElC7hmV45ay">Verdecchia</persName> was deliberate.</note>
                                 <ref target="#technology">Despite major advances in the field of visual projection, Soulpepper also simulated the same kinds of performance technologies that were used in the 1994 production (the original production was innovative for its use of PowerPoint <q>slides</q>). <ref target="#response_formal">It is not surprising, then, that the 2011 production of <title level="m">Fronteras Americanas</title> was criticized for smelling <q>to high heaven of the early 1990s</q>
                                     </ref>
                                 </ref>
@@ -12526,6 +12526,451 @@
         "type": "crm:E21_Person",
         "label": "Panych, Morris",
         "description": "Panych, Morris, 1952-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/MCOliz03UGa">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/MCOliz03UGa",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T22:49:32.408Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/qJeNkGRgQ5c",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/qJeNkGRgQ5c/selector/textPosition/IP9aCJlxJib",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28670,
+                "end": 28680,
+                "refinedBy": {
+                    "id": "/target/qJeNkGRgQ5c/selector/textQuote/HgJMxxgvxxc",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Verdecchia",
+                    "prefix": " Palk recalled a fantastic opening night, while",
+                    "suffix": "and Warren revisited a previously successful production; both revivals were framed by Soulpepper as attempts to return in some way to a performed ideal, rather than a textual one"
+                }
+            },
+            {
+                "id": "/target/qJeNkGRgQ5c/selector/css/EITCt08CT9U",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/MCOliz03UGa]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/41927151",
+        "type": "crm:E21_Person",
+        "label": "Verdecchia, Guillermo",
+        "description": "Verdecchia, Guillermo, 1962-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Jvu5Sd2mWHq">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Jvu5Sd2mWHq",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T22:49:32.413Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/vtQflQdP0en",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/vtQflQdP0en/selector/textPosition/Pe9ng3ON5qe",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 29776,
+                "end": 29786,
+                "refinedBy": {
+                    "id": "/target/vtQflQdP0en/selector/textQuote/oNx7V4S4MGY",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Verdecchia",
+                    "prefix": " In the one-man show Fronteras American as, for example, the playwright himself played the roles of Wideload and",
+                    "suffix": " as he had done in the original production"
+                }
+            },
+            {
+                "id": "/target/vtQflQdP0en/selector/css/ynsSPvqA1qK",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Jvu5Sd2mWHq]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/41927151",
+        "type": "crm:E21_Person",
+        "label": "Verdecchia, Guillermo",
+        "description": "Verdecchia, Guillermo, 1962-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xgGmoO3YEQn">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xgGmoO3YEQn",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T22:49:32.415Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/7vLKgLMttXU",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/7vLKgLMttXU/selector/textPosition/gfDq7g7BwAR",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 29956,
+                "end": 29966,
+                "refinedBy": {
+                    "id": "/target/7vLKgLMttXU/selector/textQuote/ayFpOqfO9vX",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Verdecchia",
+                    "prefix": "There is a difficulty in using an alternate actor, since this one-man show is a personal story and features a character named",
+                    "suffix": " Verdecchia himself, however, has expressed a desire for alternate casting scenarios: I’d love to see—some day, I hope—\n                                            a production of Fronteras Americana s that is transgendered and cast with an Asian actor, or something"
+                }
+            },
+            {
+                "id": "/target/7vLKgLMttXU/selector/css/LcJeKeviYwy",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xgGmoO3YEQn]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/41927151",
+        "type": "crm:E21_Person",
+        "label": "Verdecchia, Guillermo",
+        "description": "Verdecchia, Guillermo, 1962-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/CN9YXN3wYtf">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/CN9YXN3wYtf",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T22:49:32.418Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/HJMSfTLOiCk",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/HJMSfTLOiCk/selector/textPosition/HyDLrPyxyMw",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 29968,
+                "end": 29978,
+                "refinedBy": {
+                    "id": "/target/HJMSfTLOiCk/selector/textQuote/Y5XfvPs5R0q",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Verdecchia",
+                    "prefix": "",
+                    "suffix": "himself, however, has expressed a desire for alternate casting scenarios: I’d love to see—some day, I hope—\n                                            a production of Fronteras Americana s that is transgendered and cast with an Asian actor, or something"
+                }
+            },
+            {
+                "id": "/target/HJMSfTLOiCk/selector/css/fkNOiTOZ8wQ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/CN9YXN3wYtf]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/41927151",
+        "type": "crm:E21_Person",
+        "label": "Verdecchia, Guillermo",
+        "description": "Verdecchia, Guillermo, 1962-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ElC7hmV45ay">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ElC7hmV45ay",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T22:49:32.419Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/jRrNezfquwK",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/jRrNezfquwK/selector/textPosition/weUEj7kEUcQ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 30446,
+                "end": 30456,
+                "refinedBy": {
+                    "id": "/target/jRrNezfquwK/selector/textQuote/n3FUf1EcKB1",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Verdecchia",
+                    "prefix": " This suggests that the 2011 casting of",
+                    "suffix": "was deliberate"
+                }
+            },
+            {
+                "id": "/target/jRrNezfquwK/selector/css/n3rmzLea7vt",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ElC7hmV45ay]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/41927151",
+        "type": "crm:E21_Person",
+        "label": "Verdecchia, Guillermo",
+        "description": "Verdecchia, Guillermo, 1962-"
     },
     "P2_has_type": [
         "oa:identifying"
