@@ -22994,20 +22994,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/82Qp1ZMbQUj">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/uuV3knoLx0X">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/82Qp1ZMbQUj",
+    "id": "http://temp.lincsproject.ca/uuV3knoLx0X",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-06-02T16:32:55.452Z",
+    "created": "2026-06-03T13:49:57.324Z",
     "creator": {
         "id": "https://github.com/melisstuniewicz9",
         "type": "crm:E21_Person",
@@ -23075,13 +23075,22 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/82Qp1ZMbQUj]"
+            },
+            {
+                "id": "/target/MYEXYKRLIZM/selector/css/V9KZK3oXGWG",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/uuV3knoLx0X]"
             }
         ]
     },
     "body": {
-        "id": "https://nerve.lincsproject.ca/fHCr9yLIqgUsiIrTmtQJf",
+        "id": "https://sws.geonames.org/2653941 ",
+        "label": "Cambridge",
         "type": "crm:E53_Place",
-        "label": "Cambridge"
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
