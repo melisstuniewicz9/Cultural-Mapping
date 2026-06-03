@@ -1277,7 +1277,7 @@
                     <bibl>. <title level="a">
                             <title level="m">White Biting Dog</title>: These People Need to Be Saved. So Does the Production</title>. <title level="j">Globe and Mail</title> 19 August 2011. <ref target="http://www.theglobeandmail.com/arts/theatre-and-performance/white-biting-dog-these-people-need-to-be-saved-so-does-the-production/article629793/">http://www.theglobeandmail.com/arts/theatre-and-performance/white-biting-dog-these-people-need-to-be-saved-so-does-the-production/article629793/</ref>
                     </bibl>
-                    <bibl>Nunn, Robert. <title level="a">Spatial Metaphors in the Plays of Judith Thompson</title>. <title level="m">Judith Thompson: Critical Perspectives on Canadian Theatre in English</title>. Ed. Ric Knowles. Vol. 3. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/z5wd9Xi8Jue">Toronto</placeName>: Playwrights Canada Press, 2005. 20–40.</bibl>
+                    <bibl>Nunn, Robert. <title level="a">Spatial Metaphors in the Plays of Judith Thompson</title>. <title level="m">Judith Thompson: Critical Perspectives on Canadian Theatre in English</title>. Ed. <persName key="Knowles, Richard Paul, 1950-...." ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/ieWWTSbDUlp">Ric Knowles</persName>. Vol. 3. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/z5wd9Xi8Jue">Toronto</placeName>: Playwrights Canada Press, 2005. 20–40.</bibl>
                     <bibl>Ondaatje, Michael. <title level="m">In the Skin of a Lion</title>. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/mxzMhTN2Jl9">Toronto</placeName>: McClelland and Stewart, 1987.</bibl>
                     <bibl>Ouzounian, Richard. <title level="a">Is Tarragon Dropping of Healey Play Dramatic Cowardice?</title>
                         <title level="j">Toronto Star</title> 3 February 2012. <ref target="http://www.thestar.com/article/1126131--is-tarragon-dropping-of-healey-play-dramatic-cowardice-ouzounian">http://www.thestar.com/article/1126131--is-tarragon-dropping-of-healey-play-dramatic-cowardice-ouzounian</ref>
@@ -8433,6 +8433,95 @@
         "label": "Rodriguez-Arenas, Omar",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ieWWTSbDUlp">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ieWWTSbDUlp",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T18:19:06.229Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/VI6PdIKF1O3",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/VI6PdIKF1O3/selector/textPosition/UsGDEBdc4Sy",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 97122,
+                "end": 97133,
+                "refinedBy": {
+                    "id": "/target/VI6PdIKF1O3/selector/textQuote/8wYoGwr0RiB",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ric Knowles",
+                    "prefix": "",
+                    "suffix": " Vol"
+                }
+            },
+            {
+                "id": "/target/VI6PdIKF1O3/selector/css/tFLaWbd7mbF",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ieWWTSbDUlp]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/51820035",
+        "type": "crm:E21_Person",
+        "label": "Knowles, Richard Paul, 1950-....",
+        "description": "Knowles, Ric, 1950-"
     },
     "P2_has_type": [
         "oa:identifying"
