@@ -491,7 +491,7 @@
                                 </note> and, unlike the <q>alternative movement</q> that preceded Soulpepper, the company unapologetically refused to produce new Canadian work.<note xml:id="n107" place="end">
                                     <ref target="#politics">
                                         <ref target="#intertextuality">Eugene Benson and L.W. Conolly suggest that the <q>alternate theatre in Canada emerged in the 1960’s</q> and was <q>prompted by a changing political climate at home and a groundswell of interest in Canadian history, culture, and institutions</q>
-                                            <bibl>85</bibl>. They identify Toronto Workshop Productions (<abbr>TWP</abbr>) under the leadership of George Luscombe as the <q>forerunner</q>
+                                            <bibl>85</bibl>. They identify Toronto Workshop Productions (<abbr>TWP</abbr>) under the leadership of <persName key="Luscombe, George, 1926-1999" ref="http://viaf.org/viaf/26315583" ana="webannotation:http://temp.lincsproject.ca/axwjvkJkWl9">George Luscombe</persName> as the <q>forerunner</q>
                                             <bibl>Benson and Conolly 86</bibl> to this movement</ref>. Other significant companies include Factory Theatre Lab (now Factory Theatre), Tarragon Theatre, and Theatre Passe Muraille (<abbr>TPM</abbr>). <ref target="#intertextuality">For a more thorough discussion of the history and characteristics of this movement, see Denis Johnston’s <title level="m">Up the Mainstream: The Rise of Toronto’s Alternative Theatres</title>. For a more detailed analysis of Tarragon’s position within that framework, see Johnston’s <title level="m">Diverting the Mainstream: Bill Glassco and the Early Years of Tarragon Theatre</title>
                                         </ref>
                                     </ref>.</note>
@@ -8788,6 +8788,95 @@
         "id": "http://viaf.org/viaf/105178021",
         "type": "crm:E21_Person",
         "label": "McHarge, Christopher Paul, 1961-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/axwjvkJkWl9">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/axwjvkJkWl9",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T18:30:11.356Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/TyEzWSjvXUI",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/TyEzWSjvXUI/selector/textPosition/ABliNjyAAj5",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 11655,
+                "end": 11670,
+                "refinedBy": {
+                    "id": "/target/TyEzWSjvXUI/selector/textQuote/HIseNDS1Mo6",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "George Luscombe",
+                    "prefix": " They identify Toronto Workshop Productions (TWP) under the leadership of",
+                    "suffix": "as the forerunner\n                                            Benson and Conolly 86 to this movement"
+                }
+            },
+            {
+                "id": "/target/TyEzWSjvXUI/selector/css/b8B4O1pi0jd",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/axwjvkJkWl9]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26315583",
+        "type": "crm:E21_Person",
+        "label": "Luscombe, George, 1926-1999",
+        "description": "Luscombe, George, 1926-"
     },
     "P2_has_type": [
         "oa:identifying"
