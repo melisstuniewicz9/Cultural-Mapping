@@ -420,7 +420,7 @@
                         <ref target="#critique_of_canon">
                             <ref target="#intellectual_history">
                                 <ref target="#genre_performance">
-                                    <ref target="#response_formal">In its 2011 season, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/mmSnnASj5rv">Toronto</placeName>’s Soulpepper Theatre Company contributed to a notable and <q>problematic,</q> to cite <title level="j"><orgName key="Globe and Mail (Firm)" ref="http://viaf.org/viaf/157050868" ana="webannotation:http://temp.lincsproject.ca/qQAseEIN3Cs">Globe and Mail</orgName></title> critic <persName key="Nestruck, J. Kelly" ref="https://www.wikidata.org/wiki/Q16221465" ana="webannotation:http://temp.lincsproject.ca/r9MzgjbM4Qu">J. Kelly Nestruck</persName>, revival movement in the history of Canadian theatre (<title level="a">Canadian Revivals</title>)</ref>. <ref target="#recognitions">The two <q>revivals</q> mounted by the company, Guillermo Verdecchia’s <title level="m">Fronteras Americanas</title> and Judith Thompson’s <title level="m">White Biting Dog</title>, were both Governor General’s (<abbr>GG</abbr>) Literary Award–winning plays, which, despite their past successes and their status in the Canadian theatrical canon, had rarely, if ever, been revived on such a scale</ref>. This, in itself, was not surprising; as Nestruck observed, <q>in the country’s theatre ecology, second productions have always been harder to get than first productions…And revivals of older plays? For a long while, they were even rarer</q> (<title level="a">Canadian Revivals</title>). <ref target="#methodology">What was surprising was the intervention of Soulpepper’s productions into the traditional construction of the Canadian theatrical canon as a body of printed, rather than performed, works. In a gesture that we argue demonstrates what <persName key="Knowles, Richard Paul, 1950-...." ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/1m13xqvT630">Ric Knowles</persName> has called a materialist-semiotic approach to theatre, Soulpepper publicized its revivals as re-presenting important past performances, rather than re-producing important published works.<note xml:id="n100" place="end">
+                                    <ref target="#response_formal">In its 2011 season, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/mmSnnASj5rv">Toronto</placeName>’s <orgName key="Soulpepper Theatre Co" ref="https://www.wikidata.org/wiki/Q7564521" ana="webannotation:http://temp.lincsproject.ca/ZjLJu3SLPjF">Soulpepper Theatre Company</orgName> contributed to a notable and <q>problematic,</q> to cite <title level="j"><orgName key="Globe and Mail (Firm)" ref="http://viaf.org/viaf/157050868" ana="webannotation:http://temp.lincsproject.ca/qQAseEIN3Cs">Globe and Mail</orgName></title> critic <persName key="Nestruck, J. Kelly" ref="https://www.wikidata.org/wiki/Q16221465" ana="webannotation:http://temp.lincsproject.ca/r9MzgjbM4Qu">J. Kelly Nestruck</persName>, revival movement in the history of Canadian theatre (<title level="a">Canadian Revivals</title>)</ref>. <ref target="#recognitions">The two <q>revivals</q> mounted by the company, Guillermo Verdecchia’s <title level="m">Fronteras Americanas</title> and Judith Thompson’s <title level="m">White Biting Dog</title>, were both Governor General’s (<abbr>GG</abbr>) Literary Award–winning plays, which, despite their past successes and their status in the Canadian theatrical canon, had rarely, if ever, been revived on such a scale</ref>. This, in itself, was not surprising; as Nestruck observed, <q>in the country’s theatre ecology, second productions have always been harder to get than first productions…And revivals of older plays? For a long while, they were even rarer</q> (<title level="a">Canadian Revivals</title>). <ref target="#methodology">What was surprising was the intervention of Soulpepper’s productions into the traditional construction of the Canadian theatrical canon as a body of printed, rather than performed, works. In a gesture that we argue demonstrates what <persName key="Knowles, Richard Paul, 1950-...." ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/1m13xqvT630">Ric Knowles</persName> has called a materialist-semiotic approach to theatre, Soulpepper publicized its revivals as re-presenting important past performances, rather than re-producing important published works.<note xml:id="n100" place="end">
                                             <ref target="#canon_formation"><persName key="Knowles, Richard Paul, 1950-...." ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/iHsjGNYjjES">Ric Knowles</persName>, in his analysis of the establishment of the English-Canadian canon, confirms the historical contexts that shape Nestruck’s assertion: <q>before 1980 few Canadian scripts received a second production</q>
                                                 <bibl>Knowles, <title level="a">Voices (Off)</title> 91</bibl>. <ref target="#anthologizaton">
                                                     <ref target="#editions">Knowles suggests that the <q>quixotic and unpredictable</q> nature of the Canadian dramatic environment <bibl>
@@ -694,7 +694,7 @@
                         <ref target="#methodology">
                             <ref target="genre_performance">
                                 <ref target="#canon_formation">
-                                    <ref target="#theme_or_topic">At the risk of buttressing the ivory tower of canon making that Nestruck has denounced, we would like to suggest that Soulpepper Theatre Company, by positioning its 2011 revivals as re-presentations of canonical performances, implicitly embraced what Knowles has called a <q>materialist semiotics</q> of the Canadian theatrical canon.</ref>
+                                    <ref target="#theme_or_topic">At the risk of buttressing the ivory tower of canon making that Nestruck has denounced, we would like to suggest that <orgName key="Soulpepper Theatre Co" ref="https://www.wikidata.org/wiki/Q7564521" ana="webannotation:http://temp.lincsproject.ca/Gj4KftEzFIj">Soulpepper Theatre Company</orgName>, by positioning its 2011 revivals as re-presentations of canonical performances, implicitly embraced what Knowles has called a <q>materialist semiotics</q> of the Canadian theatrical canon.</ref>
                                     <ref target="#theory">Knowles borrows from theories of cultural materialism and theatre semiotics to analyze the ways a performance <q>text,</q> which he defines broadly to include script, <q>mise en scene, design, actors’ bodies, movement and gestures, etc.</q>
                                     </ref>
                                     <note place="inline">
@@ -1213,7 +1213,7 @@
                     <head>Authors’ note</head>
                     <p xml:id="p1183" rend="authors-note">
                         <ref target="#collaboration">
-                            <ref target="#economics">This research was funded by an Image, Text, Sound, and Technology Grant and a Standard Research Grant from the Social Sciences and Humanities Research Council of Canada</ref>. We are grateful to Eleanor Antoncic and Sue LePage (Tarragon Theatre); Drew Baker (Theatron 3); Toby Malone, Christina Poddubiuk, and Kelly Read (Soulpepper Theatre Company); Dereck Revington (<orgName key="University of Waterloo." ref="http://viaf.org/viaf/125162070" ana="webannotation:http://temp.lincsproject.ca/RyQbmtwrY13">University of Waterloo</orgName>); the City of Toronto Archives; and the L.W. Conolly Theatre Archives (<orgName key="University of Guelph." ref="http://viaf.org/viaf/125486960" ana="webannotation:http://temp.lincsproject.ca/J75HQfxtLdv">University of Guelph</orgName>)</ref>.</p>
+                            <ref target="#economics">This research was funded by an Image, Text, Sound, and Technology Grant and a Standard Research Grant from the Social Sciences and Humanities Research Council of Canada</ref>. We are grateful to Eleanor Antoncic and Sue LePage (Tarragon Theatre); Drew Baker (Theatron 3); Toby Malone, Christina Poddubiuk, and Kelly Read (<orgName key="Soulpepper Theatre Co" ref="https://www.wikidata.org/wiki/Q7564521" ana="webannotation:http://temp.lincsproject.ca/QaenaLOn3rq">Soulpepper Theatre Company</orgName>); Dereck Revington (<orgName key="University of Waterloo." ref="http://viaf.org/viaf/125162070" ana="webannotation:http://temp.lincsproject.ca/RyQbmtwrY13">University of Waterloo</orgName>); the City of Toronto Archives; and the L.W. Conolly Theatre Archives (<orgName key="University of Guelph." ref="http://viaf.org/viaf/125486960" ana="webannotation:http://temp.lincsproject.ca/J75HQfxtLdv">University of Guelph</orgName>)</ref>.</p>
                 </div>
                 <div type="section">
                     <head>Works Cited</head>
@@ -1293,9 +1293,9 @@
                     <bibl>Salter, Denis. <title level="a">The Idea of a National Theatre</title>. <title level="m">Canadian Canons: Essays in Literary Value</title>. Ed. Robert Lecker. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/ESBRPm8VBnw">Toronto</placeName>: <orgName key="University of Toronto. Press" ref="http://viaf.org/viaf/126595939" ana="webannotation:http://temp.lincsproject.ca/m5DoUJTKjQi">University of Toronto Press</orgName>, 1991. 71–90.</bibl>
                     <bibl>Schechner, Richard. <title level="m">Between Theatre and Anthropology</title>. <placeName key="Pennsylvania" ref="https://sws.geonames.org/6254927" ana="webannotation:http://temp.lincsproject.ca/nGyS8Vb18lN">Pennsylvania</placeName>: <orgName key="University of Pennsylvania. Press" ref="http://viaf.org/viaf/159571939" ana="webannotation:http://temp.lincsproject.ca/mUaRDso1h8G">University of Pennsylvania Press</orgName>, 1995.</bibl>
                     <bibl><orgName key="Sela-Sheffy, Rakefet, 1954-...." ref="http://viaf.org/viaf/29769581" ana="webannotation:http://temp.lincsproject.ca/kmUj2BuaEEe">Sela-Sheffy</orgName>, <persName key="Sela-Sheffy, Rakefet, 1954-...." ref="http://viaf.org/viaf/29769581" ana="webannotation:http://temp.lincsproject.ca/NJwQjioj7sy">Rakefet</persName>. <title level="a">Canon Formation Revisited: Canon and Cultural Production</title>. <title level="j">Neohelicon</title> 29.2 (2002): 141–59.</bibl>
-                    <bibl><orgName key="Soulpepper Theatre Co" ref="https://www.wikidata.org/wiki/Q7564521" ana="webannotation:http://temp.lincsproject.ca/aHmBTq5VFGW">Soulpepper Theatre Company</orgName>. <title level="a">Archives</title>. Soulpepper Theatre Company, 2011. <ref target="http://www.soulpepper.ca/the_company/archives.aspx">http://www.soulpepper.ca/the_company/archives.aspx</ref>
+                    <bibl><orgName key="Soulpepper Theatre Co" ref="https://www.wikidata.org/wiki/Q7564521" ana="webannotation:http://temp.lincsproject.ca/aHmBTq5VFGW">Soulpepper Theatre Company</orgName>. <title level="a">Archives</title>. <orgName key="Soulpepper Theatre Co" ref="https://www.wikidata.org/wiki/Q7564521" ana="webannotation:http://temp.lincsproject.ca/ynQPzQ12Bze">Soulpepper Theatre Company</orgName>, 2011. <ref target="http://www.soulpepper.ca/the_company/archives.aspx">http://www.soulpepper.ca/the_company/archives.aspx</ref>
                     </bibl>
-                    <bibl>. <title level="a">The Company/The Soulpepper Difference</title>. Soulpepper Theatre Company, 2011. <ref target="http://www.soulpepper.ca/the_company/the_soulpepper_difference.aspx">http://www.soulpepper.ca/the_company/the_soulpepper_difference.aspx</ref>
+                    <bibl>. <title level="a">The Company/The Soulpepper Difference</title>. <orgName key="Soulpepper Theatre Co" ref="https://www.wikidata.org/wiki/Q7564521" ana="webannotation:http://temp.lincsproject.ca/58VDyOYsZ9g">Soulpepper Theatre Company</orgName>, 2011. <ref target="http://www.soulpepper.ca/the_company/the_soulpepper_difference.aspx">http://www.soulpepper.ca/the_company/the_soulpepper_difference.aspx</ref>
                     </bibl>
                     <bibl>. <title level="a">Press Releases</title>. Soulpepper Theatre Company, 2011. Accessed 8 March 2012. <ref target="http://www.soulpepper.ca/media/press_releases.aspx">http://www.soulpepper.ca/media/press_releases.aspx</ref>
                     </bibl>
@@ -8441,6 +8441,273 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ZjLJu3SLPjF">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ZjLJu3SLPjF",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T18:40:21.969Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/sxnRPq9FDkZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/sxnRPq9FDkZ/selector/textPosition/5WO3Mid6ih1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 613,
+                "end": 639,
+                "refinedBy": {
+                    "id": "/target/sxnRPq9FDkZ/selector/textQuote/mf37Bb2t5oB",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Soulpepper Theatre Company",
+                    "prefix": " Dobson, Sandra Gabriele, Omar Rodriguez-Arenas, Stan Ruecker, Stéfan Sinclair, Shawn DeSouza-Coelho\n                \n                    Introduction\n                    \n                        \n                            \n                                \n                                    In its 2011 season, Toronto’s",
+                    "suffix": "contributed to a notable and problematic, to cite Globe and Mail critic J"
+                }
+            },
+            {
+                "id": "/target/sxnRPq9FDkZ/selector/css/WUeWRn3X3du",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ZjLJu3SLPjF]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q7564521",
+        "label": "Soulpepper Theatre Co",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Gj4KftEzFIj">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Gj4KftEzFIj",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T18:40:22.610Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/RKNqGgscFoH",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/RKNqGgscFoH/selector/textPosition/xo5kuTzRuRE",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36010,
+                "end": 36036,
+                "refinedBy": {
+                    "id": "/target/RKNqGgscFoH/selector/textQuote/bNhd52ZbJ3h",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Soulpepper Theatre Company",
+                    "prefix": "\n                \n                \n                    Archiving Performance from an Interactive, Materialist-Semiotic Perspective\n                    \n                        \n                            \n                                \n                                    At the risk of buttressing the ivory tower of canon making that Nestruck has denounced, we would like to suggest that",
+                    "suffix": " by positioning its 2011 revivals as re-presentations of canonical performances, implicitly embraced what Knowles has called a materialist semiotics of the Canadian theatrical canon"
+                }
+            },
+            {
+                "id": "/target/RKNqGgscFoH/selector/css/bZE1tJ92gaD",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Gj4KftEzFIj]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q7564521",
+        "label": "Soulpepper Theatre Co",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/QaenaLOn3rq">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/QaenaLOn3rq",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T18:40:22.951Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/zpelIwsaeaA",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/zpelIwsaeaA/selector/textPosition/WMZrNEcrOiM",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 88987,
+                "end": 89013,
+                "refinedBy": {
+                    "id": "/target/zpelIwsaeaA/selector/textQuote/pAWiM4NdbKJ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Soulpepper Theatre Company",
+                    "prefix": " We are grateful to Eleanor Antoncic and Sue LePage (Tarragon Theatre); Drew Baker (Theatron 3); Toby Malone, Christina Poddubiuk, and Kelly Read ",
+                    "suffix": "; Dereck Revington (University of Waterloo); the City of Toronto Archives; and the L"
+                }
+            },
+            {
+                "id": "/target/zpelIwsaeaA/selector/css/rNvQE9geqlH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/QaenaLOn3rq]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q7564521",
+        "label": "Soulpepper Theatre Co",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/aHmBTq5VFGW">
 <![CDATA[{
     "@context": [
@@ -8514,6 +8781,184 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/aHmBTq5VFGW]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q7564521",
+        "label": "Soulpepper Theatre Co",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ynQPzQ12Bze">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ynQPzQ12Bze",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T18:40:23.285Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/84pR82zSpFF",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/84pR82zSpFF/selector/textPosition/9jNtBcxLksl",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 99972,
+                "end": 99998,
+                "refinedBy": {
+                    "id": "/target/84pR82zSpFF/selector/textQuote/bWHQPzm2Fe4",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Soulpepper Theatre Company",
+                    "prefix": "",
+                    "suffix": " 2011"
+                }
+            },
+            {
+                "id": "/target/84pR82zSpFF/selector/css/MOvSSh9Xsjm",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ynQPzQ12Bze]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q7564521",
+        "label": "Soulpepper Theatre Co",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/58VDyOYsZ9g">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/58VDyOYsZ9g",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T18:40:23.635Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/WBOj1dMfX9m",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/WBOj1dMfX9m/selector/textPosition/zWFeQGwhaEy",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 100139,
+                "end": 100165,
+                "refinedBy": {
+                    "id": "/target/WBOj1dMfX9m/selector/textQuote/I4oSyUPxAuo",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Soulpepper Theatre Company",
+                    "prefix": "",
+                    "suffix": " 2011"
+                }
+            },
+            {
+                "id": "/target/WBOj1dMfX9m/selector/css/2X9TeSzNlvV",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/58VDyOYsZ9g]"
             }
         ]
     },
