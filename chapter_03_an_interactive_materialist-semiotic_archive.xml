@@ -1245,7 +1245,7 @@
                     <bibl>Glassco, Bill, dir. <title level="m">
                             <title level="m">White Biting Dog</title>, by Judith Thompson. Set Sue LePage. Perf. Jackie Burroughs, Clare Coulter, Hardee T. Lineham, Stephen Ouimette, Larry Reynolds</title>. Archival <abbr>VHS</abbr>, Private Collection, Tarragon Theatre, 1984.</bibl>
                     <bibl>Filewod, Alan. <title level="a">Erasing Historical Difference: The Alternative Orthodoxy in Canadian Theatre</title>. <title level="j">Theatre Journal</title> 41 (May 1989): 201–10.</bibl>
-                    <bibl>. <title level="a">Named in Passing: Deregimenting Canadian Theatre History</title>. <title level="m">Writing and Rewriting National Theatre Histories</title>. Ed. S.E. Wilmer. Iowa City: University of Iowa Press, 2004. 106–26.</bibl>
+                    <bibl>. <title level="a">Named in Passing: Deregimenting Canadian Theatre History</title>. <title level="m">Writing and Rewriting National Theatre Histories</title>. Ed. S.E. Wilmer. Iowa City: <orgName key="University of Iowa Press." ref="http://viaf.org/viaf/157509320" ana="webannotation:http://temp.lincsproject.ca/WyI0t0FIjLq">University of Iowa Press</orgName>, 2004. 106–26.</bibl>
                     <bibl>. <title level="m">Performing Canada: The Nation Enacted in the Imagined Theatre</title>. <title level="s">Textual Studies in Canada Monograph Series: Critical Performance/s in Canada</title>. Kamloops, BC: Textual Studies in Canada, 2002.</bibl>
                     <bibl>. <title level="a">Undermining the Centre: The Canon According to CTR</title>. <title level="j">Theatre Research in Canada / <hi xml:lang="fr-CA">Recherches théâtrales au Canada</hi>
                         </title> 11.2 (1990): 1–4.</bibl>
@@ -5767,6 +5767,95 @@
         "label": "MIT Press",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/WyI0t0FIjLq">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/WyI0t0FIjLq",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T16:08:36.278Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/8cMB2NkT7nl",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/8cMB2NkT7nl/selector/textPosition/WNxssAI1AYq",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 92620,
+                "end": 92644,
+                "refinedBy": {
+                    "id": "/target/8cMB2NkT7nl/selector/textQuote/qrsuzt6QA7f",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "University of Iowa Press",
+                    "prefix": " Iowa City:",
+                    "suffix": " 2004"
+                }
+            },
+            {
+                "id": "/target/8cMB2NkT7nl/selector/css/GeO5icL47Ui",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/WyI0t0FIjLq]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/157509320",
+        "type": "crm:E74_Group",
+        "label": "University of Iowa Press.",
+        "description": "University of Iowa Press university press"
     },
     "P2_has_type": [
         "oa:identifying"
