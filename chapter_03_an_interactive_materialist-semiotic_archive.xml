@@ -586,7 +586,7 @@
                                     <bibl>Filewod, <title level="a">Erasing</title> 202</bibl>.</ref>
                             </note>
                             <ref target="#response_recent">More recent scholarship, however, has challenged the <q>mythological nature of [that] history</q> (<note place="inline">
-                                    <bibl>Barton, <title level="m">Creating Spaces</title> viii</bibl>
+                                    <bibl><persName key="Barton, Bruce" ref="http://viaf.org/viaf/2096248" ana="webannotation:http://temp.lincsproject.ca/mxg69ZbGNIa">Barton</persName>, <title level="m">Creating Spaces</title> viii</bibl>
                                 </note>), which did not account for the <q>nuances</q> at work within the <q>analytical category</q>
                                 <note place="inline">
                                     <bibl>Knowles, <title level="m">Reading</title> 130</bibl>
@@ -12526,6 +12526,95 @@
         "type": "crm:E21_Person",
         "label": "Panych, Morris",
         "description": "Panych, Morris, 1952-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/mxg69ZbGNIa">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/mxg69ZbGNIa",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T22:59:45.790Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/uxclZwjNQZl",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/uxclZwjNQZl/selector/textPosition/vi5lT899iGb",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 22437,
+                "end": 22443,
+                "refinedBy": {
+                    "id": "/target/uxclZwjNQZl/selector/textQuote/AMXObSxuZnS",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Barton",
+                    "prefix": "\n                            \n                            More recent scholarship, however, has challenged the mythological nature of [that] history (\n                                   ",
+                    "suffix": " Creating Spaces viii\n                                ), which did not account for the nuances at work within the analytical category\n                                \n                                    Knowles, Reading 130\n                                 it sought to define"
+                }
+            },
+            {
+                "id": "/target/uxclZwjNQZl/selector/css/K5mLXKB1P0A",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/mxg69ZbGNIa]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/2096248",
+        "label": "Barton, Bruce",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
