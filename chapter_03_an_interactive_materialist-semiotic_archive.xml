@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="http://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>-->
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><!--<?xml-model href="http://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>--><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -381,7 +377,7 @@
         </fileDesc>
         <encodingDesc>
             <projectDesc>
-                <p />
+                <p/>
             </projectDesc>
             <classDecl>
                 <taxonomy>
@@ -398,14 +394,14 @@
         </profileDesc>
         <revisionDesc>
             <list>
-                <byline />
-                <item />
+                <byline/>
+                <item/>
                 <index>
-                    <term />
+                    <term/>
                 </index>
-                <byline />
+                <byline/>
                 <index>
-                    <term />
+                    <term/>
                 </index>
             </list>
         </revisionDesc>
@@ -557,7 +553,7 @@
                                     </note>, but he was not the first to draw attention to the historical centrality of text in this <q>game.</q> As Denis Salter has noted, the Massey Commission, which in 1951 reported to the federal government on the state of Canadian culture, expressed the hope that the production of more plays would translate into a more clearly defined Canadian nation with a robust cultural community at its core. The commission proposed that the development of a vital theatrical culture depended upon the establishment of a <q>national repertoire of Canadian-made plays on Canadian topics in a Canadian idiom and presented in a recognizable Canadian style</q>
                                     <note place="inline">
                                         <bibl>qtd. in Salter 82</bibl>
-                                    </note>. Alan Filewod further observed that<q>the notion of a dramatic literature [was] the first condition of an autonomous national theatre</q>
+                                    </note>. Alan Filewod further observed that <q>the notion of a dramatic literature [was] the first condition of an autonomous national theatre</q>
                                     <note place="inline">
                                         <bibl>
                                             <title level="a">Undermining</title> 1</bibl>
@@ -652,7 +648,7 @@
                     <p xml:id="p1149">
                         <ref target="#intellectual_history">
                             <ref target="#genre_performance">Soulpepper’s desire to revive performance history was as evident on stage as it was off stage, and (perhaps ironically) seems to have been the focus of much of the criticism of its 2011 revivals. In the one-man show <title level="m">Fronteras American</title> as, for example, the playwright himself played the roles of <q>Wideload</q> and <q>Verdecchia,</q> as he had done in the original production.<note xml:id="n135" place="end">There is a difficulty in using an alternate actor, since this one-man show is a personal story and features a character named Verdecchia. Verdecchia himself, however, has expressed a desire for alternate casting scenarios: <q>I’d love to see—some day, I hope—<ref target="#gender_issue">
-                                            <ref target="#nationality">a production of <title level="m">Fronteras Americana</title>s that is transgendered and cast with an Asian actor, or something.</ref>
+                                            <ref target="#nationality">a production of <title level="m">Fronteras Americana </title>s that is transgendered and cast with an Asian actor, or something.</ref>
                                         </ref> I’d really like to see somebody take the border theme to the nth degree</q>
                                     <bibl>qtd. in Wasserman 310</bibl>. This suggests that the 2011 casting of Verdecchia was deliberate.</note>
                                 <ref target="#technology">Despite major advances in the field of visual projection, Soulpepper also simulated the same kinds of performance technologies that were used in the 1994 production (the original production was innovative for its use of PowerPoint <q>slides</q>). <ref target="#response_formal">It is not surprising, then, that the 2011 production of <title level="m">Fronteras Americanas</title> was criticized for smelling <q>to high heaven of the early 1990s</q>
@@ -746,13 +742,13 @@
                         </ref>
                         <figure>
                             <head>Figure 3.1</head>
-                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A0597ab68-940e-4764-8244-ce31c72734b9/datastream/JPG-DToC/view" />
+                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A0597ab68-940e-4764-8244-ce31c72734b9/datastream/JPG-DToC/view"/>
                             <figDesc>Image of one page from Bluemouth Inc.'s archive of <title level="a">What the Thunder Said</title>, with columns for <q>film projection/sound,</q>
                                 <q>text/song,</q> and <q>movement</q> as performed <q>At the Toronto Warehouse</q> (23).</figDesc>
                         </figure>
                         <figure>
                             <head>Figure 3.2</head>
-                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A1002fdaf-eb1d-4de2-a177-3b1831154cb6/datastream/JPG-DToC/view" />
+                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A1002fdaf-eb1d-4de2-a177-3b1831154cb6/datastream/JPG-DToC/view"/>
                             <figDesc>Image of one page from Bluemouth Inc.'s archive of <title level="a">What the Thunder Said</title>, with columns for <q>film projection/sound,</q>
                                 <q>text/song,</q> and <q>movement</q> as performed <q>At the AT&amp;T Office Space</q> (24).</figDesc>
                         </figure>
@@ -796,7 +792,7 @@
                         <ref target="#methodology">
                             <ref target="#archive">The design of Bluemouth Inc.’s script illustrates the methodology of its archival practices</ref>: <q>the text-performance-audience interaction should not be considered in a vacuum, but rather as an event embedded in a complex matrix of social concerns and actions, all of which <q>communicate</q> or contribute to giving the theatre experience its particular <figure>
                                     <head>Figure 3.3</head>
-                                    <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Ad8124592-de4e-4e37-965b-75627a920d28/datastream/JPG-DToC/view" />
+                                    <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Ad8124592-de4e-4e37-965b-75627a920d28/datastream/JPG-DToC/view"/>
                                     <figDesc>Image of one page from Bluemouth Inc's archive of <title level="a">What the Thunder Said</title>, showing a section of Sabrina Reeves's <q>textual commentary</q> (39).</figDesc>
                                 </figure>
                                 <q>meaning</q> to its participants</q>
@@ -854,7 +850,7 @@
                             <ref target="#archive">As the shortcomings of printed text as a means of archiving a theatrical canon become increasingly evident, the digital Simulated Environment for Theatre offers some useful functions with which to supplement print-based records. <ref target="#methodology">
                                     <abbr>SET</abbr> approaches the archive from a materialist-semiotic perspective, potentially foregrounding the archival function of the <figure>
                                         <head>Figure 3.4</head>
-                                        <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A4edc4c2c-7fe6-42dc-b97e-5d32ed623781/datastream/JPG-DToC/view" />
+                                        <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A4edc4c2c-7fe6-42dc-b97e-5d32ed623781/datastream/JPG-DToC/view"/>
                                         <figDesc>An excerpt from the opening sequence of Judith Thompson's <title level="m">White Biting Dog</title>, as performed by Soulpepper Theatre in 2011. <abbr>SET</abbr>'s Reading, Character, and Stage Views are linked by the central Line of Action and can be optionally annotated.</figDesc>
                                     </figure> repertoire (to return to Taylor’s term) by taking account of the shifting relationships between Knowles’s poles of performance <q>text,</q> conditions of production, and reception. <ref target="#theory">Its interface offers three <q>Views,</q> or distinct areas, linked by means of a central <q>Line of Action</q> analogous to a timeline. The Reading View contains text and annotations in parallel, two-dimensional panels. The Character View provides a list of characters and indicates which characters are on stage—speaking or silent—at any given point in a text or performance. The Stage View shows a scaled, three-dimensional model of a performance environment, populated by abstract avatars that can be moved around in the space, and optionally annotated with text or images (see Figure 3.4).</ref>
                                 </ref>
@@ -873,17 +869,17 @@
                         </ref>
                         <figure>
                             <head>Figure 3.5a</head>
-                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A6b683d81-d1f0-4ada-8a77-7c0666bbd5c2/datastream/JPG-DToC/view" />
+                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A6b683d81-d1f0-4ada-8a77-7c0666bbd5c2/datastream/JPG-DToC/view"/>
                             <figDesc>Excerpt from the opening sequence of Judith Thompson's <title level="m">White Biting Dog</title>, as performed by Soulpepper Theatre in 2011. <abbr>SET</abbr> allows users to adopt the perspectives of audience and character avatars.</figDesc>
                         </figure>
                         <figure>
                             <head>Figure 3.5b</head>
-                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Aa2a5f654-5584-4e6d-8ddd-d9ef37ba434e/datastream/JPG-DToC/view" />
+                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Aa2a5f654-5584-4e6d-8ddd-d9ef37ba434e/datastream/JPG-DToC/view"/>
                             <figDesc>Excerpt from the opening sequence of Judith Thompson's <title level="m">White Biting Dog</title>, as performed by Soulpepper Theatre in 2011. <abbr>SET</abbr> allows users to adopt the perspectives of audience and character avatars.</figDesc>
                         </figure>
                         <figure>
                             <head>Figure 3.5c</head>
-                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Aedd92793-a17e-4bef-9877-753e41bbfe4a/datastream/JPG-DToC/view" />
+                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Aedd92793-a17e-4bef-9877-753e41bbfe4a/datastream/JPG-DToC/view"/>
                             <figDesc>Excerpt from the opening sequence of Judith Thompson's <title level="m">White Biting Dog</title>, as performed by Soulpepper Theatre in 2011. <abbr>SET</abbr> allows users to adopt the perspectives of audience and character avatars.</figDesc>
                         </figure>
                         <ref target="#technology">avatars around in the models, annotate all elements of the environment, link text and annotations to stage action, and control the pace and perspective of performance in playback. <ref target="#archive">Although its two principal interpretive modes—data creation and data playback—are interactive, <abbr>SET</abbr> also can produce more stable artifacts akin to written and material archives, since data can be exported in publication mode as read-only files or as playback movies. <ref target="#intellectual_history">Lastly, because it is a virtual environment, <abbr>SET</abbr> can offer hypothesized and hybridized performance histories, allowing users not only to archive aspects of a performance (real or imagined), but also to visualize the genealogies of a performance history</ref>.</ref>
@@ -933,22 +929,22 @@
                     </p>
                     <figure>
                         <head>Figure 3.6</head>
-                        <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A639cc6b9-f12d-401b-b1e6-b0b7286f74dc/datastream/JPG-DToC/view" />
+                        <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A639cc6b9-f12d-401b-b1e6-b0b7286f74dc/datastream/JPG-DToC/view"/>
                         <figDesc>Cape reporting his conversation with the dog to the audience in the 1984 Tarragon Theatre production of <title level="m">White Biting Dog</title>. In Sue LePage's set, the Bloor Street Viaduct is suggested by girder-like structures at ceiling level.</figDesc>
                     </figure>
                     <figure>
                         <head>Figure 3.7A</head>
-                        <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Ac812a50c-43a1-40b5-8b77-e63616461948/datastream/JPG-DToC/view" />
+                        <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Ac812a50c-43a1-40b5-8b77-e63616461948/datastream/JPG-DToC/view"/>
                         <figDesc>The dog speaking in the 2011 Soulpepper Theatre Production of <title level="m">White Biting Dog</title>. In Christina Poddubiuk's set, the Bloor Street Viaduct is suggested by posts that operate as bridge girders in this sequence and later as the corners of Cape's apartment.</figDesc>
                     </figure>
                     <figure>
                         <head>Figure 3.7B</head>
-                        <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A49294bf2-1333-40b3-94dd-61369ddbad53/datastream/JPG-DToC/view" />
+                        <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A49294bf2-1333-40b3-94dd-61369ddbad53/datastream/JPG-DToC/view"/>
                         <figDesc>Cape turning to the audience at <q>the dog spoke!</q> in the 2011 Soulpepper Theatre production of <title level="m">White Biting Dog</title>.</figDesc>
                     </figure>
                     <figure>
                         <head>Figure 3.8</head>
-                        <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A262d4f5f-333c-44f8-9822-4e1f4d386456/datastream/JPG-DToC/view" />
+                        <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A262d4f5f-333c-44f8-9822-4e1f4d386456/datastream/JPG-DToC/view"/>
                         <figDesc>Sue LePage's set for the 1984 Tarragon Theatre Production of <title level="m">White Biting Dog</title> included a ramp through the audience connecting the stage to the lobby.</figDesc>
                     </figure>
                     <p xml:id="p1167">
@@ -974,7 +970,7 @@
                             <bibl>Knowles, <title level="m">Reading</title> 19</bibl>
                         </note> of the Tarragon Theatre and the Young Centre for the Performing Arts (the home of the Soulpepper Theatre Company) had political implications <figure>
                             <head>Figure 3.9</head>
-                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Acf98541b-89df-4e54-8192-d5df08f66978/datastream/JPG-DToC/view" />
+                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Acf98541b-89df-4e54-8192-d5df08f66978/datastream/JPG-DToC/view"/>
                             <figDesc>View from the stage of the Michael Young Theatre, where there was no architectural possibility of connecting audience to lobby in the 2011 Soulpepper Theatre production of <title level="m">White Biting Dog</title>.</figDesc>
                         </figure> we had not previously considered. <ref target="#intellectual_history">In the 1984 set, a ramp or walkway (representing the sidewalk outside Cape’s home and used for stage entrances and exits) extended out from the stage, through the audience, and into the lobby of the Tarragon Theatre (see Figure 3.8).</ref>
                     </p>
@@ -999,7 +995,7 @@
                         </ref>
                         <figure>
                             <head>Figure 3.10</head>
-                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A02b16023-62d8-443d-b7d3-22a492fd224b/datastream/JPG-DToC/view" />
+                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A02b16023-62d8-443d-b7d3-22a492fd224b/datastream/JPG-DToC/view"/>
                             <figDesc>Section of the <abbr>SET</abbr> interface showing <q>the dog spoke!</q> annotated with a photographic image of Mike Ross as Cape and Michaela Washburn as Pony in the 2011 Soulpepper production of <title level="m">White Biting Dog</title>.</figDesc>
                         </figure>
                         <note place="inline">
@@ -1020,7 +1016,7 @@
                         </ref>
                         <figure>
                             <head>Figure 3.11</head>
-                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A52a425e2-ffa2-4be4-8852-7527523fd273/datastream/JPG-DToC/view" />
+                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A52a425e2-ffa2-4be4-8852-7527523fd273/datastream/JPG-DToC/view"/>
                             <figDesc>A visualization of the 2011 Soulpepper production of <title level="m">White Biting Dog</title> annotated with publicity materials hyperlinked to original online sources.</figDesc>
                         </figure>
                         <ref target="#methodology">identities of actors <note place="inline">
@@ -1048,20 +1044,20 @@
                         </ref>
                         <figure>
                             <head>Figure 3.12A</head>
-                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Afbd3713e-6cca-453a-8e37-110cc9de99b1/datastream/JPG-DToC/view" />
+                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Afbd3713e-6cca-453a-8e37-110cc9de99b1/datastream/JPG-DToC/view"/>
                             <figDesc>Side view of the Bloor Street Viaduct in 1920. <hi rend="italic">[City of Toronto Archives, fonds 1244, item 2473]</hi>
                             </figDesc>
                         </figure>
                         <figure>
                             <head>Figure 3.12B</head>
-                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Aa493597a-da47-466f-a64a-4c74dc82ed2f/datastream/JPG-DToC/view" />
+                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Aa493597a-da47-466f-a64a-4c74dc82ed2f/datastream/JPG-DToC/view"/>
                             <figDesc>
                                 <hi rend="italic">Side view of the Bloor Street Viaduct in 1984. [City of Toronto Archives, fonds 268, item 11]</hi>
                             </figDesc>
                         </figure>
                         <figure>
                             <head>Figure 3.12C</head>
-                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A3763f0f0-3c03-485c-9fc2-918b55a3a9be/datastream/JPG-DToC/view" />
+                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A3763f0f0-3c03-485c-9fc2-918b55a3a9be/datastream/JPG-DToC/view"/>
                             <figDesc>Bloor Street Viaduct after the 2003 addition of a suicide barrier designed by Dereck Revington. This architectural project was titled <title level="a">The Luminous Veil</title>. <hi rend="italic">[Photo by Dereck Revington]</hi>
                             </figDesc>
                         </figure>
@@ -1076,12 +1072,12 @@
                         </ref>
                         <figure>
                             <head>Figure 3.13A</head>
-                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A08070e08-52f0-4ee7-85ff-f8a49abdcadf/datastream/JPG-DToC/view" />
+                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A08070e08-52f0-4ee7-85ff-f8a49abdcadf/datastream/JPG-DToC/view"/>
                             <figDesc>A visualization of the cultural historical moments of a 2011 audience member who remembers the Bloor Street Viaduct of 1984.</figDesc>
                         </figure>
                         <figure>
                             <head>Figure 3.13B</head>
-                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Af78a3c4c-7417-4533-9b03-49e4ea83029c/datastream/JPG-DToC/view" />
+                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Af78a3c4c-7417-4533-9b03-49e4ea83029c/datastream/JPG-DToC/view"/>
                             <figDesc>A visualization of the cultural historical moments of a 2011 audience member who never visited the Bloor Street Viaduct of 1984.</figDesc>
                         </figure>
                         <ref target="#response_informal">
@@ -1113,7 +1109,7 @@
                             </ref>
                         </ref>. Indeed, in its <q>ability to alter and experiment with attested <figure>
                                 <head>Figure 3.14</head>
-                                <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Aba7a67cc-ee57-486e-bd3d-f1ee5b6ed73f/datastream/JPG-DToC/view" />
+                                <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Aba7a67cc-ee57-486e-bd3d-f1ee5b6ed73f/datastream/JPG-DToC/view"/>
                                 <figDesc>Section of the <abbr>SET</abbr> interface showing bridge girders and ramp from Sue LePage's 1984 design for <title level="m">White Biting Dog</title> superimposed on Christina Poddubiuk's 2011 design.</figDesc>
                             </figure>
                             <ref target="#intellectual_history">historical performance environments…<abbr>SET</abbr> allows us to ask, in a relatively quick and inexpensive way, <q>what if?</q>
@@ -1152,12 +1148,12 @@
                             </ref>
                         </ref> It also permits analyses of records, such <figure>
                             <head>Figure 3.15</head>
-                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A6c02f8c0-d1a3-4729-88a0-4259b66278e9/datastream/JPG-DToC/view" />
+                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A6c02f8c0-d1a3-4729-88a0-4259b66278e9/datastream/JPG-DToC/view"/>
                             <figDesc>Our model of Sue LePage's set for the 1984 Tarragon Theatre production of <title level="m">White Biting Dog</title>, annotated with a section of LePage's technical drawings showing her designs for the bridge girders and an image of the bridge they represent.</figDesc>
                         </figure>
                         <figure>
                             <head>Figure 3.16</head>
-                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Af6053f23-90b3-493c-af3c-618abd33bb10/datastream/JPG-DToC/view" />
+                            <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Af6053f23-90b3-493c-af3c-618abd33bb10/datastream/JPG-DToC/view"/>
                             <figDesc>The invisible off-stage dog speaking to Cape in 2011. The text cut from the 1984 version of <title level="m">White Biting Dog</title> is shown in an annotation in Text View.</figDesc>
                         </figure> as our models of the sets for <title level="m">White Biting Dog</title>, to be annotated with the sources on which they are based (see Figure 3.15).</p>
                     <p xml:id="p1179">
