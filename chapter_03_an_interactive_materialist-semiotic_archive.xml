@@ -1286,7 +1286,7 @@
                     <bibl>Panych, Morris, dir. <title level="a">Performance file for <title level="m">White Biting Dog</title>, by Judith Thompson</title>. Tarragon Theatre, Toronto, ON, 1994. L.W. Conolly Theatre Archives, University of Guelph Library, Guelph, ON.</bibl>
                     <bibl>Quick, Andrew. <title level="m">The Wooster Group Workbook</title>. New York: Routledge, 2007.</bibl>
                     <bibl>Revington, Dereck. <title level="a">[Photograph: <hi rend="italic">The Luminous Veil</hi>.]</title> 2003.</bibl>
-                    <bibl>Roach, Joseph. <title level="m">Cities of the Dead: Circum-Atlantic Performance</title>. New York: Columbia University Press, 1996.</bibl>
+                    <bibl>Roach, Joseph. <title level="m">Cities of the Dead: Circum-Atlantic Performance</title>. New York: <orgName key="Columbia university press" ref="http://viaf.org/viaf/127175063" ana="webannotation:http://temp.lincsproject.ca/T2FOzAzukl5">Columbia University Press</orgName>, 1996.</bibl>
                     <bibl>Roberts-Smith, Jennifer, Shawn DeSouza-Coelho, Teresa Dobson, Sandra Gabriele, Omar Rodriguez-Arenas, Stan Ruecker, Stéfan Sinclair, Annemarie Akong, Matt Bouchard, Diane Jakacki, David Lam, and Lesley Northam. <title level="a">Visualizing Theatrical Text: from Watching the Script to the Simulated Environment for Theatre (<abbr>SET</abbr>)</title>. <title level="j">Digital Humanities Quarterly</title> 7.3 (2013).</bibl>
                     <bibl>Roberts-Smith, Jennifer, Shawn DeSouza-Coelho, Teresa Dobson, Sandra Gabriele, Stan Ruecker, Stéfan Sinclair, Alexandra (Sasha) Kovacs, and Daniel So. <title level="a">Visualizing Theatre Historiography: Judith Thompson’s <title level="m">White Biting Dog</title> (1984 and 2011) in the Simulated Environment for Theatre (<abbr>SET</abbr>)</title>. <title level="m">Digital Inquiry into Textual Relations: Research and Teaching with Online Tools</title>. Ed. Susan Brown and Stan Ruecker. Spec. issue of <title level="j">Digital Studies/Le champ numérique</title> 3.2 (2012).</bibl>
                     <bibl>Ruecker, Stan, Ali Grotkowski, Sandra Gabriele, Jennifer Roberts-Smith, Stéfan Sinclair, Teresa Dobson, Annemarie Akong, Sally Fung, and Omar Rodriguez. <title level="a">Abstraction and Realism in the Design of Avatars for the Simulated Environment for Theatre</title>. <title level="j">Visual Communication Journal</title> 12.4 (2013): 459–72.</bibl>
@@ -2297,6 +2297,95 @@
         "type": "crm:E74_Group",
         "label": "University of Toronto. Press",
         "description": "University of Toronto Press maison d'édition"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/T2FOzAzukl5">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/T2FOzAzukl5",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T15:29:59.219Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/GIWPmNI9uUc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/GIWPmNI9uUc/selector/textPosition/Uhlel1AiqVH",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 98269,
+                "end": 98294,
+                "refinedBy": {
+                    "id": "/target/GIWPmNI9uUc/selector/textQuote/rzalVtH7iAo",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Columbia University Press",
+                    "prefix": " New York:",
+                    "suffix": " 1996"
+                }
+            },
+            {
+                "id": "/target/GIWPmNI9uUc/selector/css/BzlZBOImgQd",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/T2FOzAzukl5]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/127175063",
+        "type": "crm:E74_Group",
+        "label": "Columbia university press",
+        "description": "Columbia University Press university press based in New York City, and affiliated with Columbia University"
     },
     "P2_has_type": [
         "oa:identifying"
