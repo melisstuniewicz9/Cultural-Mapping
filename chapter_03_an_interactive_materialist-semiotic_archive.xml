@@ -413,7 +413,7 @@
                     <title level="a">An Interactive, Materialist-Semiotic Archive</title>
                 </head>
                 <byline>Visualizing the Canadian Theatrical Canon in the Simulated Environment for Theatre</byline>
-                <docAuthor> Sasha Kovacs and <persName key="Roberts-Smith, Jennifer." ref="http://viaf.org/viaf/84150746934616301371" ana="webannotation:http://temp.lincsproject.ca/akpOeHZzyai">Jennifer Roberts-Smith</persName>, Teresa M. Dobson, <persName key="Gabriele, Sandra, 1972-...." ref="http://viaf.org/viaf/171038746" ana="webannotation:http://temp.lincsproject.ca/IIA6T2xW07P">Sandra Gabriele</persName>, Omar Rodriguez-Arenas, <persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/DKSg3UQoGCy">Stan Ruecker</persName>, Stéfan Sinclair, Shawn DeSouza-Coelho</docAuthor>
+                <docAuthor> Sasha Kovacs and <persName key="Roberts-Smith, Jennifer." ref="http://viaf.org/viaf/84150746934616301371" ana="webannotation:http://temp.lincsproject.ca/akpOeHZzyai">Jennifer Roberts-Smith</persName>, Teresa M. Dobson, <persName key="Gabriele, Sandra, 1972-...." ref="http://viaf.org/viaf/171038746" ana="webannotation:http://temp.lincsproject.ca/IIA6T2xW07P">Sandra Gabriele</persName>, Omar Rodriguez-Arenas, <persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/DKSg3UQoGCy">Stan Ruecker</persName>, <persName key="Sinclair, Stéfan." ref="http://viaf.org/viaf/180011800" ana="webannotation:http://temp.lincsproject.ca/6G5zOiUn7Ky">Stéfan Sinclair</persName>, Shawn DeSouza-Coelho</docAuthor>
                 <div type="section">
                     <head>Introduction</head>
                     <p xml:id="p1138">
@@ -1287,9 +1287,9 @@
                     <bibl>Quick, Andrew. <title level="m">The Wooster Group Workbook</title>. <placeName key="New York" ref="https://sws.geonames.org/5128638 " ana="webannotation:http://temp.lincsproject.ca/g2YrO3xKgMh">New York</placeName>: Routledge, 2007.</bibl>
                     <bibl>Revington, Dereck. <title level="a">[Photograph: <hi rend="italic">The Luminous Veil</hi>.]</title> 2003.</bibl>
                     <bibl>Roach, Joseph. <title level="m">Cities of the Dead: Circum-Atlantic Performance</title>. <placeName key="New York" ref="https://sws.geonames.org/5128638 " ana="webannotation:http://temp.lincsproject.ca/M86yxech6Xc">New York</placeName>: <orgName key="Columbia university press" ref="http://viaf.org/viaf/127175063" ana="webannotation:http://temp.lincsproject.ca/T2FOzAzukl5">Columbia University Press</orgName>, 1996.</bibl>
-                    <bibl>Roberts-Smith, Jennifer, Shawn DeSouza-Coelho, Teresa Dobson, Sandra Gabriele, Omar Rodriguez-Arenas, <persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/fNYZ93f51cd">Stan Ruecker</persName>, Stéfan Sinclair, Annemarie Akong, Matt Bouchard, Diane Jakacki, David Lam, and Lesley Northam. <title level="a">Visualizing Theatrical Text: from Watching the Script to the Simulated Environment for Theatre (<abbr>SET</abbr>)</title>. <title level="j">Digital Humanities Quarterly</title> 7.3 (2013).</bibl>
-                    <bibl>Roberts-Smith, Jennifer, Shawn DeSouza-Coelho, Teresa Dobson, Sandra Gabriele, <persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/wF13jClGUT1">Stan Ruecker</persName>, Stéfan Sinclair, Alexandra (Sasha) Kovacs, and Daniel So. <title level="a">Visualizing Theatre Historiography: Judith Thompson’s <title level="m">White Biting Dog</title> (1984 and 2011) in the Simulated Environment for Theatre (<abbr>SET</abbr>)</title>. <title level="m">Digital Inquiry into Textual Relations: Research and Teaching with Online Tools</title>. Ed. Susan Brown and <persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/NmoKgksQx1u">Stan Ruecker</persName>. Spec. issue of <title level="j">Digital Studies/Le champ numérique</title> 3.2 (2012).</bibl>
-                    <bibl>Ruecker, Stan, Ali Grotkowski, Sandra Gabriele, Jennifer Roberts-Smith, Stéfan Sinclair, Teresa Dobson, Annemarie Akong, Sally Fung, and Omar Rodriguez. <title level="a">Abstraction and Realism in the Design of Avatars for the Simulated Environment for Theatre</title>. <title level="j">Visual Communication Journal</title> 12.4 (2013): 459–72.</bibl>
+                    <bibl>Roberts-Smith, Jennifer, Shawn DeSouza-Coelho, Teresa Dobson, Sandra Gabriele, Omar Rodriguez-Arenas, <persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/fNYZ93f51cd">Stan Ruecker</persName>, <persName key="Sinclair, Stéfan." ref="http://viaf.org/viaf/180011800" ana="webannotation:http://temp.lincsproject.ca/M91fb7l3PFh">Stéfan Sinclair</persName>, Annemarie Akong, Matt Bouchard, Diane Jakacki, David Lam, and Lesley Northam. <title level="a">Visualizing Theatrical Text: from Watching the Script to the Simulated Environment for Theatre (<abbr>SET</abbr>)</title>. <title level="j">Digital Humanities Quarterly</title> 7.3 (2013).</bibl>
+                    <bibl>Roberts-Smith, Jennifer, Shawn DeSouza-Coelho, Teresa Dobson, Sandra Gabriele, <persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/wF13jClGUT1">Stan Ruecker</persName>, <persName key="Sinclair, Stéfan." ref="http://viaf.org/viaf/180011800" ana="webannotation:http://temp.lincsproject.ca/e9ZhpW1U6Mv">Stéfan Sinclair</persName>, Alexandra (Sasha) Kovacs, and Daniel So. <title level="a">Visualizing Theatre Historiography: Judith Thompson’s <title level="m">White Biting Dog</title> (1984 and 2011) in the Simulated Environment for Theatre (<abbr>SET</abbr>)</title>. <title level="m">Digital Inquiry into Textual Relations: Research and Teaching with Online Tools</title>. Ed. Susan Brown and <persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/NmoKgksQx1u">Stan Ruecker</persName>. Spec. issue of <title level="j">Digital Studies/Le champ numérique</title> 3.2 (2012).</bibl>
+                    <bibl>Ruecker, Stan, Ali Grotkowski, Sandra Gabriele, Jennifer Roberts-Smith, <persName key="Sinclair, Stéfan." ref="http://viaf.org/viaf/180011800" ana="webannotation:http://temp.lincsproject.ca/VxRSYN9exxr">Stéfan Sinclair</persName>, Teresa Dobson, Annemarie Akong, Sally Fung, and Omar Rodriguez. <title level="a">Abstraction and Realism in the Design of Avatars for the Simulated Environment for Theatre</title>. <title level="j">Visual Communication Journal</title> 12.4 (2013): 459–72.</bibl>
                     <bibl>Salter, Denis. <title level="a">The Idea of a National Theatre</title>. <title level="m">Canadian Canons: Essays in Literary Value</title>. Ed. Robert Lecker. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/ESBRPm8VBnw">Toronto</placeName>: <orgName key="University of Toronto. Press" ref="http://viaf.org/viaf/126595939" ana="webannotation:http://temp.lincsproject.ca/m5DoUJTKjQi">University of Toronto Press</orgName>, 1991. 71–90.</bibl>
                     <bibl>Schechner, Richard. <title level="m">Between Theatre and Anthropology</title>. <placeName key="Pennsylvania" ref="https://sws.geonames.org/6254927" ana="webannotation:http://temp.lincsproject.ca/nGyS8Vb18lN">Pennsylvania</placeName>: <orgName key="University of Pennsylvania. Press" ref="http://viaf.org/viaf/159571939" ana="webannotation:http://temp.lincsproject.ca/mUaRDso1h8G">University of Pennsylvania Press</orgName>, 1995.</bibl>
                     <bibl>Sela-Sheffy, Rakefet. <title level="a">Canon Formation Revisited: Canon and Cultural Production</title>. <title level="j">Neohelicon</title> 29.2 (2002): 141–59.</bibl>
@@ -5144,6 +5144,362 @@
         "type": "crm:E21_Person",
         "label": "Ruecker, Stan",
         "description": "Stan Ruecker researcher, ORCID id # 0000-0003-0099-1687"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/6G5zOiUn7Ky">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/6G5zOiUn7Ky",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T17:39:54.104Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/9tLSoDVkbDt",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/9tLSoDVkbDt/selector/textPosition/hzZ9gI2wqtK",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 351,
+                "end": 366,
+                "refinedBy": {
+                    "id": "/target/9tLSoDVkbDt/selector/textQuote/HtjHtmIWYcj",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Stéfan Sinclair",
+                    "prefix": " Dobson, Sandra Gabriele, Omar Rodriguez-Arenas, Stan Ruecker,",
+                    "suffix": " Shawn DeSouza-Coelho\n                \n                    Introduction\n                    \n                        \n                            \n                                \n                                    In its 2011 season, Toronto’s Soulpepper Theatre Company contributed to a notable and problematic, to cite Globe and Mail critic J"
+                }
+            },
+            {
+                "id": "/target/9tLSoDVkbDt/selector/css/5eWKJKowO7I",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/6G5zOiUn7Ky]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/180011800",
+        "type": "crm:E21_Person",
+        "label": "Sinclair, Stéfan.",
+        "description": "Sinclair, Stéfan 19..-2020"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/M91fb7l3PFh">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/M91fb7l3PFh",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T17:39:54.107Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/X6nGi2o6PZi",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/X6nGi2o6PZi/selector/textPosition/l4BKn9tOq2W",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 98438,
+                "end": 98453,
+                "refinedBy": {
+                    "id": "/target/X6nGi2o6PZi/selector/textQuote/goqp7vdgl6s",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Stéfan Sinclair",
+                    "prefix": "\n                    Roberts-Smith, Jennifer, Shawn DeSouza-Coelho, Teresa Dobson, Sandra Gabriele, Omar Rodriguez-Arenas, Stan Ruecker,",
+                    "suffix": " Annemarie Akong, Matt Bouchard, Diane Jakacki, David Lam, and Lesley Northam"
+                }
+            },
+            {
+                "id": "/target/X6nGi2o6PZi/selector/css/IsBUs0jtHSn",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/M91fb7l3PFh]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/180011800",
+        "type": "crm:E21_Person",
+        "label": "Sinclair, Stéfan.",
+        "description": "Sinclair, Stéfan 19..-2020"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/e9ZhpW1U6Mv">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/e9ZhpW1U6Mv",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T17:39:54.110Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/wPo4Wp1F0ph",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/wPo4Wp1F0ph/selector/textPosition/NUDbZNxOWUI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 98789,
+                "end": 98804,
+                "refinedBy": {
+                    "id": "/target/wPo4Wp1F0ph/selector/textQuote/voOYO7BTqoY",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Stéfan Sinclair",
+                    "prefix": "\n                    Roberts-Smith, Jennifer, Shawn DeSouza-Coelho, Teresa Dobson, Sandra Gabriele, Stan Ruecker,",
+                    "suffix": " Alexandra (Sasha) Kovacs, and Daniel So"
+                }
+            },
+            {
+                "id": "/target/wPo4Wp1F0ph/selector/css/lXYy5MaI3Ld",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/e9ZhpW1U6Mv]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/180011800",
+        "type": "crm:E21_Person",
+        "label": "Sinclair, Stéfan.",
+        "description": "Sinclair, Stéfan 19..-2020"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/VxRSYN9exxr">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/VxRSYN9exxr",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T17:39:54.112Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/lmLfQiH02zy",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/lmLfQiH02zy/selector/textPosition/WStd5hu8tu1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 99251,
+                "end": 99266,
+                "refinedBy": {
+                    "id": "/target/lmLfQiH02zy/selector/textQuote/8tCykhSNPvV",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Stéfan Sinclair",
+                    "prefix": "\n                    Ruecker, Stan, Ali Grotkowski, Sandra Gabriele, Jennifer Roberts-Smith,",
+                    "suffix": " Teresa Dobson, Annemarie Akong, Sally Fung, and Omar Rodriguez"
+                }
+            },
+            {
+                "id": "/target/lmLfQiH02zy/selector/css/pYNmpN0WzfT",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/VxRSYN9exxr]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/180011800",
+        "type": "crm:E21_Person",
+        "label": "Sinclair, Stéfan.",
+        "description": "Sinclair, Stéfan 19..-2020"
     },
     "P2_has_type": [
         "oa:identifying"
