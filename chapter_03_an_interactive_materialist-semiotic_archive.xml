@@ -1293,7 +1293,7 @@
                     <bibl>Salter, Denis. <title level="a">The Idea of a National Theatre</title>. <title level="m">Canadian Canons: Essays in Literary Value</title>. Ed. Robert Lecker. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/ESBRPm8VBnw">Toronto</placeName>: <orgName key="University of Toronto. Press" ref="http://viaf.org/viaf/126595939" ana="webannotation:http://temp.lincsproject.ca/m5DoUJTKjQi">University of Toronto Press</orgName>, 1991. 71–90.</bibl>
                     <bibl>Schechner, Richard. <title level="m">Between Theatre and Anthropology</title>. <placeName key="Pennsylvania" ref="https://sws.geonames.org/6254927" ana="webannotation:http://temp.lincsproject.ca/nGyS8Vb18lN">Pennsylvania</placeName>: <orgName key="University of Pennsylvania. Press" ref="http://viaf.org/viaf/159571939" ana="webannotation:http://temp.lincsproject.ca/mUaRDso1h8G">University of Pennsylvania Press</orgName>, 1995.</bibl>
                     <bibl><orgName key="Sela-Sheffy, Rakefet, 1954-...." ref="http://viaf.org/viaf/29769581" ana="webannotation:http://temp.lincsproject.ca/kmUj2BuaEEe">Sela-Sheffy</orgName>, <persName key="Sela-Sheffy, Rakefet, 1954-...." ref="http://viaf.org/viaf/29769581" ana="webannotation:http://temp.lincsproject.ca/NJwQjioj7sy">Rakefet</persName>. <title level="a">Canon Formation Revisited: Canon and Cultural Production</title>. <title level="j">Neohelicon</title> 29.2 (2002): 141–59.</bibl>
-                    <bibl>Soulpepper Theatre Company. <title level="a">Archives</title>. Soulpepper Theatre Company, 2011. <ref target="http://www.soulpepper.ca/the_company/archives.aspx">http://www.soulpepper.ca/the_company/archives.aspx</ref>
+                    <bibl><orgName key="Soulpepper Theatre Co" ref="https://www.wikidata.org/wiki/Q7564521" ana="webannotation:http://temp.lincsproject.ca/aHmBTq5VFGW">Soulpepper Theatre Company</orgName>. <title level="a">Archives</title>. Soulpepper Theatre Company, 2011. <ref target="http://www.soulpepper.ca/the_company/archives.aspx">http://www.soulpepper.ca/the_company/archives.aspx</ref>
                     </bibl>
                     <bibl>. <title level="a">The Company/The Soulpepper Difference</title>. Soulpepper Theatre Company, 2011. <ref target="http://www.soulpepper.ca/the_company/the_soulpepper_difference.aspx">http://www.soulpepper.ca/the_company/the_soulpepper_difference.aspx</ref>
                     </bibl>
@@ -8433,6 +8433,95 @@
         "label": "Rodriguez-Arenas, Omar",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/aHmBTq5VFGW">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/aHmBTq5VFGW",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T18:39:50.669Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/3QDQqi2m2nG",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/3QDQqi2m2nG/selector/textPosition/8ys32oow86M",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 99934,
+                "end": 99960,
+                "refinedBy": {
+                    "id": "/target/3QDQqi2m2nG/selector/textQuote/pKkdaA3yLsE",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Soulpepper Theatre Company",
+                    "prefix": "\n                   ",
+                    "suffix": " Archives"
+                }
+            },
+            {
+                "id": "/target/3QDQqi2m2nG/selector/css/ob4h29HjIrY",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/aHmBTq5VFGW]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q7564521",
+        "label": "Soulpepper Theatre Co",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
