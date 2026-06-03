@@ -1241,7 +1241,7 @@
                         <title level="j">National Post</title> 26 August 2011. <ref target="http://arts.nationalpost.com/2011/08/26/theatre-reviews-savage-whimsy-in-white-biting-dog-and-cirques-totem">http://arts.nationalpost.com/2011/08/26/theatre-reviews-savage-whimsy-in-white-biting-dog-and-cirques-totem</ref>
                     </bibl>
                     <bibl>DeSouza-Coelho, Shawn. <title level="m">[Bloor Street Viaduct, Street View.]</title> <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/9pfauUGJL8E">Toronto</placeName>, Ontario, 2012.</bibl>
-                    <bibl>Dondis, Donis A. <title level="m">A Primer of Visual Literacy</title>. Cambridge, MA: MIT Press, 1973.</bibl>
+                    <bibl>Dondis, Donis A. <title level="m">A Primer of Visual Literacy</title>. Cambridge, MA: <orgName key="MIT Press" ref="http://viaf.org/viaf/159490691" ana="webannotation:http://temp.lincsproject.ca/WGuWnAeEtMB">MIT Press</orgName>, 1973.</bibl>
                     <bibl>Glassco, Bill, dir. <title level="m">
                             <title level="m">White Biting Dog</title>, by Judith Thompson. Set Sue LePage. Perf. Jackie Burroughs, Clare Coulter, Hardee T. Lineham, Stephen Ouimette, Larry Reynolds</title>. Archival <abbr>VHS</abbr>, Private Collection, Tarragon Theatre, 1984.</bibl>
                     <bibl>Filewod, Alan. <title level="a">Erasing Historical Difference: The Alternative Orthodoxy in Canadian Theatre</title>. <title level="j">Theatre Journal</title> 41 (May 1989): 201–10.</bibl>
@@ -1284,9 +1284,9 @@
                     </bibl>
                     <bibl>Palk, Nancy, dir. <title level="m">White Biting Dog</title>, by Judith Thompson. Set Christina Poddubiuk. Perf. Gregory Prest, Fiona Reid, Mike Ross, Michaela Washburn, Joseph Ziegler. Soulpepper Theatre, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/3URPbtRkwlr">Toronto</placeName>, ON. 15 August 2011.</bibl>
                     <bibl>Panych, Morris, dir. <title level="a">Performance file for <title level="m">White Biting Dog</title>, by Judith Thompson</title>. Tarragon Theatre, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/rAlhs1X72gV">Toronto</placeName>, ON, 1994. L.W. Conolly Theatre Archives, <orgName key="University of Guelph. Library" ref="http://viaf.org/viaf/131292914" ana="webannotation:http://temp.lincsproject.ca/vy3Xy80Bqom">University of Guelph Library</orgName>, <placeName key="Guelph" ref="https://sws.geonames.org/5967629" ana="webannotation:http://temp.lincsproject.ca/UoFsbuo5I0w">Guelph</placeName>, ON.</bibl>
-                    <bibl>Quick, Andrew. <title level="m">The Wooster Group Workbook</title>. New York: Routledge, 2007.</bibl>
+                    <bibl>Quick, Andrew. <title level="m">The Wooster Group Workbook</title>. <placeName key="New York" ref="https://sws.geonames.org/5128638 " ana="webannotation:http://temp.lincsproject.ca/g2YrO3xKgMh">New York</placeName>: Routledge, 2007.</bibl>
                     <bibl>Revington, Dereck. <title level="a">[Photograph: <hi rend="italic">The Luminous Veil</hi>.]</title> 2003.</bibl>
-                    <bibl>Roach, Joseph. <title level="m">Cities of the Dead: Circum-Atlantic Performance</title>. New York: <orgName key="Columbia university press" ref="http://viaf.org/viaf/127175063" ana="webannotation:http://temp.lincsproject.ca/T2FOzAzukl5">Columbia University Press</orgName>, 1996.</bibl>
+                    <bibl>Roach, Joseph. <title level="m">Cities of the Dead: Circum-Atlantic Performance</title>. <placeName key="New York" ref="https://sws.geonames.org/5128638 " ana="webannotation:http://temp.lincsproject.ca/M86yxech6Xc">New York</placeName>: <orgName key="Columbia university press" ref="http://viaf.org/viaf/127175063" ana="webannotation:http://temp.lincsproject.ca/T2FOzAzukl5">Columbia University Press</orgName>, 1996.</bibl>
                     <bibl>Roberts-Smith, Jennifer, Shawn DeSouza-Coelho, Teresa Dobson, Sandra Gabriele, Omar Rodriguez-Arenas, Stan Ruecker, Stéfan Sinclair, Annemarie Akong, Matt Bouchard, Diane Jakacki, David Lam, and Lesley Northam. <title level="a">Visualizing Theatrical Text: from Watching the Script to the Simulated Environment for Theatre (<abbr>SET</abbr>)</title>. <title level="j">Digital Humanities Quarterly</title> 7.3 (2013).</bibl>
                     <bibl>Roberts-Smith, Jennifer, Shawn DeSouza-Coelho, Teresa Dobson, Sandra Gabriele, Stan Ruecker, Stéfan Sinclair, Alexandra (Sasha) Kovacs, and Daniel So. <title level="a">Visualizing Theatre Historiography: Judith Thompson’s <title level="m">White Biting Dog</title> (1984 and 2011) in the Simulated Environment for Theatre (<abbr>SET</abbr>)</title>. <title level="m">Digital Inquiry into Textual Relations: Research and Teaching with Online Tools</title>. Ed. Susan Brown and Stan Ruecker. Spec. issue of <title level="j">Digital Studies/Le champ numérique</title> 3.2 (2012).</bibl>
                     <bibl>Ruecker, Stan, Ali Grotkowski, Sandra Gabriele, Jennifer Roberts-Smith, Stéfan Sinclair, Teresa Dobson, Annemarie Akong, Sally Fung, and Omar Rodriguez. <title level="a">Abstraction and Realism in the Design of Avatars for the Simulated Environment for Theatre</title>. <title level="j">Visual Communication Journal</title> 12.4 (2013): 459–72.</bibl>
@@ -5500,6 +5500,273 @@
         "label": "New York",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/g2YrO3xKgMh">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/g2YrO3xKgMh",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T16:02:52.585Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/38FF36UyK77",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/38FF36UyK77/selector/textPosition/5eRffOeKJdx",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 98070,
+                "end": 98078,
+                "refinedBy": {
+                    "id": "/target/38FF36UyK77/selector/textQuote/NecpWPHl46B",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "New York",
+                    "prefix": "",
+                    "suffix": " Routledge, 2007"
+                }
+            },
+            {
+                "id": "/target/38FF36UyK77/selector/css/6I1sPR98c8h",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/g2YrO3xKgMh]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/5128638 ",
+        "label": "New York",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/M86yxech6Xc">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/M86yxech6Xc",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T16:02:52.890Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/QHLucngJk5j",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/QHLucngJk5j/selector/textPosition/SWs6810rSPO",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 98259,
+                "end": 98267,
+                "refinedBy": {
+                    "id": "/target/QHLucngJk5j/selector/textQuote/9xmpIP482rA",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "New York",
+                    "prefix": "",
+                    "suffix": " Columbia University Press, 1996"
+                }
+            },
+            {
+                "id": "/target/QHLucngJk5j/selector/css/mTNSyfGhuO9",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/M86yxech6Xc]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/5128638 ",
+        "label": "New York",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/WGuWnAeEtMB">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/WGuWnAeEtMB",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-03T16:07:47.226Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/dfaE8Exwa4V",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/dfaE8Exwa4V/selector/textPosition/8MOe7VcoA3j",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 92020,
+                "end": 92029,
+                "refinedBy": {
+                    "id": "/target/dfaE8Exwa4V/selector/textQuote/ooN1s8WdbIy",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "MIT Press",
+                    "prefix": " Cambridge, MA:",
+                    "suffix": " 1973"
+                }
+            },
+            {
+                "id": "/target/dfaE8Exwa4V/selector/css/nUBrrjSGeUB",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/WGuWnAeEtMB]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/159490691",
+        "label": "MIT Press",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
