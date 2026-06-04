@@ -602,7 +602,7 @@
                             <ref target="#intellectual_history">
                                 <ref target="#genre_performance">It is likely not coincidental that both <title level="m">Fronteras Americanas</title> and <title level="m">White Biting Dog</title> were developed at <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/kYrJHSNzxEk">Tarragon</orgName>.<note xml:id="n126" place="end">
                                         <title level="m">Fronteras Americanas</title> premiered at Tarragon Theatre’s Extra Space after development workshops at the Canadian Stage Company and Tarragon <note place="inline">
-                                            <bibl>Wasserman 309</bibl>
+                                            <bibl><orgName key="Wasserman, Jerry, 1945-...." ref="http://viaf.org/viaf/114962360" ana="webannotation:http://temp.lincsproject.ca/LjQrHKHyPT3">Wasserman</orgName> 309</bibl>
                                         </note>.</note> <persName key="Glassco, Bill." ref="http://viaf.org/viaf/22041534" ana="webannotation:http://temp.lincsproject.ca/YYBRQfcBbm4">Bill Glassco</persName>, director of the original 1984 production of <title level="m">White Biting Dog</title>, founded <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/1uIx0LREqPa">Tarragon</orgName> <q>partly in reaction to what he saw as <q>slapdash production standards</q>…at the Factory Theatre Lab </q>
                                     <note place="inline">
                                         <bibl>Knowles, <title level="m">Reading</title> 132</bibl>
@@ -23344,6 +23344,95 @@
         "type": "crm:E74_Group",
         "label": "Manitoba Theatre Centre",
         "description": "Royal Manitoba Theatre Centre"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/LjQrHKHyPT3">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/LjQrHKHyPT3",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T15:06:23.264Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/za1lxGhvDes",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/za1lxGhvDes/selector/textPosition/HvA3gq5YrQ7",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 24415,
+                "end": 24424,
+                "refinedBy": {
+                    "id": "/target/za1lxGhvDes/selector/textQuote/G1URcB8jM3P",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Wasserman",
+                    "prefix": "\n                                        Fronteras Americanas premiered at Tarragon Theatre’s Extra Space after development workshops at the Canadian Stage Company and Tarragon \n                                           ",
+                    "suffix": "309\n                                        "
+                }
+            },
+            {
+                "id": "/target/za1lxGhvDes/selector/css/6nQRY5Kspud",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/LjQrHKHyPT3]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/114962360",
+        "type": "crm:E21_Person",
+        "label": "Wasserman, Jerry, 1945-....",
+        "description": "Wasserman, Jerry"
     },
     "P2_has_type": [
         "oa:identifying"
