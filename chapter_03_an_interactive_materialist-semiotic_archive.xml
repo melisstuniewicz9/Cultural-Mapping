@@ -558,7 +558,7 @@
                                         <bibl>
                                             <title level="a">Undermining</title> 1</bibl>
                                     </note>. The Massey Commission achieved much of its desired aim. The commission’s position, for example, informed the practices of founding editor <persName key="Rubin, Don." ref="http://viaf.org/viaf/17360486" ana="webannotation:http://temp.lincsproject.ca/2iFZMh7sSgx">Don Rubin</persName> of the <title level="j">Canadian Theatre Review</title> (<hi rend="sc-italic">
-                                        <abbr>CTR</abbr>
+                                        <abbr><orgName key="Canadian Theatre Review" ref="http://viaf.org/viaf/316885640" ana="webannotation:http://temp.lincsproject.ca/r2k9bFv3CCL">CTR</orgName></abbr>
                                     </hi>) <note place="inline">
                                         <bibl>Filewod, <title level="a">Undermining</title> 1</bibl>
                                     </note>—established in 1974, <hi rend="sc-italic">
@@ -18666,6 +18666,95 @@
         "type": "crm:E21_Person",
         "label": "Rubin, Don.",
         "description": "Rubin, Don, 1942-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/r2k9bFv3CCL">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/r2k9bFv3CCL",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T14:11:54.935Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/oCgcBdVscIZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/oCgcBdVscIZ/selector/textPosition/qPQyhtqgUAk",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 19168,
+                "end": 19171,
+                "refinedBy": {
+                    "id": "/target/oCgcBdVscIZ/selector/textQuote/omk6DAeGWr2",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CTR",
+                    "prefix": " The commission’s position, for example, informed the practices of founding editor Don Rubin of the Canadian Theatre Review (\n                                       ",
+                    "suffix": "                                    ) \n                                        Filewod, Undermining 1\n                                    —established in 1974, \n                                        CTR\n                                     still publishes at least one significant new script per issue\n                                    \n                                        \n                                            Canadian Theatre Review\n                                        \n                                    —as well as the mandates of Canadian theatrical publishing houses, which contribute to the commission’s hoped for substantial body of proven plays (Canadian classics in other words) to which artistic directors would automatically turn when planning their upcoming seasons\n                                    \n                                        Salter 82\n                                    "
+                }
+            },
+            {
+                "id": "/target/oCgcBdVscIZ/selector/css/a0TWDf1Uz5q",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/r2k9bFv3CCL]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/316885640",
+        "label": "Canadian Theatre Review",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
