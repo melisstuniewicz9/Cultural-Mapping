@@ -1185,7 +1185,7 @@
                     <p xml:id="p1181">
                         <ref target="#critique_of_canon">
                             <ref target="#intellectual_history">
-                                <ref target="#theory">As theatre historian Alan Filewod proposes, <q>the thesis that theatrical governance and canonicity are indexical of nationhood has collapsed to the point where it has widely been critiqued as an instrument of <ref target="#violence">historical racism</ref> and <ref target="#class_issue">class hegemony</ref>
+                                <ref target="#theory">As theatre historian <persName key="Filewod, Alan, 1952-" ref="http://viaf.org/viaf/51716885" ana="webannotation:http://temp.lincsproject.ca/hF1JeqcTbtu">Alan Filewod</persName> proposes, <q>the thesis that theatrical governance and canonicity are indexical of nationhood has collapsed to the point where it has widely been critiqued as an instrument of <ref target="#violence">historical racism</ref> and <ref target="#class_issue">class hegemony</ref>
                                     </q>
                                     <note place="inline">
                                         <bibl>Filewod, <title level="a">Named in Passing</title> 118</bibl>
@@ -16086,6 +16086,95 @@
         "type": "crm:E21_Person",
         "label": "Al-Solaylee, Kamal",
         "description": "Solaylee, Kamal Al-, 1964-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/hF1JeqcTbtu">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/hF1JeqcTbtu",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T00:53:45.147Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/DBzu8P6lFFw",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/DBzu8P6lFFw/selector/textPosition/gt9XM1f8KdV",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 85969,
+                "end": 85981,
+                "refinedBy": {
+                    "id": "/target/DBzu8P6lFFw/selector/textQuote/AYdSVowJA1Y",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Alan Filewod",
+                    "prefix": "\n                            \n                        \n                    \n                \n                \n                    \n                        Conclusion: Archiving a Corpus Rather Than a Canon?\n                    \n                    \n                        \n                            \n                                As theatre historian",
+                    "suffix": "proposes, the thesis that theatrical governance and canonicity are indexical of nationhood has collapsed to the point where it has widely been critiqued as an instrument of historical racism and class hegemony\n                                    \n                                    \n                                        Filewod, Named in Passing 118\n                                    "
+                }
+            },
+            {
+                "id": "/target/DBzu8P6lFFw/selector/css/IOjcIu43FBn",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/hF1JeqcTbtu]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/51716885",
+        "type": "crm:E21_Person",
+        "label": "Filewod, Alan, 1952-",
+        "description": "Filewod, Alan Douglas, 1952-...."
     },
     "P2_has_type": [
         "oa:identifying"
