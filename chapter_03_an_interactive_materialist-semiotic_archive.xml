@@ -1078,7 +1078,7 @@
                         <figure>
                             <head>Figure 3.13B</head>
                             <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Af78a3c4c-7417-4533-9b03-49e4ea83029c/datastream/JPG-DToC/view"/>
-                            <figDesc>A visualization of the cultural historical moments of a 2011 audience member who never visited the Bloor Street Viaduct of 1984.</figDesc>
+                            <figDesc>A visualization of the cultural historical moments of a 2011 audience member who never visited <placeName key="Prince Edward Viaduct" ref="https://www.wikidata.org/wiki/Q2110325" ana="webannotation:http://temp.lincsproject.ca/01upi0gLkY1">the Bloor Street Viaduct</placeName> of 1984.</figDesc>
                         </figure>
                         <ref target="#response_informal">
                             <ref target="#genre_performance">world and the world outside the theatre. <ref target="#history">As Cushman suggests, the reality of the suicide barrier effectively fictionalized the opening event of the play, and consequently historicized the play as an artifact from a pre-barrier era. Of course, not all audience members would have responded as Cushman did, especially those who were not familiar with the history of the bridge</ref>. <ref target="#technology">To distinguish between individual audience members’ experiences and memories, <abbr>SET</abbr> also allows users to collapse annotations when they are not relevant (see Figures 3.13a and 3.13b)</ref>.</ref>
@@ -24240,6 +24240,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/gd3N20Ozdp2]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q2110325",
+        "label": "Prince Edward Viaduct",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/01upi0gLkY1">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/01upi0gLkY1",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T15:31:16.360Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/jicpb6t3BbO",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/jicpb6t3BbO/selector/textPosition/Js7YrGWqPoZ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 74275,
+                "end": 74299,
+                "refinedBy": {
+                    "id": "/target/jicpb6t3BbO/selector/textQuote/CnSxl6Ov2qr",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Bloor Street Viaduct",
+                    "prefix": "13B\n                            \n                            A visualization of the cultural historical moments of a 2011 audience member who never visited",
+                    "suffix": "of 1984"
+                }
+            },
+            {
+                "id": "/target/jicpb6t3BbO/selector/css/0Ed1BCHwfr3",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/01upi0gLkY1]"
             }
         ]
     },
