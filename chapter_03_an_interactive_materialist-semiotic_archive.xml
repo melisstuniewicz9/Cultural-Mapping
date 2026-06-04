@@ -1242,7 +1242,7 @@
                     </bibl>
                     <bibl>DeSouza-Coelho, Shawn. <title level="m">[Bloor Street Viaduct, Street View.]</title> <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/9pfauUGJL8E">Toronto</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/EcKaj8uSuj6">Ontario</placeName>, 2012.</bibl>
                     <bibl>Dondis, Donis A. <title level="m">A Primer of Visual Literacy</title>. Cambridge, MA: <orgName key="MIT Press" ref="http://viaf.org/viaf/159490691" ana="webannotation:http://temp.lincsproject.ca/WGuWnAeEtMB">MIT Press</orgName>, 1973.</bibl>
-                    <bibl>Glassco, Bill, dir. <title level="m">
+                    <bibl>Glassco, <persName key="Glassco, Bill." ref="http://viaf.org/viaf/22041534" ana="webannotation:http://temp.lincsproject.ca/2xuuWYWTmB4">Bill</persName>, dir. <title level="m">
                             <title level="m">White Biting Dog</title>, by <persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/FtXE069qZM6">Judith Thompson</persName>. Set Sue LePage. Perf. Jackie Burroughs, Clare Coulter, Hardee T. Lineham, Stephen Ouimette, Larry Reynolds</title>. Archival <abbr>VHS</abbr>, Private Collection, <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/dAbW4PQ1Bi8">Tarragon Theatre</orgName>, 1984.</bibl>
                     <bibl>Filewod, Alan. <title level="a">Erasing Historical Difference: The Alternative Orthodoxy in Canadian Theatre</title>. <title level="j">Theatre Journal</title> 41 (May 1989): 201–10.</bibl>
                     <bibl>. <title level="a">Named in Passing: Deregimenting Canadian Theatre History</title>. <title level="m">Writing and Rewriting National Theatre Histories</title>. Ed. S.E. Wilmer. Iowa City: <orgName key="University of Iowa Press." ref="http://viaf.org/viaf/157509320" ana="webannotation:http://temp.lincsproject.ca/WyI0t0FIjLq">University of Iowa Press</orgName>, 2004. 106–26.</bibl>
@@ -1251,7 +1251,7 @@
                         </title> 11.2 (1990): 1–4.</bibl>
                     <bibl>Haren, Sam, dir. <title level="m">
                             <title level="m">Fronteras Americanas</title>, by <persName key="Verdecchia, Guillermo" ref="http://viaf.org/viaf/41927151" ana="webannotation:http://temp.lincsproject.ca/1OoLaUZmszi">Guillermo Verdecchia</persName>. Perf. Alirio Zavarce. Nexus Cabaret, Lion Arts Centre, June 2001</title>. <hi rend="italic">Theatre Australia</hi>.</bibl>
-                    <bibl>Johnston, <persName key="Johnston, Denis William" ref="http://viaf.org/viaf/107903808" ana="webannotation:http://temp.lincsproject.ca/ecJxvlEnSqZ">Denis</persName>. <title level="m">Diverting the Mainstream: Bill Glassco and the Early Years of Tarragon Theatre</title>. N.p.: n.p., 1988. [Available at <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/4DrvP3W4lNN">Tarragon Theatre</orgName>].</bibl>
+                    <bibl>Johnston, <persName key="Johnston, Denis William" ref="http://viaf.org/viaf/107903808" ana="webannotation:http://temp.lincsproject.ca/ecJxvlEnSqZ">Denis</persName>. <title level="m">Diverting the Mainstream: <persName key="Glassco, Bill." ref="http://viaf.org/viaf/22041534" ana="webannotation:http://temp.lincsproject.ca/pYbAb92UoYZ">Bill Glassco</persName> and the Early Years of Tarragon Theatre</title>. N.p.: n.p., 1988. [Available at <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/4DrvP3W4lNN">Tarragon Theatre</orgName>].</bibl>
                     <bibl>. <title level="m">Up the Mainstream: The Rise of Toronto’s Alternative Theatres</title>. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/XiJLV8ihBKS">Toronto</placeName>: University of Toronto Press, 1991.</bibl>
                     <bibl>King’s Visualization Lab. <title level="a">Theatron Final Report</title>. <title level="m">Theatron 3: Educational Undertakings in Second Life</title>. English Subject Centre, The Higher Education Academy, Council for College and University Education, 2009. <ref target="http://www.english.heacademy.ac.uk/explore/projects/archive/technology/tech23.php">http://www.english.heacademy.ac.uk/explore/projects/archive/technology/tech23.php</ref>
                     </bibl>
@@ -20611,6 +20611,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/pYbAb92UoYZ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/pYbAb92UoYZ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T15:02:55.224Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ovRf1JMZLFa",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ovRf1JMZLFa/selector/textPosition/bfSk96hlzU1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 93290,
+                "end": 93302,
+                "refinedBy": {
+                    "id": "/target/ovRf1JMZLFa/selector/textQuote/AtxphmXSr0E",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Bill Glassco",
+                    "prefix": " Diverting the Mainstream:",
+                    "suffix": "and the Early Years of Tarragon Theatre"
+                }
+            },
+            {
+                "id": "/target/ovRf1JMZLFa/selector/css/NtubRSZcAVa",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/pYbAb92UoYZ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/22041534",
+        "type": "crm:E21_Person",
+        "label": "Glassco, Bill.",
+        "description": "Glassco, Bill, 1935-2004"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ii4EOPRNTC1">
 <![CDATA[{
     "@context": [
@@ -23611,6 +23700,95 @@
         "label": "Soulpepper Theatre Co",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/2xuuWYWTmB4">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/2xuuWYWTmB4",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T15:03:24.551Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Ap5wTKXoDkV",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Ap5wTKXoDkV/selector/textPosition/MK2KkN0B8gB",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 92047,
+                "end": 92051,
+                "refinedBy": {
+                    "id": "/target/Ap5wTKXoDkV/selector/textQuote/V520IPy2mEo",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Bill",
+                    "prefix": "\n                    Glassco,",
+                    "suffix": " dir"
+                }
+            },
+            {
+                "id": "/target/Ap5wTKXoDkV/selector/css/lGFvibgvzoI",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/2xuuWYWTmB4]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/22041534",
+        "type": "crm:E21_Person",
+        "label": "Glassco, Bill.",
+        "description": "Glassco, Bill, 1935-2004"
     },
     "P2_has_type": [
         "oa:identifying"
