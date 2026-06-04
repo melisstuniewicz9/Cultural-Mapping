@@ -749,7 +749,7 @@
                         <figure>
                             <head>Figure 3.2</head>
                             <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A1002fdaf-eb1d-4de2-a177-3b1831154cb6/datastream/JPG-DToC/view"/>
-                            <figDesc>Image of one page from Bluemouth Inc.'s archive of <title level="a">What the Thunder Said</title>, with columns for <q>film projection/sound,</q>
+                            <figDesc>Image of one page from <orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/JjWvDsrQzjU">Bluemouth Inc.'s</orgName> archive of <title level="a">What the Thunder Said</title>, with columns for <q>film projection/sound,</q>
                                 <q>text/song,</q> and <q>movement</q> as performed <q>At the AT&amp;T Office Space</q> (24).</figDesc>
                         </figure>
                         <ref target="#canon_formation">
@@ -779,7 +779,7 @@
                                 <ref target="#genre_performance">In addition to stage directions, text, and <q>movement scores</q>
                                     <note place="inline">
                                         <bibl><orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/um6dyB6Zs8i">Bluemouth Inc.</orgName> 24</bibl>
-                                    </note>, Bluemouth Inc.’s non-traditional archival prompt book includes images of the <q>Isadora software operated in performance</q>
+                                    </note>, <orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/Ud6pdy24cS6">Bluemouth Inc.’s</orgName> non-traditional archival prompt book includes images of the <q>Isadora software operated in performance</q>
                                     <note place="inline">
                                         <bibl>Bluemouth Inc. 24</bibl>
                                     </note>, photographic representations of several actors in performance <note place="inline">
@@ -28703,6 +28703,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/JjWvDsrQzjU">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/JjWvDsrQzjU",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T17:44:09.629Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ZeHTK0pVMzs",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ZeHTK0pVMzs/selector/textPosition/VDDzuII6Y9b",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 41981,
+                "end": 41997,
+                "refinedBy": {
+                    "id": "/target/ZeHTK0pVMzs/selector/textQuote/8e70Rper25q",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Bluemouth Inc.'s",
+                    "prefix": "2\n                            \n                            Image of one page from",
+                    "suffix": "archive of What the Thunder Said, with columns for film projection/sound,\n                                text/song, and movement as performed At the AT&T Office Space (24)"
+                }
+            },
+            {
+                "id": "/target/ZeHTK0pVMzs/selector/css/p3Io7BeoFlq",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/JjWvDsrQzjU]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q85747909",
+        "label": "Bluemouth Inc",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/LwsLYH2RtyE">
 <![CDATA[{
     "@context": [
@@ -29488,6 +29577,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/J9uXemVPCOy]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q85747909",
+        "label": "Bluemouth Inc",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Ud6pdy24cS6">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Ud6pdy24cS6",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T17:44:37.299Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/TL1UlVvabua",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/TL1UlVvabua/selector/textPosition/01GzN0vuGNC",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 44655,
+                "end": 44671,
+                "refinedBy": {
+                    "id": "/target/TL1UlVvabua/selector/textQuote/yXCp0th7dMn",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Bluemouth Inc.’s",
+                    "prefix": " 24\n                                    ,",
+                    "suffix": "non-traditional archival prompt book includes images of the Isadora software operated in performance\n                                    \n                                        Bluemouth Inc"
+                }
+            },
+            {
+                "id": "/target/TL1UlVvabua/selector/css/Dz61wAzLfif",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Ud6pdy24cS6]"
             }
         ]
     },
