@@ -550,7 +550,7 @@
                                         <bibl>
                                             <title level="a">Canadian Revivals</title>
                                         </bibl>
-                                    </note>, but he was not the first to draw attention to the historical centrality of text in this <q>game.</q> As Denis Salter has noted, the Massey Commission, which in 1951 reported to the federal government on the state of Canadian culture, expressed the hope that the production of more plays would translate into a more clearly defined Canadian nation with a robust cultural community at its core. The commission proposed that the development of a vital theatrical culture depended upon the establishment of a <q>national repertoire of Canadian-made plays on Canadian topics in a Canadian idiom and presented in a recognizable Canadian style</q>
+                                    </note>, but he was not the first to draw attention to the historical centrality of text in this <q>game.</q> As <persName key="Salter, Denis William, 1949-" ref="http://viaf.org/viaf/264629348" ana="webannotation:http://temp.lincsproject.ca/qAk13fYybcM">Denis Salter</persName> has noted, the Massey Commission, which in 1951 reported to the federal government on the state of Canadian culture, expressed the hope that the production of more plays would translate into a more clearly defined Canadian nation with a robust cultural community at its core. The commission proposed that the development of a vital theatrical culture depended upon the establishment of a <q>national repertoire of Canadian-made plays on Canadian topics in a Canadian idiom and presented in a recognizable Canadian style</q>
                                     <note place="inline">
                                         <bibl>qtd. in Salter 82</bibl>
                                     </note>. Alan Filewod further observed that <q>the notion of a dramatic literature [was] the first condition of an autonomous national theatre</q>
@@ -21922,6 +21922,95 @@
         "label": "Soulpepper Theatre Co",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/qAk13fYybcM">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/qAk13fYybcM",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T14:49:21.001Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/49H9LQI0JOi",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/49H9LQI0JOi/selector/textPosition/chLV1VDzcIh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 17979,
+                "end": 17991,
+                "refinedBy": {
+                    "id": "/target/49H9LQI0JOi/selector/textQuote/r0RTMq5Y3C7",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Denis Salter",
+                    "prefix": " As",
+                    "suffix": "has noted, the Massey Commission, which in 1951 reported to the federal government on the state of Canadian culture, expressed the hope that the production of more plays would translate into a more clearly defined Canadian nation with a robust cultural community at its core"
+                }
+            },
+            {
+                "id": "/target/49H9LQI0JOi/selector/css/nfZUdxWsG10",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/qAk13fYybcM]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/264629348",
+        "type": "crm:E21_Person",
+        "label": "Salter, Denis William, 1949-",
+        "description": "Salter, Denis W. (Denis William), 1949-"
     },
     "P2_has_type": [
         "oa:identifying"
