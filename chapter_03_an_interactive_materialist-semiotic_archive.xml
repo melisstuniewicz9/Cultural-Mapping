@@ -603,7 +603,7 @@
                                 <ref target="#genre_performance">It is likely not coincidental that both <title level="m">Fronteras Americanas</title> and <title level="m">White Biting Dog</title> were developed at <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/kYrJHSNzxEk">Tarragon</orgName>.<note xml:id="n126" place="end">
                                         <title level="m">Fronteras Americanas</title> premiered at Tarragon Theatre’s Extra Space after development workshops at the Canadian Stage Company and Tarragon <note place="inline">
                                             <bibl>Wasserman 309</bibl>
-                                        </note>.</note> Bill Glassco, director of the original 1984 production of <title level="m">White Biting Dog</title>, founded <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/1uIx0LREqPa">Tarragon</orgName> <q>partly in reaction to what he saw as <q>slapdash production standards</q>…at the Factory Theatre Lab </q>
+                                        </note>.</note> <persName key="Glassco, Bill." ref="http://viaf.org/viaf/22041534" ana="webannotation:http://temp.lincsproject.ca/YYBRQfcBbm4">Bill Glassco</persName>, director of the original 1984 production of <title level="m">White Biting Dog</title>, founded <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/1uIx0LREqPa">Tarragon</orgName> <q>partly in reaction to what he saw as <q>slapdash production standards</q>…at the Factory Theatre Lab </q>
                                     <note place="inline">
                                         <bibl>Knowles, <title level="m">Reading</title> 132</bibl>
                                     </note>. Glassco sought to elevate the status of theatre by investing in Canadian playwrights, and his theatre’s loyalty to writers remains integral to its public profile.<note xml:id="n129" place="end"><orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/LCauxXyBoxa">Tarragon Theatre</orgName> currently supports twelve playwrights in residence <bibl><orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/GjdCEOWhhX6">Tarragon Theatre</orgName>, <title level="a">Playwrights-in-Residence</title>
@@ -20425,6 +20425,95 @@
         "id": "http://viaf.org/viaf/126499746",
         "type": "crm:E74_Group",
         "label": "Tarragon Theatre"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/YYBRQfcBbm4">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/YYBRQfcBbm4",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T15:02:36.314Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/svaYpGRt4Ee",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/svaYpGRt4Ee/selector/textPosition/vEx0ahhZYaz",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 24471,
+                "end": 24483,
+                "refinedBy": {
+                    "id": "/target/svaYpGRt4Ee/selector/textQuote/t0vLYUDi8Ho",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Bill Glassco",
+                    "prefix": "",
+                    "suffix": " director of the original 1984 production of White Biting Dog, founded Tarragon partly in reaction to what he saw as slapdash production standards…at the Factory Theatre Lab \n                                    \n                                        Knowles, Reading 132\n                                    "
+                }
+            },
+            {
+                "id": "/target/svaYpGRt4Ee/selector/css/AeVI0sHC7E7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/YYBRQfcBbm4]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/22041534",
+        "type": "crm:E21_Person",
+        "label": "Glassco, Bill.",
+        "description": "Glassco, Bill, 1935-2004"
     },
     "P2_has_type": [
         "oa:identifying"
