@@ -608,7 +608,7 @@
                                         <bibl>Knowles, <title level="m">Reading</title> 132</bibl>
                                     </note>. Glassco sought to elevate the status of theatre by investing in Canadian playwrights, and his theatre’s loyalty to writers remains integral to its public profile.<note xml:id="n129" place="end"><orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/LCauxXyBoxa">Tarragon Theatre</orgName> currently supports twelve playwrights in residence <bibl><orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/GjdCEOWhhX6">Tarragon Theatre</orgName>, <title level="a">Playwrights-in-Residence</title>
                                         </bibl>.</note> Today, <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/rEba7jSdh6w">Tarragon Theatre</orgName> is the kind of Canadian theatrical institution envisaged by Massey: one with a focus on literary production, whose premieres of new Canadian plays typically coincide with their publication</ref>.<note xml:id="n130" place="end">
-                                    <title level="m">Fronteras Americanas</title> was published by <orgName key="Coach house press" ref="http://viaf.org/viaf/149000546" ana="webannotation:http://temp.lincsproject.ca/igjNAmKEGiI">Coach House Press</orgName> in 1993. It premiered at <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/ChZTdAzD6NX">Tarragon Theatre</orgName> in January–February of that year. Similarly, <title level="m">White Biting Dog</title> premiered in January of 1984 and the first edition appeared that same year. More recent examples include Erin Shields’s <title level="m">If We Were Birds</title> (premiere in 2010; publication by Playwrights Canada Press in 2011) and Brendan Gall’s <title level="m">Wide Awake Hearts</title> (produced in 2010; publication by Coach House Press in 2010 in Gall’s collection <title level="m">Minor Complications</title>).</note>
+                                    <title level="m">Fronteras Americanas</title> was published by <orgName key="Coach house press" ref="http://viaf.org/viaf/149000546" ana="webannotation:http://temp.lincsproject.ca/igjNAmKEGiI">Coach House Press</orgName> in 1993. It premiered at <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/ChZTdAzD6NX">Tarragon Theatre</orgName> in January–February of that year. Similarly, <title level="m">White Biting Dog</title> premiered in January of 1984 and the first edition appeared that same year. More recent examples include Erin Shields’s <title level="m">If We Were Birds</title> (premiere in 2010; publication by Playwrights Canada Press in 2011) and Brendan Gall’s <title level="m">Wide Awake Hearts</title> (produced in 2010; publication by <orgName key="Coach house press" ref="http://viaf.org/viaf/149000546" ana="webannotation:http://temp.lincsproject.ca/dezzeH9X56W">Coach House Press</orgName> in 2010 in Gall’s collection <title level="m">Minor Complications</title>).</note>
                             </ref>
                         </ref>
                     </p>
@@ -22535,6 +22535,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/igjNAmKEGiI]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/149000546",
+        "type": "crm:E74_Group",
+        "label": "Coach house press",
+        "description": "Coach house press Toronto, Canada"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/dezzeH9X56W">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/dezzeH9X56W",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T14:27:58.302Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/r0crxsUXQz8",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/r0crxsUXQz8/selector/textPosition/u99F2dVUkoE",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 25796,
+                "end": 25813,
+                "refinedBy": {
+                    "id": "/target/r0crxsUXQz8/selector/textQuote/vP3i69rrXXP",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Coach House Press",
+                    "prefix": " More recent examples include Erin Shields’s If We Were Birds (premiere in 2010; publication by Playwrights Canada Press in 2011) and Brendan Gall’s Wide Awake Hearts (produced in 2010; publication by",
+                    "suffix": "in 2010 in Gall’s collection Minor Complications)"
+                }
+            },
+            {
+                "id": "/target/r0crxsUXQz8/selector/css/hFxP0b7pNAh",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/dezzeH9X56W]"
             }
         ]
     },
