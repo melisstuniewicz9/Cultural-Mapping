@@ -625,7 +625,7 @@
                                 </note>
                             </ref>
                         </ref>. <ref target="#genre_performance">With this announcement, Soulpepper positioned itself as renewing access to a classic stage production for audiences who missed the 1993 production</ref>.</p>
-                    <p xml:id="p1147">Similarly, Nancy Palk, who directed the 2011 production of <title level="m">White Biting Dog</title> was quoted on Soulpepper’s website:</p>
+                    <p xml:id="p1147">Similarly, <persName key="Palk, Nancy" ref="http://viaf.org/viaf/171998404" ana="webannotation:http://temp.lincsproject.ca/3rufskd7fnx">Nancy Palk</persName>, who directed the 2011 production of <title level="m">White Biting Dog</title> was quoted on Soulpepper’s website:</p>
                     <q type="block">
                         <ref target="#intellectual_history">I was at the opening night of <title level="m">White Biting Dog</title> in 1984 at <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/1IYN8hWtWVq">Tarragon</orgName>, and it was one of those wonderful fantastic opening nights…I’ve always been just crazy about it [the play].…Not only does it make a lot of sense for Soulpepper to be doing it because of <ref target="#education">
                                 <ref target="#attitudes_to_women_writing">Judith [Thompson]’s stature in Canadian theatre</ref> but also because Judith, Joe [Ziegler] and I all went to theatre school together. As did Louise Guinand, the lighting designer and Christina Poddubiuk, the costume and set designer</ref>. <ref target="#intellectual_history">It really makes sense from the company’s historical point of view</ref>
@@ -23981,6 +23981,94 @@
         "id": "http://viaf.org/viaf/124275029",
         "type": "crm:E74_Group",
         "label": "Playwrights Canada Press."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/3rufskd7fnx">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/3rufskd7fnx",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T15:34:36.328Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/SGB1KLLfCgU",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/SGB1KLLfCgU/selector/textPosition/HWI7Rd8krac",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27520,
+                "end": 27530,
+                "refinedBy": {
+                    "id": "/target/SGB1KLLfCgU/selector/textQuote/G04tHzofGXs",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Nancy Palk",
+                    "prefix": "\n                    Similarly,",
+                    "suffix": " who directed the 2011 production of White Biting Dog was quoted on Soulpepper’s website:\n                    \n                        I was at the opening night of White Biting Dog in 1984 at Tarragon, and it was one of those wonderful fantastic opening nights…I’ve always been just crazy about it [the play]"
+                }
+            },
+            {
+                "id": "/target/SGB1KLLfCgU/selector/css/dpOGypbXFN4",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/3rufskd7fnx]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/171998404",
+        "type": "crm:E21_Person",
+        "label": "Palk, Nancy"
     },
     "P2_has_type": [
         "oa:identifying"
