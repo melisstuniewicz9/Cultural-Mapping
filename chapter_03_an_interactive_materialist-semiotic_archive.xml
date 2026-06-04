@@ -517,7 +517,7 @@
                     <q type="block">
                         <ref target="#response_formal">
                             <ref target="#genre_performance">
-                                <ref target="#recognitions">While it’s unlikely that Soulpepper picks its Canadian programming by throwing darts at a list of past winners of the Governor General’s Award for Drama, it can sometimes seem like that’s the case. Sticking to plays that have previously made the <abbr>GG</abbr> grade has served the company well in the past, with the Eric Peterson-John Gray hit <title level="m">Billy Bishop Goes to War</title> and Sharon Pollock’s <title level="m">Doc</title>
+                                <ref target="#recognitions">While it’s unlikely that Soulpepper picks its Canadian programming by throwing darts at a list of past winners of the Governor General’s Award for Drama, it can sometimes seem like that’s the case. Sticking to plays that have previously made the <abbr>GG</abbr> grade has served the company well in the past, with the Eric Peterson-<persName key="Gray, John" ref="http://viaf.org/viaf/4270918" ana="webannotation:http://temp.lincsproject.ca/9Xo5nR6O4Rv">John Gray</persName> hit <title level="m">Billy Bishop Goes to War</title> and Sharon Pollock’s <title level="m">Doc</title>
                                 </ref>. But this season it’s proved more problematic</ref>
                         </ref>. <note place="inline">
                             <bibl>
@@ -27456,8 +27456,99 @@
 }]]>
 				
 </rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/9Xo5nR6O4Rv">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/9Xo5nR6O4Rv",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T15:57:38.687Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/XAqIIZZVRMa",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/XAqIIZZVRMa/selector/textPosition/UjCdBt7H4W4",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15364,
+                "end": 15373,
+                "refinedBy": {
+                    "id": "/target/XAqIIZZVRMa/selector/textQuote/874QvBYWBEO",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "John Gray",
+                    "prefix": " Sticking to plays that have previously made the GG grade has served the company well in the past, with the Eric Peterson",
+                    "suffix": "hit Billy Bishop Goes to War and Sharon Pollock’s Doc\n                                "
+                }
+            },
+            {
+                "id": "/target/XAqIIZZVRMa/selector/css/rLa8dX013nU",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/9Xo5nR6O4Rv]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/4270918",
+        "label": "Gray, John",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 			
 </rdf:RDF>
+		
+
 		
 
 		
@@ -27481,7 +27572,9 @@
 	
 	
 	
+	
 	</standOff>
+
 
 
 
