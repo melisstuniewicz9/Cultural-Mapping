@@ -1073,7 +1073,7 @@
                         <figure>
                             <head>Figure 3.13A</head>
                             <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A08070e08-52f0-4ee7-85ff-f8a49abdcadf/datastream/JPG-DToC/view"/>
-                            <figDesc>A visualization of the cultural historical moments of a 2011 audience member who remembers the Bloor Street Viaduct of 1984.</figDesc>
+                            <figDesc>A visualization of the cultural historical moments of a 2011 audience member who remembers <placeName key="Prince Edward Viaduct" ref="https://www.wikidata.org/wiki/Q2110325" ana="webannotation:http://temp.lincsproject.ca/gd3N20Ozdp2">the Bloor Street Viaduct</placeName> of 1984.</figDesc>
                         </figure>
                         <figure>
                             <head>Figure 3.13B</head>
@@ -24159,6 +24159,95 @@
         "label": "Sue LePage",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/gd3N20Ozdp2">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/gd3N20Ozdp2",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T15:30:41.735Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/vtv5Wln773F",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/vtv5Wln773F/selector/textPosition/dZD8blzifUy",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 73998,
+                "end": 74022,
+                "refinedBy": {
+                    "id": "/target/vtv5Wln773F/selector/textQuote/7h14ISmb0fl",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Bloor Street Viaduct",
+                    "prefix": "13A\n                            \n                            A visualization of the cultural historical moments of a 2011 audience member who remembers",
+                    "suffix": "of 1984"
+                }
+            },
+            {
+                "id": "/target/vtv5Wln773F/selector/css/46vNB3qM9vQ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/gd3N20Ozdp2]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q2110325",
+        "label": "Prince Edward Viaduct",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
