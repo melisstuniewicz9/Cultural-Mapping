@@ -424,7 +424,7 @@
                                             <ref target="#canon_formation"><persName key="Knowles, Richard Paul, 1950-...." ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/iHsjGNYjjES">Ric Knowles</persName>, in his analysis of the establishment of the English-Canadian canon, confirms the historical contexts that shape <persName key="Nestruck, J. Kelly" ref="https://www.wikidata.org/wiki/Q16221465" ana="webannotation:http://temp.lincsproject.ca/afKn0OAByZ4">Nestruck</persName>’s assertion: <q>before 1980 few Canadian scripts received a second production</q>
                                                 <bibl>Knowles, <title level="a">Voices (Off)</title> 91</bibl>. <ref target="#anthologizaton">
                                                     <ref target="#editions">Knowles suggests that the <q>quixotic and unpredictable</q> nature of the Canadian dramatic environment <bibl>
-                                                            <title level="a">Voices (Off)</title> 91</bibl> led to the development of three <q>national anthologies</q> that sought to stabilize the dramatic canon. One of these, <persName key="Wasserman, Jerry S." ref="http://viaf.org/viaf/311386397" ana="webannotation:http://temp.lincsproject.ca/3nYXUCCxH8O">Jerry Wasserman’s</persName> two-volume anthology, <title level="m">Modern Canadian Plays</title>, which features the work of <persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/t4WtM06nBnq">Judith Thompson</persName> (<title level="m">Lion in the Streets</title>) and <persName key="Verdecchia, Guillermo" ref="http://viaf.org/viaf/41927151" ana="webannotation:http://temp.lincsproject.ca/cx0hXtZTMQw">Guillermo Verdecchia</persName> (<title level="m">Fronteras Americanas</title>) in its fourth <bibl>2011</bibl> edition, <ref target="#education">
+                                                            <title level="a">Voices (Off)</title> 91</bibl> led to the development of three <q>national anthologies</q> that sought to stabilize the dramatic canon. One of these, <persName key="Wasserman, Jerry, 1945-...." ref="http://viaf.org/viaf/114962360" ana="webannotation:http://temp.lincsproject.ca/eaGCFnW3kwt">Jerry Wasserman’s</persName> two-volume anthology, <title level="m">Modern Canadian Plays</title>, which features the work of <persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/t4WtM06nBnq">Judith Thompson</persName> (<title level="m">Lion in the Streets</title>) and <persName key="Verdecchia, Guillermo" ref="http://viaf.org/viaf/41927151" ana="webannotation:http://temp.lincsproject.ca/cx0hXtZTMQw">Guillermo Verdecchia</persName> (<title level="m">Fronteras Americanas</title>) in its fourth <bibl>2011</bibl> edition, <ref target="#education">
                                                             <q>shaped curricula</q> and <q>heavily influenced subsequent scholarship</q>
                                                         </ref>
                                                         <bibl>Knowles, <title level="a">Voices (Off)</title> 95</bibl>
@@ -18585,20 +18585,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/3nYXUCCxH8O">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/eaGCFnW3kwt">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/3nYXUCCxH8O",
+    "id": "http://temp.lincsproject.ca/eaGCFnW3kwt",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-06-04T15:04:42.396Z",
+    "created": "2026-06-04T15:07:06.043Z",
     "creator": {
         "id": "https://github.com/melisstuniewicz9",
         "type": "crm:E21_Person",
@@ -18658,14 +18658,22 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/3nYXUCCxH8O]"
+            },
+            {
+                "id": "/target/H3GE6ds3nXc/selector/css/48PKdXk0Zg9",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/eaGCFnW3kwt]"
             }
         ]
     },
     "body": {
-        "id": "http://viaf.org/viaf/311386397",
+        "id": "http://viaf.org/viaf/114962360",
         "type": "crm:E21_Person",
-        "label": "Wasserman, Jerry S.",
-        "description": "Wasserman, Jerry S, 1945-"
+        "label": "Wasserman, Jerry, 1945-....",
+        "description": "Wasserman, Jerry"
     },
     "P2_has_type": [
         "oa:identifying"
