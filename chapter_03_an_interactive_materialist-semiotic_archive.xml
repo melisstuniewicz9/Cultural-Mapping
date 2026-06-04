@@ -1303,7 +1303,7 @@
                             <title level="m">White Biting Dog</title>: Artist Profile</title>. Soulpepper Theatre Company, 2011. Accessed 29 September 2011.</bibl>
                     <bibl><orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/r6cf9fkJheK">Tarragon Theatre</orgName>. <title level="a">Playwrights in Residence</title>. <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/DZWuohQOz3O">Tarragon Theatre</orgName>, 2012. Accessed 29 February 2012.</bibl>
                     <bibl>. <title level="a">Production History.</title> <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/lW8LJ05YsV2">Tarragon Theatre</orgName>, 2012. Accessed 29 February 2012.</bibl>
-                    <bibl>Taylor, Diana. <title level="m">The Archive and the Repertoire: Performing Cultural Memory in the Americas</title>. Durham, NC: <orgName key="Duke university press" ref="http://viaf.org/viaf/264801395" ana="webannotation:http://temp.lincsproject.ca/U7BCJiSRGCG">Duke University Press</orgName>, 2003.</bibl>
+                    <bibl>Taylor, Diana. <title level="m">The Archive and the Repertoire: Performing Cultural Memory in the Americas</title>. <placeName key="Durham" ref="https://sws.geonames.org/4464368 " ana="webannotation:http://temp.lincsproject.ca/nt2KYNPK6Ka">Durham</placeName>, NC: <orgName key="Duke university press" ref="http://viaf.org/viaf/264801395" ana="webannotation:http://temp.lincsproject.ca/U7BCJiSRGCG">Duke University Press</orgName>, 2003.</bibl>
                     <bibl><persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/L19Y6Q6nPMa">Thompson</persName>, <persName key="Thompson, Judith, 1954-" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/we1uH3i8V4m">Judith</persName>. <title level="m">Late 20th Century Plays, 1980–2000</title>. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/wVZ8TApsXdb">Toronto</placeName>: Playwrights Canada Press, 2003.</bibl>
                     <bibl>. <title level="m">White Biting Dog</title>. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/hJHFdEmQBmp">Toronto</placeName>: Playwrights Canada Press, 1985.</bibl>
                     <bibl>von Tiedemann, Cylla. <title level="a">[Digital Photograph, Mike Ross and Michaela Washburn in <title level="m">White Biting Dog</title>, by <persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/4AvrutLRvqQ">Judith Thompson</persName>.]</title> Photo Gallery, Soulpepper Theatre Company, 2011. <ref target="http://www.soulpepper.ca/performances/11_season/white_biting_dog.aspx#overview">http://www.soulpepper.ca/performances/11_season/white_biting_dog.aspx#overview</ref>
@@ -24687,6 +24687,95 @@
         "type": "crm:E21_Person",
         "label": "Wasserman, Jerry, 1945-....",
         "description": "Wasserman, Jerry"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/nt2KYNPK6Ka">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/nt2KYNPK6Ka",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T15:11:45.463Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/pT0t1LGIUkt",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/pT0t1LGIUkt/selector/textPosition/D4IL6bskty1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 100876,
+                "end": 100882,
+                "refinedBy": {
+                    "id": "/target/pT0t1LGIUkt/selector/textQuote/eyQz3Po4FUR",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Durham",
+                    "prefix": "",
+                    "suffix": " NC: Duke University Press, 2003"
+                }
+            },
+            {
+                "id": "/target/pT0t1LGIUkt/selector/css/YxGyI4FxDXQ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/nt2KYNPK6Ka]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/4464368 ",
+        "label": "Durham",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
