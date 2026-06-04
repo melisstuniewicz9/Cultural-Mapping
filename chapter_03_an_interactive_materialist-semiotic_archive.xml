@@ -577,7 +577,7 @@
                     </p>
                     <p xml:id="p1145">
                         <ref target="#intellectual_history">
-                            <ref target="#critique_of_canon">The alternative theatre movement of the 1970s, with its early emphasis on <ref target="#collaboration">collectively created works</ref>, has been read historically as a protest against regional theatres’ failure to get <q>in touch</q> with Canadian voices (a failure that has been blamed on the British organizational model inherited from Vincent Massey, along with his aspirations for a Canadian literary canon)</ref>.<note xml:id="n121" place="end">The development of a number of regional theatres in major urban centres throughout <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/fA9XwcuZv8P">Canada</placeName> was part of the <q>monument complex</q> or <q>edifice complex</q> at work in the late 1950s to the early 1970s Canadian theatrical ecology (see Kilbourn et al.). <ref target="#economics">Public investment in theatre buildings and infrastructure (Arts Club Theatre, Vancouver Playhouse, Theatre Calgary, Citadel Theatre, Globe Theatre, Royal Manitoba Theatre Centre, Neptune Theatre, Theatre New Brunswick) was made in the wake of the Massey Report of 1951, which also led to the establishment in 1957 of the Canada Council for the Arts (a government subsidy system to the arts)</ref>. Many of the regional theatres are characterized conventionally as endorsing <q>conservative repertoires, a mistrust of Canadian drama, <ref target="#class">middle-class audiences</ref>, and a marked tendency to prefer foreign, usually British, artistic directors</q>
+                            <ref target="#critique_of_canon">The alternative theatre movement of the 1970s, with its early emphasis on <ref target="#collaboration">collectively created works</ref>, has been read historically as a protest against regional theatres’ failure to get <q>in touch</q> with Canadian voices (a failure that has been blamed on the British organizational model inherited from Vincent Massey, along with his aspirations for a Canadian literary canon)</ref>.<note xml:id="n121" place="end">The development of a number of regional theatres in major urban centres throughout <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/fA9XwcuZv8P">Canada</placeName> was part of the <q>monument complex</q> or <q>edifice complex</q> at work in the late 1950s to the early 1970s Canadian theatrical ecology (see Kilbourn et al.). <ref target="#economics">Public investment in theatre buildings and infrastructure (Arts Club Theatre, Vancouver Playhouse, Theatre Calgary, Citadel Theatre, Globe Theatre, <orgName key="Manitoba Theatre Centre" ref="http://viaf.org/viaf/250633674" ana="webannotation:http://temp.lincsproject.ca/WqkCJUTJA1E">Royal Manitoba Theatre Centre</orgName>, Neptune Theatre, Theatre New Brunswick) was made in the wake of the Massey Report of 1951, which also led to the establishment in 1957 of the Canada Council for the Arts (a government subsidy system to the arts)</ref>. Many of the regional theatres are characterized conventionally as endorsing <q>conservative repertoires, a mistrust of Canadian drama, <ref target="#class">middle-class audiences</ref>, and a marked tendency to prefer foreign, usually British, artistic directors</q>
                                 <note place="inline">
                                     <bibl>Filewod, <title level="a">Erasing</title> 202</bibl>
                                 </note>. <ref target="#intellectual_history">Alan Filewod notes that the alternative houses of <abbr>TPM</abbr>, <abbr>TWP</abbr>, and Tarragon, in the late 1960s to the mid-1970s ushered in a <q>historical crisis</q> by <q>overshadow[ing]</q> and <q>challeng[ing]</q> regional theatres with an <q>experimental</q> and <q>nationalistic</q> fervour that has been characterized as a kind of <q>cultural heroism</q>
@@ -19109,6 +19109,95 @@
         "id": "http://viaf.org/viaf/316885640",
         "type": "crm:E74_Group",
         "label": "Canadian theatre review"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/WqkCJUTJA1E">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/WqkCJUTJA1E",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T14:23:36.518Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/edLMmFHwZmd",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/edLMmFHwZmd/selector/textPosition/FWsZBpGDPcy",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 21002,
+                "end": 21031,
+                "refinedBy": {
+                    "id": "/target/edLMmFHwZmd/selector/textQuote/Bo9RxLVnbLD",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Royal Manitoba Theatre Centre",
+                    "prefix": " Public investment in theatre buildings and infrastructure (Arts Club Theatre, Vancouver Playhouse, Theatre Calgary, Citadel Theatre, Globe Theatre,",
+                    "suffix": " Neptune Theatre, Theatre New Brunswick) was made in the wake of the Massey Report of 1951, which also led to the establishment in 1957 of the Canada Council for the Arts (a government subsidy system to the arts)"
+                }
+            },
+            {
+                "id": "/target/edLMmFHwZmd/selector/css/RXjn0IqG5yc",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/WqkCJUTJA1E]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/250633674",
+        "type": "crm:E74_Group",
+        "label": "Manitoba Theatre Centre",
+        "description": "Royal Manitoba Theatre Centre"
     },
     "P2_has_type": [
         "oa:identifying"
