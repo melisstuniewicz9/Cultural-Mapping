@@ -1149,7 +1149,7 @@
                         </ref> It also permits analyses of records, such <figure>
                             <head>Figure 3.15</head>
                             <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A6c02f8c0-d1a3-4729-88a0-4259b66278e9/datastream/JPG-DToC/view"/>
-                            <figDesc>Our model of <persName key="Sue LePage" ref="https://www.wikidata.org/wiki/Q56761403" ana="webannotation:http://temp.lincsproject.ca/F77z7c97pfA">Sue LePage's</persName> set for the 1984 <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/TdCLzkvMgsy">Tarragon Theatre</orgName> production of <title level="m">White Biting Dog</title>, annotated with a section of LePage's technical drawings showing her designs for the bridge girders and an image of the bridge they represent.</figDesc>
+                            <figDesc>Our model of <persName key="Sue LePage" ref="https://www.wikidata.org/wiki/Q56761403" ana="webannotation:http://temp.lincsproject.ca/F77z7c97pfA">Sue LePage's</persName> set for the 1984 <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/TdCLzkvMgsy">Tarragon Theatre</orgName> production of <title level="m">White Biting Dog</title>, annotated with a section of <persName key="Sue LePage" ref="https://www.wikidata.org/wiki/Q56761403" ana="webannotation:http://temp.lincsproject.ca/UXNEmC7tKNK">LePage</persName>'s technical drawings showing her designs for the bridge girders and an image of the bridge they represent.</figDesc>
                         </figure>
                         <figure>
                             <head>Figure 3.16</head>
@@ -24062,6 +24062,95 @@
         "type": "crm:E21_Person",
         "label": "Thompson, Judith, 1954-",
         "description": "Thompson, Judith"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/UXNEmC7tKNK">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/UXNEmC7tKNK",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T15:20:04.794Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/L4FObOV9gTY",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/L4FObOV9gTY/selector/textPosition/uAZbg7btZ8W",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 83303,
+                "end": 83309,
+                "refinedBy": {
+                    "id": "/target/L4FObOV9gTY/selector/textQuote/09DZqHvhQ8N",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "LePage",
+                    "prefix": "15\n                            \n                            Our model of Sue LePage's set for the 1984 Tarragon Theatre production of White Biting Dog, annotated with a section of",
+                    "suffix": "s technical drawings showing her designs for the bridge girders and an image of the bridge they represent"
+                }
+            },
+            {
+                "id": "/target/L4FObOV9gTY/selector/css/Z1mhqF1tISW",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/UXNEmC7tKNK]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q56761403",
+        "label": "Sue LePage",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
