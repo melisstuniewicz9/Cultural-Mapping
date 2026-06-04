@@ -1250,7 +1250,7 @@
                     <bibl>. <title level="a">Undermining the Centre: The Canon According to <orgName key="Canadian Theatre Review" ref="http://viaf.org/viaf/316885640" ana="webannotation:http://temp.lincsproject.ca/qeGE2uEXjTn">CTR</orgName></title>. <title level="j">Theatre Research in Canada / <hi xml:lang="fr-CA">Recherches théâtrales au Canada</hi>
                         </title> 11.2 (1990): 1–4.</bibl>
                     <bibl>Haren, Sam, dir. <title level="m">
-                            <title level="m">Fronteras Americanas</title>, by <persName key="Verdecchia, Guillermo" ref="http://viaf.org/viaf/41927151" ana="webannotation:http://temp.lincsproject.ca/1OoLaUZmszi">Guillermo Verdecchia</persName>. Perf. Alirio Zavarce. Nexus Cabaret, Lion Arts Centre, June 2001</title>. <hi rend="italic">Theatre Australia</hi>.</bibl>
+                            <title level="m">Fronteras Americanas</title>, by <persName key="Verdecchia, Guillermo" ref="http://viaf.org/viaf/41927151" ana="webannotation:http://temp.lincsproject.ca/1OoLaUZmszi">Guillermo Verdecchia</persName>. Perf. Alirio Zavarce. Nexus Cabaret, <placeName key="Lion Arts Centre" ref="https://www.wikidata.org/wiki/Q85776778" ana="webannotation:http://temp.lincsproject.ca/hZPZtHQdc3j">Lion Arts Centre</placeName>, June 2001</title>. <hi rend="italic">Theatre Australia</hi>.</bibl>
                     <bibl>Johnston, <persName key="Johnston, Denis William" ref="http://viaf.org/viaf/107903808" ana="webannotation:http://temp.lincsproject.ca/ecJxvlEnSqZ">Denis</persName>. <title level="m">Diverting the Mainstream: <persName key="Glassco, Bill." ref="http://viaf.org/viaf/22041534" ana="webannotation:http://temp.lincsproject.ca/pYbAb92UoYZ">Bill Glassco</persName> and the Early Years of Tarragon Theatre</title>. N.p.: n.p., 1988. [Available at <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/4DrvP3W4lNN">Tarragon Theatre</orgName>].</bibl>
                     <bibl>. <title level="m">Up the Mainstream: The Rise of Toronto’s Alternative Theatres</title>. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/XiJLV8ihBKS">Toronto</placeName>: University of Toronto Press, 1991.</bibl>
                     <bibl>King’s Visualization Lab. <title level="a">Theatron Final Report</title>. <title level="m">Theatron 3: Educational Undertakings in Second Life</title>. English Subject Centre, The Higher Education Academy, Council for College and University Education, 2009. <ref target="http://www.english.heacademy.ac.uk/explore/projects/archive/technology/tech23.php">http://www.english.heacademy.ac.uk/explore/projects/archive/technology/tech23.php</ref>
@@ -27627,6 +27627,95 @@
         "label": "Gray, John",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/hZPZtHQdc3j">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/hZPZtHQdc3j",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T16:00:20.213Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ej1neU8cNz2",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ej1neU8cNz2/selector/textPosition/gE5dFwp00NH",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 93179,
+                "end": 93195,
+                "refinedBy": {
+                    "id": "/target/ej1neU8cNz2/selector/textQuote/VP1GsByF3KF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Lion Arts Centre",
+                    "prefix": " Nexus Cabaret,",
+                    "suffix": " June 2001"
+                }
+            },
+            {
+                "id": "/target/ej1neU8cNz2/selector/css/E2LtptKFa5m",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/hZPZtHQdc3j]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q85776778",
+        "label": "Lion Arts Centre",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
