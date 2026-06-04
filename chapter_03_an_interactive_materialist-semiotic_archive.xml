@@ -743,7 +743,7 @@
                         <figure>
                             <head>Figure 3.1</head>
                             <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A0597ab68-940e-4764-8244-ce31c72734b9/datastream/JPG-DToC/view"/>
-                            <figDesc>Image of one page from Bluemouth Inc.'s archive of <title level="a">What the Thunder Said</title>, with columns for <q>film projection/sound,</q>
+                            <figDesc>Image of one page from <orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/F4YyaVxcq7P">Bluemouth Inc.'s</orgName> archive of <title level="a">What the Thunder Said</title>, with columns for <q>film projection/sound,</q>
                                 <q>text/song,</q> and <q>movement</q> as performed <q>At the Toronto Warehouse</q> (23).</figDesc>
                         </figure>
                         <figure>
@@ -28606,6 +28606,95 @@
         "label": "Lion Arts Centre",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/F4YyaVxcq7P">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/F4YyaVxcq7P",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T17:44:08.360Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/8JKjDDTj0w9",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/8JKjDDTj0w9/selector/textPosition/AEEgYEGg7Ho",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 41621,
+                "end": 41637,
+                "refinedBy": {
+                    "id": "/target/8JKjDDTj0w9/selector/textQuote/i3D3I3vTD8w",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Bluemouth Inc.'s",
+                    "prefix": "1\n                            \n                            Image of one page from",
+                    "suffix": "archive of What the Thunder Said, with columns for film projection/sound,\n                                text/song, and movement as performed At the Toronto Warehouse (23)"
+                }
+            },
+            {
+                "id": "/target/8JKjDDTj0w9/selector/css/2Tx1echhsvw",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/F4YyaVxcq7P]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q85747909",
+        "label": "Bluemouth Inc",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
