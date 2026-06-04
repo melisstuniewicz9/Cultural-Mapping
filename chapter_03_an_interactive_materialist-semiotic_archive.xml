@@ -510,7 +510,7 @@
                         <ref target="#recognitions">Perhaps in response to such criticism, after three seasons that did not include a single Canadian work, Soulpepper has consistently mounted homegrown Canadian plays as among <q>the world’s best</q> stories <note place="inline">
                                 <bibl>Soulpepper, <title level="a">Archives</title>
                                 </bibl>
-                            </note>. Typically, these plays have been past critical and box office successes, many of which have won Governor General’s Literary Awards, and consequently have seemed unproblematic candidates for inclusion as Canadian <q>classics</q> in the Soulpepper repertoire.<note xml:id="n111" place="end">Since 2007, Soulpepper has mounted David French’s <title level="m">Of the Fields, Lately</title> (Chalmers Award for Best New Canadian Play, 1974), <title level="m">Salt-Water Moon</title> (Nominee for the Governor General’s Literary Award for Drama, 1985), and <title level="m">Jitters</title>; John Gray’s <title level="m">Billy Bishop Goes to War</title> (Chalmers Award for Best New Canadian Play, 1982; Governor General’s Literary Award for Drama, 1982); John Murrell’s <title level="m">Waiting for the Parade</title> (Chalmers Award for Best New Canadian Play, 1977; Governor General’s Lifetime Artistic Achievement Award, 2008); and Sharon Pollock’s <title level="m">Doc</title> (Chalmers Award for Best New Canadian Play, 1984; Governor General’s Literary Award for Drama, 1986).</note>
+                            </note>. Typically, these plays have been past critical and box office successes, many of which have won Governor General’s Literary Awards, and consequently have seemed unproblematic candidates for inclusion as Canadian <q>classics</q> in the Soulpepper repertoire.<note xml:id="n111" place="end">Since 2007, Soulpepper has mounted David French’s <title level="m">Of the Fields, Lately</title> (Chalmers Award for Best New Canadian Play, 1974), <title level="m">Salt-Water Moon</title> (Nominee for the Governor General’s Literary Award for Drama, 1985), and <title level="m">Jitters</title>; <persName key="Gray, John" ref="http://viaf.org/viaf/4270918" ana="webannotation:http://temp.lincsproject.ca/oDsIMaGik1g">John Gray’s</persName> <title level="m">Billy Bishop Goes to War</title> (Chalmers Award for Best New Canadian Play, 1982; Governor General’s Literary Award for Drama, 1982); John Murrell’s <title level="m">Waiting for the Parade</title> (Chalmers Award for Best New Canadian Play, 1977; Governor General’s Lifetime Artistic Achievement Award, 2008); and Sharon Pollock’s <title level="m">Doc</title> (Chalmers Award for Best New Canadian Play, 1984; Governor General’s Literary Award for Drama, 1986).</note>
                         </ref>
                         <ref target="#response_formal">Nonetheless, <persName key="Nestruck, J. Kelly" ref="https://www.wikidata.org/wiki/Q16221465" ana="webannotation:http://temp.lincsproject.ca/2dVImbTZF7k">Nestruck</persName> notes in a generally negative review of the 2011 production of <title level="m">White Biting Dog</title>:</ref>
                     </p>
@@ -27449,6 +27449,95 @@
         "type": "crm:E21_Person",
         "label": "Worthen, William B., 1955-....",
         "description": "Worthen, W. B."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/oDsIMaGik1g">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/oDsIMaGik1g",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T15:58:08.157Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/EugYlmzLFN7",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/EugYlmzLFN7/selector/textPosition/urcWfmcnqE5",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 14348,
+                "end": 14359,
+                "refinedBy": {
+                    "id": "/target/EugYlmzLFN7/selector/textQuote/aDXyKrwXRMX",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "John Gray’s",
+                    "prefix": "Since 2007, Soulpepper has mounted David French’s Of the Fields, Lately (Chalmers Award for Best New Canadian Play, 1974), Salt-Water Moon (Nominee for the Governor General’s Literary Award for Drama, 1985), and Jitters;",
+                    "suffix": "Billy Bishop Goes to War (Chalmers Award for Best New Canadian Play, 1982; Governor General’s Literary Award for Drama, 1982); John Murrell’s Waiting for the Parade (Chalmers Award for Best New Canadian Play, 1977; Governor General’s Lifetime Artistic Achievement Award, 2008); and Sharon Pollock’s Doc (Chalmers Award for Best New Canadian Play, 1984; Governor General’s Literary Award for Drama, 1986)"
+                }
+            },
+            {
+                "id": "/target/EugYlmzLFN7/selector/css/s0FgjtDpZjI",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/oDsIMaGik1g]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/4270918",
+        "label": "Gray, John",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
