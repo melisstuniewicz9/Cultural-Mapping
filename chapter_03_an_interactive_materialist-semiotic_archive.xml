@@ -637,7 +637,7 @@
                     <p xml:id="p1148">
                         <ref target="#intellectual_history">
                             <ref target="#canon_formation">
-                                <ref target="#genre_performance">The memory of the 1984 production was at the forefront of Palk’s mind as she approached her own production. Palk recalled a <q>fantastic</q> opening night, while <persName key="Verdecchia, Guillermo" ref="http://viaf.org/viaf/41927151" ana="webannotation:http://temp.lincsproject.ca/MCOliz03UGa">Verdecchia</persName> and Warren revisited a previously successful production; both revivals were framed by Soulpepper as attempts to return in some way to a performed ideal, rather than a textual one. This was arguably a radical and progressive departure from traditional constructions of the Canadian canon, and one that reflected a movement (pace <persName key="Nestruck, J. Kelly" ref="https://www.wikidata.org/wiki/Q16221465" ana="webannotation:http://temp.lincsproject.ca/S2lluJVITvI">Nestruck</persName>) in both critical and academic circles. As Bruce Barton asks, <q>why not push hard on (even against) the historical preoccupation with a Canadian dramatic canon?</q>
+                                <ref target="#genre_performance">The memory of the 1984 production was at the forefront of <persName key="Palk, Nancy" ref="http://viaf.org/viaf/171998404" ana="webannotation:http://temp.lincsproject.ca/pgnGjRlNNTR">Palk</persName>’s mind as she approached her own production. <persName key="Palk, Nancy" ref="http://viaf.org/viaf/171998404" ana="webannotation:http://temp.lincsproject.ca/Cc6Fxu32Ynl">Palk</persName> recalled a <q>fantastic</q> opening night, while <persName key="Verdecchia, Guillermo" ref="http://viaf.org/viaf/41927151" ana="webannotation:http://temp.lincsproject.ca/MCOliz03UGa">Verdecchia</persName> and Warren revisited a previously successful production; both revivals were framed by Soulpepper as attempts to return in some way to a performed ideal, rather than a textual one. This was arguably a radical and progressive departure from traditional constructions of the Canadian canon, and one that reflected a movement (pace <persName key="Nestruck, J. Kelly" ref="https://www.wikidata.org/wiki/Q16221465" ana="webannotation:http://temp.lincsproject.ca/S2lluJVITvI">Nestruck</persName>) in both critical and academic circles. As Bruce Barton asks, <q>why not push hard on (even against) the historical preoccupation with a Canadian dramatic canon?</q>
                                 </ref>
                             </ref>
                         </ref>
@@ -24158,6 +24158,182 @@
         "type": "crm:E21_Person",
         "label": "Thompson, Judith, 1954-",
         "description": "Thompson, Judith"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/pgnGjRlNNTR">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/pgnGjRlNNTR",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T15:35:38.147Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/rka5HgnZ6VJ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/rka5HgnZ6VJ/selector/textPosition/rqBqSNE6p0g",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28573,
+                "end": 28577,
+                "refinedBy": {
+                    "id": "/target/rka5HgnZ6VJ/selector/textQuote/rw3krMAgl7G",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Palk",
+                    "prefix": " \n                            Soulpepper, White Biting Dog\n                            \n                        \n                    \n                    \n                        \n                            \n                                The memory of the 1984 production was at the forefront of",
+                    "suffix": "s mind as she approached her own production"
+                }
+            },
+            {
+                "id": "/target/rka5HgnZ6VJ/selector/css/YkbpYkrTiXd",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/pgnGjRlNNTR]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/171998404",
+        "type": "crm:E21_Person",
+        "label": "Palk, Nancy"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Cc6Fxu32Ynl">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Cc6Fxu32Ynl",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T15:35:38.716Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4qlBIf08ClR",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4qlBIf08ClR/selector/textPosition/hif3Z2UObWH",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28623,
+                "end": 28627,
+                "refinedBy": {
+                    "id": "/target/4qlBIf08ClR/selector/textQuote/VUNccZCVU9V",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Palk",
+                    "prefix": "",
+                    "suffix": "recalled a fantastic opening night, while Verdecchia and Warren revisited a previously successful production; both revivals were framed by Soulpepper as attempts to return in some way to a performed ideal, rather than a textual one"
+                }
+            },
+            {
+                "id": "/target/4qlBIf08ClR/selector/css/uLQoO2aHVby",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Cc6Fxu32Ynl]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/171998404",
+        "type": "crm:E21_Person",
+        "label": "Palk, Nancy"
     },
     "P2_has_type": [
         "oa:identifying"
