@@ -1262,7 +1262,7 @@
                     <bibl>. <title level="m">Reading the Material Theatre</title>. Cambridge: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/oBKGInIEHZ2">Cambridge University Press</orgName>, 1994.</bibl>
                     <bibl>. <title level="a">Voices (Off): Deconstructing the Modern English-Canadian Dramatic Canon</title>. <title level="m">Canadian Canons: Essays in Literary Value</title>. Ed. Robert Lecker. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/uStDTlImhdz">Toronto</placeName>: University of Toronto Press, 1991. 91–111.</bibl>
                     <bibl>LePage, Sue, des. <title level="a">Technical drawings for <title level="m">White Biting Dog</title>, by <persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/epCvS4iTugB">Judith Thompson</persName></title>. Tarragon Theatre, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/4hd1UYQwSm9">Toronto</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943 " ana="webannotation:http://temp.lincsproject.ca/lvaN6W2AzjQ">ON</placeName>, 1984. L.W. Conolly Theatre Archives, University of Guelph Library, <placeName key="Guelph" ref="https://sws.geonames.org/5967629" ana="webannotation:http://temp.lincsproject.ca/68l0n0R7yx6">Guelph</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943 " ana="webannotation:http://temp.lincsproject.ca/wqpckdQTCj5">ON</placeName>.</bibl>
-                    <bibl>Loiselle, André. <title level="a">Review of <title level="m">Modern Canadian Plays</title>, ed. Jerry Wasserman</title>. <title level="j">Theatre Research in Canada / <hi xml:lang="fr-CA">Recherches théâtrales au Canada</hi>
+                    <bibl><persName key="Loiselle, André, 1963-" ref="http://viaf.org/viaf/51836732" ana="webannotation:http://temp.lincsproject.ca/U4YlZKUfw6h">Loiselle</persName>, André. <title level="a">Review of <title level="m">Modern Canadian Plays</title>, ed. Jerry Wasserman</title>. <title level="j">Theatre Research in Canada / <hi xml:lang="fr-CA">Recherches théâtrales au Canada</hi>
                         </title> 16.1 (1995). <ref target="http://journals.hil.unb.ca/index.php/tric/article/view/7190/8249">http://journals.hil.unb.ca/index.php/tric/article/view/7190/8249</ref>
                     </bibl>
                     <bibl>MacDorman, Karl F., Robert Green, Chin-Chang Ho, and Clinton T. Koch. <title level="a">Too Real for Comfort? Uncanny Responses to Computer Generated Faces</title>. <title level="j">Computers in Human Behaviour</title> 25.3 (2009): 695–710.</bibl>
@@ -18222,6 +18222,95 @@
         "type": "crm:E21_Person",
         "label": "Roach, Joseph R., 1947-....",
         "description": "Roach, Joseph R."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/U4YlZKUfw6h">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/U4YlZKUfw6h",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T00:52:56.772Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/DMXSu570swL",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/DMXSu570swL/selector/textPosition/57Jx9MxxU5i",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 94987,
+                "end": 94995,
+                "refinedBy": {
+                    "id": "/target/DMXSu570swL/selector/textQuote/l7xMhZ5XS6I",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Loiselle",
+                    "prefix": "\n                   ",
+                    "suffix": " André"
+                }
+            },
+            {
+                "id": "/target/DMXSu570swL/selector/css/qJmknPYK9dk",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/U4YlZKUfw6h]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/51836732",
+        "type": "crm:E21_Person",
+        "label": "Loiselle, André, 1963-",
+        "description": "Loiselle, André"
     },
     "P2_has_type": [
         "oa:identifying"
