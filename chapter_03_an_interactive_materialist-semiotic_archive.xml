@@ -492,7 +492,7 @@
                                     <ref target="#politics">
                                         <ref target="#intertextuality"><persName key="Benson, Eugene." ref="http://viaf.org/viaf/94502240" ana="webannotation:http://temp.lincsproject.ca/b5nMEM7iS12">Eugene Benson</persName> and <persName key="Conolly, L.W. (Leonard W.)" ref="http://viaf.org/viaf/24632037" ana="webannotation:http://temp.lincsproject.ca/eATKmYBFdMg">L.W. Conolly</persName> suggest that the <q>alternate theatre in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/mpU3PT6VMQg">Canada</placeName> emerged in the 1960’s</q> and was <q>prompted by a changing political climate at home and a groundswell of interest in Canadian history, culture, and institutions</q>
                                             <bibl>85</bibl>. They identify Toronto Workshop Productions (<abbr>TWP</abbr>) under the leadership of <persName key="Luscombe, George, 1926-1999" ref="http://viaf.org/viaf/26315583" ana="webannotation:http://temp.lincsproject.ca/axwjvkJkWl9">George Luscombe</persName> as the <q>forerunner</q>
-                                            <bibl>Benson and Conolly 86</bibl> to this movement</ref>. Other significant companies include Factory Theatre Lab (now Factory Theatre), <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/GodhivQDqKz">Tarragon Theatre</orgName>, and Theatre Passe Muraille (<abbr>TPM</abbr>). <ref target="#intertextuality">For a more thorough discussion of the history and characteristics of this movement, see <persName key="Johnston, Denis William" ref="http://viaf.org/viaf/107903808" ana="webannotation:http://temp.lincsproject.ca/PRpkyMvz7m8">Denis Johnston’s</persName> <title level="m">Up the Mainstream: The Rise of Toronto’s Alternative Theatres</title>. For a more detailed analysis of <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/pTKDZY8iPV3">Tarragon</orgName>’s position within that framework, see Johnston’s <title level="m">Diverting the Mainstream: Bill Glassco and the Early Years of Tarragon Theatre</title>
+                                            <bibl>Benson and <persName key="Connolly, John, 1968-...." ref="http://viaf.org/viaf/118300266" ana="webannotation:http://temp.lincsproject.ca/N5S9z83sktg">Conolly</persName> 86</bibl> to this movement</ref>. Other significant companies include Factory Theatre Lab (now Factory Theatre), <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/GodhivQDqKz">Tarragon Theatre</orgName>, and Theatre Passe Muraille (<abbr>TPM</abbr>). <ref target="#intertextuality">For a more thorough discussion of the history and characteristics of this movement, see <persName key="Johnston, Denis William" ref="http://viaf.org/viaf/107903808" ana="webannotation:http://temp.lincsproject.ca/PRpkyMvz7m8">Denis Johnston’s</persName> <title level="m">Up the Mainstream: The Rise of Toronto’s Alternative Theatres</title>. For a more detailed analysis of <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/pTKDZY8iPV3">Tarragon</orgName>’s position within that framework, see Johnston’s <title level="m">Diverting the Mainstream: Bill Glassco and the Early Years of Tarragon Theatre</title>
                                         </ref>
                                     </ref>.</note>
                                 <ref target="#politics">The nationalism at <orgName key="Soulpepper Theatre Co" ref="https://www.wikidata.org/wiki/Q7564521" ana="webannotation:http://temp.lincsproject.ca/doBuERPs348">Soulpepper</orgName>’s core was located instead in its self-designation as a <q>classical repertory theatre company</q> with a mandate to <q>tell the world’s greatest stories in vital Canadian interpretations</q>
@@ -22917,6 +22917,95 @@
         "type": "crm:E21_Person",
         "label": "Conolly, L.W. (Leonard W.)",
         "description": "Conolly, Leonard W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/N5S9z83sktg">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/N5S9z83sktg",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T15:44:20.778Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/FFZgzd53wHy",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/FFZgzd53wHy/selector/textPosition/uxnuZFUqw5r",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 11725,
+                "end": 11732,
+                "refinedBy": {
+                    "id": "/target/FFZgzd53wHy/selector/textQuote/R2OBaO9IVAC",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Conolly",
+                    "prefix": " They identify Toronto Workshop Productions (TWP) under the leadership of George Luscombe as the forerunner\n                                            Benson and",
+                    "suffix": "86 to this movement"
+                }
+            },
+            {
+                "id": "/target/FFZgzd53wHy/selector/css/QxnyaEhszEa",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/N5S9z83sktg]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/118300266",
+        "type": "crm:E21_Person",
+        "label": "Connolly, John, 1968-....",
+        "description": "Connolly, John"
     },
     "P2_has_type": [
         "oa:identifying"
