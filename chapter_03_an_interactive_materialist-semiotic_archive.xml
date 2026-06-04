@@ -851,7 +851,7 @@
                                     <abbr>SET</abbr> approaches the archive from a materialist-semiotic perspective, potentially foregrounding the archival function of the <figure>
                                         <head>Figure 3.4</head>
                                         <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A4edc4c2c-7fe6-42dc-b97e-5d32ed623781/datastream/JPG-DToC/view"/>
-                                        <figDesc>An excerpt from the opening sequence of Judith Thompson's <title level="m">White Biting Dog</title>, as performed by Soulpepper Theatre in 2011. <abbr>SET</abbr>'s Reading, Character, and Stage Views are linked by the central Line of Action and can be optionally annotated.</figDesc>
+                                        <figDesc>An excerpt from the opening sequence of Judith Thompson's <title level="m">White Biting Dog</title>, as performed by <orgName key="Soulpepper Theatre Co" ref="https://www.wikidata.org/wiki/Q7564521" ana="webannotation:http://temp.lincsproject.ca/PCFJ6DpCTn7">Soulpepper Theatre</orgName> in 2011. <abbr>SET</abbr>'s Reading, Character, and Stage Views are linked by the central Line of Action and can be optionally annotated.</figDesc>
                                     </figure> repertoire (to return to Taylor’s term) by taking account of the shifting relationships between Knowles’s poles of performance <q>text,</q> conditions of production, and reception. <ref target="#theory">Its interface offers three <q>Views,</q> or distinct areas, linked by means of a central <q>Line of Action</q> analogous to a timeline. The Reading View contains text and annotations in parallel, two-dimensional panels. The Character View provides a list of characters and indicates which characters are on stage—speaking or silent—at any given point in a text or performance. The Stage View shows a scaled, three-dimensional model of a performance environment, populated by abstract avatars that can be moved around in the space, and optionally annotated with text or images (see Figure 3.4).</ref>
                                 </ref>
                             </ref>
@@ -22632,6 +22632,95 @@
         "type": "crm:E74_Group",
         "label": "Coach house press",
         "description": "Coach house press Toronto, Canada"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/PCFJ6DpCTn7">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/PCFJ6DpCTn7",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T14:41:24.297Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/UQ6kq95YiQj",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/UQ6kq95YiQj/selector/textPosition/YqCZTNPUihu",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 51817,
+                "end": 51835,
+                "refinedBy": {
+                    "id": "/target/UQ6kq95YiQj/selector/textQuote/UB8GD8cMC2i",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Soulpepper Theatre",
+                    "prefix": "4\n                                        \n                                        An excerpt from the opening sequence of Judith Thompson's White Biting Dog, as performed by",
+                    "suffix": "in 2011"
+                }
+            },
+            {
+                "id": "/target/UQ6kq95YiQj/selector/css/m5sZxqitkFt",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/PCFJ6DpCTn7]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q7564521",
+        "label": "Soulpepper Theatre Co",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
