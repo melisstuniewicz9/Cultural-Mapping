@@ -1149,7 +1149,7 @@
                         </ref> It also permits analyses of records, such <figure>
                             <head>Figure 3.15</head>
                             <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A6c02f8c0-d1a3-4729-88a0-4259b66278e9/datastream/JPG-DToC/view"/>
-                            <figDesc>Our model of <persName key="Sue LePage" ref="https://www.wikidata.org/wiki/Q56761403" ana="webannotation:http://temp.lincsproject.ca/F77z7c97pfA">Sue LePage's</persName> set for the 1984 <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/TdCLzkvMgsy">Tarragon Theatre</orgName> production of <title level="m">White Biting Dog</title>, annotated with a section of <persName key="Sue LePage" ref="https://www.wikidata.org/wiki/Q56761403" ana="webannotation:http://temp.lincsproject.ca/UXNEmC7tKNK">LePage</persName>'s technical drawings showing her designs for the bridge girders and an image of the bridge they represent.</figDesc>
+                            <figDesc>Our model of <persName key="LePage, Sue" ref="https://www.wikidata.org/wiki/Q56761403" ana="webannotation:http://temp.lincsproject.ca/MsdXCUr2FZJ">Sue LePage's</persName> set for the 1984 <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/TdCLzkvMgsy">Tarragon Theatre</orgName> production of <title level="m">White Biting Dog</title>, annotated with a section of <persName key="Sue LePage" ref="https://www.wikidata.org/wiki/Q56761403" ana="webannotation:http://temp.lincsproject.ca/UXNEmC7tKNK">LePage</persName>'s technical drawings showing her designs for the bridge girders and an image of the bridge they represent.</figDesc>
                         </figure>
                         <figure>
                             <head>Figure 3.16</head>
@@ -26391,20 +26391,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/F77z7c97pfA">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/MsdXCUr2FZJ">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/F77z7c97pfA",
+    "id": "http://temp.lincsproject.ca/MsdXCUr2FZJ",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-06-04T15:19:27.699Z",
+    "created": "2026-06-04T18:21:26.133Z",
     "creator": {
         "id": "https://github.com/melisstuniewicz9",
         "type": "crm:E21_Person",
@@ -26464,12 +26464,20 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/F77z7c97pfA]"
+            },
+            {
+                "id": "/target/ZXaKIEVbfBm/selector/css/FHWZVjJTzMl",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/MsdXCUr2FZJ]"
             }
         ]
     },
     "body": {
         "id": "https://www.wikidata.org/wiki/Q56761403",
-        "label": "Sue LePage",
+        "label": "LePage, Sue",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
     },
