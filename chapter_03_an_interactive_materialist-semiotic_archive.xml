@@ -517,7 +517,7 @@
                     <q type="block">
                         <ref target="#response_formal">
                             <ref target="#genre_performance">
-                                <ref target="#recognitions">While it’s unlikely that Soulpepper picks its Canadian programming by throwing darts at a list of past winners of the Governor General’s Award for Drama, it can sometimes seem like that’s the case. Sticking to plays that have previously made the <abbr>GG</abbr> grade has served the company well in the past, with the Eric Peterson-<persName key="Gray, John" ref="http://viaf.org/viaf/4270918" ana="webannotation:http://temp.lincsproject.ca/9Xo5nR6O4Rv">John Gray</persName> hit <title level="m">Billy Bishop Goes to War</title> and Sharon Pollock’s <title level="m">Doc</title>
+                                <ref target="#recognitions">While it’s unlikely that Soulpepper picks its Canadian programming by throwing darts at a list of past winners of the Governor General’s Award for Drama, it can sometimes seem like that’s the case. Sticking to plays that have previously made the <abbr>GG</abbr> grade has served the company well in the past, with the Eric Peterson-<persName key="Gray, John" ref="http://viaf.org/viaf/4270918" ana="webannotation:http://temp.lincsproject.ca/9Xo5nR6O4Rv">John Gray</persName> hit <title level="m">Billy Bishop Goes to War</title> and <persName key="Pollock, Sharon" ref="http://viaf.org/viaf/34673422" ana="webannotation:http://temp.lincsproject.ca/KeC7UgEQfqT">Sharon Pollock’s</persName> <title level="m">Doc</title>
                                 </ref>. But this season it’s proved more problematic</ref>
                         </ref>. <note place="inline">
                             <bibl>
@@ -31276,6 +31276,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/QzkLx9HkmKp]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/34673422",
+        "label": "Pollock, Sharon",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/KeC7UgEQfqT">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/KeC7UgEQfqT",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-05T13:46:28.624Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Ry0yRH67LQZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Ry0yRH67LQZ/selector/textPosition/ZBU9IK57DI6",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15407,
+                "end": 15423,
+                "refinedBy": {
+                    "id": "/target/Ry0yRH67LQZ/selector/textQuote/93SYmXWG6d7",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Sharon Pollock’s",
+                    "prefix": " Sticking to plays that have previously made the GG grade has served the company well in the past, with the Eric Peterson-John Gray hit Billy Bishop Goes to War and",
+                    "suffix": "Doc\n                                "
+                }
+            },
+            {
+                "id": "/target/Ry0yRH67LQZ/selector/css/TBUYLsDcy8R",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/KeC7UgEQfqT]"
             }
         ]
     },
