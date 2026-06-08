@@ -557,7 +557,7 @@
                                     <note place="inline">
                                         <bibl>
                                             <title level="a">Undermining</title> 1</bibl>
-                                    </note>. The Massey Commission achieved much of its desired aim. The commission’s position, for example, informed the practices of founding editor <persName key="Rubin, Don." ref="http://viaf.org/viaf/17360486" ana="webannotation:http://temp.lincsproject.ca/2iFZMh7sSgx">Don Rubin</persName> of the <title level="j">Canadian Theatre Review</title> (<hi rend="sc-italic">
+                                    </note>. <orgName key="Canada. Royal Commission on National Development in the Arts, Letters and Sciences" ref="http://viaf.org/viaf/126605292" ana="webannotation:http://temp.lincsproject.ca/ky2OxSe2Pfy">The Massey Commission</orgName> achieved much of its desired aim. The commission’s position, for example, informed the practices of founding editor <persName key="Rubin, Don." ref="http://viaf.org/viaf/17360486" ana="webannotation:http://temp.lincsproject.ca/2iFZMh7sSgx">Don Rubin</persName> of the <title level="j">Canadian Theatre Review</title> (<hi rend="sc-italic">
                                         <abbr><orgName key="Canadian Theatre Review" ref="http://viaf.org/viaf/316885640" ana="webannotation:http://temp.lincsproject.ca/r2k9bFv3CCL">CTR</orgName></abbr>
                                     </hi>) <note place="inline">
                                         <bibl>Filewod, <title level="a">Undermining</title> 1</bibl>
@@ -36354,6 +36354,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/LyJylG7ctEN]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/126605292",
+        "label": "Canada. Royal Commission on National Development in the Arts, Letters and Sciences",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ky2OxSe2Pfy">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ky2OxSe2Pfy",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T20:55:39.208Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/HeWAnAVA9NW",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/HeWAnAVA9NW/selector/textPosition/WZqVplUHT7a",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 18947,
+                "end": 18968,
+                "refinedBy": {
+                    "id": "/target/HeWAnAVA9NW/selector/textQuote/OHcEl4d3t33",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "The Massey Commission",
+                    "prefix": "",
+                    "suffix": "achieved much of its desired aim"
+                }
+            },
+            {
+                "id": "/target/HeWAnAVA9NW/selector/css/GVyHkLAC17l",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ky2OxSe2Pfy]"
             }
         ]
     },
