@@ -579,10 +579,10 @@
                         <ref target="#intellectual_history">
                             <ref target="#critique_of_canon">The alternative theatre movement of the 1970s, with its early emphasis on <ref target="#collaboration">collectively created works</ref>, has been read historically as a protest against regional theatres’ failure to get <q>in touch</q> with Canadian voices (a failure that has been blamed on the British organizational model inherited from <persName key="Massey, Vincent" ref="http://viaf.org/viaf/115746946" ana="webannotation:http://temp.lincsproject.ca/BN7D8PE6UXU">Vincent Massey</persName>, along with his aspirations for a Canadian literary canon)</ref>.<note xml:id="n121" place="end">The development of a number of regional theatres in major urban centres throughout <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/fA9XwcuZv8P">Canada</placeName> was part of the <q>monument complex</q> or <q>edifice complex</q> at work in the late 1950s to the early 1970s Canadian theatrical ecology (see <persName key="Kilbourn, William" ref="http://viaf.org/viaf/163979153" ana="webannotation:http://temp.lincsproject.ca/Yikp79KDT5p">Kilbourn</persName> et al.). <ref target="#economics">Public investment in theatre buildings and infrastructure (<orgName key="Arts Club Theatre Company" ref="http://viaf.org/viaf/126996487" ana="webannotation:http://temp.lincsproject.ca/BcAHn0TWZHH">Arts Club Theatre</orgName>, <orgName key="Vancouver Playhouse" ref="https://www.wikidata.org/wiki/Q7914233" ana="webannotation:http://temp.lincsproject.ca/hhzTO9sI5Og">Vancouver Playhouse</orgName>, <orgName key="Theatre Calgary" ref="https://www.wikidata.org/wiki/Q7777356" ana="webannotation:http://temp.lincsproject.ca/Ra4gp72eYQV">Theatre Calgary</orgName>, <orgName key="Citadel Theatre" ref="http://viaf.org/viaf/153552070" ana="webannotation:http://temp.lincsproject.ca/5Jm8oNNhgWd">Citadel Theatre</orgName>, Globe Theatre, <orgName key="Manitoba Theatre Centre" ref="http://viaf.org/viaf/250633674" ana="webannotation:http://temp.lincsproject.ca/WqkCJUTJA1E">Royal Manitoba Theatre Centre</orgName>, Neptune Theatre, Theatre New Brunswick) was made in the wake of the Massey Report of 1951, which also led to the establishment in 1957 of the Canada Council for the Arts (a government subsidy system to the arts)</ref>. Many of the regional theatres are characterized conventionally as endorsing <q>conservative repertoires, a mistrust of Canadian drama, <ref target="#class">middle-class audiences</ref>, and a marked tendency to prefer foreign, usually British, artistic directors</q>
                                 <note place="inline">
-                                    <bibl><orgName key="Filewod, Alan" ref="http://viaf.org/viaf/51716885" ana="webannotation:http://temp.lincsproject.ca/dtQn68C4MMc">Filewod</orgName>, <title level="a">Erasing</title> 202</bibl>
+                                    <bibl>, <title level="a">Erasing</title> 202</bibl>
                                 </note>. <ref target="#intellectual_history">Alan Filewod notes that the alternative houses of <abbr>TPM</abbr>, <abbr><orgName key="Toronto Workshop Productions" ref="http://viaf.org/viaf/136204577" ana="webannotation:http://temp.lincsproject.ca/vvIkY9dvSEj">TWP</orgName></abbr>, and <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/4dQC9NnDRb6">Tarragon</orgName>, in the late 1960s to the mid-1970s ushered in a <q>historical crisis</q> by <q>overshadow[ing]</q> and <q>challeng[ing]</q> regional theatres with an <q>experimental</q> and <q>nationalistic</q> fervour that has been characterized as a kind of <q>cultural heroism</q>
                                     <bibl>
-                                        <title level="a">Erasing</title> 202</bibl>. See <orgName key="Filewod, Alan" ref="http://viaf.org/viaf/51716885" ana="webannotation:http://temp.lincsproject.ca/yKiHYhJ3Oj0">Filewod</orgName>, <title level="a">Erasing Historical Difference</title>; <title key="Knowles, Richard Paul" ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/svTObsYc1Fa">Knowles</title>, <title level="m">Reading the Material Theatre</title>; and note 5 below for a more complex discussion of the methodological dangers of this <q>mainstream/alternative paradigm</q>
+                                        <title level="a">Erasing</title> 202</bibl>. See <orgName key="Filewod, Alan" ref="http://viaf.org/viaf/51716885" ana="webannotation:http://temp.lincsproject.ca/yKiHYhJ3Oj0 webannotation:http://temp.lincsproject.ca/cc2BG35cV7f">Filewod</orgName>, <title level="a">Erasing Historical Difference</title>; <title key="Knowles, Richard Paul" ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/svTObsYc1Fa">Knowles</title>, <title level="m">Reading the Material Theatre</title>; and note 5 below for a more complex discussion of the methodological dangers of this <q>mainstream/alternative paradigm</q>
                                     <bibl><orgName key="Filewod, Alan" ref="http://viaf.org/viaf/51716885" ana="webannotation:http://temp.lincsproject.ca/NcQe4QrqYlh">Filewod</orgName>, <title level="a">Erasing</title> 202</bibl>.</ref>
                             </note>
                             <ref target="#response_recent">More recent scholarship, however, has challenged the <q>mythological nature of [that] history</q> (<note place="inline">
@@ -36904,20 +36904,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/dtQn68C4MMc">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/BRZAQrm5cXX">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/dtQn68C4MMc",
+    "id": "http://temp.lincsproject.ca/BRZAQrm5cXX",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-06-08T21:25:21.408Z",
+    "created": "2026-06-08T21:27:11.563Z",
     "creator": {
         "id": "https://github.com/melisstuniewicz9",
         "type": "crm:E21_Person",
@@ -36977,14 +36977,22 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/dtQn68C4MMc]"
+            },
+            {
+                "id": "/target/gHum7ilRBTP/selector/css/p0D51PX0JlS",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/BRZAQrm5cXX]"
             }
         ]
     },
     "body": {
         "id": "http://viaf.org/viaf/51716885",
         "label": "Filewod, Alan",
-        "type": "crm:E74_Group",
-        "entityType": "crm:E74_Group"
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
@@ -36993,20 +37001,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/yKiHYhJ3Oj0">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/cc2BG35cV7f">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/yKiHYhJ3Oj0",
+    "id": "http://temp.lincsproject.ca/cc2BG35cV7f",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-06-08T21:25:38.545Z",
+    "created": "2026-06-08T21:27:42.941Z",
     "creator": {
         "id": "https://github.com/melisstuniewicz9",
         "type": "crm:E21_Person",
@@ -37066,14 +37074,22 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/yKiHYhJ3Oj0]"
+            },
+            {
+                "id": "/target/jGHErjI3K2p/selector/css/vJI9YnYH4TV",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/cc2BG35cV7f]"
             }
         ]
     },
     "body": {
         "id": "http://viaf.org/viaf/51716885",
         "label": "Filewod, Alan",
-        "type": "crm:E74_Group",
-        "entityType": "crm:E74_Group"
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
