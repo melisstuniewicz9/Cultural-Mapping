@@ -1241,7 +1241,7 @@
                         <title level="j">National Post</title> 26 August 2011. <ref target="http://arts.nationalpost.com/2011/08/26/theatre-reviews-savage-whimsy-in-white-biting-dog-and-cirques-totem">http://arts.nationalpost.com/2011/08/26/theatre-reviews-savage-whimsy-in-white-biting-dog-and-cirques-totem</ref>
                     </bibl>
                     <bibl>DeSouza-Coelho, Shawn. <title level="m">[<placeName key="Prince Edward Viaduct" ref="http://www.wikidata.org/entity/Q2110325" ana="webannotation:http://temp.lincsproject.ca/IO2drKlH4hs">Bloor Street Viaduct</placeName>, Street View.]</title> <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/9pfauUGJL8E">Toronto</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/EcKaj8uSuj6">Ontario</placeName>, 2012.</bibl>
-                    <bibl>Dondis, Donis A. <title level="m">A Primer of Visual Literacy</title>. Cambridge, MA: <orgName key="MIT Press" ref="http://viaf.org/viaf/159490691" ana="webannotation:http://temp.lincsproject.ca/WGuWnAeEtMB">MIT Press</orgName>, 1973.</bibl>
+                    <bibl>Dondis, Donis A. <title level="m">A Primer of Visual Literacy</title>. <placeName key="Cambridge" ref="https://sws.geonames.org/4931972" ana="webannotation:http://temp.lincsproject.ca/upSe3tSvPQ3">Cambridge</placeName>, MA: <orgName key="MIT Press" ref="http://viaf.org/viaf/159490691" ana="webannotation:http://temp.lincsproject.ca/WGuWnAeEtMB">MIT Press</orgName>, 1973.</bibl>
                     <bibl><persName key="Glassco, Bill." ref="http://viaf.org/viaf/22041534" ana="webannotation:http://temp.lincsproject.ca/6NuZI6kqy9c">Glassco</persName>, <persName key="Glassco, Bill." ref="http://viaf.org/viaf/22041534" ana="webannotation:http://temp.lincsproject.ca/2xuuWYWTmB4">Bill</persName>, dir. <title level="m">
                             <title level="m">White Biting Dog</title>, by <persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/FtXE069qZM6">Judith Thompson</persName>. Set Sue LePage. Perf. Jackie Burroughs, Clare Coulter, Hardee T. Lineham, Stephen Ouimette, Larry Reynolds</title>. Archival <abbr>VHS</abbr>, Private Collection, <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/dAbW4PQ1Bi8">Tarragon Theatre</orgName>, 1984.</bibl>
                     <bibl>Filewod, Alan. <title level="a">Erasing Historical Difference: The Alternative Orthodoxy in Canadian Theatre</title>. <title level="j">Theatre Journal</title> 41 (May 1989): 201–10.</bibl>
@@ -38853,6 +38853,95 @@
         "type": "crm:E74_Group",
         "label": "University of Toronto Press",
         "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/upSe3tSvPQ3">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/upSe3tSvPQ3",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T18:39:59.100Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/AJX0KrRFeog",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/AJX0KrRFeog/selector/textPosition/fTgIVOuxxvD",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 91986,
+                "end": 91995,
+                "refinedBy": {
+                    "id": "/target/AJX0KrRFeog/selector/textQuote/YJD3NYoD0rS",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Cambridge",
+                    "prefix": "",
+                    "suffix": " MA: MIT Press, 1973"
+                }
+            },
+            {
+                "id": "/target/AJX0KrRFeog/selector/css/z376MFmEcXm",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/upSe3tSvPQ3]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/4931972",
+        "label": "Cambridge",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
