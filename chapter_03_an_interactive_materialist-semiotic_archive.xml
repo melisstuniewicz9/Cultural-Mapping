@@ -579,10 +579,10 @@
                         <ref target="#intellectual_history">
                             <ref target="#critique_of_canon">The alternative theatre movement of the 1970s, with its early emphasis on <ref target="#collaboration">collectively created works</ref>, has been read historically as a protest against regional theatres’ failure to get <q>in touch</q> with Canadian voices (a failure that has been blamed on the British organizational model inherited from <persName key="Massey, Vincent" ref="http://viaf.org/viaf/115746946" ana="webannotation:http://temp.lincsproject.ca/BN7D8PE6UXU">Vincent Massey</persName>, along with his aspirations for a Canadian literary canon)</ref>.<note xml:id="n121" place="end">The development of a number of regional theatres in major urban centres throughout <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/fA9XwcuZv8P">Canada</placeName> was part of the <q>monument complex</q> or <q>edifice complex</q> at work in the late 1950s to the early 1970s Canadian theatrical ecology (see <persName key="Kilbourn, William" ref="http://viaf.org/viaf/163979153" ana="webannotation:http://temp.lincsproject.ca/Yikp79KDT5p">Kilbourn</persName> et al.). <ref target="#economics">Public investment in theatre buildings and infrastructure (<orgName key="Arts Club Theatre Company" ref="http://viaf.org/viaf/126996487" ana="webannotation:http://temp.lincsproject.ca/BcAHn0TWZHH">Arts Club Theatre</orgName>, <orgName key="Vancouver Playhouse" ref="https://www.wikidata.org/wiki/Q7914233" ana="webannotation:http://temp.lincsproject.ca/hhzTO9sI5Og">Vancouver Playhouse</orgName>, <orgName key="Theatre Calgary" ref="https://www.wikidata.org/wiki/Q7777356" ana="webannotation:http://temp.lincsproject.ca/Ra4gp72eYQV">Theatre Calgary</orgName>, <orgName key="Citadel Theatre" ref="http://viaf.org/viaf/153552070" ana="webannotation:http://temp.lincsproject.ca/5Jm8oNNhgWd">Citadel Theatre</orgName>, Globe Theatre, <orgName key="Manitoba Theatre Centre" ref="http://viaf.org/viaf/250633674" ana="webannotation:http://temp.lincsproject.ca/WqkCJUTJA1E">Royal Manitoba Theatre Centre</orgName>, Neptune Theatre, Theatre New Brunswick) was made in the wake of the Massey Report of 1951, which also led to the establishment in 1957 of the Canada Council for the Arts (a government subsidy system to the arts)</ref>. Many of the regional theatres are characterized conventionally as endorsing <q>conservative repertoires, a mistrust of Canadian drama, <ref target="#class">middle-class audiences</ref>, and a marked tendency to prefer foreign, usually British, artistic directors</q>
                                 <note place="inline">
-                                    <bibl>Filewod, <title level="a">Erasing</title> 202</bibl>
+                                    <bibl><orgName key="Filewod, Alan" ref="http://viaf.org/viaf/51716885" ana="webannotation:http://temp.lincsproject.ca/dtQn68C4MMc">Filewod</orgName>, <title level="a">Erasing</title> 202</bibl>
                                 </note>. <ref target="#intellectual_history">Alan Filewod notes that the alternative houses of <abbr>TPM</abbr>, <abbr><orgName key="Toronto Workshop Productions" ref="http://viaf.org/viaf/136204577" ana="webannotation:http://temp.lincsproject.ca/vvIkY9dvSEj">TWP</orgName></abbr>, and <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/4dQC9NnDRb6">Tarragon</orgName>, in the late 1960s to the mid-1970s ushered in a <q>historical crisis</q> by <q>overshadow[ing]</q> and <q>challeng[ing]</q> regional theatres with an <q>experimental</q> and <q>nationalistic</q> fervour that has been characterized as a kind of <q>cultural heroism</q>
                                     <bibl>
-                                        <title level="a">Erasing</title> 202</bibl>. See Filewod, <title level="a">Erasing Historical Difference</title>; <title key="Knowles, Richard Paul" ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/svTObsYc1Fa">Knowles</title>, <title level="m">Reading the Material Theatre</title>; and note 5 below for a more complex discussion of the methodological dangers of this <q>mainstream/alternative paradigm</q>
+                                        <title level="a">Erasing</title> 202</bibl>. See <orgName key="Filewod, Alan" ref="http://viaf.org/viaf/51716885" ana="webannotation:http://temp.lincsproject.ca/yKiHYhJ3Oj0">Filewod</orgName>, <title level="a">Erasing Historical Difference</title>; <title key="Knowles, Richard Paul" ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/svTObsYc1Fa">Knowles</title>, <title level="m">Reading the Material Theatre</title>; and note 5 below for a more complex discussion of the methodological dangers of this <q>mainstream/alternative paradigm</q>
                                     <bibl>Filewod, <title level="a">Erasing</title> 202</bibl>.</ref>
                             </note>
                             <ref target="#response_recent">More recent scholarship, however, has challenged the <q>mythological nature of [that] history</q> (<note place="inline">
@@ -36896,6 +36896,184 @@
         "label": "Filewod, Alan",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/dtQn68C4MMc">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/dtQn68C4MMc",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T21:25:21.408Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/gHum7ilRBTP",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/gHum7ilRBTP/selector/textPosition/KXOCNIusCxk",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 21548,
+                "end": 21555,
+                "refinedBy": {
+                    "id": "/target/gHum7ilRBTP/selector/textQuote/2OgkflEEQxy",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Filewod",
+                    "prefix": " Many of the regional theatres are characterized conventionally as endorsing conservative repertoires, a mistrust of Canadian drama, middle-class audiences, and a marked tendency to prefer foreign, usually British, artistic directors\n                                \n                                   ",
+                    "suffix": " Erasing 202\n                                "
+                }
+            },
+            {
+                "id": "/target/gHum7ilRBTP/selector/css/imWhHiU0Odt",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/dtQn68C4MMc]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/51716885",
+        "label": "Filewod, Alan",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/yKiHYhJ3Oj0">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/yKiHYhJ3Oj0",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T21:25:38.545Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/jGHErjI3K2p",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/jGHErjI3K2p/selector/textPosition/PrQr53QWVE9",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 21997,
+                "end": 22004,
+                "refinedBy": {
+                    "id": "/target/jGHErjI3K2p/selector/textQuote/awqiTmwKwTX",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Filewod",
+                    "prefix": " See",
+                    "suffix": " Erasing Historical Difference; Knowles, Reading the Material Theatre; and note 5 below for a more complex discussion of the methodological dangers of this mainstream/alternative paradigm\n                                    Filewod, Erasing 202"
+                }
+            },
+            {
+                "id": "/target/jGHErjI3K2p/selector/css/SoUrSZeSsbo",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/yKiHYhJ3Oj0]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/51716885",
+        "label": "Filewod, Alan",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
