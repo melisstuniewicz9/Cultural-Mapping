@@ -1246,7 +1246,7 @@
                             <title level="m">White Biting Dog</title>, by <persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/FtXE069qZM6">Judith Thompson</persName>. Set Sue LePage. Perf. Jackie Burroughs, Clare Coulter, Hardee T. Lineham, Stephen Ouimette, Larry Reynolds</title>. Archival <abbr>VHS</abbr>, Private Collection, <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/dAbW4PQ1Bi8">Tarragon Theatre</orgName>, 1984.</bibl>
                     <bibl>Filewod, Alan. <title level="a">Erasing Historical Difference: The Alternative Orthodoxy in Canadian Theatre</title>. <title level="j">Theatre Journal</title> 41 (May 1989): 201–10.</bibl>
                     <bibl>. <title level="a">Named in Passing: Deregimenting Canadian Theatre History</title>. <title level="m">Writing and Rewriting National Theatre Histories</title>. Ed. S.E. Wilmer. <placeName key="Iowa City" ref="https://sws.geonames.org/4862034  " ana="webannotation:http://temp.lincsproject.ca/pSf0TGJEGS1">Iowa City</placeName>: <orgName key="University of Iowa Press." ref="http://viaf.org/viaf/157509320" ana="webannotation:http://temp.lincsproject.ca/WyI0t0FIjLq">University of Iowa Press</orgName>, 2004. 106–26.</bibl>
-                    <bibl>. <title level="m">Performing Canada: The Nation Enacted in the Imagined Theatre</title>. <title level="s">Textual Studies in Canada Monograph Series: Critical Performance/s in Canada</title>. <placeName key="Kamloops" ref="https://sws.geonames.org/5989045" ana="webannotation:http://temp.lincsproject.ca/7MMANpydQQt">Kamloops</placeName>, BC: Textual Studies in Canada, 2002.</bibl>
+                    <bibl>. <title level="m">Performing Canada: The Nation Enacted in the Imagined Theatre</title>. <title level="s">Textual Studies in Canada Monograph Series: Critical Performance/s in Canada</title>. <placeName key="Kamloops" ref="https://sws.geonames.org/5989045" ana="webannotation:http://temp.lincsproject.ca/7MMANpydQQt">Kamloops</placeName>, <placeName key="British Columbia" ref="https://sws.geonames.org/5909050  " ana="webannotation:http://temp.lincsproject.ca/cuEBm7UvgPG">BC</placeName>: Textual Studies in Canada, 2002.</bibl>
                     <bibl>. <title level="a">Undermining the Centre: The Canon According to <orgName key="Canadian Theatre Review" ref="http://viaf.org/viaf/316885640" ana="webannotation:http://temp.lincsproject.ca/qeGE2uEXjTn">CTR</orgName></title>. <title level="j"><orgName key="Theatre Research in Canada" ref="https://www.wikidata.org/wiki/Q15764051" ana="webannotation:http://temp.lincsproject.ca/4onMhefAYxx">Theatre Research in Canada</orgName> / <hi xml:lang="fr-CA">Recherches théâtrales au Canada</hi>
                         </title> 11.2 (1990): 1–4.</bibl>
                     <bibl>Haren, Sam, dir. <title level="m">
@@ -36265,6 +36265,95 @@
         "type": "crm:E53_Place",
         "label": "Kamloops",
         "description": "British Columbia, Thompson-Nicola Regional District, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/cuEBm7UvgPG">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/cuEBm7UvgPG",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T15:58:56.480Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/3BkuuJrJ6n1",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/3BkuuJrJ6n1/selector/textPosition/rW4pVH2dZYa",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 92814,
+                "end": 92816,
+                "refinedBy": {
+                    "id": "/target/3BkuuJrJ6n1/selector/textQuote/DF0Hg7r1ZnM",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "BC",
+                    "prefix": " Kamloops,",
+                    "suffix": " Textual Studies in Canada, 2002"
+                }
+            },
+            {
+                "id": "/target/3BkuuJrJ6n1/selector/css/mHLn26cp3oQ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/cuEBm7UvgPG]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/5909050  ",
+        "label": "British Columbia",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
