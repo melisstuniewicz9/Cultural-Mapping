@@ -469,7 +469,7 @@
                         <ref target="#technology">
                             <ref target="#genre_performance">
                                 <ref target="#intellectual_history">In the experimental process of visualizing theatrical action in the <abbr>SET</abbr> system on the basis of records of two historically distinct productions of one play—<persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/aQm2bFTGciT">Judith Thompson’s</persName> <title level="m">White Biting Dog</title>—we realized that <abbr>SET</abbr> could function as a dynamic tool to record not just discrete productions, but also production histories, and to mark the historiographic contingencies of any visual representation of performance. This realization gave rise to concrete outcomes: specifically, <abbr>SET</abbr> functions for visualizing the sources that had led us to the theatrical representations we authored <note place="inline">
-                                        <bibl><persName key="Roberts-Smith, Jennifer" ref="http://viaf.org/viaf/84150746934616301371" ana="webannotation:http://temp.lincsproject.ca/fC1TSIgUJB5">Roberts</persName>-Smith et al., <title level="a">Visualizing Theatre Historiography</title>
+                                        <bibl><persName key="Roberts-Smith, Jennifer" ref="http://viaf.org/viaf/84150746934616301371" ana="webannotation:http://temp.lincsproject.ca/fC1TSIgUJB5">Roberts</persName>-<persName key="Roberts-Smith, Jennifer" ref="http://viaf.org/viaf/84150746934616301371" ana="webannotation:http://temp.lincsproject.ca/IM2MrjiQDsl">Smith</persName> et al., <title level="a">Visualizing Theatre Historiography</title>
                                         </bibl>
                                     </note>. <ref target="#theory">At the theoretical level, we began to ask what our virtual mapping of documented production histories of a canonical text was doing to the text’s hegemonic hold on or authority in performance creation and analysis</ref>. <ref target="#theme_or_topic">
                                         <ref target="#critique_of_canon">
@@ -35285,6 +35285,95 @@
     "body": {
         "id": "http://viaf.org/viaf/84150746934616301371",
         "label": "rob",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/IM2MrjiQDsl">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/IM2MrjiQDsl",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T14:37:45.305Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/zeYCBLXISJ9",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/zeYCBLXISJ9/selector/textPosition/OLYN23gYHRO",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9098,
+                "end": 9103,
+                "refinedBy": {
+                    "id": "/target/zeYCBLXISJ9/selector/textQuote/ENG1900ZhzY",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Smith",
+                    "prefix": " This realization gave rise to concrete outcomes: specifically, SET functions for visualizing the sources that had led us to the theatrical representations we authored \n                                        Roberts",
+                    "suffix": "et al"
+                }
+            },
+            {
+                "id": "/target/zeYCBLXISJ9/selector/css/Er4aNhAg4EG",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/IM2MrjiQDsl]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/84150746934616301371",
+        "label": "Roberts-Smith, Jennifer",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
     },
