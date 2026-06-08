@@ -793,7 +793,7 @@
                             <ref target="#archive">The design of <orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/BZUqViDAMNN">Bluemouth Inc.’s</orgName> script illustrates the methodology of its archival practices</ref>: <q>the text-performance-audience interaction should not be considered in a vacuum, but rather as an event embedded in a complex matrix of social concerns and actions, all of which <q>communicate</q> or contribute to giving the theatre experience its particular <figure>
                                     <head>Figure 3.3</head>
                                     <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Ad8124592-de4e-4e37-965b-75627a920d28/datastream/JPG-DToC/view"/>
-                                    <figDesc>Image of one page from <orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/kahfbvbE9SM">Bluemouth Inc's</orgName> archive of <title level="a">What the Thunder Said</title>, showing a section of Sabrina Reeves's <q>textual commentary</q> (39).</figDesc>
+                                    <figDesc>Image of one page from <orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/kahfbvbE9SM">Bluemouth Inc's</orgName> archive of <title level="a">What the Thunder Said</title>, showing a section of <persName key="Reeves, Sabrina" ref="http://viaf.org/viaf/34169819074520172666" ana="webannotation:http://temp.lincsproject.ca/rc2fovY57AQ">Sabrina Reeves's</persName> <q>textual commentary</q> (39).</figDesc>
                                 </figure>
                                 <q>meaning</q> to its participants</q>
                             <note place="inline">
@@ -36629,6 +36629,95 @@
         "label": "Prince Edward Viaduct",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/rc2fovY57AQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/rc2fovY57AQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T19:00:12.461Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/vRDpHX3hYtg",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/vRDpHX3hYtg/selector/textPosition/7HqhijKxtvk",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45889,
+                "end": 45905,
+                "refinedBy": {
+                    "id": "/target/vRDpHX3hYtg/selector/textQuote/dYWCA7dfrq0",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Sabrina Reeves's",
+                    "prefix": "3\n                                    \n                                    Image of one page from Bluemouth Inc's archive of What the Thunder Said, showing a section of",
+                    "suffix": "textual commentary (39)"
+                }
+            },
+            {
+                "id": "/target/vRDpHX3hYtg/selector/css/w4QKDvCtcZ1",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/rc2fovY57AQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/34169819074520172666",
+        "label": "Reeves, Sabrina",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
