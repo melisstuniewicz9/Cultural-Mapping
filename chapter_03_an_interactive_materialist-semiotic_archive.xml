@@ -1062,7 +1062,7 @@
                             </figDesc>
                         </figure>
                         <ref target="#history">visually consistent for the better part of a century (note especially the crisscross pattern in its girders; see Figures 3.12a, 3.12b, and 3.12c)</ref>.<note xml:id="n170" place="end">
-                            <ref target="#intellectual_history"><placeName key="Prince Edward Viaduct" ref="https://www.wikidata.org/wiki/Q2110325" ana="webannotation:http://temp.lincsproject.ca/bECHIXeDcnS">The Bloor Street Viaduct</placeName> also has a significant Canadian literary history, which unfortunately lies beyond the scope of this chapter. <ref target="#intertextuality">See, for example, Michael Ondaatje’s novel <title level="m">In the Skin of a Lion</title>
+                            <ref target="#intellectual_history"><placeName key="Prince Edward Viaduct" ref="https://www.wikidata.org/wiki/Q2110325" ana="webannotation:http://temp.lincsproject.ca/bECHIXeDcnS">The Bloor Street Viaduct</placeName> also has a significant Canadian literary history, which unfortunately lies beyond the scope of this chapter. <ref target="#intertextuality">See, for example, <persName key="Ondaatje, Michael" ref="http://viaf.org/viaf/111941870" ana="webannotation:http://temp.lincsproject.ca/bdm6KiZniO7">Michael Ondaatje’s</persName> novel <title level="m">In the Skin of a Lion</title>
                                 </ref>.</ref>
                         </note>
                     </p>
@@ -37697,6 +37697,95 @@
         "label": "The Luminous Veil ",
         "type": "frbroo:F1",
         "entityType": "frbroo:F1"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/bdm6KiZniO7">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/bdm6KiZniO7",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:28:25.342Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/EnNlfAKcU27",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/EnNlfAKcU27/selector/textPosition/fqxuCbWdpEP",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 73060,
+                "end": 73078,
+                "refinedBy": {
+                    "id": "/target/EnNlfAKcU27/selector/textQuote/Af1kM56c576",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Michael Ondaatje’s",
+                    "prefix": " See, for example,",
+                    "suffix": "novel In the Skin of a Lion\n                                "
+                }
+            },
+            {
+                "id": "/target/EnNlfAKcU27/selector/css/skAgz5xyFrZ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/bdm6KiZniO7]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/111941870",
+        "label": "Ondaatje, Michael",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
