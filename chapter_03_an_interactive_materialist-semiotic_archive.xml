@@ -450,7 +450,7 @@
                                                     </note>
                                                 </ref>. <ref target="#theory">
                                                     <ref target="#theme or topic">The <abbr>SET</abbr> project was conceived to address that very question. In doing so, the project aimed to provide a useful tool for three constituencies of users: theatre creators, especially directors interested in virtually sketching their concepts before or during production; theatre educators, who might use the system to extend their own approaches to teaching the semiotic relationships between dramatic texts and performative contexts; and theatre researchers, who might visualize the insights into historical performance available in a range of theatrical and paratheatrical records <note place="inline">
-                                                            <bibl>Roberts-Smith et al., <title level="a">Visualizing Theatrical Text</title>
+                                                            <bibl>Roberts-<persName key="rob" ref="http://viaf.org/viaf/84150746934616301371" ana="webannotation:http://temp.lincsproject.ca/e7IHhrxzVcw">Smith</persName> et al., <title level="a">Visualizing Theatrical Text</title>
                                                             </bibl>
                                                         </note>; <note place="inline">
                                                             <bibl>
@@ -35027,8 +35027,99 @@
 }]]>
 				
 </rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/e7IHhrxzVcw">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/e7IHhrxzVcw",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T14:36:23.802Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/2CoggOQSocZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/2CoggOQSocZ/selector/textPosition/FlEzlWXVqXJ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7614,
+                "end": 7619,
+                "refinedBy": {
+                    "id": "/target/2CoggOQSocZ/selector/textQuote/nk6Y84h9qaL",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Smith",
+                    "prefix": " In doing so, the project aimed to provide a useful tool for three constituencies of users: theatre creators, especially directors interested in virtually sketching their concepts before or during production; theatre educators, who might use the system to extend their own approaches to teaching the semiotic relationships between dramatic texts and performative contexts; and theatre researchers, who might visualize the insights into historical performance available in a range of theatrical and paratheatrical records \n                                                            Roberts",
+                    "suffix": "et al"
+                }
+            },
+            {
+                "id": "/target/2CoggOQSocZ/selector/css/Opar8XG1TUr",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/e7IHhrxzVcw]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/84150746934616301371",
+        "label": "rob",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 			
 </rdf:RDF>
+		
+
 		
 
 		
@@ -35064,7 +35155,9 @@
 	
 	
 	
+	
 	</standOff>
+
 
 
 
