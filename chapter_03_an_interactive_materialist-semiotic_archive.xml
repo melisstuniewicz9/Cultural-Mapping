@@ -1045,14 +1045,14 @@
                         <figure>
                             <head>Figure 3.12A</head>
                             <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Afbd3713e-6cca-453a-8e37-110cc9de99b1/datastream/JPG-DToC/view"/>
-                            <figDesc>Side view of the Bloor Street Viaduct in 1920. <hi rend="italic">[City of Toronto Archives, fonds 1244, item 2473]</hi>
+                            <figDesc>Side view of the Bloor Street Viaduct in 1920. <hi rend="italic">[<orgName key="Toronto (Ont.). Records &amp; Archives Division" ref="http://viaf.org/viaf/134790256" ana="webannotation:http://temp.lincsproject.ca/k8GGeaucplX">City of Toronto Archives</orgName>, fonds 1244, item 2473]</hi>
                             </figDesc>
                         </figure>
                         <figure>
                             <head>Figure 3.12B</head>
                             <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Aa493597a-da47-466f-a64a-4c74dc82ed2f/datastream/JPG-DToC/view"/>
                             <figDesc>
-                                <hi rend="italic">Side view of the Bloor Street Viaduct in 1984. [City of Toronto Archives, fonds 268, item 11]</hi>
+                                <hi rend="italic">Side view of the Bloor Street Viaduct in 1984. [<orgName key="Toronto (Ont.). Records &amp; Archives Division" ref="http://viaf.org/viaf/134790256" ana="webannotation:http://temp.lincsproject.ca/QsUnWeBcdwd">City of Toronto Archives</orgName>, fonds 268, item 11]</hi>
                             </figDesc>
                         </figure>
                         <figure>
@@ -1227,9 +1227,9 @@
                     <bibl>Biber, Douglas. <title level="a">Corpus Linguistics and the Study of Literature: Back to the Future?</title>
                         <title level="j">Scientific Study of Literature</title> 1.1 (2011): 15–23.</bibl>
                     <bibl>
-                        <title level="m">[<placeName key="Prince Edward Viaduct" ref="http://www.wikidata.org/entity/Q2110325" ana="webannotation:http://temp.lincsproject.ca/8XL82M2ONx9">Bloor Street Viaduct</placeName> in 1920]</title>. City of Toronto Archives, fonds 1244, item 2473.</bibl>
+                        <title level="m">[<placeName key="Prince Edward Viaduct" ref="http://www.wikidata.org/entity/Q2110325" ana="webannotation:http://temp.lincsproject.ca/8XL82M2ONx9">Bloor Street Viaduct</placeName> in 1920]</title>. <orgName key="Toronto (Ont.). Records &amp; Archives Division" ref="http://viaf.org/viaf/134790256" ana="webannotation:http://temp.lincsproject.ca/ryZnNotZ86f">City of Toronto Archives</orgName>, fonds 1244, item 2473.</bibl>
                     <bibl>
-                        <title level="m">[<placeName key="Prince Edward Viaduct" ref="http://www.wikidata.org/entity/Q2110325" ana="webannotation:http://temp.lincsproject.ca/Pw42CWrVERE">Bloor Street Viaduct</placeName> in 1984, Side View]</title>. City of Toronto Archives, fonds 268, file 7, item 11.</bibl>
+                        <title level="m">[<placeName key="Prince Edward Viaduct" ref="http://www.wikidata.org/entity/Q2110325" ana="webannotation:http://temp.lincsproject.ca/Pw42CWrVERE">Bloor Street Viaduct</placeName> in 1984, Side View]</title>. <orgName key="Toronto (Ont.). Records &amp; Archives Division" ref="http://viaf.org/viaf/134790256" ana="webannotation:http://temp.lincsproject.ca/BtgczJpiB74">City of Toronto Archives</orgName>, fonds 268, file 7, item 11.</bibl>
                     <bibl><orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/Q8TLKl87J4F">Bluemouth Inc.</orgName> <title level="a">What the Thunder Said</title>. <title level="m">Canadian Devised Theatre: Reluctant Texts from Exuberant Performance</title>. Ed. <persName key="Barton, Bruce" ref="http://viaf.org/viaf/2096248" ana="webannotation:http://temp.lincsproject.ca/tzA1FcRC9ab">Bruce Barton</persName>, Natalie Corbett, Birgit Schreyer Duarte, and <persName key="Zaiontz, Keren" ref="http://viaf.org/viaf/269430912" ana="webannotation:http://temp.lincsproject.ca/tWdQJvz1bCq">Keren Zaiontz</persName>. <placeName key="Ottawa" ref="https://sws.geonames.org/6094817 " ana="webannotation:http://temp.lincsproject.ca/oIbIowSLddk">Ottawa</placeName>: Borealis Press, 2008. 18–57.</bibl>
                     <bibl><orgName key="Canadian Actors' Equity Association" ref="http://viaf.org/viaf/128069993" ana="webannotation:http://temp.lincsproject.ca/Pwg01mjbMXE">Canadian Actors’ Equity Association</orgName> (<abbr><orgName key="Canadian Actors' Equity Association" ref="http://viaf.org/viaf/128069993" ana="webannotation:http://temp.lincsproject.ca/QlQengBNLhK">CAEA</orgName></abbr>). <title level="a">Canadian Theatre Agreement for 2009–2012</title>. <title level="m">Equity Online</title>. <ref target="http://www.caea.com">http://www.caea.com</ref>
                     </bibl>
@@ -36629,6 +36629,362 @@
         "label": "Washburn, Michaela",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/k8GGeaucplX">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/k8GGeaucplX",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:21:19.654Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/tJam9XwkOdi",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/tJam9XwkOdi/selector/textPosition/8qLxrM3DLai",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 71944,
+                "end": 71968,
+                "refinedBy": {
+                    "id": "/target/tJam9XwkOdi/selector/textQuote/uKtk3DLGKBb",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "City of Toronto Archives",
+                    "prefix": " ",
+                    "suffix": " fonds 1244, item 2473]\n                            \n                        \n                        \n                            Figure 3"
+                }
+            },
+            {
+                "id": "/target/tJam9XwkOdi/selector/css/0RkWDEIqjAs",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/k8GGeaucplX]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/134790256",
+        "type": "crm:E74_Group",
+        "label": "Toronto (Ont.). Records & Archives Division",
+        "description": "Toronto City Archives"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/QsUnWeBcdwd">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/QsUnWeBcdwd",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:21:20.201Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/dhsnIvua3Tu",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/dhsnIvua3Tu/selector/textPosition/cCzubAE2fvV",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 72251,
+                "end": 72275,
+                "refinedBy": {
+                    "id": "/target/dhsnIvua3Tu/selector/textQuote/tL6P4RYTyw1",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "City of Toronto Archives",
+                    "prefix": " ",
+                    "suffix": " fonds 268, item 11]\n                            \n                        \n                        \n                            Figure 3"
+                }
+            },
+            {
+                "id": "/target/dhsnIvua3Tu/selector/css/W28SNSOtbIE",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/QsUnWeBcdwd]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/134790256",
+        "type": "crm:E74_Group",
+        "label": "Toronto (Ont.). Records & Archives Division",
+        "description": "Toronto City Archives"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ryZnNotZ86f">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ryZnNotZ86f",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:21:20.512Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/goPRGD9TFfZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/goPRGD9TFfZ/selector/textPosition/L5ffUUU5vrA",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 90587,
+                "end": 90611,
+                "refinedBy": {
+                    "id": "/target/goPRGD9TFfZ/selector/textQuote/oV5FxU6WoT7",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "City of Toronto Archives",
+                    "prefix": "",
+                    "suffix": " fonds 1244, item 2473"
+                }
+            },
+            {
+                "id": "/target/goPRGD9TFfZ/selector/css/embA5daioUU",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ryZnNotZ86f]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/134790256",
+        "type": "crm:E74_Group",
+        "label": "Toronto (Ont.). Records & Archives Division",
+        "description": "Toronto City Archives"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/BtgczJpiB74">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/BtgczJpiB74",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:21:20.780Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/10x7SpENLxf",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/10x7SpENLxf/selector/textPosition/sz6vui3aYkH",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 90724,
+                "end": 90748,
+                "refinedBy": {
+                    "id": "/target/10x7SpENLxf/selector/textQuote/QGLczDDrKLf",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "City of Toronto Archives",
+                    "prefix": "",
+                    "suffix": " fonds 268, file 7, item 11"
+                }
+            },
+            {
+                "id": "/target/10x7SpENLxf/selector/css/UKRx8GpGOi7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/BtgczJpiB74]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/134790256",
+        "type": "crm:E74_Group",
+        "label": "Toronto (Ont.). Records & Archives Division",
+        "description": "Toronto City Archives"
     },
     "P2_has_type": [
         "oa:identifying"
