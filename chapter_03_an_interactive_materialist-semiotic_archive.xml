@@ -1058,7 +1058,7 @@
                         <figure>
                             <head>Figure 3.12C</head>
                             <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A3763f0f0-3c03-485c-9fc2-918b55a3a9be/datastream/JPG-DToC/view"/>
-                            <figDesc>Bloor Street Viaduct after the 2003 addition of a suicide barrier designed by Dereck Revington. This architectural project was titled <title level="a">The Luminous Veil</title>. <hi rend="italic">[Photo by Dereck Revington]</hi>
+                            <figDesc><placeName key="Prince Edward Viaduct" ref="http://www.wikidata.org/entity/Q2110325" ana="webannotation:http://temp.lincsproject.ca/KLjPGVCBnES">Bloor Street Viaduct</placeName> after the 2003 addition of a suicide barrier designed by Dereck Revington. This architectural project was titled <title level="a">The Luminous Veil</title>. <hi rend="italic">[Photo by Dereck Revington]</hi>
                             </figDesc>
                         </figure>
                         <ref target="#history">visually consistent for the better part of a century (note especially the crisscross pattern in its girders; see Figures 3.12a, 3.12b, and 3.12c)</ref>.<note xml:id="n170" place="end">
@@ -1231,7 +1231,7 @@
                     <bibl>
                         <title level="m">[Bloor Street Viaduct in 1984, Side View]</title>. City of Toronto Archives, fonds 268, file 7, item 11.</bibl>
                     <bibl><orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/Q8TLKl87J4F">Bluemouth Inc.</orgName> <title level="a">What the Thunder Said</title>. <title level="m">Canadian Devised Theatre: Reluctant Texts from Exuberant Performance</title>. Ed. <persName key="Barton, Bruce" ref="http://viaf.org/viaf/2096248" ana="webannotation:http://temp.lincsproject.ca/tzA1FcRC9ab">Bruce Barton</persName>, Natalie Corbett, Birgit Schreyer Duarte, and <persName key="Zaiontz, Keren" ref="http://viaf.org/viaf/269430912" ana="webannotation:http://temp.lincsproject.ca/tWdQJvz1bCq">Keren Zaiontz</persName>. <placeName key="Ottawa" ref="https://sws.geonames.org/6094817 " ana="webannotation:http://temp.lincsproject.ca/oIbIowSLddk">Ottawa</placeName>: Borealis Press, 2008. 18–57.</bibl>
-                    <bibl><orgName key="Canadian Actors' Equity Association" ref="http://viaf.org/viaf/128069993" ana="webannotation:http://temp.lincsproject.ca/Pwg01mjbMXE">Canadian Actors’ Equity Association</orgName> (<abbr>CAEA</abbr>). <title level="a">Canadian Theatre Agreement for 2009–2012</title>. <title level="m">Equity Online</title>. <ref target="http://www.caea.com">http://www.caea.com</ref>
+                    <bibl><orgName key="Canadian Actors' Equity Association" ref="http://viaf.org/viaf/128069993" ana="webannotation:http://temp.lincsproject.ca/Pwg01mjbMXE">Canadian Actors’ Equity Association</orgName> (<abbr><orgName key="Canadian Actors' Equity Association" ref="http://viaf.org/viaf/128069993" ana="webannotation:http://temp.lincsproject.ca/QlQengBNLhK">CAEA</orgName></abbr>). <title level="a">Canadian Theatre Agreement for 2009–2012</title>. <title level="m">Equity Online</title>. <ref target="http://www.caea.com">http://www.caea.com</ref>
                     </bibl>
                     <bibl>
                         <title level="j"><orgName key="Canadian theatre review" ref="http://viaf.org/viaf/316885640" ana="webannotation:http://temp.lincsproject.ca/TTMgcY0ufzn">Canadian Theatre Review</orgName>. Website.</title> <orgName key="University of Toronto Press" ref="http://viaf.org/viaf/126595939" ana="webannotation:http://temp.lincsproject.ca/nTzDLSLYEFO">University of Toronto Press Journals</orgName>, 2011. <ref target="http://www.utpjournals.com/Canadian-Theatre-Review.html">http://www.utpjournals.com/Canadian-Theatre-Review.html</ref>
@@ -36014,6 +36014,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/QlQengBNLhK">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/QlQengBNLhK",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:16:10.483Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/8nJFbX7wEvy",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/8nJFbX7wEvy/selector/textPosition/hfBv3Ly73kg",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 91078,
+                "end": 91082,
+                "refinedBy": {
+                    "id": "/target/8nJFbX7wEvy/selector/textQuote/evQz0XdRn8P",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CAEA",
+                    "prefix": "\n                    Canadian Actors’ Equity Association ",
+                    "suffix": ""
+                }
+            },
+            {
+                "id": "/target/8nJFbX7wEvy/selector/css/wOfpWi1X6MS",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/QlQengBNLhK]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/128069993",
+        "label": "Canadian Actors' Equity Association",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Uof23SBZlKs">
 <![CDATA[{
     "@context": [
@@ -36362,6 +36451,95 @@
         "label": "Washburn, Michaela",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/KLjPGVCBnES">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/KLjPGVCBnES",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:17:35.400Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/oHHVm18JJ5z",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/oHHVm18JJ5z/selector/textPosition/gHiuNfsJdRB",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 72474,
+                "end": 72494,
+                "refinedBy": {
+                    "id": "/target/oHHVm18JJ5z/selector/textQuote/9kY7cg5CVuh",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Bloor Street Viaduct",
+                    "prefix": "12C\n                            \n                           ",
+                    "suffix": "after the 2003 addition of a suicide barrier designed by Dereck Revington"
+                }
+            },
+            {
+                "id": "/target/oHHVm18JJ5z/selector/css/g20MfVNK9gc",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/KLjPGVCBnES]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q2110325",
+        "type": "crm:E53_Place",
+        "label": "Prince Edward Viaduct",
+        "description": "truss arch bridge system in Toronto"
     },
     "P2_has_type": [
         "oa:identifying"
