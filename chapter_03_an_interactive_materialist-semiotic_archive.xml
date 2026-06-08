@@ -550,7 +550,7 @@
                                         <bibl>
                                             <title level="a">Canadian Revivals</title>
                                         </bibl>
-                                    </note>, but he was not the first to draw attention to the historical centrality of text in this <q>game.</q> As <persName key="Salter, Denis William, 1949-" ref="http://viaf.org/viaf/264629348" ana="webannotation:http://temp.lincsproject.ca/qAk13fYybcM">Denis Salter</persName> has noted, the Massey Commission, which in 1951 reported to the federal government on the state of Canadian culture, expressed the hope that the production of more plays would translate into a more clearly defined Canadian nation with a robust cultural community at its core. The commission proposed that the development of a vital theatrical culture depended upon the establishment of a <q>national repertoire of Canadian-made plays on Canadian topics in a Canadian idiom and presented in a recognizable Canadian style</q>
+                                    </note>, but he was not the first to draw attention to the historical centrality of text in this <q>game.</q> As <persName key="Salter, Denis William, 1949-" ref="http://viaf.org/viaf/264629348" ana="webannotation:http://temp.lincsproject.ca/qAk13fYybcM">Denis Salter</persName> has noted, <orgName key="Canada. Royal Commission on National Development in the Arts, Letters and Sciences" ref="http://viaf.org/viaf/126605292" ana="webannotation:http://temp.lincsproject.ca/LyJylG7ctEN">the Massey Commission</orgName>, which in 1951 reported to the federal government on the state of Canadian culture, expressed the hope that the production of more plays would translate into a more clearly defined Canadian nation with a robust cultural community at its core. The commission proposed that the development of a vital theatrical culture depended upon the establishment of a <q>national repertoire of Canadian-made plays on Canadian topics in a Canadian idiom and presented in a recognizable Canadian style</q>
                                     <note place="inline">
                                         <bibl>qtd. in Salter 82</bibl>
                                     </note>. Alan Filewod further observed that <q>the notion of a dramatic literature [was] the first condition of an autonomous national theatre</q>
@@ -36273,6 +36273,95 @@
         "type": "crm:E21_Person",
         "label": "Peterson, Eric, 1946-",
         "description": "Eric Peterson Canadian actor"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/LyJylG7ctEN">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/LyJylG7ctEN",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T20:55:15.208Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/AdpLdPnVZoW",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/AdpLdPnVZoW/selector/textPosition/JIAySdih8Cn",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 18003,
+                "end": 18024,
+                "refinedBy": {
+                    "id": "/target/AdpLdPnVZoW/selector/textQuote/LVE9tGJNhmH",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Massey Commission",
+                    "prefix": " As Denis Salter has noted,",
+                    "suffix": " which in 1951 reported to the federal government on the state of Canadian culture, expressed the hope that the production of more plays would translate into a more clearly defined Canadian nation with a robust cultural community at its core"
+                }
+            },
+            {
+                "id": "/target/AdpLdPnVZoW/selector/css/MNYnrub8ioe",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/LyJylG7ctEN]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/126605292",
+        "label": "Canada. Royal Commission on National Development in the Arts, Letters and Sciences",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
