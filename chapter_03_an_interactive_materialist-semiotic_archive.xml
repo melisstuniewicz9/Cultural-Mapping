@@ -1058,7 +1058,7 @@
                         <figure>
                             <head>Figure 3.12C</head>
                             <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A3763f0f0-3c03-485c-9fc2-918b55a3a9be/datastream/JPG-DToC/view"/>
-                            <figDesc><placeName key="Prince Edward Viaduct" ref="http://www.wikidata.org/entity/Q2110325" ana="webannotation:http://temp.lincsproject.ca/KLjPGVCBnES">Bloor Street Viaduct</placeName> after the 2003 addition of a suicide barrier designed by <persName key="Revington, Dereck" ref="http://viaf.org/viaf/106507485" ana="webannotation:http://temp.lincsproject.ca/HnLkHVJHtxu">Dereck Revington</persName>. This architectural project was titled <title level="a">The Luminous Veil</title>. <hi rend="italic">[Photo by Dereck Revington]</hi>
+                            <figDesc><placeName key="Prince Edward Viaduct" ref="http://www.wikidata.org/entity/Q2110325" ana="webannotation:http://temp.lincsproject.ca/KLjPGVCBnES">Bloor Street Viaduct</placeName> after the 2003 addition of a suicide barrier designed by <persName key="Revington, Dereck" ref="http://viaf.org/viaf/106507485" ana="webannotation:http://temp.lincsproject.ca/HnLkHVJHtxu">Dereck Revington</persName>. This architectural project was titled <title level="a"><placeName key="The Luminous Veil " ref="https://www.wikidata.org/wiki/Q62471653" ana="webannotation:http://temp.lincsproject.ca/tGyzSdj1l3Z">The Luminous Veil</placeName></title>. <hi rend="italic">[Photo by <persName key="Revington, Dereck" ref="http://viaf.org/viaf/106507485" ana="webannotation:http://temp.lincsproject.ca/qF1j9wZht0b">Dereck Revington</persName>]</hi>
                             </figDesc>
                         </figure>
                         <ref target="#history">visually consistent for the better part of a century (note especially the crisscross pattern in its girders; see Figures 3.12a, 3.12b, and 3.12c)</ref>.<note xml:id="n170" place="end">
@@ -1213,7 +1213,7 @@
                     <head>Authors’ note</head>
                     <p xml:id="p1183" rend="authors-note">
                         <ref target="#collaboration">
-                            <ref target="#economics">This research was funded by an Image, Text, Sound, and Technology Grant and a Standard Research Grant from the Social Sciences and Humanities Research Council of <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/4CTO1edGga6">Canada</placeName></ref>. We are grateful to Eleanor Antoncic and <persName key="Lepage, Sue" ref="https://www.wikidata.org/wiki/Q56761403" ana="webannotation:http://temp.lincsproject.ca/HVVFXFLjhmE">Sue LePage</persName> (<orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/QDpb9P89kGG">Tarragon Theatre</orgName>); Drew Baker (Theatron 3); Toby Malone, Christina Poddubiuk, and Kelly Read (<orgName key="Soulpepper Theatre Co" ref="https://www.wikidata.org/wiki/Q7564521" ana="webannotation:http://temp.lincsproject.ca/QaenaLOn3rq">Soulpepper Theatre Company</orgName>); Dereck Revington (<orgName key="University of Waterloo." ref="http://viaf.org/viaf/125162070" ana="webannotation:http://temp.lincsproject.ca/RyQbmtwrY13">University of Waterloo</orgName>); the City of Toronto Archives; and the L.W. Conolly Theatre Archives (<orgName key="University of Guelph." ref="http://viaf.org/viaf/125486960" ana="webannotation:http://temp.lincsproject.ca/J75HQfxtLdv">University of Guelph</orgName>)</ref>.</p>
+                            <ref target="#economics">This research was funded by an Image, Text, Sound, and Technology Grant and a Standard Research Grant from the Social Sciences and Humanities Research Council of <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/4CTO1edGga6">Canada</placeName></ref>. We are grateful to Eleanor Antoncic and <persName key="Lepage, Sue" ref="https://www.wikidata.org/wiki/Q56761403" ana="webannotation:http://temp.lincsproject.ca/HVVFXFLjhmE">Sue LePage</persName> (<orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/QDpb9P89kGG">Tarragon Theatre</orgName>); Drew Baker (Theatron 3); Toby Malone, Christina Poddubiuk, and Kelly Read (<orgName key="Soulpepper Theatre Co" ref="https://www.wikidata.org/wiki/Q7564521" ana="webannotation:http://temp.lincsproject.ca/QaenaLOn3rq">Soulpepper Theatre Company</orgName>); <persName key="Revington, Dereck" ref="http://viaf.org/viaf/106507485" ana="webannotation:http://temp.lincsproject.ca/rF41uepsgj7">Dereck Revington</persName> (<orgName key="University of Waterloo." ref="http://viaf.org/viaf/125162070" ana="webannotation:http://temp.lincsproject.ca/RyQbmtwrY13">University of Waterloo</orgName>); the City of Toronto Archives; and the L.W. Conolly Theatre Archives (<orgName key="University of Guelph." ref="http://viaf.org/viaf/125486960" ana="webannotation:http://temp.lincsproject.ca/J75HQfxtLdv">University of Guelph</orgName>)</ref>.</p>
                 </div>
                 <div type="section">
                     <head>Works Cited</head>
@@ -37430,6 +37430,273 @@
         "label": "Revington, Dereck",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/qF1j9wZht0b">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/qF1j9wZht0b",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:22:28.778Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/zyTGyEWFPln",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/zyTGyEWFPln/selector/textPosition/2rKA6qTZpON",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 72637,
+                "end": 72653,
+                "refinedBy": {
+                    "id": "/target/zyTGyEWFPln/selector/textQuote/T4XmBDxsAtf",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Dereck Revington",
+                    "prefix": " [Photo by",
+                    "suffix": "\n                            \n                        \n                        visually consistent for the better part of a century (note especially the crisscross pattern in its girders; see Figures 3"
+                }
+            },
+            {
+                "id": "/target/zyTGyEWFPln/selector/css/tAdFnLBOuNk",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/qF1j9wZht0b]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/106507485",
+        "label": "Revington, Dereck",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/rF41uepsgj7">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/rF41uepsgj7",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:22:28.780Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/cI6vl1iXK2g",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/cI6vl1iXK2g/selector/textPosition/BRLc61Laq6p",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 88997,
+                "end": 89013,
+                "refinedBy": {
+                    "id": "/target/cI6vl1iXK2g/selector/textQuote/kRrE2O1dYFC",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Dereck Revington",
+                    "prefix": " We are grateful to Eleanor Antoncic and Sue LePage (Tarragon Theatre); Drew Baker (Theatron 3); Toby Malone, Christina Poddubiuk, and Kelly Read (Soulpepper Theatre Company);",
+                    "suffix": "(University of Waterloo); the City of Toronto Archives; and the L"
+                }
+            },
+            {
+                "id": "/target/cI6vl1iXK2g/selector/css/rcyDEzigVbT",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/rF41uepsgj7]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/106507485",
+        "label": "Revington, Dereck",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/tGyzSdj1l3Z">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/tGyzSdj1l3Z",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:26:51.311Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/X7LgtzFEZwd",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/X7LgtzFEZwd/selector/textPosition/HjP6HAQ3nnb",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 72608,
+                "end": 72625,
+                "refinedBy": {
+                    "id": "/target/X7LgtzFEZwd/selector/textQuote/lJdYTq3Rl1y",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "The Luminous Veil",
+                    "prefix": " This architectural project was titled",
+                    "suffix": " [Photo by Dereck Revington]\n                            \n                        \n                        visually consistent for the better part of a century (note especially the crisscross pattern in its girders; see Figures 3"
+                }
+            },
+            {
+                "id": "/target/X7LgtzFEZwd/selector/css/8AeOdPUXoNG",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/tGyzSdj1l3Z]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q62471653",
+        "label": "The Luminous Veil ",
+        "type": "frbroo:F1",
+        "entityType": "frbroo:F1"
     },
     "P2_has_type": [
         "oa:identifying"
