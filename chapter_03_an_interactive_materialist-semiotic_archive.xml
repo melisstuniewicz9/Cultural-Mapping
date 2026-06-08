@@ -1265,7 +1265,7 @@
                     <bibl><persName key="Loiselle, André, 1963-" ref="http://viaf.org/viaf/51836732" ana="webannotation:http://temp.lincsproject.ca/U4YlZKUfw6h">Loiselle</persName>, <persName key="Loiselle, André, 1963-" ref="http://viaf.org/viaf/51836732" ana="webannotation:http://temp.lincsproject.ca/3AWurq4AOYM">André</persName>. <title level="a">Review of <title level="m">Modern Canadian Plays</title>, ed. <persName key="Wasserman, Jerry, 1945-...." ref="http://viaf.org/viaf/114962360" ana="webannotation:http://temp.lincsproject.ca/yszv7edND41">Jerry Wasserman</persName></title>. <title level="j"><orgName key=" Theatre Research in Canada" ref="https://www.wikidata.org/wiki/Q15764051" ana="webannotation:http://temp.lincsproject.ca/l3FLRCM8A29">Theatre Research in Canada</orgName> / <hi xml:lang="fr-CA">Recherches théâtrales au Canada</hi>
                         </title> 16.1 (1995). <ref target="http://journals.hil.unb.ca/index.php/tric/article/view/7190/8249">http://journals.hil.unb.ca/index.php/tric/article/view/7190/8249</ref>
                     </bibl>
-                    <bibl><persName key="MacDorman, Karl F." ref="http://viaf.org/viaf/100689643" ana="webannotation:http://temp.lincsproject.ca/cYq8IU5oqf8">MacDorman</persName>, Karl F., Robert Green, Chin-Chang Ho, and Clinton T. Koch. <title level="a">Too Real for Comfort? Uncanny Responses to Computer Generated Faces</title>. <title level="j">Computers in Human Behaviour</title> 25.3 (2009): 695–710.</bibl>
+                    <bibl><persName key="MacDorman, Karl F." ref="http://viaf.org/viaf/100689643" ana="webannotation:http://temp.lincsproject.ca/cYq8IU5oqf8">MacDorman</persName>, <persName key="MacDorman, Karl F." ref="http://viaf.org/viaf/100689643" ana="webannotation:http://temp.lincsproject.ca/UAWS0SQdf0f">Karl F.</persName>, Robert Green, Chin-Chang Ho, and Clinton T. Koch. <title level="a">Too Real for Comfort? Uncanny Responses to Computer Generated Faces</title>. <title level="j">Computers in Human Behaviour</title> 25.3 (2009): 695–710.</bibl>
                     <bibl>Marshall, Raymond, stage manager. <title level="a">Prompt script. <title level="m">White Biting Dog</title>, by <persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/M9NdkjZllj7">Judith Thompson</persName></title>. <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/0oaggSxNkPj">Tarragon Theatre</orgName>, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/leRyJ2bxzvH">Toronto</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943 " ana="webannotation:http://temp.lincsproject.ca/34ZQQ72Ct3x">ON</placeName>, [1984]. L.W. Conolly Theatre Archives. University of Guelph Library, <placeName key="Guelph" ref="https://sws.geonames.org/5967629" ana="webannotation:http://temp.lincsproject.ca/EPwBd9WuLdH">Guelph</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943 " ana="webannotation:http://temp.lincsproject.ca/UHq8qnKbUh4">ON</placeName>.</bibl>
                     <bibl>Maufort, Marc. <title level="a">Exploring the Other Side of the Dark: <persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/6rnHqloFqzU">Judith Thompson’s</persName> Magic Realism</title>. <title level="m">
                             <q>Union in Partition</q>: Essays in Honour of Jeanne Delbaere</title>. Ed. Gilbert Debusscher and Maufort. Liege: L3-Liege Language and Literature, 1997. 191–200.</bibl>
@@ -42517,6 +42517,95 @@
         "type": "crm:E21_Person",
         "label": "MacDorman, Karl F.",
         "description": "Karl F MacDorman"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/UAWS0SQdf0f">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/UAWS0SQdf0f",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T21:37:16.970Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/FkayBWwlvJu",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/FkayBWwlvJu/selector/textPosition/1TAEi2lBJe2",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 95274,
+                "end": 95281,
+                "refinedBy": {
+                    "id": "/target/FkayBWwlvJu/selector/textQuote/F01mHeNNDSx",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Karl F.",
+                    "prefix": "php/tric/article/view/7190/8249\n                    \n                    MacDorman,",
+                    "suffix": " Robert Green, Chin-Chang Ho, and Clinton T"
+                }
+            },
+            {
+                "id": "/target/FkayBWwlvJu/selector/css/uJYUHFCIkMu",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/UAWS0SQdf0f]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/100689643",
+        "label": "MacDorman, Karl F.",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
