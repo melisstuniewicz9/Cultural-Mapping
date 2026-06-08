@@ -803,7 +803,7 @@
                             <ref target="#archive">This practice might equally be characterized, in <title key="Knowles, Richard Paul" ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/YyTPgAwdUQi">Knowles</title>’s terms, as a cultural materialist approach to the printed archive. <ref target="#genre_performance">Although <orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/5ZBlTNMd7uB">Bluemouth Inc.’s</orgName> publication defines the parameters of its text, its conditions of production, and its reception, it also acknowledges the <q>invention</q> (<persName key="Roach, Joseph R., 1947-...." ref="http://viaf.org/viaf/108484472" ana="webannotation:http://temp.lincsproject.ca/9licPYMQzf9">Roach</persName>’s term) in each performance by including records of two separate performances, and <ref target="#textual_agency">it engages its readers in an active process of reconstituting the performances it documents. Hence, this archive resists standardization and any implication of repeatability; instead, it offers its readers a set of choices from which to select and make new meanings. In a gesture paralleling its expectations of live audiences, <orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/majdW6dDbNU">Bluemouth Inc.</orgName> asks readers to participate in constituting the meaning of its archive. <note xml:id="n155" place="end">
                                             <ref target="#response_formal">See <persName key="Zaiontz, Keren" ref="http://viaf.org/viaf/269430912" ana="webannotation:http://temp.lincsproject.ca/JC8GRcYcnMp">Keren Zaiontz’s</persName> analysis of <title level="m">What the Thunder Said</title>, which discusses the ways <orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/TH0lWhZQ3PH">Bluemouth Inc.</orgName> <q>integrates spectators into the performance event</q>
                                                 <bibl>10</bibl>
-                                            </ref>. This remains a salient feature of <orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/mBSukcClsHK">Bluemouth Inc.’s</orgName> work: in its more recent production of <title level="m">Dance Marathon</title> (which premiered at Harbourfront Centre’s World Stage in 2008–09), the audience actively competed in the performed <q>marathon.</q>
+                                            </ref>. This remains a salient feature of <orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/mBSukcClsHK">Bluemouth Inc.’s</orgName> work: in its more recent production of <title level="m">Dance Marathon</title> (which premiered at <orgName key="Harbourfront Centre" ref="http://viaf.org/viaf/158222448" ana="webannotation:http://temp.lincsproject.ca/dMmx2cTFdVl">Harbourfront Centre’s</orgName> World Stage in 2008–09), the audience actively competed in the performed <q>marathon.</q>
                                         </note>
                                     </ref>
                                 </ref>
@@ -36807,6 +36807,95 @@
         "label": "Zaiontz, Keren",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/dMmx2cTFdVl">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/dMmx2cTFdVl",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T18:59:05.038Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/gyjgnorH0cI",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/gyjgnorH0cI/selector/textPosition/XsNMNwuDcbg",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 47377,
+                "end": 47398,
+                "refinedBy": {
+                    "id": "/target/gyjgnorH0cI/selector/textQuote/xaa91VOZqlk",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Harbourfront Centre’s",
+                    "prefix": "’s work: in its more recent production of Dance Marathon (which premiered at",
+                    "suffix": "World Stage in 2008–09), the audience actively competed in the performed marathon"
+                }
+            },
+            {
+                "id": "/target/gyjgnorH0cI/selector/css/sxLAR5JzZw1",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/dMmx2cTFdVl]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/158222448",
+        "label": "Harbourfront Centre",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
