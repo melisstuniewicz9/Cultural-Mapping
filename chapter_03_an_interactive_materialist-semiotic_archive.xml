@@ -601,7 +601,7 @@
                                 <bibl><title key="Knowles, Richard Paul" ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/6uAwGmeC4dO">Knowles</title>, <title level="m">Reading</title> 130</bibl>.</note>
                             <ref target="#intellectual_history">
                                 <ref target="#genre_performance">It is likely not coincidental that both <title level="m">Fronteras Americanas</title> and <title level="m">White Biting Dog</title> were developed at <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/kYrJHSNzxEk">Tarragon</orgName>.<note xml:id="n126" place="end">
-                                        <title level="m">Fronteras Americanas</title> premiered at Tarragon Theatre’s Extra Space after development workshops at the Canadian Stage Company and Tarragon <note place="inline">
+                                        <title level="m">Fronteras Americanas</title> premiered at Tarragon Theatre’s Extra Space after development workshops at <orgName key="Canadian Stage Company" ref="http://viaf.org/viaf/154697046" ana="webannotation:http://temp.lincsproject.ca/ymqtqOPXnHB">the Canadian Stage Company</orgName> and Tarragon <note place="inline">
                                             <bibl><orgName key="Wasserman, Jerry, 1945-...." ref="http://viaf.org/viaf/114962360" ana="webannotation:http://temp.lincsproject.ca/LjQrHKHyPT3">Wasserman</orgName> 309</bibl>
                                         </note>.</note> <persName key="Glassco, Bill." ref="http://viaf.org/viaf/22041534" ana="webannotation:http://temp.lincsproject.ca/YYBRQfcBbm4">Bill Glassco</persName>, director of the original 1984 production of <title level="m">White Biting Dog</title>, founded <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/1uIx0LREqPa">Tarragon</orgName> <q>partly in reaction to what he saw as <q>slapdash production standards</q>…at the Factory Theatre Lab </q>
                                     <note place="inline">
@@ -37428,6 +37428,95 @@
     "body": {
         "id": "http://viaf.org/viaf/153552070",
         "label": "Citadel Theatre",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ymqtqOPXnHB">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ymqtqOPXnHB",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T21:18:52.337Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/mkFMRX6eKLu",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/mkFMRX6eKLu/selector/textPosition/AXf16ehINCs",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 24330,
+                "end": 24356,
+                "refinedBy": {
+                    "id": "/target/mkFMRX6eKLu/selector/textQuote/yiB8oYoC0il",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Canadian Stage Company",
+                    "prefix": "\n                                        Fronteras Americanas premiered at Tarragon Theatre’s Extra Space after development workshops at",
+                    "suffix": "and Tarragon \n                                            Wasserman 309\n                                        "
+                }
+            },
+            {
+                "id": "/target/mkFMRX6eKLu/selector/css/zgZw55hnJea",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ymqtqOPXnHB]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/154697046",
+        "label": "Canadian Stage Company",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
     },
