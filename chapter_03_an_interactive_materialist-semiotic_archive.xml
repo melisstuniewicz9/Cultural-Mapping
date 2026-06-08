@@ -592,7 +592,7 @@
                                     <bibl><title key="Knowles, Richard Paul" ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/tvwsQv5Dfi8">Knowles</title>, <title level="m">Reading</title> 130</bibl>
                                 </note> it sought to define</ref>. <ref target="theory">
                                 <ref target="#authority">To take one salient example, <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/SeGardMgjwB">Tarragon Theatre</orgName>, although usually classified as an influential member of the alternative movement, has in many respects maintained Massey’s view of textual production as key to the success of <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/90mOYdfBuH8">Canada</placeName>’s theatrical development <note place="inline">
-                                        <bibl>Filewod qtd. in <persName key="Barton, Bruce" ref="http://viaf.org/viaf/2096248" ana="webannotation:http://temp.lincsproject.ca/uWFLQ1Zex5X">Barton</persName> viii</bibl>
+                                        <bibl><orgName key="Filewod, Alan" ref="http://viaf.org/viaf/51716885" ana="webannotation:http://temp.lincsproject.ca/SnVO0yQ0t5M">Filewod qtd.</orgName> in <persName key="Barton, Bruce" ref="http://viaf.org/viaf/2096248" ana="webannotation:http://temp.lincsproject.ca/uWFLQ1Zex5X">Barton</persName> viii</bibl>
                                     </note>
                                 </ref>
                             </ref>.<note xml:id="n125" place="end">Knowles notes, <q>most scholars in recent years have become uncomfortable with a <q>mainstream-alternative</q> binary</q>
@@ -37802,6 +37802,95 @@
         "label": "Citadel Theatre",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/SnVO0yQ0t5M">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/SnVO0yQ0t5M",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T21:28:23.102Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/iYnLLDRHz0C",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/iYnLLDRHz0C/selector/textPosition/fyZ6o9qu5mn",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 23050,
+                "end": 23062,
+                "refinedBy": {
+                    "id": "/target/iYnLLDRHz0C/selector/textQuote/jdw3eXRXQc0",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Filewod qtd.",
+                    "prefix": " \n                                To take one salient example, Tarragon Theatre, although usually classified as an influential member of the alternative movement, has in many respects maintained Massey’s view of textual production as key to the success of Canada’s theatrical development \n                                       ",
+                    "suffix": "in Barton viii\n                                    \n                                \n                            "
+                }
+            },
+            {
+                "id": "/target/iYnLLDRHz0C/selector/css/1fT4pJC92S6",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/SnVO0yQ0t5M]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/51716885",
+        "label": "Filewod, Alan",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
