@@ -1231,7 +1231,7 @@
                     <bibl>
                         <title level="m">[Bloor Street Viaduct in 1984, Side View]</title>. City of Toronto Archives, fonds 268, file 7, item 11.</bibl>
                     <bibl><orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/Q8TLKl87J4F">Bluemouth Inc.</orgName> <title level="a">What the Thunder Said</title>. <title level="m">Canadian Devised Theatre: Reluctant Texts from Exuberant Performance</title>. Ed. <persName key="Barton, Bruce" ref="http://viaf.org/viaf/2096248" ana="webannotation:http://temp.lincsproject.ca/tzA1FcRC9ab">Bruce Barton</persName>, Natalie Corbett, Birgit Schreyer Duarte, and <persName key="Zaiontz, Keren" ref="http://viaf.org/viaf/269430912" ana="webannotation:http://temp.lincsproject.ca/tWdQJvz1bCq">Keren Zaiontz</persName>. <placeName key="Ottawa" ref="https://sws.geonames.org/6094817 " ana="webannotation:http://temp.lincsproject.ca/oIbIowSLddk">Ottawa</placeName>: Borealis Press, 2008. 18–57.</bibl>
-                    <bibl>Canadian Actors’ Equity Association (<abbr>CAEA</abbr>). <title level="a">Canadian Theatre Agreement for 2009–2012</title>. <title level="m">Equity Online</title>. <ref target="http://www.caea.com">http://www.caea.com</ref>
+                    <bibl><orgName key="Canadian Actors' Equity Association" ref="http://viaf.org/viaf/128069993" ana="webannotation:http://temp.lincsproject.ca/Pwg01mjbMXE">Canadian Actors’ Equity Association</orgName> (<abbr>CAEA</abbr>). <title level="a">Canadian Theatre Agreement for 2009–2012</title>. <title level="m">Equity Online</title>. <ref target="http://www.caea.com">http://www.caea.com</ref>
                     </bibl>
                     <bibl>
                         <title level="j"><orgName key="Canadian theatre review" ref="http://viaf.org/viaf/316885640" ana="webannotation:http://temp.lincsproject.ca/TTMgcY0ufzn">Canadian Theatre Review</orgName>. Website.</title> <orgName key="University of Toronto Press" ref="http://viaf.org/viaf/126595939" ana="webannotation:http://temp.lincsproject.ca/nTzDLSLYEFO">University of Toronto Press Journals</orgName>, 2011. <ref target="http://www.utpjournals.com/Canadian-Theatre-Review.html">http://www.utpjournals.com/Canadian-Theatre-Review.html</ref>
@@ -36354,6 +36354,95 @@
         "label": "Washburn, Michaela",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Pwg01mjbMXE">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Pwg01mjbMXE",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:15:36.488Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/fVf22JWMFMU",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/fVf22JWMFMU/selector/textPosition/Pk5ZB3rbP47",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 91041,
+                "end": 91076,
+                "refinedBy": {
+                    "id": "/target/fVf22JWMFMU/selector/textQuote/rFBcTpVhP7O",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canadian Actors’ Equity Association",
+                    "prefix": "\n                   ",
+                    "suffix": "(CAEA)"
+                }
+            },
+            {
+                "id": "/target/fVf22JWMFMU/selector/css/b742qUImlYW",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Pwg01mjbMXE]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/128069993",
+        "type": "crm:E74_Group",
+        "label": "Canadian Actors' Equity Association",
+        "description": "Canadian Actors' Equity Association membre corporatif de L’Assemblée canadienne de la danse"
     },
     "P2_has_type": [
         "oa:identifying"
