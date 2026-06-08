@@ -1062,7 +1062,7 @@
                             </figDesc>
                         </figure>
                         <ref target="#history">visually consistent for the better part of a century (note especially the crisscross pattern in its girders; see Figures 3.12a, 3.12b, and 3.12c)</ref>.<note xml:id="n170" place="end">
-                            <ref target="#intellectual_history">The Bloor Street Viaduct also has a significant Canadian literary history, which unfortunately lies beyond the scope of this chapter. <ref target="#intertextuality">See, for example, Michael Ondaatje’s novel <title level="m">In the Skin of a Lion</title>
+                            <ref target="#intellectual_history"><placeName key="Prince Edward Viaduct" ref="https://www.wikidata.org/wiki/Q2110325" ana="webannotation:http://temp.lincsproject.ca/bECHIXeDcnS">The Bloor Street Viaduct</placeName> also has a significant Canadian literary history, which unfortunately lies beyond the scope of this chapter. <ref target="#intertextuality">See, for example, Michael Ondaatje’s novel <title level="m">In the Skin of a Lion</title>
                                 </ref>.</ref>
                         </note>
                     </p>
@@ -1227,9 +1227,9 @@
                     <bibl>Biber, Douglas. <title level="a">Corpus Linguistics and the Study of Literature: Back to the Future?</title>
                         <title level="j">Scientific Study of Literature</title> 1.1 (2011): 15–23.</bibl>
                     <bibl>
-                        <title level="m">[Bloor Street Viaduct in 1920]</title>. City of Toronto Archives, fonds 1244, item 2473.</bibl>
+                        <title level="m">[<placeName key="Prince Edward Viaduct" ref="http://www.wikidata.org/entity/Q2110325" ana="webannotation:http://temp.lincsproject.ca/8XL82M2ONx9">Bloor Street Viaduct</placeName> in 1920]</title>. City of Toronto Archives, fonds 1244, item 2473.</bibl>
                     <bibl>
-                        <title level="m">[Bloor Street Viaduct in 1984, Side View]</title>. City of Toronto Archives, fonds 268, file 7, item 11.</bibl>
+                        <title level="m">[<placeName key="Prince Edward Viaduct" ref="http://www.wikidata.org/entity/Q2110325" ana="webannotation:http://temp.lincsproject.ca/Pw42CWrVERE">Bloor Street Viaduct</placeName> in 1984, Side View]</title>. City of Toronto Archives, fonds 268, file 7, item 11.</bibl>
                     <bibl><orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/Q8TLKl87J4F">Bluemouth Inc.</orgName> <title level="a">What the Thunder Said</title>. <title level="m">Canadian Devised Theatre: Reluctant Texts from Exuberant Performance</title>. Ed. <persName key="Barton, Bruce" ref="http://viaf.org/viaf/2096248" ana="webannotation:http://temp.lincsproject.ca/tzA1FcRC9ab">Bruce Barton</persName>, Natalie Corbett, Birgit Schreyer Duarte, and <persName key="Zaiontz, Keren" ref="http://viaf.org/viaf/269430912" ana="webannotation:http://temp.lincsproject.ca/tWdQJvz1bCq">Keren Zaiontz</persName>. <placeName key="Ottawa" ref="https://sws.geonames.org/6094817 " ana="webannotation:http://temp.lincsproject.ca/oIbIowSLddk">Ottawa</placeName>: Borealis Press, 2008. 18–57.</bibl>
                     <bibl><orgName key="Canadian Actors' Equity Association" ref="http://viaf.org/viaf/128069993" ana="webannotation:http://temp.lincsproject.ca/Pwg01mjbMXE">Canadian Actors’ Equity Association</orgName> (<abbr><orgName key="Canadian Actors' Equity Association" ref="http://viaf.org/viaf/128069993" ana="webannotation:http://temp.lincsproject.ca/QlQengBNLhK">CAEA</orgName></abbr>). <title level="a">Canadian Theatre Agreement for 2009–2012</title>. <title level="m">Equity Online</title>. <ref target="http://www.caea.com">http://www.caea.com</ref>
                     </bibl>
@@ -1240,7 +1240,7 @@
                     <bibl>Cushman, Robert. <title level="a">Theatre Reviews: Savage Whimsy in <title level="m">White Biting Dog</title> and Cirque’s <title level="m">Totem</title>.”</title>
                         <title level="j">National Post</title> 26 August 2011. <ref target="http://arts.nationalpost.com/2011/08/26/theatre-reviews-savage-whimsy-in-white-biting-dog-and-cirques-totem">http://arts.nationalpost.com/2011/08/26/theatre-reviews-savage-whimsy-in-white-biting-dog-and-cirques-totem</ref>
                     </bibl>
-                    <bibl>DeSouza-Coelho, Shawn. <title level="m">[Bloor Street Viaduct, Street View.]</title> <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/9pfauUGJL8E">Toronto</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/EcKaj8uSuj6">Ontario</placeName>, 2012.</bibl>
+                    <bibl>DeSouza-Coelho, Shawn. <title level="m">[<placeName key="Prince Edward Viaduct" ref="http://www.wikidata.org/entity/Q2110325" ana="webannotation:http://temp.lincsproject.ca/IO2drKlH4hs">Bloor Street Viaduct</placeName>, Street View.]</title> <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/9pfauUGJL8E">Toronto</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/EcKaj8uSuj6">Ontario</placeName>, 2012.</bibl>
                     <bibl>Dondis, Donis A. <title level="m">A Primer of Visual Literacy</title>. Cambridge, MA: <orgName key="MIT Press" ref="http://viaf.org/viaf/159490691" ana="webannotation:http://temp.lincsproject.ca/WGuWnAeEtMB">MIT Press</orgName>, 1973.</bibl>
                     <bibl><persName key="Glassco, Bill." ref="http://viaf.org/viaf/22041534" ana="webannotation:http://temp.lincsproject.ca/6NuZI6kqy9c">Glassco</persName>, <persName key="Glassco, Bill." ref="http://viaf.org/viaf/22041534" ana="webannotation:http://temp.lincsproject.ca/2xuuWYWTmB4">Bill</persName>, dir. <title level="m">
                             <title level="m">White Biting Dog</title>, by <persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/FtXE069qZM6">Judith Thompson</persName>. Set Sue LePage. Perf. Jackie Burroughs, Clare Coulter, Hardee T. Lineham, Stephen Ouimette, Larry Reynolds</title>. Archival <abbr>VHS</abbr>, Private Collection, <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/dAbW4PQ1Bi8">Tarragon Theatre</orgName>, 1984.</bibl>
@@ -36192,6 +36192,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/bECHIXeDcnS">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/bECHIXeDcnS",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:18:07.221Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/1i2KQ39aX12",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/1i2KQ39aX12/selector/textPosition/fKxFBNtsKOz",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 72908,
+                "end": 72932,
+                "refinedBy": {
+                    "id": "/target/1i2KQ39aX12/selector/textQuote/WnSNEWo5COQ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "The Bloor Street Viaduct",
+                    "prefix": "\n                           ",
+                    "suffix": "also has a significant Canadian literary history, which unfortunately lies beyond the scope of this chapter"
+                }
+            },
+            {
+                "id": "/target/1i2KQ39aX12/selector/css/pmKykBjG5ix",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/bECHIXeDcnS]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q2110325",
+        "label": "Prince Edward Viaduct",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/jtlvhVF1BJx">
 <![CDATA[{
     "@context": [
@@ -36532,6 +36621,273 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/KLjPGVCBnES]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q2110325",
+        "type": "crm:E53_Place",
+        "label": "Prince Edward Viaduct",
+        "description": "truss arch bridge system in Toronto"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/8XL82M2ONx9">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/8XL82M2ONx9",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:17:37.121Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/gF9M1CdYZP4",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/gF9M1CdYZP4/selector/textPosition/owfp30dY4AZ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 90556,
+                "end": 90576,
+                "refinedBy": {
+                    "id": "/target/gF9M1CdYZP4/selector/textQuote/svPBSTrpyn2",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Bloor Street Viaduct",
+                    "prefix": "\n                    \n                        ",
+                    "suffix": "in 1920]"
+                }
+            },
+            {
+                "id": "/target/gF9M1CdYZP4/selector/css/Jnpu4vKHcWH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/8XL82M2ONx9]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q2110325",
+        "type": "crm:E53_Place",
+        "label": "Prince Edward Viaduct",
+        "description": "truss arch bridge system in Toronto"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Pw42CWrVERE">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Pw42CWrVERE",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:17:37.124Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/pJhc8MV8nZ7",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/pJhc8MV8nZ7/selector/textPosition/Gt8vspLljBH",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 90682,
+                "end": 90702,
+                "refinedBy": {
+                    "id": "/target/pJhc8MV8nZ7/selector/textQuote/h6YF55L2OF8",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Bloor Street Viaduct",
+                    "prefix": "\n                    \n                        ",
+                    "suffix": "in 1984, Side View]"
+                }
+            },
+            {
+                "id": "/target/pJhc8MV8nZ7/selector/css/pfFMI3ZiFju",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Pw42CWrVERE]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q2110325",
+        "type": "crm:E53_Place",
+        "label": "Prince Edward Viaduct",
+        "description": "truss arch bridge system in Toronto"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/IO2drKlH4hs">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/IO2drKlH4hs",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:17:37.126Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/KxSzPjpOpEF",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/KxSzPjpOpEF/selector/textPosition/v24reuGoWO1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 91860,
+                "end": 91880,
+                "refinedBy": {
+                    "id": "/target/KxSzPjpOpEF/selector/textQuote/SLiuNMfzVPf",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Bloor Street Viaduct",
+                    "prefix": " ",
+                    "suffix": " Street View"
+                }
+            },
+            {
+                "id": "/target/KxSzPjpOpEF/selector/css/cs7HsMam5ku",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/IO2drKlH4hs]"
             }
         ]
     },
