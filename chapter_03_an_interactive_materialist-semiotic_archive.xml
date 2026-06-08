@@ -1234,7 +1234,7 @@
                     <bibl>Canadian Actors’ Equity Association (<abbr>CAEA</abbr>). <title level="a">Canadian Theatre Agreement for 2009–2012</title>. <title level="m">Equity Online</title>. <ref target="http://www.caea.com">http://www.caea.com</ref>
                     </bibl>
                     <bibl>
-                        <title level="j"><orgName key="Canadian theatre review" ref="http://viaf.org/viaf/316885640" ana="webannotation:http://temp.lincsproject.ca/TTMgcY0ufzn">Canadian Theatre Review</orgName>. Website.</title> University of Toronto Press Journals, 2011. <ref target="http://www.utpjournals.com/Canadian-Theatre-Review.html">http://www.utpjournals.com/Canadian-Theatre-Review.html</ref>
+                        <title level="j"><orgName key="Canadian theatre review" ref="http://viaf.org/viaf/316885640" ana="webannotation:http://temp.lincsproject.ca/TTMgcY0ufzn">Canadian Theatre Review</orgName>. Website.</title> <orgName key="University of Toronto Press" ref="http://viaf.org/viaf/126595939" ana="webannotation:http://temp.lincsproject.ca/nTzDLSLYEFO">University of Toronto Press Journals</orgName>, 2011. <ref target="http://www.utpjournals.com/Canadian-Theatre-Review.html">http://www.utpjournals.com/Canadian-Theatre-Review.html</ref>
                     </bibl>
                     <bibl>Carlson, Marvin. <title level="m">Places of Performance: The Semiotics of Theatre Architecture</title>. <placeName key="New York" ref="https://sws.geonames.org/5128638 " ana="webannotation:http://temp.lincsproject.ca/CWHXsnoaUST">New York</placeName>: <orgName key="Cornell University Press." ref="http://viaf.org/viaf/297828202" ana="webannotation:http://temp.lincsproject.ca/eZkWEqGlIL6">Cornell University Press</orgName>, 1993.</bibl>
                     <bibl>Cushman, Robert. <title level="a">Theatre Reviews: Savage Whimsy in <title level="m">White Biting Dog</title> and Cirque’s <title level="m">Totem</title>.”</title>
@@ -36176,6 +36176,95 @@
         "label": "Washburn, Michaela",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/nTzDLSLYEFO">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/nTzDLSLYEFO",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:03:11.468Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/AqHz9HSxjPE",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/AqHz9HSxjPE/selector/textPosition/kGYGvZtjj31",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 91262,
+                "end": 91298,
+                "refinedBy": {
+                    "id": "/target/AqHz9HSxjPE/selector/textQuote/i6OMa0hcWkg",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "University of Toronto Press Journals",
+                    "prefix": "",
+                    "suffix": " 2011"
+                }
+            },
+            {
+                "id": "/target/AqHz9HSxjPE/selector/css/9fXdJHQLGOh",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/nTzDLSLYEFO]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/126595939",
+        "type": "crm:E74_Group",
+        "label": "University of Toronto Press",
+        "description": ""
     },
     "P2_has_type": [
         "oa:identifying"
