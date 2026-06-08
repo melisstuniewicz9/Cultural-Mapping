@@ -1058,7 +1058,7 @@
                         <figure>
                             <head>Figure 3.12C</head>
                             <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A3763f0f0-3c03-485c-9fc2-918b55a3a9be/datastream/JPG-DToC/view"/>
-                            <figDesc><placeName key="Prince Edward Viaduct" ref="http://www.wikidata.org/entity/Q2110325" ana="webannotation:http://temp.lincsproject.ca/KLjPGVCBnES">Bloor Street Viaduct</placeName> after the 2003 addition of a suicide barrier designed by Dereck Revington. This architectural project was titled <title level="a">The Luminous Veil</title>. <hi rend="italic">[Photo by Dereck Revington]</hi>
+                            <figDesc><placeName key="Prince Edward Viaduct" ref="http://www.wikidata.org/entity/Q2110325" ana="webannotation:http://temp.lincsproject.ca/KLjPGVCBnES">Bloor Street Viaduct</placeName> after the 2003 addition of a suicide barrier designed by <persName key="Revington, Dereck" ref="http://viaf.org/viaf/106507485" ana="webannotation:http://temp.lincsproject.ca/HnLkHVJHtxu">Dereck Revington</persName>. This architectural project was titled <title level="a">The Luminous Veil</title>. <hi rend="italic">[Photo by Dereck Revington]</hi>
                             </figDesc>
                         </figure>
                         <ref target="#history">visually consistent for the better part of a century (note especially the crisscross pattern in its girders; see Figures 3.12a, 3.12b, and 3.12c)</ref>.<note xml:id="n170" place="end">
@@ -37341,6 +37341,95 @@
         "type": "crm:E53_Place",
         "label": "Prince Edward Viaduct",
         "description": "truss arch bridge system in Toronto"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/HnLkHVJHtxu">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/HnLkHVJHtxu",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:22:27.797Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/avuaCWs8aPr",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/avuaCWs8aPr/selector/textPosition/4ZTZ4sxmGPa",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 72552,
+                "end": 72568,
+                "refinedBy": {
+                    "id": "/target/avuaCWs8aPr/selector/textQuote/sm0MfQJIrBI",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Dereck Revington",
+                    "prefix": "12C\n                            \n                            Bloor Street Viaduct after the 2003 addition of a suicide barrier designed by",
+                    "suffix": " This architectural project was titled The Luminous Veil"
+                }
+            },
+            {
+                "id": "/target/avuaCWs8aPr/selector/css/faMw2P10W0Q",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/HnLkHVJHtxu]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/106507485",
+        "label": "Revington, Dereck",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
