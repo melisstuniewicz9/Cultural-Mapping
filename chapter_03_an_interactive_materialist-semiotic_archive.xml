@@ -875,7 +875,7 @@
                         <figure>
                             <head>Figure 3.5b</head>
                             <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Aa2a5f654-5584-4e6d-8ddd-d9ef37ba434e/datastream/JPG-DToC/view"/>
-                            <figDesc>Excerpt from the opening sequence of Judith Thompson's <title level="m">White Biting Dog</title>, as performed by <orgName key="Soulpepper Theatre Co" ref="https://www.wikidata.org/wiki/Q7564521" ana="webannotation:http://temp.lincsproject.ca/VtwWUBgJ3K5">Soulpepper Theatre</orgName> in 2011. <abbr>SET</abbr> allows users to adopt the perspectives of audience and character avatars.</figDesc>
+                            <figDesc>Excerpt from the opening sequence of <persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/NT1XFyb3xNZ">Judith Thompson's</persName> <title level="m">White Biting Dog</title>, as performed by <orgName key="Soulpepper Theatre Co" ref="https://www.wikidata.org/wiki/Q7564521" ana="webannotation:http://temp.lincsproject.ca/VtwWUBgJ3K5">Soulpepper Theatre</orgName> in 2011. <abbr>SET</abbr> allows users to adopt the perspectives of audience and character avatars.</figDesc>
                         </figure>
                         <figure>
                             <head>Figure 3.5c</head>
@@ -36621,6 +36621,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/RebzB6BYOxf]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/66498292",
+        "label": "Thompson, Judith",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/NT1XFyb3xNZ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/NT1XFyb3xNZ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T18:14:40.351Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/YSsJCRJC3cV",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/YSsJCRJC3cV/selector/textPosition/JArYyj4A2xL",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 54442,
+                "end": 54459,
+                "refinedBy": {
+                    "id": "/target/YSsJCRJC3cV/selector/textQuote/WKsUoiCydM1",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Judith Thompson's",
+                    "prefix": "5b\n                            \n                            Excerpt from the opening sequence of",
+                    "suffix": "White Biting Dog, as performed by Soulpepper Theatre in 2011"
+                }
+            },
+            {
+                "id": "/target/YSsJCRJC3cV/selector/css/ipW57evMyOq",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/NT1XFyb3xNZ]"
             }
         ]
     },
