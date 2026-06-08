@@ -1217,7 +1217,7 @@
                 </div>
                 <div type="section">
                     <head>Works Cited</head>
-                    <bibl>Al-Solaylee, Kamal. <title level="a">Dead White Guys: European Classics Still Dominate Canadian Theatres</title>. <title level="j">Walrus</title> September 2011. <ref target="http://walrusmagazine.com/articles/2011.09-theatre-dead-white-guys">http://walrusmagazine.com/articles/2011.09-theatre-dead-white-guys</ref>
+                    <bibl><persName key="Al-Solaylee, Kamal" ref="http://viaf.org/viaf/226109164" ana="webannotation:http://temp.lincsproject.ca/hJe1aKVzVkc">Al-Solaylee</persName>, Kamal. <title level="a">Dead White Guys: European Classics Still Dominate Canadian Theatres</title>. <title level="j">Walrus</title> September 2011. <ref target="http://walrusmagazine.com/articles/2011.09-theatre-dead-white-guys">http://walrusmagazine.com/articles/2011.09-theatre-dead-white-guys</ref>
                     </bibl>
                     <bibl>Alter, Robert. <title level="m">Canon and Creativity: Modern Writing and the Authority of Scripture</title>. <placeName key="New Haven" ref="https://sws.geonames.org/4839366 " ana="webannotation:http://temp.lincsproject.ca/s9lqCCdBRIT">New Haven</placeName>, <placeName key="Connecticut" ref="https://sws.geonames.org/4831725" ana="webannotation:http://temp.lincsproject.ca/uAYuStyFjzu">CT</placeName>: <orgName key="Yale university press" ref="http://viaf.org/viaf/121971897" ana="webannotation:http://temp.lincsproject.ca/PiPQRzEBFVg">Yale University Press</orgName>, 2000.</bibl>
                     <bibl>Ardal, Maya, dir. <title level="m">Graphic poster for production of <title level="m">White Biting Dog</title>, by <persName key="Thompson, Judith, 1954-" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/mCvCLBgHtoo">Judith Thompson</persName></title>. Grand Theatre, <placeName key="London" ref="https://sws.geonames.org/6058560 " ana="webannotation:http://temp.lincsproject.ca/PVvtHKaZ4Tz">London</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943 " ana="webannotation:http://temp.lincsproject.ca/T6Mp0IDjP4e">ON</placeName>, 1990. L.W. Conolly Theatre Archives, University of Guelph Library, <placeName key="Guelph" ref="https://sws.geonames.org/5967629" ana="webannotation:http://temp.lincsproject.ca/jgQRLBpnkXX">Guelph</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943 " ana="webannotation:http://temp.lincsproject.ca/iCARg3W770W">ON</placeName>.</bibl>
@@ -38676,6 +38676,95 @@
         "label": "Social Sciences and Humanities Research Council of Canada",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/hJe1aKVzVkc">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/hJe1aKVzVkc",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T18:48:10.483Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/JpZiyFOu6JB",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/JpZiyFOu6JB/selector/textPosition/fwxRTMQtd7X",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 89218,
+                "end": 89229,
+                "refinedBy": {
+                    "id": "/target/JpZiyFOu6JB/selector/textQuote/HK2XEoNUQDC",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Al-Solaylee",
+                    "prefix": "\n                \n                \n                    Works Cited\n                   ",
+                    "suffix": " Kamal"
+                }
+            },
+            {
+                "id": "/target/JpZiyFOu6JB/selector/css/w7L6vyPyx34",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/hJe1aKVzVkc]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/226109164",
+        "label": "Al-Solaylee, Kamal",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
