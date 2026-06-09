@@ -1224,7 +1224,7 @@
                     <bibl><persName key="Barton, Bruce" ref="http://viaf.org/viaf/2096248" ana="webannotation:http://temp.lincsproject.ca/s4FOasfmvQd">Barton</persName>, Bruce. <title level="a">Creating Spaces</title>. <title level="m">Developing Nation: New Play Creation in English-Speaking Canada</title>. Ed. Barton. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/1sS73zJKfDw">Toronto</placeName>: Playwrights Canada Press, 2009. v–xxii.</bibl>
                     <bibl>. <title level="a">Evoking Theatre: From Reluctance to Exuberance</title>. <title level="m">Canadian Devised Theatre: Reluctant Texts from Exuberant Performance</title>. Ed. <persName key="Barton, Bruce" ref="http://viaf.org/viaf/2096248" ana="webannotation:http://temp.lincsproject.ca/3qWMDZFeSUC">Bruce Barton</persName>, Natalie Corbett, <persName key="Schreyer, Birgit, 1974-" ref="http://viaf.org/viaf/67576940" ana="webannotation:http://temp.lincsproject.ca/Toz7USBGEg1">Birgit Schreyer Duarte</persName>, and Keren Zaiontz. <placeName key="Ottawa" ref="https://sws.geonames.org/6094817 " ana="webannotation:http://temp.lincsproject.ca/P7hdSdCwoRU">Ottawa</placeName>: Borealis Press, 2008. 1–5.</bibl>
                     <bibl><persName key="Benson, Eugene." ref="http://viaf.org/viaf/94502240" ana="webannotation:http://temp.lincsproject.ca/BqrzucbKkGC">Benson</persName>, <persName key="Benson, Eugene" ref="http://viaf.org/viaf/94502240" ana="webannotation:http://temp.lincsproject.ca/Twbay8Znm9c">Eugene</persName>, and <persName key="Conolly, L.W. (Leonard W.)" ref="http://viaf.org/viaf/24632037" ana="webannotation:http://temp.lincsproject.ca/BTBT3HChgNL">L.W. Conolly</persName>. <title level="m">English-Canadian Theatre</title>. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/D53WUOTEeF7">Toronto</placeName>: <orgName key="Oxford University Press." ref="http://viaf.org/viaf/140705396" ana="webannotation:http://temp.lincsproject.ca/wHePxF3zhNX">Oxford University Press</orgName>, 1987.</bibl>
-                    <bibl>Biber, Douglas. <title level="a">Corpus Linguistics and the Study of Literature: Back to the Future?</title>
+                    <bibl>Biber, <persName key="Biber, Douglas, 1952-...." ref="http://viaf.org/viaf/85093260" ana="webannotation:http://temp.lincsproject.ca/wlfVJrNfYEt">Douglas</persName>. <title level="a">Corpus Linguistics and the Study of Literature: Back to the Future?</title>
                         <title level="j">Scientific Study of Literature</title> 1.1 (2011): 15–23.</bibl>
                     <bibl>
                         <title level="m">[<placeName key="Prince Edward Viaduct" ref="http://www.wikidata.org/entity/Q2110325" ana="webannotation:http://temp.lincsproject.ca/8XL82M2ONx9">Bloor Street Viaduct</placeName> in 1920]</title>. <orgName key="Toronto (Ont.). Records &amp; Archives Division" ref="http://viaf.org/viaf/134790256" ana="webannotation:http://temp.lincsproject.ca/ryZnNotZ86f">City of Toronto Archives</orgName>, fonds 1244, item 2473.</bibl>
@@ -47416,6 +47416,95 @@
         "label": "Benson, Eugene",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/wlfVJrNfYEt">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/wlfVJrNfYEt",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-09T17:43:37.540Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/bYjJrMe9RVB",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/bYjJrMe9RVB/selector/textPosition/Dhsq37ciZte",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 90352,
+                "end": 90359,
+                "refinedBy": {
+                    "id": "/target/bYjJrMe9RVB/selector/textQuote/eFR1ZSiIMCi",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Douglas",
+                    "prefix": "\n                    Biber,",
+                    "suffix": " Corpus Linguistics and the Study of Literature: Back to the Future?\n                        Scientific Study of Literature 1"
+                }
+            },
+            {
+                "id": "/target/bYjJrMe9RVB/selector/css/tuDkUwxkLat",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/wlfVJrNfYEt]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/85093260",
+        "type": "crm:E21_Person",
+        "label": "Biber, Douglas, 1952-....",
+        "description": "Biber, Douglas"
     },
     "P2_has_type": [
         "oa:identifying"
