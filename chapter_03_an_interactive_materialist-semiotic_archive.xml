@@ -1243,7 +1243,7 @@
                     <bibl>DeSouza-Coelho, <persName key="DeSouza-Coelho, Shawn" ref="http://viaf.org/viaf/15150868097722070403" ana="webannotation:http://temp.lincsproject.ca/k1ZhVki8Wzb">Shawn</persName>. <title level="m">[<placeName key="Prince Edward Viaduct" ref="http://www.wikidata.org/entity/Q2110325" ana="webannotation:http://temp.lincsproject.ca/IO2drKlH4hs">Bloor Street Viaduct</placeName>, Street View.]</title> <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/9pfauUGJL8E">Toronto</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/EcKaj8uSuj6">Ontario</placeName>, 2012.</bibl>
                     <bibl>Dondis, Donis A. <title level="m">A Primer of Visual Literacy</title>. <placeName key="Cambridge" ref="https://sws.geonames.org/4931972" ana="webannotation:http://temp.lincsproject.ca/upSe3tSvPQ3">Cambridge</placeName>, <placeName key="Massachusetts" ref="https://sws.geonames.org/6254926 " ana="webannotation:http://temp.lincsproject.ca/MUUyplE21kp">MA</placeName>: <orgName key="MIT Press" ref="http://viaf.org/viaf/159490691" ana="webannotation:http://temp.lincsproject.ca/WGuWnAeEtMB">MIT Press</orgName>, 1973.</bibl>
                     <bibl><persName key="Glassco, Bill." ref="http://viaf.org/viaf/22041534" ana="webannotation:http://temp.lincsproject.ca/6NuZI6kqy9c">Glassco</persName>, <persName key="Glassco, Bill." ref="http://viaf.org/viaf/22041534" ana="webannotation:http://temp.lincsproject.ca/2xuuWYWTmB4">Bill</persName>, dir. <title level="m">
-                            <title level="m">White Biting Dog</title>, by <persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/FtXE069qZM6">Judith Thompson</persName>. Set Sue LePage. Perf. Jackie Burroughs, Clare Coulter, Hardee T. Lineham, Stephen Ouimette, Larry Reynolds</title>. Archival <abbr>VHS</abbr>, Private Collection, <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/dAbW4PQ1Bi8">Tarragon Theatre</orgName>, 1984.</bibl>
+                            <title level="m">White Biting Dog</title>, by <persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/FtXE069qZM6">Judith Thompson</persName>. Set Sue LePage. Perf. Jackie Burroughs, <persName key="Coulter, Clare, 1942-" ref="http://viaf.org/viaf/162789024" ana="webannotation:http://temp.lincsproject.ca/xOhDIxLkkhl">Clare Coulter</persName>, Hardee T. Lineham, Stephen Ouimette, Larry Reynolds</title>. Archival <abbr>VHS</abbr>, Private Collection, <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/dAbW4PQ1Bi8">Tarragon Theatre</orgName>, 1984.</bibl>
                     <bibl>Filewod, <persName key="Filewod, Alan" ref="http://viaf.org/viaf/51716885" ana="webannotation:http://temp.lincsproject.ca/z1iQD5Vk5Qj">Alan</persName>. <title level="a">Erasing Historical Difference: The Alternative Orthodoxy in Canadian Theatre</title>. <title level="j">Theatre Journal</title> 41 (May 1989): 201–10.</bibl>
                     <bibl>. <title level="a">Named in Passing: Deregimenting Canadian Theatre History</title>. <title level="m">Writing and Rewriting National Theatre Histories</title>. Ed. S.E. Wilmer. <placeName key="Iowa City" ref="https://sws.geonames.org/4862034  " ana="webannotation:http://temp.lincsproject.ca/pSf0TGJEGS1">Iowa City</placeName>: <orgName key="University of Iowa Press." ref="http://viaf.org/viaf/157509320" ana="webannotation:http://temp.lincsproject.ca/WyI0t0FIjLq">University of Iowa Press</orgName>, 2004. 106–26.</bibl>
                     <bibl>. <title level="m">Performing Canada: The Nation Enacted in the Imagined Theatre</title>. <title level="s">Textual Studies in Canada Monograph Series: Critical Performance/s in Canada</title>. <placeName key="Kamloops" ref="https://sws.geonames.org/5989045" ana="webannotation:http://temp.lincsproject.ca/7MMANpydQQt">Kamloops</placeName>, <placeName key="British Columbia" ref="https://sws.geonames.org/5909050  " ana="webannotation:http://temp.lincsproject.ca/cuEBm7UvgPG">BC</placeName>: <title key="Textual Studies in Canada: Canada's journal of cultural literacy" ref="https://www.wikidata.org/wiki/Q15757351" ana="webannotation:http://temp.lincsproject.ca/Ew93AoDguOx">Textual Studies in Canada</title>, 2002.</bibl>
@@ -47594,6 +47594,95 @@
         "type": "crm:E21_Person",
         "label": "Biber, Douglas, 1952-....",
         "description": "Biber, Douglas"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xOhDIxLkkhl">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xOhDIxLkkhl",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-09T18:01:20.514Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/FhpTcTqtyIj",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/FhpTcTqtyIj/selector/textPosition/rvEVeBfEysu",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 92158,
+                "end": 92171,
+                "refinedBy": {
+                    "id": "/target/FhpTcTqtyIj/selector/textQuote/gadMh3xK1WZ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Clare Coulter",
+                    "prefix": " Jackie Burroughs,",
+                    "suffix": " Hardee T"
+                }
+            },
+            {
+                "id": "/target/FhpTcTqtyIj/selector/css/hiWC2lkP1PO",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xOhDIxLkkhl]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/162789024",
+        "type": "crm:E21_Person",
+        "label": "Coulter, Clare, 1942-",
+        "description": "Clare Coulter acteur canadien"
     },
     "P2_has_type": [
         "oa:identifying"
