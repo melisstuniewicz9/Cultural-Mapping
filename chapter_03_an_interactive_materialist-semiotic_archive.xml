@@ -1279,7 +1279,7 @@
                     </bibl>
                     <bibl>Nunn, Robert. <title level="a">Spatial Metaphors in the Plays of Judith Thompson</title>. <title level="m"><persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/1dWTQRYQZDW">Judith Thompson</persName>: <title key="Critical perspectives on Canadian theatre in English" ref="http://viaf.org/viaf/183740043" ana="webannotation:http://temp.lincsproject.ca/WU40KXmJuvc">Critical Perspectives on Canadian Theatre in English</title></title>. Ed. <persName key="Knowles, Richard Paul, 1950-...." ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/ieWWTSbDUlp">Ric Knowles</persName>. Vol. 3. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/z5wd9Xi8Jue">Toronto</placeName>: Playwrights Canada Press, 2005. 20–40.</bibl>
                     <bibl><persName key="Ondaatje, Michael" ref="http://viaf.org/viaf/111941870" ana="webannotation:http://temp.lincsproject.ca/Goh4FNW6sIx">Ondaatje</persName>, <persName key="Ondaatje, Michael" ref="http://viaf.org/viaf/111941870" ana="webannotation:http://temp.lincsproject.ca/ws6J1F7T1Y9">Michael</persName>. <title level="m">In the Skin of a Lion</title>. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/mxzMhTN2Jl9">Toronto</placeName>: McClelland and Stewart, 1987.</bibl>
-                    <bibl><persName key="Ouzounian, Richard" ref="http://viaf.org/viaf/34301687" ana="webannotation:http://temp.lincsproject.ca/StUtmiIUjQ5">Ouzounian</persName>, Richard. <title level="a">Is Tarragon Dropping of Healey Play Dramatic Cowardice?</title>
+                    <bibl><persName key="Ouzounian, Richard" ref="http://viaf.org/viaf/34301687" ana="webannotation:http://temp.lincsproject.ca/StUtmiIUjQ5">Ouzounian</persName>, <persName key="Ouzounian, Richard" ref="http://viaf.org/viaf/34301687" ana="webannotation:http://temp.lincsproject.ca/wf2UnC1ubwJ">Richard</persName>. <title level="a">Is Tarragon Dropping of Healey Play Dramatic Cowardice?</title>
                         <title level="j"><orgName key="Toronto Star Limited" ref="http://viaf.org/viaf/151189427" ana="webannotation:http://temp.lincsproject.ca/IO75Fhl7vhl">Toronto Star</orgName></title> 3 February 2012. <ref target="http://www.thestar.com/article/1126131--is-tarragon-dropping-of-healey-play-dramatic-cowardice-ouzounian">http://www.thestar.com/article/1126131--is-tarragon-dropping-of-healey-play-dramatic-cowardice-ouzounian</ref>
                     </bibl>
                     <bibl><persName key="Palk, Nancy" ref="http://viaf.org/viaf/171998404" ana="webannotation:http://temp.lincsproject.ca/7r0as8aoRXU">Palk</persName>, <persName key="Palk, Nancy" ref="http://viaf.org/viaf/171998404" ana="webannotation:http://temp.lincsproject.ca/7TOmjjCx16v">Nancy</persName>, dir. <title level="m">White Biting Dog</title>, by <persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/P47ed3jmh5U">Judith Thompson</persName>. Set Christina Poddubiuk. Perf. <persName key="Prest, Gregory" ref="https://www.wikidata.org/wiki/Q122109522" ana="webannotation:http://temp.lincsproject.ca/1SLWU3HOwrR">Gregory Prest</persName>, <persName key="Reid, Fiona, 1951-" ref="http://viaf.org/viaf/68747105" ana="webannotation:http://temp.lincsproject.ca/HwOocL83bFB">Fiona Reid</persName>, Mike Ross, <persName key="Washburn, Michaela" ref="http://viaf.org/viaf/18152380028501760566" ana="webannotation:http://temp.lincsproject.ca/YB3hhgaFSD9">Michaela Washburn</persName>, Joseph Ziegler. <orgName key="Soulpepper Theatre Co" ref="https://www.wikidata.org/wiki/Q7564521" ana="webannotation:http://temp.lincsproject.ca/yv5W4b8KIB0">Soulpepper Theatre</orgName>, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/3URPbtRkwlr">Toronto</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943 " ana="webannotation:http://temp.lincsproject.ca/ymRM4JR2WK0">ON</placeName>. 15 August 2011.</bibl>
@@ -44020,6 +44020,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/StUtmiIUjQ5]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/34301687",
+        "label": "Ouzounian, Richard",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/wf2UnC1ubwJ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/wf2UnC1ubwJ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-09T15:54:24.878Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ZllCGg1Ppwm",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ZllCGg1Ppwm/selector/textPosition/lhE0DLa8iX1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 97304,
+                "end": 97311,
+                "refinedBy": {
+                    "id": "/target/ZllCGg1Ppwm/selector/textQuote/taTVEqTRgSJ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Richard",
+                    "prefix": "\n                    Ouzounian,",
+                    "suffix": " Is Tarragon Dropping of Healey Play Dramatic Cowardice?\n                        Toronto Star 3 February 2012"
+                }
+            },
+            {
+                "id": "/target/ZllCGg1Ppwm/selector/css/jPDbpSHRPMR",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/wf2UnC1ubwJ]"
             }
         ]
     },
