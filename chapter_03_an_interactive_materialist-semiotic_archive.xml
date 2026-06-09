@@ -1316,7 +1316,15 @@
                     <bibl><persName key="Worthen, William B., 1955-...." ref="http://viaf.org/viaf/112363841" ana="webannotation:http://temp.lincsproject.ca/2ZAFMgWYBNK">Worthen</persName>, <persName key="Shakespeare, William, 1564-1616." ref="http://viaf.org/viaf/96994048" ana="webannotation:http://temp.lincsproject.ca/OrMx7ziYzAu">William</persName>. <title level="m">Drama: Between Poetry and Performance</title>. <placeName key="Malden" ref="https://sws.geonames.org/4942939  " ana="webannotation:http://temp.lincsproject.ca/sKayEBl0GEZ">Malden</placeName>, MA: <orgName key="Wiley-Blackwell" ref="http://viaf.org/viaf/9163147270532735700008" ana="webannotation:http://temp.lincsproject.ca/NuyoybbxrV7">Wiley-Blackwell</orgName>, 2010.</bibl>
                     <bibl><persName key="Zaiontz, Keren" ref="http://viaf.org/viaf/269430912" ana="webannotation:http://temp.lincsproject.ca/aUL6W08NpkY">Zaiontz</persName>, <persName key="Zaiontz, Keren" ref="http://viaf.org/viaf/269430912" ana="webannotation:http://temp.lincsproject.ca/Z4zOm3S3Afg">Keren</persName>. <title level="a">The Instability of Walls, Pillars, and Floors in <orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/J9uXemVPCOy">Bluemouth Inc.</orgName> Presents <title level="m">What the Thunder Said</title>
                         </title>. <title level="m">Canadian Devised Theatre: Reluctant Texts from Exuberant Performance</title>. Ed. <persName key="Barton, Bruce" ref="http://viaf.org/viaf/2096248" ana="webannotation:http://temp.lincsproject.ca/b6busrCkrW0">Bruce Barton</persName>, Natalie Corbett, Birgit Schreyer Duarte, and Keren Zaiontz. <placeName key="Ottawa" ref="https://sws.geonames.org/6094817 " ana="webannotation:http://temp.lincsproject.ca/xshpiB2O8qv">Ottawa</placeName>: <orgName key="Borealis Book Publishers." ref="http://viaf.org/viaf/229176018964501352863" ana="webannotation:http://temp.lincsproject.ca/PkTd0sVzYXp">Borealis Press</orgName>, 2008. 8–17.</bibl>
-                </div>
+                <div xmlns="http://www.w3.org/1999/xhtml" data-tippy-root="" id="tippy-357" style="z-index: 9999; visibility: visible; position: absolute; inset: auto auto 0px 0px; margin: 0px; transform: translate(395px, 22723px);"><div class="tippy-box" data-state="visible" tabindex="-1" data-animation="fadeInOut" role="tooltip" data-placement="top" style="max-width: 350px; transition-duration: 300ms;"><div class="tippy-content" data-state="visible" style="transition-duration: 300ms;">
+  <div class="popup-entity" type="person" data-nerve-status="approved">
+    <div class="icon">
+<svg xmlns="http://www.w3.org/2000/svg" focusable="false" aria-hidden="true" viewBox="0 0 24 24" class="person">
+  <path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/>
+</svg></div>
+    <span>Barton, Bruce</span>
+    
+  </div></div><div class="tippy-arrow" style="position: absolute; left: 0px; transform: translate(76px, 0px);"></div></div></div></div>
             </div>
         </body>
     </text>
