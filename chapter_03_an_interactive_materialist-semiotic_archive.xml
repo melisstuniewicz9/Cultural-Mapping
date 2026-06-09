@@ -1141,7 +1141,7 @@
                                             <bibl>Roberts-Smith et al., <title level="a">Visualizing Theatre Historiography</title>
                                             </bibl>
                                         </note>. <ref target="#theory">
-                                            <ref target="#editions">The emphasis that <abbr>SET</abbr>’s Reading View inevitably places upon an analogue for printed editions arguably perpetuates the received ideas about the literary nature of the Canadian canon that scholars such as <title key="Knowles, Richard Paul" ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/OZzyapdejCX">Knowles</title>, <persName key="Barton, Bruce" ref="http://viaf.org/viaf/2096248" ana="webannotation:http://temp.lincsproject.ca/6MYL9uxQvnQ">Barton</persName>, and Salter have aimed to complicate. Like <orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/P3a9BY6ejf7">Bluemouth Inc.’s</orgName> archive, or <persName key="Barton, Bruce" ref="http://viaf.org/viaf/2096248" ana="webannotation:http://temp.lincsproject.ca/EUNFi0AT6pj">Barton</persName>’s collection of performance texts, <abbr>SET</abbr> is as invested in the stability of its records as it is in enabling a range of interpretive interactions with those same records</ref>. <ref target="#methodology">Because <abbr>SET</abbr> is a repository rather than a collection, however, it can also offer a meta-archival layer of visualization, potentially characterizing the archive itself as susceptible to a materialist-semiotic analysis. On the most literal level, <abbr>SET</abbr> can provide transparent documentation of the provenance of the records it synthesizes in the form of annotations (see, for example, our bibliographic citations for photographs in Figures 3.10 and 3.12a–c).</ref>
+                                            <ref target="#editions">The emphasis that <abbr>SET</abbr>’s Reading View inevitably places upon an analogue for printed editions arguably perpetuates the received ideas about the literary nature of the Canadian canon that scholars such as <title key="Knowles, Richard Paul" ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/OZzyapdejCX">Knowles</title>, <persName key="Barton, Bruce" ref="http://viaf.org/viaf/2096248" ana="webannotation:http://temp.lincsproject.ca/6MYL9uxQvnQ">Barton</persName>, and <title key="Salter, Denis William," ref="http://viaf.org/viaf/264629348" ana="webannotation:http://temp.lincsproject.ca/AXZP1YlX6sl">Salter</title> have aimed to complicate. Like <orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/P3a9BY6ejf7">Bluemouth Inc.’s</orgName> archive, or <persName key="Barton, Bruce" ref="http://viaf.org/viaf/2096248" ana="webannotation:http://temp.lincsproject.ca/EUNFi0AT6pj">Barton</persName>’s collection of performance texts, <abbr>SET</abbr> is as invested in the stability of its records as it is in enabling a range of interpretive interactions with those same records</ref>. <ref target="#methodology">Because <abbr>SET</abbr> is a repository rather than a collection, however, it can also offer a meta-archival layer of visualization, potentially characterizing the archive itself as susceptible to a materialist-semiotic analysis. On the most literal level, <abbr>SET</abbr> can provide transparent documentation of the provenance of the records it synthesizes in the form of annotations (see, for example, our bibliographic citations for photographs in Figures 3.10 and 3.12a–c).</ref>
                                         </ref>
                                     </ref>
                                 </ref>
@@ -46161,6 +46161,95 @@
     "body": {
         "id": "http://viaf.org/viaf/1864168740942079530001",
         "label": "Maufort, Marc",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/AXZP1YlX6sl">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/AXZP1YlX6sl",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-09T17:38:13.437Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/cwwSdMqZB96",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/cwwSdMqZB96/selector/textPosition/u6ZIGGApbXa",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 82173,
+                "end": 82179,
+                "refinedBy": {
+                    "id": "/target/cwwSdMqZB96/selector/textQuote/z2hxSBB1upj",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Salter",
+                    "prefix": " \n                                            The emphasis that SET’s Reading View inevitably places upon an analogue for printed editions arguably perpetuates the received ideas about the literary nature of the Canadian canon that scholars such as Knowles, Barton, and",
+                    "suffix": "have aimed to complicate"
+                }
+            },
+            {
+                "id": "/target/cwwSdMqZB96/selector/css/FcJdn74j6LU",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/AXZP1YlX6sl]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/264629348",
+        "label": "Salter, Denis William,",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
     },
