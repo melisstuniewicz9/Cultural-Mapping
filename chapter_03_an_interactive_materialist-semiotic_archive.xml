@@ -735,7 +735,7 @@
                         <ref target="canon_formation">We must reiterate that Soulpepper’s re-characterization of the Canadian theatrical canon was not necessarily unique. In fact, the company was one of several to stage revivals in recent seasons <note place="inline">
                                 <bibl><persName key="Nestruck, J. Kelly" ref="https://www.wikidata.org/wiki/Q16221465" ana="webannotation:http://temp.lincsproject.ca/5niuaezdp8o">Nestruck</persName>, <title level="a">Canadian Revivals</title>
                                 </bibl>
-                            </note>. Moreover, Soulpepper may not subscribe to the notion of re-characterization that we posit here. If, however, we regard re-characterization as a shift in thinking about the Canadian theatrical canon that affirms the processes over the artifacts of canonization, then—with further apologies to <persName key="Nestruck, J. Kelly" ref="https://www.wikidata.org/wiki/Q16221465" ana="webannotation:http://temp.lincsproject.ca/q61BKYtKfkY">Nestruck</persName>—<ref target="#intellectual_history">Soulpepper’s revivals may be seen as part of a broader movement in theatre studies to reconsider the nature and potential function of performance histories</ref>. <persName key="Roach, Joseph R., 1947-...." ref="http://viaf.org/viaf/108484472" ana="webannotation:http://temp.lincsproject.ca/yVDcscEyXXz">Roach</persName> has been a leader in this movement; also key is Diana Taylor’s formulation of the tensions between <ref target="#archive">the archive (the written record)</ref> and the repertoire (<q>embodied practice/knowledge</q>
+                            </note>. Moreover, Soulpepper may not subscribe to the notion of re-characterization that we posit here. If, however, we regard re-characterization as a shift in thinking about the Canadian theatrical canon that affirms the processes over the artifacts of canonization, then—with further apologies to <persName key="Nestruck, J. Kelly" ref="https://www.wikidata.org/wiki/Q16221465" ana="webannotation:http://temp.lincsproject.ca/q61BKYtKfkY">Nestruck</persName>—<ref target="#intellectual_history">Soulpepper’s revivals may be seen as part of a broader movement in theatre studies to reconsider the nature and potential function of performance histories</ref>. <persName key="Roach, Joseph R., 1947-...." ref="http://viaf.org/viaf/108484472" ana="webannotation:http://temp.lincsproject.ca/yVDcscEyXXz">Roach</persName> has been a leader in this movement; also key is <persName key="Taylor, Diana" ref="http://viaf.org/viaf/36969389" ana="webannotation:http://temp.lincsproject.ca/IlPV1HxtW0y">Diana Taylor’s</persName> formulation of the tensions between <ref target="#archive">the archive (the written record)</ref> and the repertoire (<q>embodied practice/knowledge</q>
                             <note place="inline">
                                 <bibl>19</bibl>
                             </note>), both of which she sees as recording vestiges of past performances. It is perhaps not irrelevant, in light of <ref target="#politics"><persName key="Barton, Bruce" ref="http://viaf.org/viaf/2096248" ana="webannotation:http://temp.lincsproject.ca/TuevEoGaBe8">Barton</persName> and <title key="Knowles, Richard Paul" ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/g1uW03K9jvg">Knowles</title>’s politically inflected accounts of the development</ref>
@@ -38692,6 +38692,95 @@
         "label": "Prince Edward Viaduct",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/IlPV1HxtW0y">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/IlPV1HxtW0y",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-09T15:24:53.333Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/P6dN8S0JSSO",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/P6dN8S0JSSO/selector/textPosition/PX32k54odc4",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 41045,
+                "end": 41059,
+                "refinedBy": {
+                    "id": "/target/P6dN8S0JSSO/selector/textQuote/aQQcuK0N3Eu",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Diana Taylor’s",
+                    "prefix": " Roach has been a leader in this movement; also key is",
+                    "suffix": "formulation of the tensions between the archive (the written record) and the repertoire (embodied practice/knowledge\n                            \n                                19\n                            ), both of which she sees as recording vestiges of past performances"
+                }
+            },
+            {
+                "id": "/target/P6dN8S0JSSO/selector/css/CQYBw3YuhXc",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/IlPV1HxtW0y]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/36969389",
+        "label": "Taylor, Diana",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
