@@ -766,7 +766,7 @@
                         <ref target="#methodology">
                             <ref target="#genre_performance">
                                 <ref target="#canon_formation">Nonetheless, what a materialist-semiotic approach to canonization gains in richness and democracy it loses in stability, thoroughness, and detail; like all repertoires, the current <q>revival</q> movement remains a changing, incomplete, and approximate—perhaps even generalized—record of the past</ref>
-                            </ref>. <ref target="#archive">Companies currently producing non-textual performance have been particularly conscious of the challenge of archiving their repertoires. <ref target="#spatiality"><orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/LwsLYH2RtyE">Bluemouth Inc.</orgName>, for example, whose <title level="m">What the Thunder Said</title> is a site-specific, participatory piece that changes with every venue, has produced a printed archive documenting performances in two different environments. It is presented in columns, one of which shows <q>Stage Directions: 2003 Production (rear unit of a Dufferin Street warehouse between Queen and King Streets, the west end of <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/ZeMokdORpYT">Toronto</placeName>),</q> and another <q>Stage Directions: 2006 Production (stripped office space, historic AT&amp;T building, lower Manhattan</q>
+                            </ref>. <ref target="#archive">Companies currently producing non-textual performance have been particularly conscious of the challenge of archiving their repertoires. <ref target="#spatiality"><orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/LwsLYH2RtyE">Bluemouth Inc.</orgName>, for example, whose <title level="m">What the Thunder Said</title> is a site-specific, participatory piece that changes with every venue, has produced a printed archive documenting performances in two different environments. It is presented in columns, one of which shows <q>Stage Directions: 2003 Production (rear unit of a <placeName key="Dufferin Street" ref="https://www.wikidata.org/wiki/Q5312347" ana="webannotation:http://temp.lincsproject.ca/rbgiWq1c3oi">Dufferin Street</placeName> warehouse between Queen and King Streets, the west end of <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/ZeMokdORpYT">Toronto</placeName>),</q> and another <q>Stage Directions: 2006 Production (stripped office space, historic AT&amp;T building, lower Manhattan</q>
                                     <note place="inline">
                                         <bibl><orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/I44PTUHl34V">Bluemouth Inc.</orgName> 21</bibl>
                                     </note>
@@ -38700,6 +38700,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/rbgiWq1c3oi">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/rbgiWq1c3oi",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-09T15:21:16.695Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/obrJYY3xMl6",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/obrJYY3xMl6/selector/textPosition/QbbHH7RMKt1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 43743,
+                "end": 43758,
+                "refinedBy": {
+                    "id": "/target/obrJYY3xMl6/selector/textQuote/PKpNZZg33Wf",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Dufferin Street",
+                    "prefix": " It is presented in columns, one of which shows Stage Directions: 2003 Production (rear unit of a",
+                    "suffix": "warehouse between Queen and King Streets, the west end of Toronto), and another Stage Directions: 2006 Production (stripped office space, historic AT&T building, lower Manhattan\n                                    \n                                        Bluemouth Inc"
+                }
+            },
+            {
+                "id": "/target/obrJYY3xMl6/selector/css/NH63JrDAY9e",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/rbgiWq1c3oi]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q5312347",
+        "label": "Dufferin Street",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/rc2fovY57AQ">
 <![CDATA[{
     "@context": [
@@ -41093,6 +41182,95 @@
     "body": {
         "id": "http://viaf.org/viaf/150876296",
         "label": "Social Sciences and Humanities Research Council of Canada",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/7W4oE5Y2oOF">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/7W4oE5Y2oOF",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-09T15:16:58.432Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/BmKmrv5sPJH",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/BmKmrv5sPJH/selector/textPosition/mTGykYw8DPR",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 89074,
+                "end": 89107,
+                "refinedBy": {
+                    "id": "/target/BmKmrv5sPJH/selector/textQuote/zv6g8XFB2P0",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the L.W. Conolly Theatre Archives",
+                    "prefix": " We are grateful to Eleanor Antoncic and Sue LePage (Tarragon Theatre); Drew Baker (Theatron 3); Toby Malone, Christina Poddubiuk, and Kelly Read (Soulpepper Theatre Company); Dereck Revington (University of Waterloo); the City of Toronto Archives; and",
+                    "suffix": "(University of Guelph)"
+                }
+            },
+            {
+                "id": "/target/BmKmrv5sPJH/selector/css/pmAYB2Td9HK",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/7W4oE5Y2oOF]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/169181425",
+        "label": "L.W. Conolly Theatre Archives",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
     },
