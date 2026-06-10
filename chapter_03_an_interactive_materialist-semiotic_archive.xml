@@ -597,7 +597,7 @@
                                 </ref>
                             </ref>.<note xml:id="n125" place="end">Knowles notes, <q>most scholars in recent years have become uncomfortable with a <q>mainstream-alternative</q> binary</q>
                                 <bibl>
-                                    <title level="m">Reading</title> 130</bibl>. He goes on to articulate <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/95ajgDBGDQt">Tarragon Theatre’s</orgName> specific <q>discomfort</q> with the <q>alternative label</q>: <q>Although <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/d5777ri67F4">Tarragon</orgName> has always been anxious to position itself <q>on the cutting edge,</q> and although its play development mandate and <ref target="#economics">relatively small budget</ref> set it apart from the Regional Theatre network from the beginning, the theatre has produced in its policies, procedures, physical arrangements, public profile and production history a discourse of stability, balance, comfort and quality that sets it apart from organizations such as the Factory Theatre, with its discourse of excitement, adventure, and risk</q>
+                                    <title level="m">Reading</title> 130</bibl>. He goes on to articulate <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/95ajgDBGDQt">Tarragon Theatre’s</orgName> specific <q>discomfort</q> with the <q>alternative label</q>: <q>Although <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/d5777ri67F4">Tarragon</orgName> has always been anxious to position itself <q>on the cutting edge,</q> and although its play development mandate and <ref target="#economics">relatively small budget</ref> set it apart from the Regional Theatre network from the beginning, the theatre has produced in its policies, procedures, physical arrangements, public profile and production history a discourse of stability, balance, comfort and quality that sets it apart from organizations such as <orgName key="Factory Theatre" ref="https://www.wikidata.org/wiki/Q137712366" ana="webannotation:http://temp.lincsproject.ca/G7TWYDNwWU4">the Factory Theatre</orgName>, with its discourse of excitement, adventure, and risk</q>
                                 <bibl><title key="Knowles, Richard Paul" ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/6uAwGmeC4dO">Knowles</title>, <title level="m">Reading</title> 130</bibl>.</note>
                             <ref target="#intellectual_history">
                                 <ref target="#genre_performance">It is likely not coincidental that both <title level="m">Fronteras Americanas</title> and <title level="m">White Biting Dog</title> were developed at <orgName key="Tarragon Theatre" ref="http://viaf.org/viaf/126499746" ana="webannotation:http://temp.lincsproject.ca/kYrJHSNzxEk">Tarragon</orgName>.<note xml:id="n126" place="end">
@@ -49868,6 +49868,95 @@
         "type": "crm:E21_Person",
         "label": "Ardal, Maja.",
         "description": "Maja Árdal 1949-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/G7TWYDNwWU4">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/G7TWYDNwWU4",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-10T18:37:51.835Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/VMTscmxfDXX",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/VMTscmxfDXX/selector/textPosition/fk46wMphGnC",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 23887,
+                "end": 23906,
+                "refinedBy": {
+                    "id": "/target/VMTscmxfDXX/selector/textQuote/ytZJzZSWTT4",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Factory Theatre",
+                    "prefix": " He goes on to articulate Tarragon Theatre’s specific discomfort with the alternative label: Although Tarragon has always been anxious to position itself on the cutting edge, and although its play development mandate and relatively small budget set it apart from the Regional Theatre network from the beginning, the theatre has produced in its policies, procedures, physical arrangements, public profile and production history a discourse of stability, balance, comfort and quality that sets it apart from organizations such as",
+                    "suffix": " with its discourse of excitement, adventure, and risk\n                                Knowles, Reading 130"
+                }
+            },
+            {
+                "id": "/target/VMTscmxfDXX/selector/css/gte4RNxaAOa",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/G7TWYDNwWU4]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q137712366",
+        "label": "Factory Theatre",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
