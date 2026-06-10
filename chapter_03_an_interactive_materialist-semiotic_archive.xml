@@ -1255,7 +1255,7 @@
                     <bibl>. <title level="m">Up the Mainstream: The Rise of Toronto’s Alternative Theatres</title>. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/XiJLV8ihBKS">Toronto</placeName>: University of Toronto Press, 1991.</bibl>
                     <bibl>King’s Visualization Lab. <title level="a">Theatron Final Report</title>. <title level="m">Theatron 3: Educational Undertakings in Second Life</title>. <orgName key="Higher Education Academy (Great Britain). English Subject Centre" ref="http://viaf.org/viaf/168016154" ana="webannotation:http://temp.lincsproject.ca/fWbqhcb5CIh">English Subject Centre</orgName>, <orgName key="Higher Education Academy (Great Britain). English Subject Centre" ref="http://viaf.org/viaf/168016154" ana="webannotation:http://temp.lincsproject.ca/ldmSUhxA9Si">The Higher Education Academy</orgName>, Council for College and University Education, 2009. <ref target="http://www.english.heacademy.ac.uk/explore/projects/archive/technology/tech23.php">http://www.english.heacademy.ac.uk/explore/projects/archive/technology/tech23.php</ref>
                     </bibl>
-                    <bibl><persName key="Kilbourn, William" ref="http://viaf.org/viaf/163979153" ana="webannotation:http://temp.lincsproject.ca/EfMEi3C8eug">Kilbourn</persName>, William, Jean Roberts, <persName key="David Gardner" ref="https://www.wikidata.org/wiki/Q55832066" ana="webannotation:http://temp.lincsproject.ca/c6G3rXdNh4t">David Gardner</persName>, <persName key="Peacock, D. P. S." ref="http://viaf.org/viaf/20146824860407631022" ana="webannotation:http://temp.lincsproject.ca/GuhbSxUjtbs">David Peacock</persName>, <persName key="Couanier Deslandes, Claude" ref="http://viaf.org/viaf/47013956" ana="webannotation:http://temp.lincsproject.ca/2pxMTAmyavj">Claude Des Landes</persName>, and <persName key="Learning, Walter 1938-2020" ref="http://viaf.org/viaf/11093579" ana="webannotation:http://temp.lincsproject.ca/qd4kwybt1gM">Walter Learning</persName>. <title level="a">The Canada Council and the Theatre: The Past Twenty-Five Years and Tomorrow.</title> Theatre Research in Canada / <hi xml:lang="fr-CA">Recherches théâtrales au Canada</hi> 3.2 (1982). <ref target="http://journals.hil.unb.ca/index.php/TRIC/article/view/7487">http://journals.hil.unb.ca/index.php/TRIC/article/view/7487</ref>
+                    <bibl><persName key="Kilbourn, William" ref="http://viaf.org/viaf/163979153" ana="webannotation:http://temp.lincsproject.ca/EfMEi3C8eug">Kilbourn</persName>, William, Jean Roberts, <persName key="David Gardner" ref="https://www.wikidata.org/wiki/Q55832066" ana="webannotation:http://temp.lincsproject.ca/c6G3rXdNh4t">David Gardner</persName>, <persName key="Peacock, D. P. S." ref="http://viaf.org/viaf/20146824860407631022" ana="webannotation:http://temp.lincsproject.ca/GuhbSxUjtbs">David Peacock</persName>, <persName key="Couanier Deslandes, Claude" ref="http://viaf.org/viaf/47013956" ana="webannotation:http://temp.lincsproject.ca/2pxMTAmyavj">Claude Des Landes</persName>, and <persName key="Learning, Walter 1938-2020" ref="http://viaf.org/viaf/11093579" ana="webannotation:http://temp.lincsproject.ca/qd4kwybt1gM">Walter Learning</persName>. <title level="a"><orgName key="Canada Council for the Arts." ref="http://viaf.org/viaf/153522743" ana="webannotation:http://temp.lincsproject.ca/XZqUZjGPWpb">The Canada Council</orgName> and the Theatre: The Past Twenty-Five Years and Tomorrow.</title> Theatre Research in Canada / <hi xml:lang="fr-CA">Recherches théâtrales au Canada</hi> 3.2 (1982). <ref target="http://journals.hil.unb.ca/index.php/TRIC/article/view/7487">http://journals.hil.unb.ca/index.php/TRIC/article/view/7487</ref>
                     </bibl>
                     <bibl><title key="Knowles, Richard Paul" ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/89lQ5mYv7qy">Knowles</title>, <persName key="know" ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/7CZjmmZv0UN">Ric</persName>. <title level="a">Introduction: <persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/5Sk2LqLAZ3N">Judith Thompson</persName> in Criticism.</title>
                         <title level="m"><persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/VZFzffG52jM">Judith Thompson</persName>: Critical Perspectives on Canadian Theatre in English. Ed. <title key="Knowles, Richard Paul" ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/mZRQoOoFeJX">Knowles</title></title>. Vol. 3. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/mSXZv8oTloW">Toronto</placeName>: Playwrights Canada Press, 2005. vii–xv.</bibl>
@@ -51114,6 +51114,95 @@
         "type": "crm:E21_Person",
         "label": "Learning, Walter 1938-2020",
         "description": "Learning, Walter, 1938-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/XZqUZjGPWpb">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/XZqUZjGPWpb",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-10T18:03:34.351Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Ujj5B4DYvXa",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Ujj5B4DYvXa/selector/textPosition/alRRjpywJL0",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 93971,
+                "end": 93989,
+                "refinedBy": {
+                    "id": "/target/Ujj5B4DYvXa/selector/textQuote/vq1Ccrq5ub5",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "The Canada Council",
+                    "prefix": "",
+                    "suffix": "and the Theatre: The Past Twenty-Five Years and Tomorrow"
+                }
+            },
+            {
+                "id": "/target/Ujj5B4DYvXa/selector/css/Bcu90w9qaav",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/XZqUZjGPWpb]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/153522743",
+        "type": "crm:E74_Group",
+        "label": "Canada Council for the Arts.",
+        "description": "Conseil des arts du Canada"
     },
     "P2_has_type": [
         "oa:identifying"
