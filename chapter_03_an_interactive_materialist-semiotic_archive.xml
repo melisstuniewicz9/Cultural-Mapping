@@ -1255,7 +1255,7 @@
                     <bibl>. <title level="m">Up the Mainstream: The Rise of Toronto’s Alternative Theatres</title>. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/XiJLV8ihBKS">Toronto</placeName>: University of Toronto Press, 1991.</bibl>
                     <bibl>King’s Visualization Lab. <title level="a">Theatron Final Report</title>. <title level="m">Theatron 3: Educational Undertakings in Second Life</title>. English Subject Centre, The Higher Education Academy, Council for College and University Education, 2009. <ref target="http://www.english.heacademy.ac.uk/explore/projects/archive/technology/tech23.php">http://www.english.heacademy.ac.uk/explore/projects/archive/technology/tech23.php</ref>
                     </bibl>
-                    <bibl><persName key="Kilbourn, William" ref="http://viaf.org/viaf/163979153" ana="webannotation:http://temp.lincsproject.ca/EfMEi3C8eug">Kilbourn</persName>, William, Jean Roberts, David Gardner, David Peacock, Claude Des Landes, and Walter Learning. <title level="a">The Canada Council and the Theatre: The Past Twenty-Five Years and Tomorrow.</title> Theatre Research in Canada / <hi xml:lang="fr-CA">Recherches théâtrales au Canada</hi> 3.2 (1982). <ref target="http://journals.hil.unb.ca/index.php/TRIC/article/view/7487">http://journals.hil.unb.ca/index.php/TRIC/article/view/7487</ref>
+                    <bibl><persName key="Kilbourn, William" ref="http://viaf.org/viaf/163979153" ana="webannotation:http://temp.lincsproject.ca/EfMEi3C8eug">Kilbourn</persName>, William, Jean Roberts, David Gardner, David Peacock, <persName key="Couanier Deslandes, Claude" ref="http://viaf.org/viaf/47013956" ana="webannotation:http://temp.lincsproject.ca/2pxMTAmyavj">Claude Des Landes</persName>, and Walter Learning. <title level="a">The Canada Council and the Theatre: The Past Twenty-Five Years and Tomorrow.</title> Theatre Research in Canada / <hi xml:lang="fr-CA">Recherches théâtrales au Canada</hi> 3.2 (1982). <ref target="http://journals.hil.unb.ca/index.php/TRIC/article/view/7487">http://journals.hil.unb.ca/index.php/TRIC/article/view/7487</ref>
                     </bibl>
                     <bibl><title key="Knowles, Richard Paul" ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/89lQ5mYv7qy">Knowles</title>, Ric. <title level="a">Introduction: <persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/5Sk2LqLAZ3N">Judith Thompson</persName> in Criticism.</title>
                         <title level="m"><persName key="Thompson, Judith" ref="http://viaf.org/viaf/66498292" ana="webannotation:http://temp.lincsproject.ca/VZFzffG52jM">Judith Thompson</persName>: Critical Perspectives on Canadian Theatre in English. Ed. <title key="Knowles, Richard Paul" ref="http://viaf.org/viaf/51820035" ana="webannotation:http://temp.lincsproject.ca/mZRQoOoFeJX">Knowles</title></title>. Vol. 3. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/mSXZv8oTloW">Toronto</placeName>: Playwrights Canada Press, 2005. vii–xv.</bibl>
@@ -50491,6 +50491,95 @@
         "type": "crm:E21_Person",
         "label": "Dondis, Donis A., 1924-1984",
         "description": "Dondis, Donis A."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/2pxMTAmyavj">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/2pxMTAmyavj",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-10T15:08:47.033Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/SeIDsQGFhQm",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/SeIDsQGFhQm/selector/textPosition/E6BVsxotI3T",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 93931,
+                "end": 93948,
+                "refinedBy": {
+                    "id": "/target/SeIDsQGFhQm/selector/textQuote/sSo39GHIoSx",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Claude Des Landes",
+                    "prefix": "php\n                    \n                    Kilbourn, William, Jean Roberts, David Gardner, David Peacock,",
+                    "suffix": " and Walter Learning"
+                }
+            },
+            {
+                "id": "/target/SeIDsQGFhQm/selector/css/RX1X8BIepvG",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/2pxMTAmyavj]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/47013956",
+        "type": "crm:E21_Person",
+        "label": "Couanier Deslandes, Claude",
+        "description": "Couanier-Deslandes, Claude-Henri, 1725?-1766"
     },
     "P2_has_type": [
         "oa:identifying"
