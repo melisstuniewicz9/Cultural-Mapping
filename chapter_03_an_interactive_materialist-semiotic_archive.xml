@@ -566,7 +566,7 @@
                                     </hi> still publishes <q>at least one significant new script per issue</q>
                                     <note place="inline">
                                         <bibl>
-                                            <title level="j"><orgName key="Canadian theatre review" ref="http://viaf.org/viaf/316885640" ana="webannotation:http://temp.lincsproject.ca/SyqEIBXgmvx">Canadian Theatre Review</orgName></title>
+                                            <title level="j"><orgName key="Canadian Theatre Review" ref="http://www.wikidata.org/entity/Q39046074" ana="webannotation:http://temp.lincsproject.ca/SyqEIBXgmvx webannotation:http://temp.lincsproject.ca/MtsrnyGQrne">Canadian Theatre Review</orgName></title>
                                         </bibl>
                                     </note>—as well as the mandates of Canadian theatrical publishing houses, which contribute to the commission’s hoped for <q>substantial body of proven plays (Canadian classics in other words) to which artistic directors would automatically turn when planning their upcoming seasons</q>
                                     <note place="inline">
@@ -23645,20 +23645,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/SyqEIBXgmvx">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/MtsrnyGQrne">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/SyqEIBXgmvx",
+    "id": "http://temp.lincsproject.ca/MtsrnyGQrne",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-06-04T14:23:05.730Z",
+    "created": "2026-06-10T14:29:59.501Z",
     "creator": {
         "id": "https://github.com/melisstuniewicz9",
         "type": "crm:E21_Person",
@@ -23718,13 +23718,22 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/SyqEIBXgmvx]"
+            },
+            {
+                "id": "/target/EAZncar1RJW/selector/css/5Y2747NKnJO",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/MtsrnyGQrne]"
             }
         ]
     },
     "body": {
-        "id": "http://viaf.org/viaf/316885640",
-        "type": "crm:E74_Group",
-        "label": "Canadian theatre review"
+        "id": "http://www.wikidata.org/entity/Q39046074",
+        "type": "frbroo:F1",
+        "label": "Canadian Theatre Review",
+        "description": "academic journal"
     },
     "P2_has_type": [
         "oa:identifying"
