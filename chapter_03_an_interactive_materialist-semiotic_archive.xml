@@ -766,7 +766,7 @@
                         <ref target="#methodology">
                             <ref target="#genre_performance">
                                 <ref target="#canon_formation">Nonetheless, what a materialist-semiotic approach to canonization gains in richness and democracy it loses in stability, thoroughness, and detail; like all repertoires, the current <q>revival</q> movement remains a changing, incomplete, and approximate—perhaps even generalized—record of the past</ref>
-                            </ref>. <ref target="#archive">Companies currently producing non-textual performance have been particularly conscious of the challenge of archiving their repertoires. <ref target="#spatiality"><orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/LwsLYH2RtyE">Bluemouth Inc.</orgName>, for example, whose <title level="m">What the Thunder Said</title> is a site-specific, participatory piece that changes with every venue, has produced a printed archive documenting performances in two different environments. It is presented in columns, one of which shows <q>Stage Directions: 2003 Production (rear unit of a <placeName key="Dufferin Street" ref="https://www.wikidata.org/wiki/Q5312347" ana="webannotation:http://temp.lincsproject.ca/rbgiWq1c3oi">Dufferin Street</placeName> warehouse between Queen and King Streets, the west end of <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/ZeMokdORpYT">Toronto</placeName>),</q> and another <q>Stage Directions: 2006 Production (stripped office space, historic AT&amp;T building, lower <placeName key="Manhattan" ref="https://sws.geonames.org/5125771" ana="webannotation:http://temp.lincsproject.ca/6TkMY2XPbBF">Manhattan</placeName></q>
+                            </ref>. <ref target="#archive">Companies currently producing non-textual performance have been particularly conscious of the challenge of archiving their repertoires. <ref target="#spatiality"><orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/LwsLYH2RtyE">Bluemouth Inc.</orgName>, for example, whose <title level="m">What the Thunder Said</title> is a site-specific, participatory piece that changes with every venue, has produced a printed archive documenting performances in two different environments. It is presented in columns, one of which shows <q>Stage Directions: 2003 Production (rear unit of a <placeName key="Dufferin Street" ref="https://www.wikidata.org/wiki/Q5312347" ana="webannotation:http://temp.lincsproject.ca/rbgiWq1c3oi">Dufferin Street</placeName> warehouse between Queen and King Streets, the west end of <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/ZeMokdORpYT">Toronto</placeName>),</q> and another <q>Stage Directions: 2006 Production (stripped office space, historic <orgName key="AT&amp;T" ref="https://www.wikidata.org/wiki/Q35476" ana="webannotation:http://temp.lincsproject.ca/m39ZM736I4f">AT&amp;T</orgName> building, lower <placeName key="Manhattan" ref="https://sws.geonames.org/5125771" ana="webannotation:http://temp.lincsproject.ca/6TkMY2XPbBF">Manhattan</placeName></q>
                                     <note place="inline">
                                         <bibl><orgName key="Bluemouth Inc" ref="https://www.wikidata.org/wiki/Q85747909" ana="webannotation:http://temp.lincsproject.ca/I44PTUHl34V">Bluemouth Inc.</orgName> 21</bibl>
                                     </note>
@@ -49868,6 +49868,95 @@
         "type": "crm:E21_Person",
         "label": "Ardal, Maja.",
         "description": "Maja Árdal 1949-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/m39ZM736I4f">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/m39ZM736I4f",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-10T18:23:30.999Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/5P9IRSAUo8D",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/5P9IRSAUo8D/selector/textPosition/wXZdlcJ5a77",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 43899,
+                "end": 43903,
+                "refinedBy": {
+                    "id": "/target/5P9IRSAUo8D/selector/textQuote/qXl16Fz7xjE",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "AT&T",
+                    "prefix": " It is presented in columns, one of which shows Stage Directions: 2003 Production (rear unit of a Dufferin Street warehouse between Queen and King Streets, the west end of Toronto), and another Stage Directions: 2006 Production (stripped office space, historic",
+                    "suffix": "building, lower Manhattan\n                                    \n                                        Bluemouth Inc"
+                }
+            },
+            {
+                "id": "/target/5P9IRSAUo8D/selector/css/WRYSDU0Jpxx",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/m39ZM736I4f]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q35476",
+        "label": "AT&T",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
