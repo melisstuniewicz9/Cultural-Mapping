@@ -1238,7 +1238,7 @@
                     </bibl>
                     <bibl><persName key="Carlson, Marvin" ref="http://viaf.org/viaf/91218563" ana="webannotation:http://temp.lincsproject.ca/dc7CcjB1ZkX">Carlson</persName>, <persName key="Carlson, Marvin" ref="http://viaf.org/viaf/91218563" ana="webannotation:http://temp.lincsproject.ca/fLWEKKav3yA">Marvin</persName>. <title level="m"><title key="Marvin Carlson, Places of Performance. The Semiotics of Theatre Architecture" ref="https://www.wikidata.org/wiki/Q127984667" ana="webannotation:http://temp.lincsproject.ca/aCD31I2r3rf">Places of Performance</title>: The Semiotics of Theatre Architecture</title>. <placeName key="New York" ref="https://sws.geonames.org/5128638 " ana="webannotation:http://temp.lincsproject.ca/CWHXsnoaUST">New York</placeName>: <orgName key="Cornell University Press." ref="http://viaf.org/viaf/297828202" ana="webannotation:http://temp.lincsproject.ca/eZkWEqGlIL6">Cornell University Press</orgName>, 1993.</bibl>
                     <bibl>Cushman, Robert. <title level="a">Theatre Reviews: Savage Whimsy in <title level="m">White Biting Dog</title> and Cirque’s <title level="m">Totem</title>.”</title>
-                        <title level="j">National Post</title> 26 August 2011. <ref target="http://arts.nationalpost.com/2011/08/26/theatre-reviews-savage-whimsy-in-white-biting-dog-and-cirques-totem">http://arts.nationalpost.com/2011/08/26/theatre-reviews-savage-whimsy-in-white-biting-dog-and-cirques-totem</ref>
+                        <title level="j"><orgName key="National Post" ref="http://viaf.org/viaf/233145541836996600369" ana="webannotation:http://temp.lincsproject.ca/A1DzbpfWYZm">National Post</orgName></title> 26 August 2011. <ref target="http://arts.nationalpost.com/2011/08/26/theatre-reviews-savage-whimsy-in-white-biting-dog-and-cirques-totem">http://arts.nationalpost.com/2011/08/26/theatre-reviews-savage-whimsy-in-white-biting-dog-and-cirques-totem</ref>
                     </bibl>
                     <bibl>DeSouza-Coelho, <persName key="DeSouza-Coelho, Shawn" ref="http://viaf.org/viaf/15150868097722070403" ana="webannotation:http://temp.lincsproject.ca/k1ZhVki8Wzb">Shawn</persName>. <title level="m">[<placeName key="Prince Edward Viaduct" ref="http://www.wikidata.org/entity/Q2110325" ana="webannotation:http://temp.lincsproject.ca/IO2drKlH4hs">Bloor Street Viaduct</placeName>, Street View.]</title> <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/9pfauUGJL8E">Toronto</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/EcKaj8uSuj6">Ontario</placeName>, 2012.</bibl>
                     <bibl>Dondis, Donis A. <title level="m">A Primer of Visual Literacy</title>. <placeName key="Cambridge" ref="https://sws.geonames.org/4931972" ana="webannotation:http://temp.lincsproject.ca/upSe3tSvPQ3">Cambridge</placeName>, <placeName key="Massachusetts" ref="https://sws.geonames.org/6254926 " ana="webannotation:http://temp.lincsproject.ca/MUUyplE21kp">MA</placeName>: <orgName key="MIT Press" ref="http://viaf.org/viaf/159490691" ana="webannotation:http://temp.lincsproject.ca/WGuWnAeEtMB">MIT Press</orgName>, 1973.</bibl>
@@ -49779,6 +49779,95 @@
         "label": "Ardal, Maja",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/A1DzbpfWYZm">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/A1DzbpfWYZm",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-10T14:34:37.157Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/6ZOKlTn5135",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_03_an_interactive_materialist-semiotic_archive.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "An Interactive, Materialist-Semiotic Archive"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/6ZOKlTn5135/selector/textPosition/iK0O3tdN1eA",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 91650,
+                "end": 91663,
+                "refinedBy": {
+                    "id": "/target/6ZOKlTn5135/selector/textQuote/4NPjbaOI1SW",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "National Post",
+                    "prefix": "”\n                       ",
+                    "suffix": "26 August 2011"
+                }
+            },
+            {
+                "id": "/target/6ZOKlTn5135/selector/css/mbA7UXOvKGt",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/A1DzbpfWYZm]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/233145541836996600369",
+        "label": "National Post",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
