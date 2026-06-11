@@ -729,7 +729,7 @@
                         <bibl>Genette, Gerard. <title level="m">Paratexts: Thresholds of Interpretation</title>. Trans. <persName key="Lewin, Jane E." ref="http://viaf.org/viaf/208798270" ana="webannotation:http://temp.lincsproject.ca/HGJ2MCwCTk7" type="real" cert="high">Jane E. Lewin</persName>. Cambridge: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/GUuGhTWl6rn">Cambridge University Press</orgName>, 1987.</bibl>
                         <bibl>Guarino, Nicola. <title level="a">The Role of Identity Conditions in Ontology Design.</title>
                             <title level="m">Proceedings of the International Conference on Spatial Information Theory: Cognitive and Computational Foundations of Geographic Information Science</title>. Ed. Christian Freska and David M. Mark. Berlin: <orgName key="Springer-Verlag" ref="http://viaf.org/viaf/134381129" ana="webannotation:http://temp.lincsproject.ca/yRXyTdbYFVG">Springer-Verlag</orgName>, 1999. 221–34.</bibl>
-                        <bibl>Holdsworth, Michael. <title level="m">The International Standard Text Code (<abbr rend="sc-italic">istc</abbr>): A Work in Progress. A Supply Chain Perspective</title>. Book Industry Study Group and Book Industry Communication. March 2010. <ref target="http://www.bic.org.uk/files/pdfs/100401%20ISTC%20for%20BIC-BISG%20bic%20Final%20corrected.pdf">http://www.bic.org.uk/files/pdfs/100401%20ISTC%20for%20BIC-BISG%20bic%20Final%20corrected.pdf</ref>
+                        <bibl>Holdsworth, Michael. <title level="m">The International Standard Text Code (<abbr rend="sc-italic">istc</abbr>): A Work in Progress. A Supply Chain Perspective</title>. <orgName key="Book industry study group" ref="http://viaf.org/viaf/143148501" ana="webannotation:http://temp.lincsproject.ca/YSjmTVmrKpu">Book Industry Study Group</orgName> and Book Industry Communication. March 2010. <ref target="http://www.bic.org.uk/files/pdfs/100401%20ISTC%20for%20BIC-BISG%20bic%20Final%20corrected.pdf">http://www.bic.org.uk/files/pdfs/100401%20ISTC%20for%20BIC-BISG%20bic%20Final%20corrected.pdf</ref>
                         </bibl>
                         <bibl>
                             <orgName>International <abbr>ISBN</abbr> Agency</orgName>. <title level="m">Summary of Business Requirements Study on <abbr rend="sc-italic">isbns</abbr> &amp; E-books</title>. International <abbr>ISBN</abbr> Agency. December 2010. <ref target="http://api.ning.com/files/LyejPys2drPkZNQ1Pa59D*u-jaHaH24zdVRH3gvMXRmdABiCvPXYKt2bj*qgs*o4JjjGrNDMNs4IFTFV5ES9N*I8gw5PDYGQ/isbnebooksstudypublicsummary110105.pdf">http://api.ning.com/files/LyejPys2drPkZNQ1Pa59D*u-jaHaH24zdVRH3gvMXRmdABiCvPXYKt2bj*qgs*o4JjjGrNDMNs4IFTFV5ES9N*I8gw5PDYGQ/isbnebooksstudypublicsummary110105.pdf</ref>
@@ -1396,6 +1396,95 @@
         "type": "crm:E74_Group",
         "label": "Springer-Verlag",
         "description": "Springer-Verlag Berlin"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/YSjmTVmrKpu">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/YSjmTVmrKpu",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-11T17:52:27.949Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/KygPpE9HHUp",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/KygPpE9HHUp/selector/textPosition/TEerohiZ4EQ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 42834,
+                "end": 42859,
+                "refinedBy": {
+                    "id": "/target/KygPpE9HHUp/selector/textQuote/Gf4X8TleHsJ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Book Industry Study Group",
+                    "prefix": "",
+                    "suffix": "and Book Industry Communication"
+                }
+            },
+            {
+                "id": "/target/KygPpE9HHUp/selector/css/jg0w1oXyb56",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/YSjmTVmrKpu]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/143148501",
+        "type": "crm:E74_Group",
+        "label": "Book industry study group",
+        "description": "Book Industry Study Group book industry trade association based in US"
     },
     "P2_has_type": [
         "oa:identifying"
