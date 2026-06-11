@@ -737,7 +737,7 @@
                         <bibl>
                             <title level="m">Internet Archive</title>. <ref target="http://archive.org">http://archive.org</ref>
                         </bibl>
-                        <bibl>Jones, Maggie, and <persName key="Beagrie, Neil" ref="http://viaf.org/viaf/59990621" ana="webannotation:http://temp.lincsproject.ca/xDVFQwXoIcL">Neil Beagrie</persName>. <title level="m">Preservation Management of Digital Materials: A Handbook</title>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/5fveEaqwoIU">London</placeName>: <orgName key="British library" ref="http://viaf.org/viaf/121814978" ana="webannotation:http://temp.lincsproject.ca/fcDny7xT2fb">British Library</orgName>, 2001.</bibl>
+                        <bibl>Jones, Maggie, and <persName key="Beagrie, Neil" ref="http://viaf.org/viaf/59990621" ana="webannotation:http://temp.lincsproject.ca/xDVFQwXoIcL" type="real">Neil Beagrie</persName>. <title level="m">Preservation Management of Digital Materials: A Handbook</title>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/5fveEaqwoIU">London</placeName>: <orgName key="British library" ref="http://viaf.org/viaf/121814978" ana="webannotation:http://temp.lincsproject.ca/fcDny7xT2fb">British Library</orgName>, 2001.</bibl>
                         <bibl>Kirschenbaum, Matthew G., Richard Ovenden, Gabriela Redwine, and Rachel Donahue. <title level="m">Digital Forensics and Born-Digital Content in Cultural Heritage Collections</title>. Council on Library and Information Resources, Washington, DC. December 2010. <ref target="http://www.clir.org/pubs/reports/pub149/reports/pub149/pub149.pdf">http://www.clir.org/pubs/reports/pub149/reports/pub149/pub149.pdf</ref>
                         </bibl>
                         <bibl>McGann, Jerome. <title level="m">The Textual Condition</title>. Princeton: Princeton University Press, 1991.</bibl>
@@ -946,7 +946,10 @@
         "id": "http://viaf.org/viaf/59990621",
         "type": "crm:E21_Person",
         "label": "Beagrie, Neil",
-        "description": "Neil Beagrie chercheur"
+        "description": "Neil Beagrie chercheur",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
