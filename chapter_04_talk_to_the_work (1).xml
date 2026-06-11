@@ -737,7 +737,7 @@
                         <bibl>
                             <title level="m">Internet Archive</title>. <ref target="http://archive.org">http://archive.org</ref>
                         </bibl>
-                        <bibl>Jones, Maggie, and Neil Beagrie. <title level="m">Preservation Management of Digital Materials: A Handbook</title>. London: <orgName key="British library" ref="http://viaf.org/viaf/121814978" ana="webannotation:http://temp.lincsproject.ca/fcDny7xT2fb">British Library</orgName>, 2001.</bibl>
+                        <bibl>Jones, Maggie, and Neil Beagrie. <title level="m">Preservation Management of Digital Materials: A Handbook</title>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/5fveEaqwoIU">London</placeName>: <orgName key="British library" ref="http://viaf.org/viaf/121814978" ana="webannotation:http://temp.lincsproject.ca/fcDny7xT2fb">British Library</orgName>, 2001.</bibl>
                         <bibl>Kirschenbaum, Matthew G., Richard Ovenden, Gabriela Redwine, and Rachel Donahue. <title level="m">Digital Forensics and Born-Digital Content in Cultural Heritage Collections</title>. Council on Library and Information Resources, Washington, DC. December 2010. <ref target="http://www.clir.org/pubs/reports/pub149/reports/pub149/pub149.pdf">http://www.clir.org/pubs/reports/pub149/reports/pub149/pub149.pdf</ref>
                         </bibl>
                         <bibl>McGann, Jerome. <title level="m">The Textual Condition</title>. Princeton: Princeton University Press, 1991.</bibl>
@@ -858,6 +858,95 @@
         "label": "Berlin",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/5fveEaqwoIU">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/5fveEaqwoIU",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-11T17:42:05.261Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/dfOW69hVvg7",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/dfOW69hVvg7/selector/textPosition/8ttTdAG02ZN",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 43622,
+                "end": 43628,
+                "refinedBy": {
+                    "id": "/target/dfOW69hVvg7/selector/textQuote/hRgi9TOCTKm",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": "",
+                    "suffix": " British Library, 2001"
+                }
+            },
+            {
+                "id": "/target/dfOW69hVvg7/selector/css/bzMHxxBHgwD",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/5fveEaqwoIU]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "type": "crm:E53_Place",
+        "label": "London",
+        "description": "England, Greater London, GB"
     },
     "P2_has_type": [
         "oa:identifying"
