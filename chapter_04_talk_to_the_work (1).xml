@@ -726,7 +726,7 @@
                             <title level="j"><orgName key="Journal of the Association for Information Science and Technology" ref="http://www.wikidata.org/entity/Q152040" ana="webannotation:http://temp.lincsproject.ca/OBLYkOLvecV">Journal of the American Society for Information Science</orgName> </title>42.5 (1991): 351–60.</bibl>
                         <bibl>Fyfe, Paul. <title level="a">Electronic Errata: Digital Publishing, Open Review, and the Futures of Correction.</title>
                             <title level="m">Debates in the Digital Humanities</title>. Ed. Matthew Gold. Minneapolis: <orgName key="University of Minnesota. Press" ref="http://viaf.org/viaf/146595780" ana="webannotation:http://temp.lincsproject.ca/OQszLqRJDsA">University of Minnesota Press</orgName>, 2012. 259–80.</bibl>
-                        <bibl>Genette, Gerard. <title level="m">Paratexts: Thresholds of Interpretation</title>. Trans. Jane E. Lewin. Cambridge: Cambridge University Press, 1987.</bibl>
+                        <bibl>Genette, Gerard. <title level="m">Paratexts: Thresholds of Interpretation</title>. Trans. Jane E. Lewin. Cambridge: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/GUuGhTWl6rn">Cambridge University Press</orgName>, 1987.</bibl>
                         <bibl>Guarino, Nicola. <title level="a">The Role of Identity Conditions in Ontology Design.</title>
                             <title level="m">Proceedings of the International Conference on Spatial Information Theory: Cognitive and Computational Foundations of Geographic Information Science</title>. Ed. Christian Freska and David M. Mark. Berlin: Springer-Verlag, 1999. 221–34.</bibl>
                         <bibl>Holdsworth, Michael. <title level="m">The International Standard Text Code (<abbr rend="sc-italic">istc</abbr>): A Work in Progress. A Supply Chain Perspective</title>. Book Industry Study Group and Book Industry Communication. March 2010. <ref target="http://www.bic.org.uk/files/pdfs/100401%20ISTC%20for%20BIC-BISG%20bic%20Final%20corrected.pdf">http://www.bic.org.uk/files/pdfs/100401%20ISTC%20for%20BIC-BISG%20bic%20Final%20corrected.pdf</ref>
@@ -1036,6 +1036,95 @@
         "type": "crm:E74_Group",
         "label": "University of Minnesota. Press",
         "description": "Wydawnictwo Uniwersytetu Minnesoty"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/GUuGhTWl6rn">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/GUuGhTWl6rn",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-11T17:45:03.908Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/xai3JmJ5rWj",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/xai3JmJ5rWj/selector/textPosition/Tb4jIXo5Mmk",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 42312,
+                "end": 42338,
+                "refinedBy": {
+                    "id": "/target/xai3JmJ5rWj/selector/textQuote/5Cinerz0bTI",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Cambridge University Press",
+                    "prefix": " Cambridge:",
+                    "suffix": " 1987"
+                }
+            },
+            {
+                "id": "/target/xai3JmJ5rWj/selector/css/Qhkzjj1NjIb",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/GUuGhTWl6rn]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/127979069",
+        "type": "crm:E74_Group",
+        "label": "Cambridge university press",
+        "description": "Gwasg Prifysgol Caergrawnt"
     },
     "P2_has_type": [
         "oa:identifying"
