@@ -751,7 +751,7 @@
                         </bibl>
                         <bibl>Renear, Allen, and David Dubin. <title level="a">Towards Identity Conditions for Digital Documents.</title>
                             <title level="m">Proceedings of the 2003 International Conference on Dublin Core and Metadata Applications: Supporting Communities of Discourse and Practice—Metadata Research and Applications</title>. Dublin: <orgName key="Dublin Core Metadata Initiative" ref="http://viaf.org/viaf/138251091" ana="webannotation:http://temp.lincsproject.ca/DEjXBwwsCQw">Dublin Core Metadata Initiative</orgName>, 2003. 181–89.</bibl>
-                        <bibl><persName key="Schreibman, Susan." ref="http://viaf.org/viaf/63873608" ana="webannotation:http://temp.lincsproject.ca/DiL1y1Q95Wf">Schreibman</persName>, Susan. <title level="a">Computer-mediated Texts and Textuality: Theory and Practice.</title>
+                        <bibl><persName key="Schreibman, Susan." ref="http://viaf.org/viaf/63873608" ana="webannotation:http://temp.lincsproject.ca/DiL1y1Q95Wf" type="real">Schreibman</persName>, Susan. <title level="a">Computer-mediated Texts and Textuality: Theory and Practice.</title>
                             <title level="j"><title key="Computers and the Humanities" ref="http://www.wikidata.org/entity/Q26849475" ana="webannotation:http://temp.lincsproject.ca/Hauw8PZa3Su">Computers and the Humanities</title> </title>36 (2002): 283–93.</bibl>
                         <bibl>Smiraglia, Richard P. <title level="m">The Nature of <q>A Work</q>: Implications for the Organization of Knowledge</title>. Lanham, MD: <orgName key="Scarecrow press" ref="http://viaf.org/viaf/261535565" ana="webannotation:http://temp.lincsproject.ca/B4M40Qg275o">Scarecrow Press</orgName>, 2001.</bibl>
                         <bibl>. <title level="a">The Progress of Theory in Knowledge Organization.</title>
@@ -2922,7 +2922,10 @@
         "id": "http://viaf.org/viaf/63873608",
         "type": "crm:E21_Person",
         "label": "Schreibman, Susan.",
-        "description": "Schreibman, Susan, 19..-...."
+        "description": "Schreibman, Susan, 19..-....",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
