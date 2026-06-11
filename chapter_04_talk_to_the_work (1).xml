@@ -726,7 +726,7 @@
                             <title level="j"><orgName key="Journal of the Association for Information Science and Technology" ref="http://www.wikidata.org/entity/Q152040" ana="webannotation:http://temp.lincsproject.ca/OBLYkOLvecV">Journal of the American Society for Information Science</orgName> </title>42.5 (1991): 351–60.</bibl>
                         <bibl>Fyfe, Paul. <title level="a">Electronic Errata: Digital Publishing, Open Review, and the Futures of Correction.</title>
                             <title level="m">Debates in the Digital Humanities</title>. Ed. Matthew Gold. Minneapolis: <orgName key="University of Minnesota. Press" ref="http://viaf.org/viaf/146595780" ana="webannotation:http://temp.lincsproject.ca/OQszLqRJDsA">University of Minnesota Press</orgName>, 2012. 259–80.</bibl>
-                        <bibl>Genette, Gerard. <title level="m">Paratexts: Thresholds of Interpretation</title>. Trans. <persName key="Lewin, Jane E." ref="http://viaf.org/viaf/208798270" ana="webannotation:http://temp.lincsproject.ca/HGJ2MCwCTk7" type="real">Jane E. Lewin</persName>. Cambridge: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/GUuGhTWl6rn">Cambridge University Press</orgName>, 1987.</bibl>
+                        <bibl>Genette, Gerard. <title level="m">Paratexts: Thresholds of Interpretation</title>. Trans. <persName key="Lewin, Jane E." ref="http://viaf.org/viaf/208798270" ana="webannotation:http://temp.lincsproject.ca/HGJ2MCwCTk7" type="real" cert="high">Jane E. Lewin</persName>. Cambridge: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/GUuGhTWl6rn">Cambridge University Press</orgName>, 1987.</bibl>
                         <bibl>Guarino, Nicola. <title level="a">The Role of Identity Conditions in Ontology Design.</title>
                             <title level="m">Proceedings of the International Conference on Spatial Information Theory: Cognitive and Computational Foundations of Geographic Information Science</title>. Ed. Christian Freska and David M. Mark. Berlin: Springer-Verlag, 1999. 221–34.</bibl>
                         <bibl>Holdsworth, Michael. <title level="m">The International Standard Text Code (<abbr rend="sc-italic">istc</abbr>): A Work in Progress. A Supply Chain Perspective</title>. Book Industry Study Group and Book Industry Communication. March 2010. <ref target="http://www.bic.org.uk/files/pdfs/100401%20ISTC%20for%20BIC-BISG%20bic%20Final%20corrected.pdf">http://www.bic.org.uk/files/pdfs/100401%20ISTC%20for%20BIC-BISG%20bic%20Final%20corrected.pdf</ref>
@@ -1130,7 +1130,8 @@
         ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh"
     ]
 }]]>
 				
