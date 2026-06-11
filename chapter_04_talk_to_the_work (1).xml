@@ -742,7 +742,7 @@
                         </bibl>
                         <bibl>McGann, Jerome. <title level="m">The Textual Condition</title>. Princeton: Princeton University Press, 1991.</bibl>
                         <bibl>Paskin, Norman. <title level="a">Components of <abbr>DRM</abbr> Systems.</title>
-                            <title level="m">Digital Rights Management: Technological, Economic, Legal and Political Aspects</title>. Ed. Eberhard Becker, Willms Buhse, Dirk Günnewig, Neils Rump. Berlin: Springer-Verlag, 2003. 26–61.</bibl>
+                            <title level="m">Digital Rights Management: Technological, Economic, Legal and Political Aspects</title>. Ed. Eberhard Becker, Willms Buhse, Dirk Günnewig, Neils Rump. <placeName key="Berlin" ref="https://www.geonames.org/2950159/berlin.html" ana="webannotation:http://temp.lincsproject.ca/EH7Q3ZiNJ0i">Berlin</placeName>: Springer-Verlag, 2003. 26–61.</bibl>
                         <bibl>. <title level="a">Digital Object Identifiers.</title>
                             <title level="j">Information Services and Use </title>22 (2002): 97–112.</bibl>
                         <bibl>. <title level="a">On Making and Identifying a <q>Copy.</q>
@@ -853,6 +853,95 @@
     },
     "P2_has_type": [
         "oa:tagging"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/EH7Q3ZiNJ0i">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/EH7Q3ZiNJ0i",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-11T14:30:18.843Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/LNHbZZ2cyfA",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work%20(1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work%20(1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/LNHbZZ2cyfA/selector/textPosition/vpbTRwfM1rJ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 44349,
+                "end": 44355,
+                "refinedBy": {
+                    "id": "/target/LNHbZZ2cyfA/selector/textQuote/fhVH8fD3fRK",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": "",
+                    "suffix": " Springer-Verlag, 2003"
+                }
+            },
+            {
+                "id": "/target/LNHbZZ2cyfA/selector/css/QGMcEVBhIa9",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/EH7Q3ZiNJ0i]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.geonames.org/2950159/berlin.html",
+        "label": "Berlin",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
