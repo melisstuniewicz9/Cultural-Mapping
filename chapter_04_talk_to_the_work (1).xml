@@ -752,7 +752,7 @@
                         <bibl>Renear, Allen, and David Dubin. <title level="a">Towards Identity Conditions for Digital Documents.</title>
                             <title level="m">Proceedings of the 2003 International Conference on Dublin Core and Metadata Applications: Supporting Communities of Discourse and Practice—Metadata Research and Applications</title>. Dublin: <orgName key="Dublin Core Metadata Initiative" ref="http://viaf.org/viaf/138251091" ana="webannotation:http://temp.lincsproject.ca/DEjXBwwsCQw">Dublin Core Metadata Initiative</orgName>, 2003. 181–89.</bibl>
                         <bibl>Schreibman, Susan. <title level="a">Computer-mediated Texts and Textuality: Theory and Practice.</title>
-                            <title level="j">Computers and the Humanities </title>36 (2002): 283–93.</bibl>
+                            <title level="j"><title key="Computers and the Humanities" ref="http://www.wikidata.org/entity/Q26849475" ana="webannotation:http://temp.lincsproject.ca/Hauw8PZa3Su">Computers and the Humanities</title> </title>36 (2002): 283–93.</bibl>
                         <bibl>Smiraglia, Richard P. <title level="m">The Nature of <q>A Work</q>: Implications for the Organization of Knowledge</title>. Lanham, MD: Scarecrow Press, 2001.</bibl>
                         <bibl>. <title level="a">The Progress of Theory in Knowledge Organization.</title>
                             <title level="j">Library Trends</title> 50.3 (2002): 330–49.</bibl>
@@ -2834,6 +2834,103 @@
         "type": "crm:E74_Group",
         "label": "Dublin Core Metadata Initiative",
         "description": "Dublin Core Metadata Initiative standards organization that supports innovation in metadata design and best practices"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Hauw8PZa3Su">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Hauw8PZa3Su",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-11T17:59:53.743Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/LGnAGm6Bea5",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/LGnAGm6Bea5/selector/textPosition/sxo59pmDkSo",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45274,
+                "end": 45302,
+                "refinedBy": {
+                    "id": "/target/LGnAGm6Bea5/selector/textQuote/dS9PypfQ2FS",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Computers and the Humanities",
+                    "prefix": "\n                           ",
+                    "suffix": "36 (2002): 283–93"
+                }
+            },
+            {
+                "id": "/target/LGnAGm6Bea5/selector/css/4uJO65B6jyG",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/il8vF6Z15CE]"
+            },
+            {
+                "id": "/target/LGnAGm6Bea5/selector/css/1Z3HvAOBzYz",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Hauw8PZa3Su]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q26849475",
+        "type": "frbroo:F1",
+        "label": "Computers and the Humanities",
+        "description": "journal 1966-2004"
     },
     "P2_has_type": [
         "oa:identifying"
