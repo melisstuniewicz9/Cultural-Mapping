@@ -496,7 +496,7 @@
                 <p xml:id="p1223">
                     <ref target="#collaboration">
                         <ref target="#technology">
-                            <ref target="#spatiality">To question these assumptions is not to dismiss the fascinating work that is already unfolding when humanities scholars apply established <abbr>GIS</abbr> techniques to their research problems. <ref target="#authorship">Currently, for example, we are collaborating with <orgName key="University of Virginia." ref="http://viaf.org/viaf/126085929" ana="webannotation:http://temp.lincsproject.ca/iVg8Xj6gE4e">University of Virginia</orgName> classicist <persName key="Clay, Jenny Strauss, 1942-...." ref="http://viaf.org/viaf/26664" ana="webannotation:http://temp.lincsproject.ca/ObXgIo0nhgm">Jenny Strauss Clay</persName> and two of her graduate students. These scholars are letting Homeric verse drive a <abbr>GIS</abbr> analysis to determine feasible routes for travel—by mule—through the terrain of ancient Greece. The project tests Strauss’s theory that Homer’s catalogue of ships is ordered mnemonically as three distinct and real <q>itineraries</q> that would be familiar and memorable to listeners and bards. To that end, the Scholars’ Lab is applying a specific <abbr>GIS</abbr> technique called least-cost-path analysis, used primarily by governments to lay out highways.</ref> The project itself is potentially groundbreaking: it promises not only to elucidate the relationship between orally transmitted verse and real-world geographies, but—if distinct sequences are truly evident—to reveal the locations of lost archaeological sites <note place="inline">
+                            <ref target="#spatiality">To question these assumptions is not to dismiss the fascinating work that is already unfolding when humanities scholars apply established <abbr>GIS</abbr> techniques to their research problems. <ref target="#authorship">Currently, for example, we are collaborating with <orgName key="University of Virginia." ref="http://viaf.org/viaf/126085929" ana="webannotation:http://temp.lincsproject.ca/iVg8Xj6gE4e">University of Virginia</orgName> classicist <persName key="Clay, Jenny Strauss, 1942-...." ref="http://viaf.org/viaf/26664" ana="webannotation:http://temp.lincsproject.ca/ObXgIo0nhgm">Jenny Strauss Clay</persName> and two of her graduate students. These scholars are letting Homeric verse drive a <abbr>GIS</abbr> analysis to determine feasible routes for travel—by mule—through the terrain of ancient Greece. The project tests <persName key="Clay, Jenny Strauss, 1942-...." ref="http://viaf.org/viaf/26664" ana="webannotation:http://temp.lincsproject.ca/29PNSI8s1Gu">Strauss</persName>’s theory that Homer’s catalogue of ships is ordered mnemonically as three distinct and real <q>itineraries</q> that would be familiar and memorable to listeners and bards. To that end, the Scholars’ Lab is applying a specific <abbr>GIS</abbr> technique called least-cost-path analysis, used primarily by governments to lay out highways.</ref> The project itself is potentially groundbreaking: it promises not only to elucidate the relationship between orally transmitted verse and real-world geographies, but—if distinct sequences are truly evident—to reveal the locations of lost archaeological sites <note place="inline">
                                     <bibl>Clay</bibl>
                                 </note>. But its <abbr>GIS</abbr> methods, in themselves, are not strictly innovative. The story so far of <abbr>GIS</abbr> in the humanities is less about transformation and experimentation than about one-way adoption of technologies devised for other disciplines. Why is that?</ref>
                         </ref>
@@ -2336,6 +2336,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/ObXgIo0nhgm]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26664",
+        "type": "crm:E21_Person",
+        "label": "Clay, Jenny Strauss, 1942-....",
+        "description": "Clay, Jenny Strauss."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/29PNSI8s1Gu">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/29PNSI8s1Gu",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-15T16:42:20.101Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/MYKyzZtTXcJ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/MYKyzZtTXcJ/selector/textPosition/4EddKRXW5KE",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10679,
+                "end": 10686,
+                "refinedBy": {
+                    "id": "/target/MYKyzZtTXcJ/selector/textQuote/oXOu7tdBpu1",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Strauss",
+                    "prefix": " The project tests",
+                    "suffix": "s theory that Homer’s catalogue of ships is ordered mnemonically as three distinct and real itineraries that would be familiar and memorable to listeners and bards"
+                }
+            },
+            {
+                "id": "/target/MYKyzZtTXcJ/selector/css/mtZDXUq2G2c",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/29PNSI8s1Gu]"
             }
         ]
     },
