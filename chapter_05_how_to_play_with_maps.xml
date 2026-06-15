@@ -446,7 +446,7 @@
                 <p xml:id="p1218">
                     <ref target="#education">
                         <ref target="#intellectual_history">It is clear that we operate today from within the arc of a methodological turn in humanities scholarship. <ref target="#collaboration">
-                                <ref target="#methodology">The work my colleagues and I in the Scholars’ Lab have undertaken recently, from our location in a centre for digital study strategically embedded within the University of Virginia research library, aims to help us round that bend—that is, to prepare our archives and digital services to meet the humanities researchers we see moving, in increasing numbers, away from abstract, theoretical engagement with texts, images, and objects toward hands-on analysis, materialized synthesis, and active representation and manipulation of the cultural record. This work is not uncritical. It is theoretically informed, but it is also procedural and generative—hacked and made. And it is acutely aware of its relationship to traditional methods in the interpretive humanities.</ref>
+                                <ref target="#methodology">The work my colleagues and I in the Scholars’ Lab have undertaken recently, from our location in a centre for digital study strategically embedded within the <orgName key="University of Virginia." ref="http://viaf.org/viaf/126085929" ana="webannotation:http://temp.lincsproject.ca/2tswbho5Rf6">University of Virginia</orgName> research library, aims to help us round that bend—that is, to prepare our archives and digital services to meet the humanities researchers we see moving, in increasing numbers, away from abstract, theoretical engagement with texts, images, and objects toward hands-on analysis, materialized synthesis, and active representation and manipulation of the cultural record. This work is not uncritical. It is theoretically informed, but it is also procedural and generative—hacked and made. And it is acutely aware of its relationship to traditional methods in the interpretive humanities.</ref>
                             </ref>
                         </ref>
                     </ref>
@@ -465,7 +465,7 @@
                         <ref target="#education">
                             <ref target="#collaboration">
                                 <ref target="#theme_or_topic">
-                                    <ref target="#spatiality">The Scholars’ Lab at the University of Virginia Library has been busy in this arena. <ref target="#economics">Over the past few years, we have offered a variety of training programs for humanities scholars, software developers, and <abbr>GIS</abbr> librarians, including an Institute for Enabling Geospatial Scholarship funded by the National Endowment for the Humanities (NEH)</ref>. We have collaborated on presentational mapping and analytical <abbr>GIS</abbr> projects with University of Virginia faculty and with winners of our graduate fellowships in digital humanities. (In this program, nearly every applicant’s research project since 2007 has included some sort of spatial dimension.)</ref>
+                                    <ref target="#spatiality">The Scholars’ Lab at the University of Virginia Library has been busy in this arena. <ref target="#economics">Over the past few years, we have offered a variety of training programs for humanities scholars, software developers, and <abbr>GIS</abbr> librarians, including an Institute for Enabling Geospatial Scholarship funded by the National Endowment for the Humanities (NEH)</ref>. We have collaborated on presentational mapping and analytical <abbr>GIS</abbr> projects with <orgName key="University of Virginia." ref="http://viaf.org/viaf/126085929" ana="webannotation:http://temp.lincsproject.ca/JPCCx86cIRf">University of Virginia</orgName> faculty and with winners of our graduate fellowships in digital humanities. (In this program, nearly every applicant’s research project since 2007 has included some sort of spatial dimension.)</ref>
                                     <ref target="#writing_climate">We have worked to make our collection of <abbr>GIS</abbr> data and scanned historical maps discoverable and freely available for use by scholars and developers in the most flexible way possible. Further, we have undertaken a project called Neatline, a set of open source, Omeka plug-ins for digital storytelling, <ref target="#economics">funded by the Library of Congress and <abbr>NEH</abbr>
                                         </ref>. We are developing these tools so scholars can create their own selective, content-driven, and highly interpreted geotemporal expressions of collections that may be housed in libraries, museums, and archives, or which they assemble themselves with the aid of our Neatline software.</ref>
                                 </ref>
@@ -496,7 +496,7 @@
                 <p xml:id="p1223">
                     <ref target="#collaboration">
                         <ref target="#technology">
-                            <ref target="#spatiality">To question these assumptions is not to dismiss the fascinating work that is already unfolding when humanities scholars apply established <abbr>GIS</abbr> techniques to their research problems. <ref target="#authorship">Currently, for example, we are collaborating with University of Virginia classicist Jenny Strauss Clay and two of her graduate students. These scholars are letting Homeric verse drive a <abbr>GIS</abbr> analysis to determine feasible routes for travel—by mule—through the terrain of ancient Greece. The project tests Strauss’s theory that Homer’s catalogue of ships is ordered mnemonically as three distinct and real <q>itineraries</q> that would be familiar and memorable to listeners and bards. To that end, the Scholars’ Lab is applying a specific <abbr>GIS</abbr> technique called least-cost-path analysis, used primarily by governments to lay out highways.</ref> The project itself is potentially groundbreaking: it promises not only to elucidate the relationship between orally transmitted verse and real-world geographies, but—if distinct sequences are truly evident—to reveal the locations of lost archaeological sites <note place="inline">
+                            <ref target="#spatiality">To question these assumptions is not to dismiss the fascinating work that is already unfolding when humanities scholars apply established <abbr>GIS</abbr> techniques to their research problems. <ref target="#authorship">Currently, for example, we are collaborating with <orgName key="University of Virginia." ref="http://viaf.org/viaf/126085929" ana="webannotation:http://temp.lincsproject.ca/iVg8Xj6gE4e">University of Virginia</orgName> classicist Jenny Strauss Clay and two of her graduate students. These scholars are letting Homeric verse drive a <abbr>GIS</abbr> analysis to determine feasible routes for travel—by mule—through the terrain of ancient Greece. The project tests Strauss’s theory that Homer’s catalogue of ships is ordered mnemonically as three distinct and real <q>itineraries</q> that would be familiar and memorable to listeners and bards. To that end, the Scholars’ Lab is applying a specific <abbr>GIS</abbr> technique called least-cost-path analysis, used primarily by governments to lay out highways.</ref> The project itself is potentially groundbreaking: it promises not only to elucidate the relationship between orally transmitted verse and real-world geographies, but—if distinct sequences are truly evident—to reveal the locations of lost archaeological sites <note place="inline">
                                     <bibl>Clay</bibl>
                                 </note>. But its <abbr>GIS</abbr> methods, in themselves, are not strictly innovative. The story so far of <abbr>GIS</abbr> in the humanities is less about transformation and experimentation than about one-way adoption of technologies devised for other disciplines. Why is that?</ref>
                         </ref>
@@ -1457,6 +1457,273 @@
     "P2_has_type": [
         "oa:identifying",
         "edit:certaintyHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/2tswbho5Rf6">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/2tswbho5Rf6",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-15T16:39:08.334Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/CIQOM5Jrg3f",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/CIQOM5Jrg3f/selector/textPosition/evJp8eHRzoS",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 4559,
+                "end": 4581,
+                "refinedBy": {
+                    "id": "/target/CIQOM5Jrg3f/selector/textQuote/bJYUMVoMcDn",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "University of Virginia",
+                    "prefix": " \n                                The work my colleagues and I in the Scholars’ Lab have undertaken recently, from our location in a centre for digital study strategically embedded within the",
+                    "suffix": "research library, aims to help us round that bend—that is, to prepare our archives and digital services to meet the humanities researchers we see moving, in increasing numbers, away from abstract, theoretical engagement with texts, images, and objects toward hands-on analysis, materialized synthesis, and active representation and manipulation of the cultural record"
+                }
+            },
+            {
+                "id": "/target/CIQOM5Jrg3f/selector/css/EbD0gzttnKS",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/2tswbho5Rf6]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/126085929",
+        "type": "crm:E74_Group",
+        "label": "University of Virginia.",
+        "description": "University of Virginia public university in Charlottesville, Virginia"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/JPCCx86cIRf">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/JPCCx86cIRf",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-15T16:39:08.601Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ttzuxLQRgcQ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ttzuxLQRgcQ/selector/textPosition/zJtazNpc3SX",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7284,
+                "end": 7306,
+                "refinedBy": {
+                    "id": "/target/ttzuxLQRgcQ/selector/textQuote/y3ldVcUAiMX",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "University of Virginia",
+                    "prefix": " We have collaborated on presentational mapping and analytical GIS projects with",
+                    "suffix": "faculty and with winners of our graduate fellowships in digital humanities"
+                }
+            },
+            {
+                "id": "/target/ttzuxLQRgcQ/selector/css/0pYMHZanwG7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/JPCCx86cIRf]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/126085929",
+        "type": "crm:E74_Group",
+        "label": "University of Virginia.",
+        "description": "University of Virginia public university in Charlottesville, Virginia"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/iVg8Xj6gE4e">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/iVg8Xj6gE4e",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-15T16:39:08.760Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/yHnXuH22SGZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/yHnXuH22SGZ/selector/textPosition/hQlarCJq5zL",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10425,
+                "end": 10447,
+                "refinedBy": {
+                    "id": "/target/yHnXuH22SGZ/selector/textQuote/VRrk4ncO7Ny",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "University of Virginia",
+                    "prefix": " Currently, for example, we are collaborating with",
+                    "suffix": "classicist Jenny Strauss Clay and two of her graduate students"
+                }
+            },
+            {
+                "id": "/target/yHnXuH22SGZ/selector/css/PqvD5kbwQm3",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/iVg8Xj6gE4e]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/126085929",
+        "type": "crm:E74_Group",
+        "label": "University of Virginia.",
+        "description": "University of Virginia public university in Charlottesville, Virginia"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
