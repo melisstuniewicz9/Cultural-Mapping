@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="http://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>-->
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><!--<?xml-model href="http://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>--><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -381,7 +377,7 @@
         </fileDesc>
         <encodingDesc>
             <projectDesc>
-                <p />
+                <p/>
             </projectDesc>
             <classDecl>
                 <taxonomy>
@@ -398,14 +394,14 @@
         </profileDesc>
         <revisionDesc>
             <list>
-                <byline />
-                <item />
+                <byline/>
+                <item/>
                 <index>
-                    <term />
+                    <term/>
                 </index>
-                <byline />
+                <byline/>
                 <index>
-                    <term />
+                    <term/>
                 </index>
             </list>
         </revisionDesc>
@@ -416,7 +412,7 @@
                 <head>
                     <title level="a">How to Play with Maps</title>
                 </head>
-                <docAuthor>Bethany Nowviskie</docAuthor>
+                <docAuthor><persName key="Nowviskie, Bethany" ref="http://viaf.org/viaf/9880157643271438590009" ana="webannotation:http://temp.lincsproject.ca/H0zlzKb0P0G">Bethany Nowviskie</persName></docAuthor>
                 <p xml:id="p1214">
                     <ref target="#intertextuality">
                         <ref target="#education">The title of this chapter is a nod to Mark Monmonier’s influential 1991 volume, <title level="m">How to Lie with Maps</title>, a book that raised the cartographic awareness of a generation of university students, particularly in the social sciences where the stakes can be quite high for uncritical reading of graphs and images. Monmonier examines the complex rhetoric of contemporary mapmaking in the age of print journalism and pre-web mass media.</ref>
@@ -510,7 +506,7 @@
                     <ref target="#technology">
                         <ref target="#spatiality">First, we must acknowledge what has been holding humanists back. In 2008, Martyn Jessop of King’s College, London published an article in <title level="j">Literary and Linguistic Computing</title> in which he documented what he called an unexpected <title>inhibition</title> among digital humanities scholars—a reluctance to engage deeply with geospatial tools and data <note place="inline">
                                 <bibl>Jessop 39</bibl>
-                            </note>. <ref target="#education">In this piece, Jessop identifies the chief deficiencies of <abbr>GIS</abbr>es, from the point of view of the humanities, and he addresses the institutional systems that fail to support and promote their use. He notes that digital humanists are deeply engaged with place and space, and not usually daunted by a learning curve; they are, however, hesitant to embrace <abbr>GIS</abbr>.</ref> This article raises a fundamental question: Why—given the huge blossoming of activity elsewhere in <abbr>GIS</abbr>, the deep engagement of the humanities with place and space, and the general technological adventurousness of the digital humanities community—have scholars in our field been so slow to engage with maps?</ref>
+                            </note>. <ref target="#education">In this piece, Jessop identifies the chief deficiencies of <abbr>GIS </abbr>es, from the point of view of the humanities, and he addresses the institutional systems that fail to support and promote their use. He notes that digital humanists are deeply engaged with place and space, and not usually daunted by a learning curve; they are, however, hesitant to embrace <abbr>GIS</abbr>.</ref> This article raises a fundamental question: Why—given the huge blossoming of activity elsewhere in <abbr>GIS</abbr>, the deep engagement of the humanities with place and space, and the general technological adventurousness of the digital humanities community—have scholars in our field been so slow to engage with maps?</ref>
                     </ref>
                 </p>
                 <p xml:id="p1225">
@@ -764,14 +760,14 @@
                     <ref target="#methodology">Henshaw uses a unique format and design for each pair of text-maps in her book. Two pairs will serve to illustrate her technique, but others are available for scrutiny online, in the open access map library of collector</ref>
                     <figure>
                         <head>Figure 5.1</head>
-                        <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Abb803668-5642-4720-bc19-3421841d03d0/datastream/JPG-DToC/view" />
+                        <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Abb803668-5642-4720-bc19-3421841d03d0/datastream/JPG-DToC/view"/>
                         <figDesc>
                             <title level="a">(Description of) Virginia,</title> Frances Henshaw, 1823. <hi rend="italic">[Courtesy of David Rumsey Map Collection. List #2501N]</hi>
                         </figDesc>
                     </figure>
                     <figure>
                         <head>Figure 5.2</head>
-                        <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Aa46477e2-4555-4e15-836e-72c54563509e/datastream/JPG-DToC/view" />
+                        <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Aa46477e2-4555-4e15-836e-72c54563509e/datastream/JPG-DToC/view"/>
                         <figDesc>
                             <title level="a">Virginia,</title> Frances Henshaw, 1823. <hi rend="italic">[Courtesy of David Rumsey Map Collection. List #2501.012]</hi>
                         </figDesc>
@@ -797,14 +793,14 @@
                         <ref target="#authorship">
                             <ref target="#spatiality">In the case of Ohio, Henshaw’s text lacks labelled directionality but may have been designed to echo the rectilinear north and rough diamond-like shape of the southern portions of the state. At least two different editions of <title level="m">Geography Made Easy</title>, and—by my analysis—possibly three or more source documents, seem to have gone into Henshaw’s <figure>
                                     <head>Figure 5.3</head>
-                                    <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A1d06bd0c-3098-4cf8-a325-f72c51568827/datastream/JPG-DToC/view" />
+                                    <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A1d06bd0c-3098-4cf8-a325-f72c51568827/datastream/JPG-DToC/view"/>
                                     <figDesc>
                                         <title level="a">(Description of) Ohio,</title> Frances Henshaw, 1823. <hi rend="italic">[Courtesy of David Rumsey Map Collection. List #2501T]</hi>
                                     </figDesc>
                                 </figure>
                                 <figure>
                                     <head>Figure 5.4</head>
-                                    <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A11f1d75d-251b-4ae7-bc04-b8d27878a663/datastream/JPG-DToC/view" />
+                                    <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A11f1d75d-251b-4ae7-bc04-b8d27878a663/datastream/JPG-DToC/view"/>
                                     <figDesc>
                                         <title level="a">Ohio,</title> Frances Henshaw, 1823. <hi rend="italic">[Courtesy of David Rumsey Map Collection. List #2501.018]</hi>
                                     </figDesc>
@@ -855,7 +851,7 @@
                 </p>
                 <p xml:id="p1255">
                     <ref target="#technology">
-                        <ref target="#spatiality">It is no surprise that <abbr>GIS</abbr> is often regarded as positivist and mechanistic by humanities scholars. But we have a great opportunity to reform that perception—hence my emphasis in this chapter on processes as much as products of research. <ref target="#theme_or_topic">What if we did not assume that <abbr>GIS</abbr>es were merely <q>analytical or information-presentation tools,</q> but rather that they hold what Jessop calls <q>reflexive</q>
+                        <ref target="#spatiality">It is no surprise that <abbr>GIS</abbr> is often regarded as positivist and mechanistic by humanities scholars. But we have a great opportunity to reform that perception—hence my emphasis in this chapter on processes as much as products of research. <ref target="#theme_or_topic">What if we did not assume that <abbr>GIS </abbr>es were merely <q>analytical or information-presentation tools,</q> but rather that they hold what Jessop calls <q>reflexive</q>
                                 <note place="inline">
                                     <bibl>44</bibl>
                                 </note> potential? Operating in a reflective way within the mechanical framework presented by these tools may be as useful as inventing entirely new tools for humanities inquiry. Where they do not function optimally, we ought to use existing <abbr>GIS</abbr> tools to reflect on our methods and aims as humanities scholars interested in place and space in the documentary record, and thereby reconsider the construction of our disciplines.</ref>
@@ -925,4 +921,103 @@
             </div>
         </body>
     </text>
+	<standOff type="annotation">
+		
+<xenoData>
+			
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/H0zlzKb0P0G">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/H0zlzKb0P0G",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-15T16:37:18.225Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/f99iQ4jo36I",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/f99iQ4jo36I/selector/textPosition/fbMbheqZXha",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 115,
+                "end": 132,
+                "refinedBy": {
+                    "id": "/target/f99iQ4jo36I/selector/textQuote/kzRs2ih5kMb",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Bethany Nowviskie",
+                    "prefix": "\n        \n            \n                \n                    How to Play with Maps\n                \n               ",
+                    "suffix": "                \n                    \n                        The title of this chapter is a nod to Mark Monmonier’s influential 1991 volume, How to Lie with Maps, a book that raised the cartographic awareness of a generation of university students, particularly in the social sciences where the stakes can be quite high for uncritical reading of graphs and images"
+                }
+            },
+            {
+                "id": "/target/f99iQ4jo36I/selector/css/DRg92ksWrPG",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/H0zlzKb0P0G]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/9880157643271438590009",
+        "type": "crm:E21_Person",
+        "label": "Nowviskie, Bethany",
+        "description": "Bethany Nowviskie"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+			
+</rdf:RDF>
+		
+</xenoData>
+	</standOff>
 </TEI>
