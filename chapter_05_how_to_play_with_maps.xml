@@ -782,7 +782,7 @@
                             <ref target="#non-book_media">
                                 <ref target="#spatiality">The textual representation of the state of Virginia shows Henshaw breaking her own rules. Recall her cardinal directions, which place north at the top margin and west in the gutter of each recto leaf. They are augmented by labels for bounding states and bodies of water: <q>Bounded North by <placeName key="Massachusetts" ref="https://sws.geonames.org/6254926" ana="webannotation:http://temp.lincsproject.ca/dG2cWMGbaaW">Massachusetts</placeName>,</q>
                                     <q>south by the Atlantick,</q> and so forth. These cardinal directions hold true across every one of the nineteen texts, even in cases like Virginia, where the shape of the corresponding map prompts Henshaw to choose a landscape orientation for the page. <ref target="#tone_or_style">In the text that corresponds with her Virginia map, she offers a fairly unpoetic and disjointed selection of passages from <title level="m">Geography Made Easy</title>—capping the penmanship exercise with an elaborate ornamental cherub holding a sweeping ribbon or banner inscribed <q>Virginia.</q> But the cherub occupies the <q>northern</q> field of her page, so Henshaw is unable to position the expected <q>North by <hi rend="small-caps">maryland</hi>
-                                        </q> label appropriately. In other words, the aesthetic force of the textual ornament trumps Henshaw’s own conventions of directionality. Maryland is displaced to the west—where it crowds Kentucky toward the south, into a position where one might now seek, and fail to find, Tennessee.</ref>
+                                        </q> label appropriately. In other words, the aesthetic force of the textual ornament trumps Henshaw’s own conventions of directionality. Maryland is displaced to the west—where it crowds Kentucky toward the south, into a position where one might now seek, and fail to find, <placeName key="Tennessee" ref="https://sws.geonames.org/4662168" ana="webannotation:http://temp.lincsproject.ca/LcnLFc22jci">Tennessee</placeName>.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -2611,6 +2611,95 @@
         "type": "crm:E53_Place",
         "label": "Massachusetts",
         "description": "Massachusetts, US"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/LcnLFc22jci">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/LcnLFc22jci",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-15T16:43:33.269Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/mK7KeOUfPgG",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/mK7KeOUfPgG/selector/textPosition/mAkbS1FZgxB",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 42410,
+                "end": 42419,
+                "refinedBy": {
+                    "id": "/target/mK7KeOUfPgG/selector/textQuote/nAORWccGi03",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Tennessee",
+                    "prefix": " Maryland is displaced to the west—where it crowds Kentucky toward the south, into a position where one might now seek, and fail to find,",
+                    "suffix": "\n                                \n                            \n                        \n                    \n                \n                \n                    \n                        \n                            In the case of Ohio, Henshaw’s text lacks labelled directionality but may have been designed to echo the rectilinear north and rough diamond-like shape of the southern portions of the state"
+                }
+            },
+            {
+                "id": "/target/mK7KeOUfPgG/selector/css/WgZWkUgum1X",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/LcnLFc22jci]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/4662168",
+        "type": "crm:E53_Place",
+        "label": "Tennessee",
+        "description": "Tennessee, US"
     },
     "P2_has_type": [
         "oa:identifying"
