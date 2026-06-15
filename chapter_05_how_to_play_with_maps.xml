@@ -435,7 +435,7 @@
                     <ref target="#technology">
                         <ref target="#theme_or_topic">
                             <ref target="#education">
-                                <ref target="#spatiality">In this chapter—originally conceived as a keynote presentation for the Canadian Writing Research Collaboratory conference on space, place, and play—I seek to promote wise foolishness in the spatial humanities. I intend to interrogate the bases of digital mapping and of engagement with geospatial information tools and systems (that is, with analytical <abbr>GIS</abbr>) as we have received those technologies from the sciences, and from more mimetic disciplines like landscape architecture and urban planning. Further, I hope to encourage and enable digital humanists to play with maps. By implication, that means to toy with (and maybe even subvert) established technological systems of production and dissemination of digital maps. Those twinned areas of praxis and inquiry, for my purposes, require much attention and work—and there is no denying that play elicits humanists’ best work.</ref>
+                                <ref target="#spatiality">In this chapter—originally conceived as a keynote presentation for the <orgName key="Canadian Writing Research Collaboratory" ref="http://www.wikidata.org/entity/Q134008740" ana="webannotation:http://temp.lincsproject.ca/0lSCCHkblNc">Canadian Writing Research Collaboratory</orgName> conference on space, place, and play—I seek to promote wise foolishness in the spatial humanities. I intend to interrogate the bases of digital mapping and of engagement with geospatial information tools and systems (that is, with analytical <abbr>GIS</abbr>) as we have received those technologies from the sciences, and from more mimetic disciplines like landscape architecture and urban planning. Further, I hope to encourage and enable digital humanists to play with maps. By implication, that means to toy with (and maybe even subvert) established technological systems of production and dissemination of digital maps. Those twinned areas of praxis and inquiry, for my purposes, require much attention and work—and there is no denying that play elicits humanists’ best work.</ref>
                                 <ref target="#manuscript_history">
                                     <ref target="#childhood">At the heart of this essay is a set of historical maps by a fourteen-year-old girl from 1820s New England. I will offer Frances Henshaw and her cartographic method as our guide to a twenty-first-century humanities <abbr>GIS</abbr>
                                     </ref>
@@ -889,7 +889,7 @@
                         </bibl>
                         <bibl>Jessop, Martyn. <title level="a">“The Inhibition of Geographical Information in Digital Humanities Scholarship.”</title>
                             <title level="j">Literary and Linguistic Computing</title> 23 (April 2008): 39–50.</bibl>
-                        <bibl>Monmonier, Mark. <title level="m">How to Lie with Maps</title>. Chicago: University of Chicago Press, 1996.</bibl>
+                        <bibl><persName key="Monmonier, Mark S." ref="http://viaf.org/viaf/79086507" ana="webannotation:http://temp.lincsproject.ca/lVEBHCT4oAZ">Monmonier</persName>, Mark. <title level="m">How to Lie with Maps</title>. Chicago: University of Chicago Press, 1996.</bibl>
                         <bibl>Morse, Jedidiah. <title level="m">Geography Made Easy: Being an Abridgement of the American Universal Geography</title>. Boston: Thomas and Andrews, 1802.</bibl>
                         <bibl>
                             <author>
@@ -1275,6 +1275,184 @@
         "type": "crm:E21_Person",
         "label": "Monmonier, Mark S.",
         "description": "Monmonier, Mark Stephen, 1943-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/lVEBHCT4oAZ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/lVEBHCT4oAZ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-15T16:38:34.342Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/OGQE7uanwzu",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/OGQE7uanwzu/selector/textPosition/Qqm3HXuHhKg",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 53396,
+                "end": 53405,
+                "refinedBy": {
+                    "id": "/target/OGQE7uanwzu/selector/textQuote/EJZRCqBiYyA",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Monmonier",
+                    "prefix": "\n                       ",
+                    "suffix": " Mark"
+                }
+            },
+            {
+                "id": "/target/OGQE7uanwzu/selector/css/uKs15CvJJvd",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/lVEBHCT4oAZ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/79086507",
+        "type": "crm:E21_Person",
+        "label": "Monmonier, Mark S.",
+        "description": "Monmonier, Mark Stephen, 1943-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/0lSCCHkblNc">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/0lSCCHkblNc",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-15T16:38:45.729Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/t3zJcH977Et",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/t3zJcH977Et/selector/textPosition/icI6Vj8dTmh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2896,
+                "end": 2935,
+                "refinedBy": {
+                    "id": "/target/t3zJcH977Et/selector/textQuote/gajocq2k0X3",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canadian Writing Research Collaboratory",
+                    "prefix": "\n                \n                \n                    \n                        \n                            \n                                In this chapter—originally conceived as a keynote presentation for the",
+                    "suffix": "conference on space, place, and play—I seek to promote wise foolishness in the spatial humanities"
+                }
+            },
+            {
+                "id": "/target/t3zJcH977Et/selector/css/rvGIH2pFdqV",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/0lSCCHkblNc]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q134008740",
+        "type": "crm:E74_Group",
+        "label": "Canadian Writing Research Collaboratory",
+        "description": "online infrastructure for literary research in and about Canada"
     },
     "P2_has_type": [
         "oa:identifying"
