@@ -435,7 +435,7 @@
                     <ref target="#technology">
                         <ref target="#theme_or_topic">
                             <ref target="#education">
-                                <ref target="#spatiality">In this chapter—originally conceived as a keynote presentation for the <orgName key="Canadian Writing Research Collaboratory" ref="http://www.wikidata.org/entity/Q134008740" ana="webannotation:http://temp.lincsproject.ca/0lSCCHkblNc">Canadian Writing Research Collaboratory</orgName> conference on space, place, and play—I seek to promote wise foolishness in the spatial humanities. I intend to interrogate the bases of digital mapping and of engagement with geospatial information tools and systems (that is, with analytical <abbr>GIS</abbr>) as we have received those technologies from the sciences, and from more mimetic disciplines like landscape architecture and urban planning. Further, I hope to encourage and enable digital humanists to play with maps. By implication, that means to toy with (and maybe even subvert) established technological systems of production and dissemination of digital maps. Those twinned areas of praxis and inquiry, for my purposes, require much attention and work—and there is no denying that play elicits humanists’ best work.</ref>
+                                <ref target="#spatiality">In this chapter—originally conceived as a keynote presentation for the <orgName key="Canadian Writing Research Collaboratory" ref="http://www.wikidata.org/entity/Q134008740" ana="webannotation:http://temp.lincsproject.ca/0lSCCHkblNc" cert="high">Canadian Writing Research Collaboratory</orgName> conference on space, place, and play—I seek to promote wise foolishness in the spatial humanities. I intend to interrogate the bases of digital mapping and of engagement with geospatial information tools and systems (that is, with analytical <abbr>GIS</abbr>) as we have received those technologies from the sciences, and from more mimetic disciplines like landscape architecture and urban planning. Further, I hope to encourage and enable digital humanists to play with maps. By implication, that means to toy with (and maybe even subvert) established technological systems of production and dissemination of digital maps. Those twinned areas of praxis and inquiry, for my purposes, require much attention and work—and there is no denying that play elicits humanists’ best work.</ref>
                                 <ref target="#manuscript_history">
                                     <ref target="#childhood">At the heart of this essay is a set of historical maps by a fourteen-year-old girl from 1820s New England. I will offer Frances Henshaw and her cartographic method as our guide to a twenty-first-century humanities <abbr>GIS</abbr>
                                     </ref>
@@ -1455,7 +1455,8 @@
         "description": "online infrastructure for literary research in and about Canada"
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh"
     ]
 }]]>
 				
