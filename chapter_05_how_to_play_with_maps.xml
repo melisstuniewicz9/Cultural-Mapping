@@ -735,7 +735,7 @@
                                 <ref target="#theme_or_topic">
                                     <ref target="#tone_or_style">The heart of Henshaw’s book, however, is a series of nineteen hand-coloured maps and accompanying texts, at least ten of which were designed to sit in a particular spatial relationship to the American states they describe.</ref>
                                     <ref target="#intertextuality">
-                                        <ref target="#methodology">The maps are organized on a principle of adjacency, and Henshaw’s choices seem to reflect the conceptual and actual limits of American statehood in the atlases available to her at home and at school—primarily an 1805 edition of Mathew Carey’s <title level="m">American Pocket Atlas</title> and an 1812 edition of Aaron Arrowsmith and Samuel Lewis’s <title level="m">General Atlas</title>.</ref> She leaves out some defined territories and regions (like the Louisiana Purchase), and may have used a third, as yet unidentified atlas for the state of Indiana.</ref>
+                                        <ref target="#methodology">The maps are organized on a principle of adjacency, and Henshaw’s choices seem to reflect the conceptual and actual limits of American statehood in the atlases available to her at home and at school—primarily an 1805 edition of Mathew Carey’s <title level="m">American Pocket Atlas</title> and an 1812 edition of Aaron Arrowsmith and Samuel Lewis’s <title level="m">General Atlas</title>.</ref> She leaves out some defined territories and regions (like the Louisiana Purchase), and may have used a third, as yet unidentified atlas for the state of <placeName key="Indiana" ref="https://sws.geonames.org/4921868 " ana="webannotation:http://temp.lincsproject.ca/Rha8FzXU8va">Indiana</placeName>.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -10284,6 +10284,95 @@
         "type": "crm:E21_Person",
         "label": "Willson, Marcius, 1813-1905",
         "description": "Willson, Marcius"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Rha8FzXU8va">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Rha8FzXU8va",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T16:34:57.838Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/NXtyvMgZQll",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/NXtyvMgZQll/selector/textPosition/Iv1FwnCfyY9",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37094,
+                "end": 37101,
+                "refinedBy": {
+                    "id": "/target/NXtyvMgZQll/selector/textQuote/PajNu4lwEKc",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Indiana",
+                    "prefix": " She leaves out some defined territories and regions (like the Louisiana Purchase), and may have used a third, as yet unidentified atlas for the state of",
+                    "suffix": "\n                                \n                            \n                        \n                    \n                \n                \n                    \n                        It would seem that Henshaw deliberately selected, omitted, and recombined maps for representation in her book"
+                }
+            },
+            {
+                "id": "/target/NXtyvMgZQll/selector/css/3NDMwfV4bzY",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Rha8FzXU8va]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/4921868 ",
+        "label": "Indiana",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
