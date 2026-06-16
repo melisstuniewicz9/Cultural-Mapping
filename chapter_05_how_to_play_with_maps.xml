@@ -652,7 +652,7 @@
                         </note>. <ref target="#spatiality">
                             <ref target="#history">
                                 <ref target="#education">
-                                    <ref target="#women_writing">This fascination, which evolved and was tested at the Middlebury Female Academy, is everywhere evident in <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/MHCCyMwI2uC">Willard</persName>’s later textbooks, a body of work that quickly moved from synchronic spatial imagery in geography primers (that is, maps as snapshots in time) to timelines and time-flows, architectures of time and diachronic geotemporal visualization in history books.</ref> For her powerful graphic intervention in a field dominated by prose, Schulten places <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/TfjlF1nJWXR">Willard</persName> at <q>the graphic foundations of American history</q>
+                                    <ref target="#women_writing">This fascination, which evolved and was tested at the Middlebury Female Academy, is everywhere evident in <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/MHCCyMwI2uC">Willard</persName>’s later textbooks, a body of work that quickly moved from synchronic spatial imagery in geography primers (that is, maps as snapshots in time) to timelines and time-flows, architectures of time and diachronic geotemporal visualization in history books.</ref> For her powerful graphic intervention in a field dominated by prose, <persName key="Schulten, Susan." ref="http://viaf.org/viaf/61728848" ana="webannotation:http://temp.lincsproject.ca/dY8tp4vAppd">Schulten</persName> places <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/TfjlF1nJWXR">Willard</persName> at <q>the graphic foundations of American history</q>
                                 </ref>
                             </ref>
                             <note place="inline">
@@ -676,8 +676,8 @@
                         <ref target="#response_formal">
                             <ref target="#spatiality">But <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/8QFVkmYHecK">Willard</persName> had her critics. One of them raises issues that strike at the heart of Henshaw’s exercise book and the example it offers to modern, spatially minded scholars of the interpretive humanities. In the 1840s, Marcius Willson criticized <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/npoWgragBgP">Willard</persName>’s textbook maps—which bear the traces of the subjective and personal mapmaking exercises that she undertook with her students—as being <q>insufficiently geographical</q> and <q>focused instead on human events and boundaries</q>
                                 <note place="inline">
-                                    <bibl>Schulten 554</bibl>
-                                </note>. In effect, I read Willson as saying, <q>You put humanities in my geography!</q> But there is also an element to his critique that may be summarized as <q>You put space in my time!</q> Schulten sees Willson’s publications as an attack by a rival author on <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/Fu8iSYohn7i">Willard</persName>’s attempts to <q>reconceptualize the past on a plane rather than in a narrative</q>
+                                    <bibl><persName key="Schulten, Susan." ref="http://viaf.org/viaf/61728848" ana="webannotation:http://temp.lincsproject.ca/1mR2o31m8rO">Schulten</persName> 554</bibl>
+                                </note>. In effect, I read Willson as saying, <q>You put humanities in my geography!</q> But there is also an element to his critique that may be summarized as <q>You put space in my time!</q> <persName key="Schulten, Susan." ref="http://viaf.org/viaf/61728848" ana="webannotation:http://temp.lincsproject.ca/OERpVKsOmWy">Schulten</persName> sees Willson’s publications as an attack by a rival author on <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/Fu8iSYohn7i">Willard</persName>’s attempts to <q>reconceptualize the past on a plane rather than in a narrative</q>
                                 <note place="inline">
                                     <bibl>554</bibl>
                                 </note>.</ref>
@@ -6705,6 +6705,273 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/ZXBw2U1ZNew]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/61728848",
+        "type": "crm:E21_Person",
+        "label": "Schulten, Susan.",
+        "description": "Schulten, S."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/dY8tp4vAppd">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/dY8tp4vAppd",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T13:30:10.978Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/GuQol0A6WCz",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/GuQol0A6WCz/selector/textPosition/gSsRpUsExbK",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 29654,
+                "end": 29662,
+                "refinedBy": {
+                    "id": "/target/GuQol0A6WCz/selector/textQuote/6pYMAH12yun",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Schulten",
+                    "prefix": " For her powerful graphic intervention in a field dominated by prose,",
+                    "suffix": "places Willard at the graphic foundations of American history\n                                \n                            \n                            \n                                542\n                            "
+                }
+            },
+            {
+                "id": "/target/GuQol0A6WCz/selector/css/FIWAFGrD5rH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/dY8tp4vAppd]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/61728848",
+        "type": "crm:E21_Person",
+        "label": "Schulten, Susan.",
+        "description": "Schulten, S."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/1mR2o31m8rO">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/1mR2o31m8rO",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T13:30:11.209Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/i5qCBZxaWK2",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/i5qCBZxaWK2/selector/textPosition/TkZbQdPQL5w",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 31500,
+                "end": 31508,
+                "refinedBy": {
+                    "id": "/target/i5qCBZxaWK2/selector/textQuote/ZNws79w4f2E",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Schulten",
+                    "prefix": " In the 1840s, Marcius Willson criticized Willard’s textbook maps—which bear the traces of the subjective and personal mapmaking exercises that she undertook with her students—as being insufficiently geographical and focused instead on human events and boundaries\n                                \n                                   ",
+                    "suffix": "554\n                                "
+                }
+            },
+            {
+                "id": "/target/i5qCBZxaWK2/selector/css/yF031q5jw0u",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/1mR2o31m8rO]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/61728848",
+        "type": "crm:E21_Person",
+        "label": "Schulten, Susan.",
+        "description": "Schulten, S."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/OERpVKsOmWy">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/OERpVKsOmWy",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T13:30:11.346Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/gstFxNVLfBP",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/gstFxNVLfBP/selector/textPosition/kW0CUZkT1eg",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 31717,
+                "end": 31725,
+                "refinedBy": {
+                    "id": "/target/gstFxNVLfBP/selector/textQuote/VqDDo3wmV8B",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Schulten",
+                    "prefix": " In effect, I read Willson as saying, You put humanities in my geography! But there is also an element to his critique that may be summarized as You put space in my time!",
+                    "suffix": "sees Willson’s publications as an attack by a rival author on Willard’s attempts to reconceptualize the past on a plane rather than in a narrative\n                                \n                                    554\n                                "
+                }
+            },
+            {
+                "id": "/target/gstFxNVLfBP/selector/css/XXqKj3dI4h5",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/OERpVKsOmWy]"
             }
         ]
     },
