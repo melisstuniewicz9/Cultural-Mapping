@@ -902,7 +902,7 @@
                         <bibl><persName key="Nowviskie, Bethany" ref="http://viaf.org/viaf/9880157643271438590009" ana="webannotation:http://temp.lincsproject.ca/b4VI5Av7BUu">Nowviskie</persName>, <placeName key="Nowviskie, Bethany" ref="http://viaf.org/viaf/9880157643271438590009" ana="webannotation:http://temp.lincsproject.ca/ybZcxT9voc0">Bethany</placeName>, and Adam Soroka. <title level="a">
                                 <hi rend="italic">Neatline</hi>: Facilitating Geospatial and Temporal Interpretation of Archival Collections. <orgName key="National Endowment for the Humanities" ref="http://viaf.org/viaf/137796012" ana="webannotation:http://temp.lincsproject.ca/qimYyIZCpuO">NEH</orgName> Level II Start-Up Grant White Paper</title>. <ref target="http://bit.ly/xnEJdl">http://bit.ly/xnEJdl</ref>
                         </bibl>
-                        <bibl><persName key="Nowviskie, Bethany" ref="http://viaf.org/viaf/9880157643271438590009" ana="webannotation:http://temp.lincsproject.ca/VXQUp732IyP">Nowviskie</persName>, Bethany, David McClure, Wayne Graham, Adam Soroka, Jeremy Boggs, and Eric Rochester. <title level="a">Geo-Temporal Interpretation of Archival Collections with Neatline</title>. <title level="j">Literary and Linguistic Computing</title> 28.4 (2013): 692–99. <ref target="http://llc.oxfordjournals.org/content/28/4/692.abstract">http://llc.oxfordjournals.org/content/28/4/692.abstract</ref>
+                        <bibl><persName key="Nowviskie, Bethany" ref="http://viaf.org/viaf/9880157643271438590009" ana="webannotation:http://temp.lincsproject.ca/VXQUp732IyP">Nowviskie</persName>, <placeName key="Nowviskie, Bethany" ref="http://viaf.org/viaf/9880157643271438590009" ana="webannotation:http://temp.lincsproject.ca/zsOp2PmPOqK">Bethany</placeName>, David McClure, Wayne Graham, Adam Soroka, Jeremy Boggs, and Eric Rochester. <title level="a">Geo-Temporal Interpretation of Archival Collections with Neatline</title>. <title level="j">Literary and Linguistic Computing</title> 28.4 (2013): 692–99. <ref target="http://llc.oxfordjournals.org/content/28/4/692.abstract">http://llc.oxfordjournals.org/content/28/4/692.abstract</ref>
                         </bibl>
                         <bibl>Renear, Alan, Elli Mylonas, and David Durand. <title level="a">Refining Our Notion of What Text Really Is: The Problem of Overlapping Hierarchies</title>. 1993. <ref target="http://www.stg.brown.edu/resources/stg/monographs/ohco.html">http://www.stg.brown.edu/resources/stg/monographs/ohco.html</ref>
                         </bibl>
@@ -9998,6 +9998,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/ybZcxT9voc0]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/9880157643271438590009",
+        "type": "crm:E21_Person",
+        "label": "Nowviskie, Bethany",
+        "description": "Bethany Nowviskie"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/zsOp2PmPOqK">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/zsOp2PmPOqK",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T14:33:12.125Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/wxvblo4FfrJ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/wxvblo4FfrJ/selector/textPosition/ySfogx6ukg5",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 54516,
+                "end": 54523,
+                "refinedBy": {
+                    "id": "/target/wxvblo4FfrJ/selector/textQuote/QqEgBwjWT4B",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Bethany",
+                    "prefix": "ly/xnEJdl\n                        \n                        Nowviskie,",
+                    "suffix": " David McClure, Wayne Graham, Adam Soroka, Jeremy Boggs, and Eric Rochester"
+                }
+            },
+            {
+                "id": "/target/wxvblo4FfrJ/selector/css/YDuAw9p3n3x",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/zsOp2PmPOqK]"
             }
         ]
     },
