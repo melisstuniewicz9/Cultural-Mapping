@@ -577,7 +577,7 @@
                                     <ref target="#archival_location">There, she created a document I first encountered in the library of map collector <persName key="Rumsey, David, 1944-...." ref="http://viaf.org/viaf/39021078" ana="webannotation:http://temp.lincsproject.ca/7dOGopp41UC">David Rumsey</persName>. </ref>It purports to be a <q>book of penmanship,</q> but—in addition to the set copy-texts one might expect to see in a handwriting practice-book—also contains a series of hand-drawn, delicately coloured maps of what were then the nineteen United States. <ref target="#tone_or_style">Each of these maps—and this is where the penmanship exercise comes in—is paired with a geometrically designed and highly embellished prose passage, which Henshaw seems to have copied from the geography books that were available to her as a schoolgirl in the new American republic.</ref>
                                 </ref>
                                 <note xml:id="n65" place="end">This portion of the chapter draws on research previously published in the 2010 issue of <title level="j">Poetess Archive Journal</title> as <title level="a">
-                                        <q>Inventing the Map</q> in the Digital Humanities: A Young Lady’s Primer.</title> Additional slides and illustrations slides may be observed in the recording of the keynote presentation at the <bibl>Canadian Writing Research Collaboratory Conference, <orgName key="Ryerson University." ref="http://viaf.org/viaf/140971310" ana="webannotation:http://temp.lincsproject.ca/l0UPmVpFcak">Ryerson University</orgName>, Toronto, October 27, 2011</bibl>, available at <ref target="http://www.cwrc.ca/cwrc_news/cwrc-conference-keynote-bethany-noviskie/">http://www.cwrc.ca/cwrc_news/cwrc-conference-keynote-bethany-noviskie/</ref>.</note>
+                                        <q>Inventing the Map</q> in the Digital Humanities: A Young Lady’s Primer.</title> Additional slides and illustrations slides may be observed in the recording of the keynote presentation at the <bibl>Canadian Writing Research Collaboratory Conference, <orgName key="Ryerson University." ref="http://viaf.org/viaf/140971310" ana="webannotation:http://temp.lincsproject.ca/l0UPmVpFcak">Ryerson University</orgName>, <placeName key="Toronto " ref="https://sws.geonames.org/6167865  " ana="webannotation:http://temp.lincsproject.ca/UKRH5jf6xnC">Toronto</placeName>, October 27, 2011</bibl>, available at <ref target="http://www.cwrc.ca/cwrc_news/cwrc-conference-keynote-bethany-noviskie/">http://www.cwrc.ca/cwrc_news/cwrc-conference-keynote-bethany-noviskie/</ref>.</note>
                             </ref>
                             <ref target="#intertextuality">
                                 <ref target="#tone_or_style">Henshaw’s maps and texts alike are interpretive representations of the geodetic or descriptive literature from which she read geography. The maps themselves are lovely, but more interesting is their interplay with texts—both with Henshaw’s source documents and with the words she lays out on the page.</ref>
@@ -795,14 +795,14 @@
                                     <head>Figure 5.3</head>
                                     <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A1d06bd0c-3098-4cf8-a325-f72c51568827/datastream/JPG-DToC/view"/>
                                     <figDesc>
-                                        <title level="a">(Description of) Ohio,</title> Frances Henshaw, 1823. <hi rend="italic">[Courtesy of David Rumsey Map Collection. List #2501T]</hi>
+                                        <title level="a">(Description of) Ohio,</title> Frances Henshaw, 1823. <hi rend="italic">[Courtesy of <orgName key="David Rumsey Historical Map Collection" ref="http://www.wikidata.org/entity/Q5239294" ana="webannotation:http://temp.lincsproject.ca/BfNKfhBmA2A">David Rumsey Map Collection</orgName>. List #2501T]</hi>
                                     </figDesc>
                                 </figure>
                                 <figure>
                                     <head>Figure 5.4</head>
                                     <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3A11f1d75d-251b-4ae7-bc04-b8d27878a663/datastream/JPG-DToC/view"/>
                                     <figDesc>
-                                        <title level="a">Ohio,</title> Frances Henshaw, 1823. <hi rend="italic">[Courtesy of David Rumsey Map Collection. List #2501.018]</hi>
+                                        <title level="a">Ohio,</title> Frances Henshaw, 1823. <hi rend="italic">[Courtesy of <orgName key="David Rumsey Historical Map Collection" ref="http://www.wikidata.org/entity/Q5239294" ana="webannotation:http://temp.lincsproject.ca/zQVElMjac49">David Rumsey Map Collection</orgName>. List #2501.018]</hi>
                                     </figDesc>
                                 </figure> selection and editing process for this very short passage. <ref target="#tone_or_style">
                                     <ref target="#methodology">Henshaw’s deliberate pastiche approach to assembling her texts, even when they are brief, suggests a patchwork methodology that parallels the graphic design of the page. In fact, her choppy Ohio passages are most legible to readers who are familiar with the traditional <q>log cabin</q> pattern for a quilt square.</ref>
@@ -4496,6 +4496,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/UKRH5jf6xnC">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/UKRH5jf6xnC",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T14:02:17.148Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/6sOpVgTtNwx",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/6sOpVgTtNwx/selector/textPosition/ViKarpLuC0w",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 22119,
+                "end": 22126,
+                "refinedBy": {
+                    "id": "/target/6sOpVgTtNwx/selector/textQuote/Un33GfQlCvP",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Toronto",
+                    "prefix": " Additional slides and illustrations slides may be observed in the recording of the keynote presentation at the Canadian Writing Research Collaboratory Conference, Ryerson University,",
+                    "suffix": " October 27, 2011, available at http://www"
+                }
+            },
+            {
+                "id": "/target/6sOpVgTtNwx/selector/css/YDbCcztH0jD",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/UKRH5jf6xnC]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6167865  ",
+        "label": "Toronto ",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/cyQM9HMOCaV">
 <![CDATA[{
     "@context": [
@@ -7684,6 +7773,184 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/drokCYrrdT8]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q5239294",
+        "type": "frbroo:F1",
+        "label": "David Rumsey Historical Map Collection",
+        "description": "one of the world's largest private map collections"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/BfNKfhBmA2A">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/BfNKfhBmA2A",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T13:57:27.197Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/41tOo3p6fw6",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/41tOo3p6fw6/selector/textPosition/zHIvCZbavov",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 43198,
+                "end": 43225,
+                "refinedBy": {
+                    "id": "/target/41tOo3p6fw6/selector/textQuote/P2Ti9axCSna",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "David Rumsey Map Collection",
+                    "prefix": " [Courtesy of",
+                    "suffix": " List #2501T]\n                                    \n                                \n                                \n                                    Figure 5"
+                }
+            },
+            {
+                "id": "/target/41tOo3p6fw6/selector/css/DEgptAdh97N",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/BfNKfhBmA2A]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q5239294",
+        "type": "frbroo:F1",
+        "label": "David Rumsey Historical Map Collection",
+        "description": "one of the world's largest private map collections"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/zQVElMjac49">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/zQVElMjac49",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T13:57:27.357Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/0CU6n8v8LDl",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/0CU6n8v8LDl/selector/textPosition/JVaMwczEWG2",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 43546,
+                "end": 43573,
+                "refinedBy": {
+                    "id": "/target/0CU6n8v8LDl/selector/textQuote/LwjWfv1CK3B",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "David Rumsey Map Collection",
+                    "prefix": " [Courtesy of",
+                    "suffix": " List #2501"
+                }
+            },
+            {
+                "id": "/target/0CU6n8v8LDl/selector/css/hc1CF7u68sT",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/zQVElMjac49]"
             }
         ]
     },
