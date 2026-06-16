@@ -465,7 +465,7 @@
                         <ref target="#education">
                             <ref target="#collaboration">
                                 <ref target="#theme_or_topic">
-                                    <ref target="#spatiality">The Scholars’ Lab at the University of Virginia Library has been busy in this arena. <ref target="#economics">Over the past few years, we have offered a variety of training programs for humanities scholars, software developers, and <abbr>GIS</abbr> librarians, including an Institute for Enabling Geospatial Scholarship funded by <orgName key="National Endowment for the Humanities" ref="http://viaf.org/viaf/137796012" ana="webannotation:http://temp.lincsproject.ca/dE3lCsys0v2">the National Endowment for the Humanities</orgName> (<orgName key="National Endowment for the Humanities" ref="http://viaf.org/viaf/137796012" ana="webannotation:http://temp.lincsproject.ca/GfvlEfxVknv">NEH</orgName>)</ref>. We have collaborated on presentational mapping and analytical <abbr>GIS</abbr> projects with <orgName key="University of Virginia." ref="http://viaf.org/viaf/126085929" ana="webannotation:http://temp.lincsproject.ca/JPCCx86cIRf">University of Virginia</orgName> faculty and with winners of our graduate fellowships in digital humanities. (In this program, nearly every applicant’s research project since 2007 has included some sort of spatial dimension.)</ref>
+                                    <ref target="#spatiality">The Scholars’ Lab at <orgName key="University of Virginia. Library." ref="http://viaf.org/viaf/154761183" ana="webannotation:http://temp.lincsproject.ca/Fno5foOztzA">the University of Virginia Library</orgName> has been busy in this arena. <ref target="#economics">Over the past few years, we have offered a variety of training programs for humanities scholars, software developers, and <abbr>GIS</abbr> librarians, including an Institute for Enabling Geospatial Scholarship funded by <orgName key="National Endowment for the Humanities" ref="http://viaf.org/viaf/137796012" ana="webannotation:http://temp.lincsproject.ca/dE3lCsys0v2">the National Endowment for the Humanities</orgName> (<orgName key="National Endowment for the Humanities" ref="http://viaf.org/viaf/137796012" ana="webannotation:http://temp.lincsproject.ca/GfvlEfxVknv">NEH</orgName>)</ref>. We have collaborated on presentational mapping and analytical <abbr>GIS</abbr> projects with <orgName key="University of Virginia." ref="http://viaf.org/viaf/126085929" ana="webannotation:http://temp.lincsproject.ca/JPCCx86cIRf">University of Virginia</orgName> faculty and with winners of our graduate fellowships in digital humanities. (In this program, nearly every applicant’s research project since 2007 has included some sort of spatial dimension.)</ref>
                                     <ref target="#writing_climate">We have worked to make our collection of <abbr>GIS</abbr> data and scanned historical maps discoverable and freely available for use by scholars and developers in the most flexible way possible. Further, we have undertaken a project called Neatline, a set of open source, Omeka plug-ins for digital storytelling, <ref target="#economics">funded by <orgName key="Library of Congress." ref="http://viaf.org/viaf/151962300" ana="webannotation:http://temp.lincsproject.ca/cwQ5uW5pNOD">the Library of Congress</orgName> and <abbr><orgName key="National Endowment for the Humanities" ref="http://viaf.org/viaf/137796012" ana="webannotation:http://temp.lincsproject.ca/jWzteAnZlrK">NEH</orgName></abbr>
                                         </ref>. We are developing these tools so scholars can create their own selective, content-driven, and highly interpreted geotemporal expressions of collections that may be housed in libraries, museums, and archives, or which they assemble themselves with the aid of our Neatline software.</ref>
                                 </ref>
@@ -8226,6 +8226,95 @@
         "label": "Philadelphia",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Fno5foOztzA">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Fno5foOztzA",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T16:38:39.112Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/853kTT8yNYy",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/853kTT8yNYy/selector/textPosition/XF0UXETlZxY",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6884,
+                "end": 6918,
+                "refinedBy": {
+                    "id": "/target/853kTT8yNYy/selector/textQuote/34aji5IJgrF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the University of Virginia Library",
+                    "prefix": "\n                            How could we, as humanities scholars, not expect that mapped information include our texts and objects of study, in the spatial contexts in which we find or place and interpret them?\n                        \n                    \n                \n                \n                    \n                        \n                            \n                                \n                                    The Scholars’ Lab at",
+                    "suffix": "has been busy in this arena"
+                }
+            },
+            {
+                "id": "/target/853kTT8yNYy/selector/css/HkAwVUkR9In",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Fno5foOztzA]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/154761183",
+        "type": "crm:E74_Group",
+        "label": "University of Virginia. Library.",
+        "description": "University of Virginia Libraries library consortium"
     },
     "P2_has_type": [
         "oa:identifying"
