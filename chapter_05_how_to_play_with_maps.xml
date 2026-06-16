@@ -773,7 +773,7 @@
                         </figDesc>
                     </figure> <persName key="Rumsey, David, 1944-...." ref="http://viaf.org/viaf/39021078" ana="webannotation:http://temp.lincsproject.ca/dXmS3LC7fl2">David Rumsey</persName>. <ref target="#history">
                         <ref target="#spatiality">The first pair of maps presents the state of Virginia in its antebellum contours—that is, before the events of the Civil War provoked the division of Virginia and <placeName key="West Virginia" ref="https://sws.geonames.org/4826850  " ana="webannotation:http://temp.lincsproject.ca/9CW8FDMVfdg">West Virginia</placeName>. Near the panhandle appear interesting incongruities—fictions, actually—between political boundaries and watersheds. It is tempting to read an unresolved tension between two conceptual layers or dimensions, as represented on the single plane of Henshaw’s map.</ref>
-                        <ref target="#technology">If she had been limited to modern <abbr>GIS</abbr> tools, Henshaw would have been forced to disambiguate her representation into layers, exposing a tension between informational and aesthetic structures in maps that textual scholars would recognize as the longstanding issue of <q>overlapping hierarchies</q> in the work of  (Renear, Mylonas, and Durand).</ref>
+                        <ref target="#technology">If she had been limited to modern <abbr>GIS</abbr> tools, Henshaw would have been forced to disambiguate her representation into layers, exposing a tension between informational and aesthetic structures in maps that textual scholars would recognize as the longstanding issue of <q>overlapping hierarchies</q> in the work of  (Renear, <orgName key="Mylonas, Elli." ref="http://viaf.org/viaf/92815076" ana="webannotation:http://temp.lincsproject.ca/Nd9QYrqC2ef">Mylonas</orgName>, and Durand).</ref>
                     </ref>
                 </p>
                 <p xml:id="p1248">
@@ -10640,6 +10640,94 @@
         "type": "crm:E21_Person",
         "label": "Renear, Allen.",
         "description": "Allen H. Renear"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Nd9QYrqC2ef">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Nd9QYrqC2ef",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T16:38:04.513Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/2LbcnWEaZzP",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/2LbcnWEaZzP/selector/textPosition/4Hr66Gi3ETJ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 40941,
+                "end": 40948,
+                "refinedBy": {
+                    "id": "/target/2LbcnWEaZzP/selector/textQuote/DPtFsszkGDI",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Mylonas",
+                    "prefix": "\n                        If she had been limited to modern GIS tools, Henshaw would have been forced to disambiguate her representation into layers, exposing a tension between informational and aesthetic structures in maps that textual scholars would recognize as the longstanding issue of overlapping hierarchies in the work of the Text Encoding Initiative (Renear,",
+                    "suffix": " and Durand)"
+                }
+            },
+            {
+                "id": "/target/2LbcnWEaZzP/selector/css/PUJSr1wN93R",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Nd9QYrqC2ef]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/92815076",
+        "type": "crm:E21_Person",
+        "label": "Mylonas, Elli."
     },
     "P2_has_type": [
         "oa:identifying"
