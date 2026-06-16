@@ -908,7 +908,7 @@
                         </bibl>
                         <bibl>Scholars’ Lab. <title level="m">Neatline: Plot Your Course in Space and Time</title>. <orgName key="University of Virginia. Library." ref="http://viaf.org/viaf/154761183" ana="webannotation:http://temp.lincsproject.ca/xZkBRSyXxAh">University of Virginia Library</orgName>. <ref target="http://neatline.org">http://neatline.org</ref>
                         </bibl>
-                        <bibl>. <title level="m">Spatial Humanities: Institute for Enabling Geospatial Scholarship</title>. University of Virginia Library. <ref target="http://spatial.scholarslab.org">http://spatial.scholarslab.org</ref>
+                        <bibl>. <title level="m">Spatial Humanities: Institute for Enabling Geospatial Scholarship</title>. <orgName key="University of Virginia. Library." ref="http://viaf.org/viaf/154761183" ana="webannotation:http://temp.lincsproject.ca/eCoIeC7FXDP">University of Virginia Library</orgName>. <ref target="http://spatial.scholarslab.org">http://spatial.scholarslab.org</ref>
                         </bibl>
                         <bibl><persName key="Schulten, Susan." ref="http://viaf.org/viaf/61728848" ana="webannotation:http://temp.lincsproject.ca/CjUPgRRmpNs">Schulten</persName>, <persName key="Schulten, Susan." ref="http://viaf.org/viaf/61728848" ana="webannotation:http://temp.lincsproject.ca/3cV1CPXpH6P">Susan</persName>. <title level="a"><persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/jXUaXi1z6n7">Emma Willard</persName> and the Graphic Foundations of American History</title>. <title level="j">Journal of Historical Geography</title> 33 (2007): 542–64.</bibl>
                         <bibl><persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/yaM9QiqFB8o">Willard</persName>, Emma. <title level="a">Letter to Miss Foster, 5 Nov. 1848</title>. <title level="m">The Life of Emma Willard</title>, by John Lord. New York: D. Appleton, 1873.</bibl>
@@ -11162,6 +11162,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/xZkBRSyXxAh]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/154761183",
+        "type": "crm:E74_Group",
+        "label": "University of Virginia. Library.",
+        "description": "University of Virginia Libraries library consortium"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/eCoIeC7FXDP">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/eCoIeC7FXDP",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T15:00:31.008Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/m9sVQj2ttgF",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/m9sVQj2ttgF/selector/textPosition/oijFBYTDYgq",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 55304,
+                "end": 55334,
+                "refinedBy": {
+                    "id": "/target/m9sVQj2ttgF/selector/textQuote/ehVELCxFZn4",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "University of Virginia Library",
+                    "prefix": "",
+                    "suffix": " http://spatial"
+                }
+            },
+            {
+                "id": "/target/m9sVQj2ttgF/selector/css/DbZFUCIcSYD",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/eCoIeC7FXDP]"
             }
         ]
     },
