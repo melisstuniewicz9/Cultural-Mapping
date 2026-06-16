@@ -540,7 +540,7 @@
                     <ref target="#technology">
                         <ref target="#spatiality">For Jessop, the broad issue of scholarly communication is also of great importance <note place="inline">
                                 <bibl>46–49</bibl>
-                            </note>—how we are to fund, produce, evaluate, distribute, and archive innovative geospatial scholarship in disciplines and institutions that are wedded to traditional research practices—a large question whose parameters lie outside the scope of this chapter. One might expect that our uses of <abbr>GIS</abbr>, since Jessop’s 2008 article, would have become increasingly ludic and experimental. But Ian Gregory and <persName key="Ell, Paul S." ref="http://viaf.org/viaf/92571103" ana="webannotation:http://temp.lincsproject.ca/zVqylUFncrl" type="real" cert="high">Paul Ell</persName> suggest otherwise in their 2007 book, <title level="m">Historical <abbr>GIS</abbr>: Technologies, Methodologies, and Scholarship</title>. Gregory and Ell state that <q>the researcher using <abbr>GIS</abbr> should be asking, <q>What are the geographical aspects of my research question?</q> rather than [the more open] <q>What can I do with my dataset using this software?</q>
+                            </note>—how we are to fund, produce, evaluate, distribute, and archive innovative geospatial scholarship in disciplines and institutions that are wedded to traditional research practices—a large question whose parameters lie outside the scope of this chapter. One might expect that our uses of <abbr>GIS</abbr>, since Jessop’s 2008 article, would have become increasingly ludic and experimental. But Ian Gregory and <persName key="Ell, Paul S." ref="http://viaf.org/viaf/92571103" ana="webannotation:http://temp.lincsproject.ca/zVqylUFncrl" type="real" cert="high">Paul Ell</persName> suggest otherwise in their 2007 book, <title level="m">Historical <abbr>GIS</abbr>: Technologies, Methodologies, and Scholarship</title>. Gregory and <persName key="Ell, Paul S." ref="http://viaf.org/viaf/92571103" ana="webannotation:http://temp.lincsproject.ca/Sad7gbJ5gmn">Ell</persName> state that <q>the researcher using <abbr>GIS</abbr> should be asking, <q>What are the geographical aspects of my research question?</q> rather than [the more open] <q>What can I do with my dataset using this software?</q>
                             </q>
                             <note place="inline">
                                 <bibl>1</bibl>
@@ -3953,6 +3953,95 @@
     "P2_has_type": [
         "oa:identifying",
         "edit:certaintyHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Sad7gbJ5gmn">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Sad7gbJ5gmn",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T13:04:45.176Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/x2NeoaFTnRz",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/x2NeoaFTnRz/selector/textPosition/IqCb32jm9Mp",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16772,
+                "end": 16775,
+                "refinedBy": {
+                    "id": "/target/x2NeoaFTnRz/selector/textQuote/1mslI1apbWu",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ell",
+                    "prefix": " Gregory and",
+                    "suffix": "state that the researcher using GIS should be asking, What are the geographical aspects of my research question? rather than [the more open] What can I do with my dataset using this software?\n                            \n                            \n                                1\n                            , opening their treatment in a manner far too proscriptive for my purposes"
+                }
+            },
+            {
+                "id": "/target/x2NeoaFTnRz/selector/css/Wiv1uMupqlW",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Sad7gbJ5gmn]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/92571103",
+        "type": "crm:E21_Person",
+        "label": "Ell, Paul S.",
+        "description": "Ell, Paul S., 1964-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
