@@ -602,7 +602,7 @@
                                         </note> and co-author of a seminal textbook, <title>Geography for Beginners</title>
                                         <note place="inline">
                                             <bibl>1826</bibl>
-                                        </note>. <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/eTMfAy1Bb60">Willard</persName> is best remembered today as the founder of <orgName key="Troy Female Seminary" ref="http://viaf.org/viaf/134150016" ana="webannotation:http://temp.lincsproject.ca/PXbghZCWGtZ">the Troy Female Seminary</orgName>, now the prestigious <orgName key="Emma Willard School (Troy, N.Y.)" ref="http://viaf.org/viaf/147825434" ana="webannotation:http://temp.lincsproject.ca/zFG4Y6v0GaZ">Emma Willard School</orgName> for girls in Troy, New York. Beginning in the 1820s, Troy Female Seminary was America’s pre­eminent academy for teachers who went on to spread <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/GuVMn4LdxSI">Willard</persName>’s approaches to the pedagogy of place and space across the continent.</ref> <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/A2J8bPtVm1P">Willard</persName> had moved from Middlebury to Troy two years before the date recorded in Henshaw’s book, but a reading of her letters and her <title level="m">System of Universal Geography</title>
+                                        </note>. <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/eTMfAy1Bb60">Willard</persName> is best remembered today as the founder of <orgName key="Troy Female Seminary" ref="http://viaf.org/viaf/134150016" ana="webannotation:http://temp.lincsproject.ca/PXbghZCWGtZ">the Troy Female Seminary</orgName>, now the prestigious <orgName key="Emma Willard School (Troy, N.Y.)" ref="http://viaf.org/viaf/147825434" ana="webannotation:http://temp.lincsproject.ca/zFG4Y6v0GaZ">Emma Willard School</orgName> for girls in <placeName key="Troy" ref="https://www.geonames.org/5141502/troy.html" ana="webannotation:http://temp.lincsproject.ca/KHbckKqCSMc">Troy</placeName>, New York. Beginning in the 1820s, Troy Female Seminary was America’s pre­eminent academy for teachers who went on to spread <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/GuVMn4LdxSI">Willard</persName>’s approaches to the pedagogy of place and space across the continent.</ref> <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/A2J8bPtVm1P">Willard</persName> had moved from Middlebury to <placeName key="Troy" ref="https://www.geonames.org/5141502/troy.html" ana="webannotation:http://temp.lincsproject.ca/8ekK9wseOEr">Troy</placeName> two years before the date recorded in Henshaw’s book, but a reading of her letters and her <title level="m">System of Universal Geography</title>
                                     <note place="inline">
                                         <bibl>co-authored in 1827 with William Channing Woodbridge</bibl>
                                     </note> in the context of Henshaw’s schoolwork is suggestive of continued influence. The arts-based geospatial exercises <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/7XD9dvr5pZB">Willard</persName> developed early in her career as a teacher endured among the instructors she trained and the students she taught—influencing Frances Alsop Henshaw.</ref>
@@ -8671,6 +8671,184 @@
         "type": "crm:E74_Group",
         "label": "Emma Willard School (Troy, N.Y.)",
         "description": "Emma Willard School"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/KHbckKqCSMc">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/KHbckKqCSMc",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T16:23:02.126Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/eYmIDsLfW0d",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/eYmIDsLfW0d/selector/textPosition/RI007ILbz3G",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 24568,
+                "end": 24572,
+                "refinedBy": {
+                    "id": "/target/eYmIDsLfW0d/selector/textQuote/Z6foTSgPyPZ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Troy",
+                    "prefix": " Willard is best remembered today as the founder of the Troy Female Seminary, now the prestigious Emma Willard School for girls in",
+                    "suffix": " New York"
+                }
+            },
+            {
+                "id": "/target/eYmIDsLfW0d/selector/css/oGdYzt5rR91",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/KHbckKqCSMc]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.geonames.org/5141502/troy.html",
+        "label": "Troy",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/8ekK9wseOEr">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/8ekK9wseOEr",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T16:23:02.350Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/gof3RQd2XpT",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/gof3RQd2XpT/selector/textPosition/iIduqcV9SWj",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 24813,
+                "end": 24817,
+                "refinedBy": {
+                    "id": "/target/gof3RQd2XpT/selector/textQuote/MMoBTWuP6jZ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Troy",
+                    "prefix": " Willard had moved from Middlebury to",
+                    "suffix": "two years before the date recorded in Henshaw’s book, but a reading of her letters and her System of Universal Geography\n                                    \n                                        co-authored in 1827 with William Channing Woodbridge\n                                     in the context of Henshaw’s schoolwork is suggestive of continued influence"
+                }
+            },
+            {
+                "id": "/target/gof3RQd2XpT/selector/css/IWYtQfqQCu8",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/8ekK9wseOEr]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.geonames.org/5141502/troy.html",
+        "label": "Troy",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
