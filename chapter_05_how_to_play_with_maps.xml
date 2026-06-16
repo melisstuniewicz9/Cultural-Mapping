@@ -896,7 +896,7 @@
                                 <abbr>nines</abbr>: Networked Infrastructure for Nineteenth-Century Electronic Scholarship.</author>
                             <title level="m">Juxta: Collation Software for Scholars</title>. <orgName key="University of Virginia." ref="http://viaf.org/viaf/126085929" ana="webannotation:http://temp.lincsproject.ca/r2gEky6kpP5">University of Virginia</orgName>. <ref target="http://www.juxtasoftware.org">http://www.juxtasoftware.org</ref>
                         </bibl>
-                        <bibl><persName key="Nowviskie, Bethany" ref="http://viaf.org/viaf/9880157643271438590009" ana="webannotation:http://temp.lincsproject.ca/oFgsbUDvewA">Nowviskie</persName>, Bethany. <title level="a">
+                        <bibl><persName key="Nowviskie, Bethany" ref="http://viaf.org/viaf/9880157643271438590009" ana="webannotation:http://temp.lincsproject.ca/oFgsbUDvewA">Nowviskie</persName>, <placeName key="Nowviskie, Bethany" ref="http://viaf.org/viaf/9880157643271438590009" ana="webannotation:http://temp.lincsproject.ca/3XSCc0veNhh">Bethany</placeName>. <title level="a">
                                 <q>Inventing the Map</q> in the Digital Humanities: A Young Lady’s Primer</title>. <title level="j">Poetess Archive Journal</title> 2.1 (2010). <ref target="http://paj.muohio.edu/paj/index.php/paj/article/viewArticle/11">http://paj.muohio.edu/paj/index.php/paj/article/viewArticle/11</ref>
                         </bibl>
                         <bibl><persName key="Nowviskie, Bethany" ref="http://viaf.org/viaf/9880157643271438590009" ana="webannotation:http://temp.lincsproject.ca/b4VI5Av7BUu">Nowviskie</persName>, Bethany, and Adam Soroka. <title level="a">
@@ -9828,6 +9828,95 @@
         "label": "Monmonier, Mark S.",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/3XSCc0veNhh">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/3XSCc0veNhh",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T14:32:46.687Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/K7yGF1Amy5F",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/K7yGF1Amy5F/selector/textPosition/LosXzKuxLY6",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 53979,
+                "end": 53986,
+                "refinedBy": {
+                    "id": "/target/K7yGF1Amy5F/selector/textQuote/FNWG8DZNyFc",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Bethany",
+                    "prefix": "org\n                        \n                        Nowviskie,",
+                    "suffix": " \n                                Inventing the Map in the Digital Humanities: A Young Lady’s Primer"
+                }
+            },
+            {
+                "id": "/target/K7yGF1Amy5F/selector/css/ZaP0MGNaU0M",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/3XSCc0veNhh]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/9880157643271438590009",
+        "type": "crm:E21_Person",
+        "label": "Nowviskie, Bethany",
+        "description": "Bethany Nowviskie"
     },
     "P2_has_type": [
         "oa:identifying"
