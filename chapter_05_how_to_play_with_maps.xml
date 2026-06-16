@@ -602,7 +602,7 @@
                                         </note> and co-author of a seminal textbook, <title>Geography for Beginners</title>
                                         <note place="inline">
                                             <bibl>1826</bibl>
-                                        </note>. Willard is best remembered today as the founder of the Troy Female Seminary, now the prestigious Emma Willard School for girls in Troy, New York. Beginning in the 1820s, Troy Female Seminary was America’s pre­eminent academy for teachers who went on to spread Willard’s approaches to the pedagogy of place and space across the continent.</ref> Willard had moved from Middlebury to Troy two years before the date recorded in Henshaw’s book, but a reading of her letters and her <title level="m">System of Universal Geography</title>
+                                        </note>. <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/eTMfAy1Bb60">Willard</persName> is best remembered today as the founder of the Troy Female Seminary, now the prestigious Emma Willard School for girls in Troy, New York. Beginning in the 1820s, Troy Female Seminary was America’s pre­eminent academy for teachers who went on to spread <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/GuVMn4LdxSI">Willard</persName>’s approaches to the pedagogy of place and space across the continent.</ref> <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/A2J8bPtVm1P">Willard</persName> had moved from Middlebury to Troy two years before the date recorded in Henshaw’s book, but a reading of her letters and her <title level="m">System of Universal Geography</title>
                                     <note place="inline">
                                         <bibl>co-authored in 1827 with William Channing Woodbridge</bibl>
                                     </note> in the context of Henshaw’s schoolwork is suggestive of continued influence. The arts-based geospatial exercises Willard developed early in her career as a teacher endured among the instructors she trained and the students she taught—influencing Frances Alsop Henshaw.</ref>
@@ -914,7 +914,7 @@
                         <bibl>Willard, Emma. <title level="a">Letter to Miss Foster, 5 Nov. 1848</title>. <title level="m">The Life of Emma Willard</title>, by John Lord. New York: D. Appleton, 1873.</bibl>
                         <bibl>. <title level="m">A Plan for Improving Female Education</title>. Middlebury: S.W. Copeland, 1819.</bibl>
                         <bibl>Willson, Marcius. <title level="a">A Critical Review of American Common School Histories: As Embraced in a Report Submitted to the New Jersey Society of Teachers and Friends of Education</title>. <title level="j">Biblical Repository</title> (July 1845): 517–39.</bibl>
-                        <bibl>Woodbridge, William Channing, and Emma Willard. <title level="m">Geography for Beginners</title>. Hartford, CT: Oliver D. Cooke, 1826.</bibl>
+                        <bibl>Woodbridge, William Channing, and <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/JNaRiasvpM5">Emma Willard</persName>. <title level="m">Geography for Beginners</title>. Hartford, CT: Oliver D. Cooke, 1826.</bibl>
                         <bibl>. <title level="m">A System of Universal Geography</title>. Hartford, CT: Oliver D. Cooke, 1827.</bibl>
                     </listBibl>
                 </div>
@@ -4391,6 +4391,362 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/jXUaXi1z6n7]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/54499159",
+        "type": "crm:E21_Person",
+        "label": "Willard, Emma, 1787-1870",
+        "description": "Willard, Emma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/JNaRiasvpM5">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/JNaRiasvpM5",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T13:22:53.981Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/uNBdznedAm6",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/uNBdznedAm6/selector/textPosition/1xfJAKklwFR",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 56082,
+                "end": 56094,
+                "refinedBy": {
+                    "id": "/target/uNBdznedAm6/selector/textQuote/G3eSsQt5BQy",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Emma Willard",
+                    "prefix": "\n                        Woodbridge, William Channing, and",
+                    "suffix": " Geography for Beginners"
+                }
+            },
+            {
+                "id": "/target/uNBdznedAm6/selector/css/p1IJIFPRPXV",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/JNaRiasvpM5]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/54499159",
+        "type": "crm:E21_Person",
+        "label": "Willard, Emma, 1787-1870",
+        "description": "Willard, Emma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/eTMfAy1Bb60">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/eTMfAy1Bb60",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T13:23:11.528Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/q8kpkD8fD2v",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/q8kpkD8fD2v/selector/textPosition/OEKW709jEuM",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 24438,
+                "end": 24445,
+                "refinedBy": {
+                    "id": "/target/q8kpkD8fD2v/selector/textQuote/RVDWo0JTesB",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Willard",
+                    "prefix": "",
+                    "suffix": "is best remembered today as the founder of the Troy Female Seminary, now the prestigious Emma Willard School for girls in Troy, New York"
+                }
+            },
+            {
+                "id": "/target/q8kpkD8fD2v/selector/css/GIPZKFEkfei",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/eTMfAy1Bb60]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/54499159",
+        "type": "crm:E21_Person",
+        "label": "Willard, Emma, 1787-1870",
+        "description": "Willard, Emma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/GuVMn4LdxSI">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/GuVMn4LdxSI",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T13:23:11.767Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/9aPYpOGBShT",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/9aPYpOGBShT/selector/textPosition/g4DehJSwkde",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 24698,
+                "end": 24705,
+                "refinedBy": {
+                    "id": "/target/9aPYpOGBShT/selector/textQuote/Zr5Nxb7dgid",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Willard",
+                    "prefix": " Beginning in the 1820s, Troy Female Seminary was America’s pre­eminent academy for teachers who went on to spread",
+                    "suffix": "s approaches to the pedagogy of place and space across the continent"
+                }
+            },
+            {
+                "id": "/target/9aPYpOGBShT/selector/css/TMIcPo1lIdp",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/GuVMn4LdxSI]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/54499159",
+        "type": "crm:E21_Person",
+        "label": "Willard, Emma, 1787-1870",
+        "description": "Willard, Emma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/A2J8bPtVm1P">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/A2J8bPtVm1P",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T13:23:11.903Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/fb8ZKukkcP5",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/fb8ZKukkcP5/selector/textPosition/AKjdqyNCdMO",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 24776,
+                "end": 24783,
+                "refinedBy": {
+                    "id": "/target/fb8ZKukkcP5/selector/textQuote/nGPcBlQDhhF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Willard",
+                    "prefix": "",
+                    "suffix": "had moved from Middlebury to Troy two years before the date recorded in Henshaw’s book, but a reading of her letters and her System of Universal Geography\n                                    \n                                        co-authored in 1827 with William Channing Woodbridge\n                                     in the context of Henshaw’s schoolwork is suggestive of continued influence"
+                }
+            },
+            {
+                "id": "/target/fb8ZKukkcP5/selector/css/05XquxJ0ixs",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/A2J8bPtVm1P]"
             }
         ]
     },
