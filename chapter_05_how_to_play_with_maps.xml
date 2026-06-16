@@ -574,7 +574,7 @@
                             <ref target="#childhood">
                                 <ref target="#spatiality">The historical example of Frances Alsop Henshaw, who was fortunate to have good teachers, functions precisely in this invitational way. In 1823, Henshaw was fourteen years old. </ref>
                                 <ref target="#class_issue">As the daughter of a reasonably well-to-do <placeName key="New England" ref="https://sws.geonames.org/11919979" ana="webannotation:http://temp.lincsproject.ca/Gta2lLpdPnm">New England</placeName> merchant, she attended Middlebury Female Academy, a small school in Vermont</ref>. <ref target="#manuscript_history">
-                                    <ref target="#archival_location">There, she created a document I first encountered in the library of map collector David Rumsey. </ref>It purports to be a <q>book of penmanship,</q> but—in addition to the set copy-texts one might expect to see in a handwriting practice-book—also contains a series of hand-drawn, delicately coloured maps of what were then the nineteen United States. <ref target="#tone_or_style">Each of these maps—and this is where the penmanship exercise comes in—is paired with a geometrically designed and highly embellished prose passage, which Henshaw seems to have copied from the geography books that were available to her as a schoolgirl in the new American republic.</ref>
+                                    <ref target="#archival_location">There, she created a document I first encountered in the library of map collector <persName key="Rumsey, David, 1944-...." ref="http://viaf.org/viaf/39021078" ana="webannotation:http://temp.lincsproject.ca/7dOGopp41UC">David Rumsey</persName>. </ref>It purports to be a <q>book of penmanship,</q> but—in addition to the set copy-texts one might expect to see in a handwriting practice-book—also contains a series of hand-drawn, delicately coloured maps of what were then the nineteen United States. <ref target="#tone_or_style">Each of these maps—and this is where the penmanship exercise comes in—is paired with a geometrically designed and highly embellished prose passage, which Henshaw seems to have copied from the geography books that were available to her as a schoolgirl in the new American republic.</ref>
                                 </ref>
                                 <note xml:id="n65" place="end">This portion of the chapter draws on research previously published in the 2010 issue of <title level="j">Poetess Archive Journal</title> as <title level="a">
                                         <q>Inventing the Map</q> in the Digital Humanities: A Young Lady’s Primer.</title> Additional slides and illustrations slides may be observed in the recording of the keynote presentation at the <bibl>Canadian Writing Research Collaboratory Conference, <orgName key="Ryerson University." ref="http://viaf.org/viaf/140971310" ana="webannotation:http://temp.lincsproject.ca/l0UPmVpFcak">Ryerson University</orgName>, Toronto, October 27, 2011</bibl>, available at <ref target="http://www.cwrc.ca/cwrc_news/cwrc-conference-keynote-bethany-noviskie/">http://www.cwrc.ca/cwrc_news/cwrc-conference-keynote-bethany-noviskie/</ref>.</note>
@@ -771,7 +771,7 @@
                         <figDesc>
                             <title level="a">Virginia,</title> Frances Henshaw, 1823. <hi rend="italic">[Courtesy of David Rumsey Map Collection. List #2501.012]</hi>
                         </figDesc>
-                    </figure> David Rumsey. <ref target="#history">
+                    </figure> <persName key="Rumsey, David, 1944-...." ref="http://viaf.org/viaf/39021078" ana="webannotation:http://temp.lincsproject.ca/dXmS3LC7fl2">David Rumsey</persName>. <ref target="#history">
                         <ref target="#spatiality">The first pair of maps presents the state of Virginia in its antebellum contours—that is, before the events of the Civil War provoked the division of Virginia and West Virginia. Near the panhandle appear interesting incongruities—fictions, actually—between political boundaries and watersheds. It is tempting to read an unresolved tension between two conceptual layers or dimensions, as represented on the single plane of Henshaw’s map.</ref>
                         <ref target="#technology">If she had been limited to modern <abbr>GIS</abbr> tools, Henshaw would have been forced to disambiguate her representation into layers, exposing a tension between informational and aesthetic structures in maps that textual scholars would recognize as the longstanding issue of <q>overlapping hierarchies</q> in the work of the Text Encoding Initiative (Renear, Mylonas, and Durand).</ref>
                     </ref>
@@ -885,7 +885,7 @@
                         </bibl>
                         <bibl><persName key="Drucker, Johanna, 1952-...." ref="http://viaf.org/viaf/71503942" ana="webannotation:http://temp.lincsproject.ca/pyE7U398Btn">Drucker</persName>, <persName key="Drucker, Johanna, 1952-...." ref="http://viaf.org/viaf/71503942" ana="webannotation:http://temp.lincsproject.ca/wlTFKmsieLR">Johanna</persName>. <title level="m">SpecLab: Digital Aesthetics and Projects in Speculative Computing</title>. Chicago: <orgName key="University of Chicago. Press" ref="http://viaf.org/viaf/122888939" ana="webannotation:http://temp.lincsproject.ca/aCOfZcSHkBQ">University of Chicago Press</orgName>, 2009.</bibl>
                         <bibl>Gregory, Ian, and Paul S. Ell. <title level="m">Historical GIS: Technologies, Methodologies, and Scholarship</title>. Cambridge: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/huw7U7xusuw">Cambridge University Press</orgName>, 2007.</bibl>
-                        <bibl>Henshaw, Frances Alsop. <title level="a">Book of Penmanship Executed at the Middlebury Female Academy</title>. 1823. <title level="m">Library of David Rumsey</title>. Pub. List No. 2501.000. <ref target="http://bit.ly/dmbgHL">http://bit.ly/dmbgHL</ref>
+                        <bibl>Henshaw, Frances Alsop. <title level="a">Book of Penmanship Executed at the Middlebury Female Academy</title>. 1823. <title level="m">Library of <persName key="Rumsey, David, 1944-...." ref="http://viaf.org/viaf/39021078" ana="webannotation:http://temp.lincsproject.ca/nVNkDg4NSvf">David Rumsey</persName></title>. Pub. List No. 2501.000. <ref target="http://bit.ly/dmbgHL">http://bit.ly/dmbgHL</ref>
                         </bibl>
                         <bibl>Jessop, Martyn. <title level="a">“The Inhibition of Geographical Information in Digital Humanities Scholarship.”</title>
                             <title level="j">Literary and Linguistic Computing</title> 23 (April 2008): 39–50.</bibl>
@@ -4221,6 +4221,273 @@
         "type": "crm:E21_Person",
         "label": "Drucker, Johanna, 1952-....",
         "description": "Drucker, Johanna"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/7dOGopp41UC">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/7dOGopp41UC",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T13:37:10.614Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/1ljFsE0zSx8",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/1ljFsE0zSx8/selector/textPosition/QBibeOZbru7",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 21110,
+                "end": 21122,
+                "refinedBy": {
+                    "id": "/target/1ljFsE0zSx8/selector/textQuote/pI2RuVIqd29",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "David Rumsey",
+                    "prefix": " \n                                    There, she created a document I first encountered in the library of map collector",
+                    "suffix": " It purports to be a book of penmanship, but—in addition to the set copy-texts one might expect to see in a handwriting practice-book—also contains a series of hand-drawn, delicately coloured maps of what were then the nineteen United States"
+                }
+            },
+            {
+                "id": "/target/1ljFsE0zSx8/selector/css/cUsfohUqZ7q",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/7dOGopp41UC]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/39021078",
+        "type": "crm:E21_Person",
+        "label": "Rumsey, David, 1944-....",
+        "description": "Rumsey, David"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/dXmS3LC7fl2">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/dXmS3LC7fl2",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T13:37:10.880Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Ee9wh1UUmKG",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Ee9wh1UUmKG/selector/textPosition/O6U0t3kTFjo",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 40099,
+                "end": 40111,
+                "refinedBy": {
+                    "id": "/target/Ee9wh1UUmKG/selector/textQuote/t70UEeSU9e6",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "David Rumsey",
+                    "prefix": "012]\n                        \n                    ",
+                    "suffix": " \n                        The first pair of maps presents the state of Virginia in its antebellum contours—that is, before the events of the Civil War provoked the division of Virginia and West Virginia"
+                }
+            },
+            {
+                "id": "/target/Ee9wh1UUmKG/selector/css/GqNE77yHuOT",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/dXmS3LC7fl2]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/39021078",
+        "type": "crm:E21_Person",
+        "label": "Rumsey, David, 1944-....",
+        "description": "Rumsey, David"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/nVNkDg4NSvf">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/nVNkDg4NSvf",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T13:37:11.041Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/eoEHt6ktGZy",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/eoEHt6ktGZy/selector/textPosition/O90gHsf2o3P",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 53082,
+                "end": 53094,
+                "refinedBy": {
+                    "id": "/target/eoEHt6ktGZy/selector/textQuote/Z19bM31UVXa",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "David Rumsey",
+                    "prefix": " Library of",
+                    "suffix": " Pub"
+                }
+            },
+            {
+                "id": "/target/eoEHt6ktGZy/selector/css/AG7p3lqenof",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/nVNkDg4NSvf]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/39021078",
+        "type": "crm:E21_Person",
+        "label": "Rumsey, David, 1944-....",
+        "description": "Rumsey, David"
     },
     "P2_has_type": [
         "oa:identifying"
