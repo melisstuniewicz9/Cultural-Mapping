@@ -629,7 +629,7 @@
                         <ref target="#technology">
                             <ref target="#education">
                                 <ref target="#spatiality">
-                                    <ref target="#intertextuality">The chief geographical textbooks of <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/qVTdeqGBVs1">Willard</persName>’s day were <persName key="Morse, Jedidiah, 1761-1826" ref="http://viaf.org/viaf/59893447" ana="webannotation:http://temp.lincsproject.ca/J1j6L2n3Y3j">Jedidiah Morse’s</persName> <title level="m">Geography Made Easy</title> and Noah Webster’s collection of grammars and spellers. Both were geared toward purely textual and verbal exercises of memorization. <persName key="Morse, Jedidiah, 1761-1826" ref="http://viaf.org/viaf/59893447" ana="webannotation:http://temp.lincsproject.ca/6S5TGvRS0CA">Morse</persName> (whose book, I have discovered, served as a primary resource for Henshaw in 1823) offers complex and evocative textual descriptions of places and spaces on the American continent.</ref> He relegates maps, however, to an expensive and much less well-circulated supplementary volume. Similarly (as described by literary historian <persName key="Brückner, Martin, 1963-" ref="https://viaf.org/en/viaf/51981660" ana="webannotation:http://temp.lincsproject.ca/E4waOG6j09w">Martin Brückner</persName>), Webster’s closest gesture toward graphical expression of geography can be found in a prose <q>map</q> made entirely of typography—without representational line art—in which the names of American states and European countries are seen in rough spatial relation to each other <note place="inline">
+                                    <ref target="#intertextuality">The chief geographical textbooks of <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/qVTdeqGBVs1">Willard</persName>’s day were <persName key="Morse, Jedidiah, 1761-1826" ref="http://viaf.org/viaf/59893447" ana="webannotation:http://temp.lincsproject.ca/J1j6L2n3Y3j">Jedidiah Morse’s</persName> <title level="m">Geography Made Easy</title> an<persName key="Webster, Noah, 1758-1843" ref="http://viaf.org/viaf/34505175" ana="webannotation:http://temp.lincsproject.ca/E7uwJlNGdgn">d  collection of grammars and spellers</persName>. Both were geared toward purely textual and verbal exercises of memorization. <persName key="Morse, Jedidiah, 1761-1826" ref="http://viaf.org/viaf/59893447" ana="webannotation:http://temp.lincsproject.ca/6S5TGvRS0CA">Morse</persName> (whose book, I have discovered, served as a primary resource for Henshaw in 1823) offers complex and evocative textual descriptions of places and spaces on the American continent.</ref> He relegates maps, however, to an expensive and much less well-circulated supplementary volume. Similarly (as described by literary historian <persName key="Brückner, Martin, 1963-" ref="https://viaf.org/en/viaf/51981660" ana="webannotation:http://temp.lincsproject.ca/E4waOG6j09w">Martin Brückner</persName>), Webster’s closest gesture toward graphical expression of geography can be found in a prose <q>map</q> made entirely of typography—without representational line art—in which the names of American states and European countries are seen in rough spatial relation to each other <note place="inline">
                                         <bibl><persName key="Brückner, Martin, 1963-" ref="http://viaf.org/viaf/51981660" ana="webannotation:http://temp.lincsproject.ca/XqHFptXANTq">Brückner</persName> 115</bibl>
                                     </note>.</ref>
                             </ref>
@@ -9568,6 +9568,95 @@
         "type": "crm:E21_Person",
         "label": "Morse, Jedidiah, 1761-1826",
         "description": "Jedidiah Morse United States geographer and clergyman"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/E7uwJlNGdgn">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/E7uwJlNGdgn",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T16:31:57.974Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/5nJusRnJG12",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/5nJusRnJG12/selector/textPosition/ZQbQygnKyhH",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 26940,
+                "end": 26954,
+                "refinedBy": {
+                    "id": "/target/5nJusRnJG12/selector/textQuote/nSgSBPVJFX2",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Noah Webster’s",
+                    "prefix": "\n                            \n                        \n                    \n                \n                \n                    \n                        \n                            \n                                \n                                    The chief geographical textbooks of Willard’s day were Jedidiah Morse’s Geography Made Easy and",
+                    "suffix": "collection of grammars and spellers"
+                }
+            },
+            {
+                "id": "/target/5nJusRnJG12/selector/css/F7xSaKSDJCn",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/E7uwJlNGdgn]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/34505175",
+        "label": "Webster, Noah, 1758-1843",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
