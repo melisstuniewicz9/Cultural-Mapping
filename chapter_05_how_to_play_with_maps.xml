@@ -762,14 +762,14 @@
                         <head>Figure 5.1</head>
                         <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Abb803668-5642-4720-bc19-3421841d03d0/datastream/JPG-DToC/view"/>
                         <figDesc>
-                            <title level="a">(Description of) Virginia,</title> Frances Henshaw, 1823. <hi rend="italic">[Courtesy of David Rumsey Map Collection. List #2501N]</hi>
+                            <title level="a">(Description of) Virginia,</title> Frances Henshaw, 1823. <hi rend="italic">[Courtesy of <orgName key="David Rumsey Historical Map Collection" ref="http://www.wikidata.org/entity/Q5239294" ana="webannotation:http://temp.lincsproject.ca/Nljhd6PsfsS">David Rumsey Map Collection</orgName>. List #2501N]</hi>
                         </figDesc>
                     </figure>
                     <figure>
                         <head>Figure 5.2</head>
                         <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Aa46477e2-4555-4e15-836e-72c54563509e/datastream/JPG-DToC/view"/>
                         <figDesc>
-                            <title level="a">Virginia,</title> Frances Henshaw, 1823. <hi rend="italic">[Courtesy of David Rumsey Map Collection. List #2501.012]</hi>
+                            <title level="a">Virginia,</title> Frances Henshaw, 1823. <hi rend="italic">[Courtesy of <orgName key="David Rumsey Historical Map Collection" ref="http://www.wikidata.org/entity/Q5239294" ana="webannotation:http://temp.lincsproject.ca/drokCYrrdT8">David Rumsey Map Collection</orgName>. List #2501.012]</hi>
                         </figDesc>
                     </figure> <persName key="Rumsey, David, 1944-...." ref="http://viaf.org/viaf/39021078" ana="webannotation:http://temp.lincsproject.ca/dXmS3LC7fl2">David Rumsey</persName>. <ref target="#history">
                         <ref target="#spatiality">The first pair of maps presents the state of Virginia in its antebellum contours—that is, before the events of the Civil War provoked the division of Virginia and West Virginia. Near the panhandle appear interesting incongruities—fictions, actually—between political boundaries and watersheds. It is tempting to read an unresolved tension between two conceptual layers or dimensions, as represented on the single plane of Henshaw’s map.</ref>
@@ -7514,6 +7514,184 @@
         "type": "crm:E74_Group",
         "label": "University of Virginia",
         "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Nljhd6PsfsS">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Nljhd6PsfsS",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T13:57:26.769Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ThYjewBNm75",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ThYjewBNm75/selector/textPosition/HD2twiPxPMv",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 39740,
+                "end": 39767,
+                "refinedBy": {
+                    "id": "/target/ThYjewBNm75/selector/textQuote/AGvBUQs7Sdp",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "David Rumsey Map Collection",
+                    "prefix": " [Courtesy of",
+                    "suffix": " List #2501N]\n                        \n                    \n                    \n                        Figure 5"
+                }
+            },
+            {
+                "id": "/target/ThYjewBNm75/selector/css/nNlBHRqPqjo",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Nljhd6PsfsS]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q5239294",
+        "type": "frbroo:F1",
+        "label": "David Rumsey Historical Map Collection",
+        "description": "one of the world's largest private map collections"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/drokCYrrdT8">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/drokCYrrdT8",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T13:57:27.049Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/jKN7ZXADOj6",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/jKN7ZXADOj6/selector/textPosition/6N1NNq78VXS",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 40008,
+                "end": 40035,
+                "refinedBy": {
+                    "id": "/target/jKN7ZXADOj6/selector/textQuote/WzFNAqeGEGm",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "David Rumsey Map Collection",
+                    "prefix": " [Courtesy of",
+                    "suffix": " List #2501"
+                }
+            },
+            {
+                "id": "/target/jKN7ZXADOj6/selector/css/JoDEdxGuGJy",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/drokCYrrdT8]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q5239294",
+        "type": "frbroo:F1",
+        "label": "David Rumsey Historical Map Collection",
+        "description": "one of the world's largest private map collections"
     },
     "P2_has_type": [
         "oa:identifying"
