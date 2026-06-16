@@ -880,7 +880,7 @@
                     <listBibl>
                         <bibl><persName key="Arrowsmith, Aaron, 1750-1823" ref="http://viaf.org/viaf/18101110" ana="webannotation:http://temp.lincsproject.ca/Tb70FNSFx5A">Arrowsmith</persName>, <persName key="Arrowsmith, Aaron, 1750-1823" ref="http://viaf.org/viaf/18101110" ana="webannotation:http://temp.lincsproject.ca/6rd0vYWByxZ">Aaron</persName>, and <persName key="Samuel Lewis" ref="https://www.wikidata.org/wiki/Q51710886" ana="webannotation:http://temp.lincsproject.ca/YGulqDviJrv">Samuel Lewis</persName>. <title level="m">General Atlas</title>. <placeName key="Boston" ref="https://sws.geonames.org/4930956  " ana="webannotation:http://temp.lincsproject.ca/mt9oHcM9CVL">Boston</placeName>: Thomas and Andrews, 1812.</bibl>
                         <bibl><persName key="Brückner, Martin, 1963-" ref="http://viaf.org/viaf/51981660" ana="webannotation:http://temp.lincsproject.ca/2N2SAFAScBf">Brückner</persName>, <persName key="Brückner, Martin, 1963-" ref="http://viaf.org/viaf/51981660" ana="webannotation:http://temp.lincsproject.ca/vgqgHvpoP2m">Martin</persName>. <title level="m"><event key="The Geographic Revolution in Early America: Maps, Literacy, and National Identity" ref="http://www.wikidata.org/entity/Q136103109" ana="webannotation:http://temp.lincsproject.ca/yzwnUEojF09">The Geographic Revolution in Early America</event>: Maps, Literacy, and National Identity</title>. <placeName key="Chapel Hill" ref="https://sws.geonames.org/4460162 " ana="webannotation:http://temp.lincsproject.ca/Y2kVzmEY1ME">Chapel Hill</placeName>: <orgName key="University of North Carolina Press." ref="http://viaf.org/viaf/265412814" ana="webannotation:http://temp.lincsproject.ca/AKIpSuvcFET">University of North Carolina Press</orgName>, 2006.</bibl>
-                        <bibl><persName key="Carey, Mathew, 1760-1839" ref="http://viaf.org/viaf/6373149068460065730004" ana="webannotation:http://temp.lincsproject.ca/qqfTJDwWRwP">Carey</persName>, <persName key="Carey, Mathew, 1760-1839" ref="http://viaf.org/viaf/6373149068460065730004" ana="webannotation:http://temp.lincsproject.ca/Tu62pIfLgli">Mathew</persName>. <title level="m">Carey’s American Pocket Atlas</title>. <placeName key="Philadelphia" ref="https://sws.geonames.org/4560349 " ana="webannotation:http://temp.lincsproject.ca/AmUD97oHS4D">Philadelphia</placeName>: M. Carey, 1805.</bibl>
+                        <bibl><persName key="Carey, Mathew, 1760-1839" ref="http://viaf.org/viaf/6373149068460065730004" ana="webannotation:http://temp.lincsproject.ca/qqfTJDwWRwP">Carey</persName>, <persName key="Carey, Mathew, 1760-1839" ref="http://viaf.org/viaf/6373149068460065730004" ana="webannotation:http://temp.lincsproject.ca/Tu62pIfLgli">Mathew</persName>. <title level="m">Carey’s American Pocket Atlas</title>. <placeName key="Philadelphia" ref="https://sws.geonames.org/4560349 " ana="webannotation:http://temp.lincsproject.ca/AmUD97oHS4D">Philadelphia</placeName>: <orgName key="Carey, Mathew, 1760-1839" ref="http://viaf.org/viaf/6373149068460065730004" ana="webannotation:http://temp.lincsproject.ca/lEE8aUQ1Ako">M. Carey</orgName>, 1805.</bibl>
                         <bibl><placeName key="Clay, Jenny Strauss, 1942-...." ref="http://viaf.org/viaf/26664" ana="webannotation:http://temp.lincsproject.ca/zqFjft94zoK">Clay</placeName>, <persName key="Clay, Jenny Strauss, 1942-...." ref="http://viaf.org/viaf/26664" ana="webannotation:http://temp.lincsproject.ca/DlailRtyMrm">Jenny Strauss</persName>. <title level="a">Mapping the Catalogue of Ships</title>. <title level="m">Scholars’ Lab Blog</title>. 13 January 2012. <ref target="http://www.scholarslab.org/announcements/mapping-the-catalogue-of-ships">http://www.scholarslab.org/announcements/mapping-the-catalogue-of-ships</ref>
                         </bibl>
                         <bibl><persName key="Drucker, Johanna, 1952-...." ref="http://viaf.org/viaf/71503942" ana="webannotation:http://temp.lincsproject.ca/pyE7U398Btn">Drucker</persName>, <persName key="Drucker, Johanna, 1952-...." ref="http://viaf.org/viaf/71503942" ana="webannotation:http://temp.lincsproject.ca/wlTFKmsieLR">Johanna</persName>. <title level="m">SpecLab: Digital Aesthetics and Projects in Speculative Computing</title>. <placeName key="Chicago" ref="https://sws.geonames.org/4887398   " ana="webannotation:http://temp.lincsproject.ca/vECGStjdC8L">Chicago</placeName>: <orgName key="University of Chicago. Press" ref="http://viaf.org/viaf/122888939" ana="webannotation:http://temp.lincsproject.ca/aCOfZcSHkBQ">University of Chicago Press</orgName>, 2009.</bibl>
@@ -10625,6 +10625,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/Tu62pIfLgli]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/6373149068460065730004",
+        "type": "crm:E21_Person",
+        "label": "Carey, Mathew, 1760-1839",
+        "description": "Carey, Mathew"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/lEE8aUQ1Ako">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/lEE8aUQ1Ako",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T15:36:29.336Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Y1UEmMmMbYU",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Y1UEmMmMbYU/selector/textPosition/ZG5466fRtma",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 52413,
+                "end": 52421,
+                "refinedBy": {
+                    "id": "/target/Y1UEmMmMbYU/selector/textQuote/g5upY1yIO4d",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "M. Carey",
+                    "prefix": " Philadelphia:",
+                    "suffix": " 1805"
+                }
+            },
+            {
+                "id": "/target/Y1UEmMmMbYU/selector/css/hU63hNVLCNt",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/lEE8aUQ1Ako]"
             }
         ]
     },
