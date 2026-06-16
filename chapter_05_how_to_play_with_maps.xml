@@ -883,7 +883,7 @@
                         <bibl>Carey, Mathew. <title level="m">Carey’s American Pocket Atlas</title>. Philadelphia: M. Carey, 1805.</bibl>
                         <bibl>Clay, Jenny Strauss. <title level="a">Mapping the Catalogue of Ships</title>. <title level="m">Scholars’ Lab Blog</title>. 13 January 2012. <ref target="http://www.scholarslab.org/announcements/mapping-the-catalogue-of-ships">http://www.scholarslab.org/announcements/mapping-the-catalogue-of-ships</ref>
                         </bibl>
-                        <bibl><persName key="Drucker, Johanna, 1952-...." ref="http://viaf.org/viaf/71503942" ana="webannotation:http://temp.lincsproject.ca/pyE7U398Btn">Drucker</persName>, Johanna. <title level="m">SpecLab: Digital Aesthetics and Projects in Speculative Computing</title>. Chicago: <orgName key="University of Chicago. Press" ref="http://viaf.org/viaf/122888939" ana="webannotation:http://temp.lincsproject.ca/aCOfZcSHkBQ">University of Chicago Press</orgName>, 2009.</bibl>
+                        <bibl><persName key="Drucker, Johanna, 1952-...." ref="http://viaf.org/viaf/71503942" ana="webannotation:http://temp.lincsproject.ca/pyE7U398Btn">Drucker</persName>, <persName key="Drucker, Johanna, 1952-...." ref="http://viaf.org/viaf/71503942" ana="webannotation:http://temp.lincsproject.ca/wlTFKmsieLR">Johanna</persName>. <title level="m">SpecLab: Digital Aesthetics and Projects in Speculative Computing</title>. Chicago: <orgName key="University of Chicago. Press" ref="http://viaf.org/viaf/122888939" ana="webannotation:http://temp.lincsproject.ca/aCOfZcSHkBQ">University of Chicago Press</orgName>, 2009.</bibl>
                         <bibl>Gregory, Ian, and Paul S. Ell. <title level="m">Historical GIS: Technologies, Methodologies, and Scholarship</title>. Cambridge: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/huw7U7xusuw">Cambridge University Press</orgName>, 2007.</bibl>
                         <bibl>Henshaw, Frances Alsop. <title level="a">Book of Penmanship Executed at the Middlebury Female Academy</title>. 1823. <title level="m">Library of David Rumsey</title>. Pub. List No. 2501.000. <ref target="http://bit.ly/dmbgHL">http://bit.ly/dmbgHL</ref>
                         </bibl>
@@ -2959,6 +2959,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/pyE7U398Btn]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/71503942",
+        "type": "crm:E21_Person",
+        "label": "Drucker, Johanna, 1952-....",
+        "description": "Drucker, Johanna"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/wlTFKmsieLR">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/wlTFKmsieLR",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T01:04:40.754Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/VRwHSk0p6H5",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/VRwHSk0p6H5/selector/textPosition/VGQgcyWgr6p",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 52673,
+                "end": 52680,
+                "refinedBy": {
+                    "id": "/target/VRwHSk0p6H5/selector/textQuote/jkYyCza0xlI",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Johanna",
+                    "prefix": "org/announcements/mapping-the-catalogue-of-ships\n                        \n                        Drucker,",
+                    "suffix": " SpecLab: Digital Aesthetics and Projects in Speculative Computing"
+                }
+            },
+            {
+                "id": "/target/VRwHSk0p6H5/selector/css/F4uTByPR7gY",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/wlTFKmsieLR]"
             }
         ]
     },
