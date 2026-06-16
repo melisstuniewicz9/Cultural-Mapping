@@ -910,7 +910,7 @@
                         </bibl>
                         <bibl>. <title level="m">Spatial Humanities: Institute for Enabling Geospatial Scholarship</title>. <orgName key="University of Virginia. Library." ref="http://viaf.org/viaf/154761183" ana="webannotation:http://temp.lincsproject.ca/eCoIeC7FXDP">University of Virginia Library</orgName>. <ref target="http://spatial.scholarslab.org">http://spatial.scholarslab.org</ref>
                         </bibl>
-                        <bibl><persName key="Schulten, Susan." ref="http://viaf.org/viaf/61728848" ana="webannotation:http://temp.lincsproject.ca/CjUPgRRmpNs">Schulten</persName>, <persName key="Schulten, Susan." ref="http://viaf.org/viaf/61728848" ana="webannotation:http://temp.lincsproject.ca/3cV1CPXpH6P">Susan</persName>. <title level="a"><persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/jXUaXi1z6n7">Emma Willard</persName> and the Graphic Foundations of American History</title>. <title level="j">Journal of Historical Geography</title> 33 (2007): 542–64.</bibl>
+                        <bibl><persName key="Schulten, Susan." ref="http://viaf.org/viaf/61728848" ana="webannotation:http://temp.lincsproject.ca/CjUPgRRmpNs">Schulten</persName>, <persName key="Schulten, Susan." ref="http://viaf.org/viaf/61728848" ana="webannotation:http://temp.lincsproject.ca/3cV1CPXpH6P">Susan</persName>. <title level="a"><persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/jXUaXi1z6n7">Emma Willard</persName> and the Graphic Foundations of American History</title>. <title level="j"><orgName key="Journal of Historical Geography" ref="http://www.wikidata.org/entity/Q15765436" ana="webannotation:http://temp.lincsproject.ca/KyaGFvQ3IAA">Journal of Historical Geography</orgName></title> 33 (2007): 542–64.</bibl>
                         <bibl><persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/yaM9QiqFB8o">Willard</persName>, <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/JxehTjsZJAl">Emma</persName>. <title level="a">Letter to Miss Foster, 5 Nov. 1848</title>. <title level="m">The Life of Emma Willard</title>, by John Lord. New York: D. Appleton, 1873.</bibl>
                         <bibl>. <title level="m">A Plan for Improving Female Education</title>. Middlebury: S.W. Copeland, 1819.</bibl>
                         <bibl>Willson, Marcius. <title level="a">A Critical Review of American Common School Histories: As Embraced in a Report Submitted to the New Jersey Society of Teachers and Friends of Education</title>. <title level="j">Biblical Repository</title> (July 1845): 517–39.</bibl>
@@ -11356,6 +11356,95 @@
         "type": "crm:E21_Person",
         "label": "Schulten, Susan.",
         "description": "Schulten, S."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/KyaGFvQ3IAA">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/KyaGFvQ3IAA",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T15:19:39.713Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/w2aKN9MlKNa",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/w2aKN9MlKNa/selector/textPosition/K7EMPZvXRza",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 55495,
+                "end": 55526,
+                "refinedBy": {
+                    "id": "/target/w2aKN9MlKNa/selector/textQuote/lYIDribFz0E",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Journal of Historical Geography",
+                    "prefix": "",
+                    "suffix": "33 (2007): 542–64"
+                }
+            },
+            {
+                "id": "/target/w2aKN9MlKNa/selector/css/jlslCfPmZRZ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/KyaGFvQ3IAA]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q15765436",
+        "type": "frbroo:F1",
+        "label": "Journal of Historical Geography",
+        "description": "academic journal"
     },
     "P2_has_type": [
         "oa:identifying"
