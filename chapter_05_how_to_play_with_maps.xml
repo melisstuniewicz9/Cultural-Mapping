@@ -762,7 +762,7 @@
                         <head>Figure 5.1</head>
                         <graphic url="http://beta.cwrc.ca/islandora/object/islandora%3Abb803668-5642-4720-bc19-3421841d03d0/datastream/JPG-DToC/view"/>
                         <figDesc>
-                            <title level="a">(Description of) Virginia,</title> Frances Henshaw, 1823. <hi rend="italic">[Courtesy of <orgName key="David Rumsey Historical Map Collection" ref="http://www.wikidata.org/entity/Q5239294" ana="webannotation:http://temp.lincsproject.ca/Nljhd6PsfsS">David Rumsey Map Collection</orgName>. List #2501N]</hi>
+                            <title level="a">(Description of) <placeName key="Virginia" ref="https://sws.geonames.org/6254928  " ana="webannotation:http://temp.lincsproject.ca/SnPeFt5TpSV">Virginia</placeName>,</title> Frances Henshaw, 1823. <hi rend="italic">[Courtesy of <orgName key="David Rumsey Historical Map Collection" ref="http://www.wikidata.org/entity/Q5239294" ana="webannotation:http://temp.lincsproject.ca/Nljhd6PsfsS">David Rumsey Map Collection</orgName>. List #2501N]</hi>
                         </figDesc>
                     </figure>
                     <figure>
@@ -7692,6 +7692,95 @@
         "type": "crm:E74_Group",
         "label": "University of Virginia",
         "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/SnPeFt5TpSV">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/SnPeFt5TpSV",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T14:04:54.693Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/RoDLSuybhSa",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/RoDLSuybhSa/selector/textPosition/AyZydScNHQI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 39694,
+                "end": 39702,
+                "refinedBy": {
+                    "id": "/target/RoDLSuybhSa/selector/textQuote/AiNGkxDkhWg",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Virginia",
+                    "prefix": "1\n                        \n                        \n                            (Description of)",
+                    "suffix": " Frances Henshaw, 1823"
+                }
+            },
+            {
+                "id": "/target/RoDLSuybhSa/selector/css/yPRIdpWDP3j",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/SnPeFt5TpSV]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6254928  ",
+        "label": "Virginia",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
