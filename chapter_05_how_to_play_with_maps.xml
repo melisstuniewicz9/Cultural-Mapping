@@ -772,7 +772,7 @@
                             <title level="a">Virginia,</title> Frances Henshaw, 1823. <hi rend="italic">[Courtesy of <orgName key="David Rumsey Historical Map Collection" ref="http://www.wikidata.org/entity/Q5239294" ana="webannotation:http://temp.lincsproject.ca/drokCYrrdT8">David Rumsey Map Collection</orgName>. List #2501.012]</hi>
                         </figDesc>
                     </figure> <persName key="Rumsey, David, 1944-...." ref="http://viaf.org/viaf/39021078" ana="webannotation:http://temp.lincsproject.ca/dXmS3LC7fl2">David Rumsey</persName>. <ref target="#history">
-                        <ref target="#spatiality">The first pair of maps presents the state of Virginia in its antebellum contours—that is, before the events of the Civil War provoked the division of Virginia and West Virginia. Near the panhandle appear interesting incongruities—fictions, actually—between political boundaries and watersheds. It is tempting to read an unresolved tension between two conceptual layers or dimensions, as represented on the single plane of Henshaw’s map.</ref>
+                        <ref target="#spatiality">The first pair of maps presents the state of Virginia in its antebellum contours—that is, before the events of the Civil War provoked the division of Virginia and <placeName key="West Virginia" ref="https://sws.geonames.org/4826850  " ana="webannotation:http://temp.lincsproject.ca/9CW8FDMVfdg">West Virginia</placeName>. Near the panhandle appear interesting incongruities—fictions, actually—between political boundaries and watersheds. It is tempting to read an unresolved tension between two conceptual layers or dimensions, as represented on the single plane of Henshaw’s map.</ref>
                         <ref target="#technology">If she had been limited to modern <abbr>GIS</abbr> tools, Henshaw would have been forced to disambiguate her representation into layers, exposing a tension between informational and aesthetic structures in maps that textual scholars would recognize as the longstanding issue of <q>overlapping hierarchies</q> in the work of the Text Encoding Initiative (Renear, Mylonas, and Durand).</ref>
                     </ref>
                 </p>
@@ -8233,8 +8233,99 @@
 }]]>
 				
 </rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/9CW8FDMVfdg">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/9CW8FDMVfdg",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T14:07:29.200Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/kwJgbarQQqG",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/kwJgbarQQqG/selector/textPosition/z3J9goK1KDs",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 40301,
+                "end": 40314,
+                "refinedBy": {
+                    "id": "/target/kwJgbarQQqG/selector/textQuote/nynAB11KGvA",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "West Virginia",
+                    "prefix": " \n                        The first pair of maps presents the state of Virginia in its antebellum contours—that is, before the events of the Civil War provoked the division of Virginia and",
+                    "suffix": " Near the panhandle appear interesting incongruities—fictions, actually—between political boundaries and watersheds"
+                }
+            },
+            {
+                "id": "/target/kwJgbarQQqG/selector/css/xf3zf3Zt5HR",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/9CW8FDMVfdg]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/4826850  ",
+        "label": "West Virginia",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 			
 </rdf:RDF>
+		
+
 		
 
 		
@@ -8243,7 +8334,9 @@
 </xenoData>
 	
 	
+	
 	</standOff>
+
 
 
 </TEI>
