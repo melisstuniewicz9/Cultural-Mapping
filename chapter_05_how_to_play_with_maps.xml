@@ -557,7 +557,7 @@
                 <p xml:id="p1230">
                     <ref target="#technology">
                         <ref target="#spatiality">
-                            <ref target="#methodology">But we must remind ourselves of the allure of lying with maps and the potential utility of any playful methodology for humanities inquiry. The notion of drawing as a way of thinking—what Johanna Drucker has called <q>graphesis</q> or knowledge building through iterative graphical expression—may help energize and shape a literary <abbr>GIS</abbr> suitable for humanities research <note place="inline">
+                            <ref target="#methodology">But we must remind ourselves of the allure of lying with maps and the potential utility of any playful methodology for humanities inquiry. The notion of drawing as a way of thinking—what <persName key="Drucker, Johanna, 1952-...." ref="http://viaf.org/viaf/71503942" ana="webannotation:http://temp.lincsproject.ca/mrlOD0i21k8">Johanna Drucker</persName> has called <q>graphesis</q> or knowledge building through iterative graphical expression—may help energize and shape a literary <abbr>GIS</abbr> suitable for humanities research <note place="inline">
                                     <bibl>Drucker 133–36</bibl>
                                 </note>. It might aid us in asserting a role for cartographic design in humanities exegesis, and help us bring spatial approaches and software systems into productive tension with the aims and customs of interpretive (as well as strictly analytical) place-based research. Maps, as literary scholars will want to read and produce them, operate somewhere (perhaps everywhere) on the playful spectrum of lies, damned lies, and statistics. I view this not as something to caution against, de-bug, and filter away, but to enable—particularly if we want to see a locally appropriate upswell of creative and scholarly engagement in the spatial humanities, complementing the use of geographical information in other disciplines and industries.</ref>
                         </ref>
@@ -4046,6 +4046,95 @@
     "P2_has_type": [
         "oa:identifying",
         "edit:certaintyHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/mrlOD0i21k8">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/mrlOD0i21k8",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T13:05:02.599Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/qB3pt1xOwsa",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/qB3pt1xOwsa/selector/textPosition/D4UR3zapuz4",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 18491,
+                "end": 18506,
+                "refinedBy": {
+                    "id": "/target/qB3pt1xOwsa/selector/textQuote/rnJhR2GNySr",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Johanna Drucker",
+                    "prefix": " The notion of drawing as a way of thinking—what",
+                    "suffix": "has called graphesis or knowledge building through iterative graphical expression—may help energize and shape a literary GIS suitable for humanities research \n                                    Drucker 133–36\n                                "
+                }
+            },
+            {
+                "id": "/target/qB3pt1xOwsa/selector/css/Nhxsny7Sdk1",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/mrlOD0i21k8]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/71503942",
+        "type": "crm:E21_Person",
+        "label": "Drucker, Johanna, 1952-....",
+        "description": "Drucker, Johanna"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
