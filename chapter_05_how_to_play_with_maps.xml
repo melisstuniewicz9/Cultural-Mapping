@@ -813,7 +813,7 @@
                 </p>
                 <p xml:id="p1250">
                     <ref target="#authorship">
-                        <ref target="#spatiality">The map version of Henshaw’s <q><placeName key="Ohio" ref="https://sws.geonames.org/5165418   " ana="webannotation:http://temp.lincsproject.ca/ynxJEl2qi4P">Ohio</placeName></q> is equally interesting as a study in interpretive selectivity. Two aspects of the map stand out. <ref target="#methodology">First, it appears that Henshaw may have used conflicting atlases as source images. <ref target="#education">Second, this map, above all others I have examined, seems to bear traces of a pedagogical practice, perhaps inspired by <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/hMAiXhEzw4u">Willard</persName>’s teaching style, which otherwise might have been lost to us. I posit that someone, in all likelihood a schoolmistress, read aloud a geography textbook and directed Henshaw and her fellow students to make imaginative placements of voiced elements on the sketched maps before them. After tracing the basic contours of the map of <placeName key="Ohio" ref="https://sws.geonames.org/5165418   " ana="webannotation:http://temp.lincsproject.ca/SqVWCD1stFX">Ohio</placeName>, Henshaw sought to position forts and internal boundary lines based on descriptive prose she heard read aloud.</ref> Evidence of this is borne in the selection and placement of elements on the map, but her embedded texts also bear traces of the aural. The city of Cincinnati is spelled <q>Cincinata.</q> There is a town Henshaw labels as <q>Nassauville</q> which every source spells <q>Masseyville.</q> Many futile attempts to corroborate Henshaw’s spelling in text and map archives have led me to conclude that her map of <placeName key="Ohio" ref="https://sws.geonames.org/5165418   " ana="webannotation:http://temp.lincsproject.ca/64I781mEPp7">Ohio</placeName> bears evidence of mishearing. <ref target="#technology">This is perhaps a minor point, but it demonstrates how much we may be able to learn from a close and computer-assisted reading of historical maps.</ref>
+                        <ref target="#spatiality">The map version of Henshaw’s <q><placeName key="Ohio" ref="https://sws.geonames.org/5165418   " ana="webannotation:http://temp.lincsproject.ca/ynxJEl2qi4P">Ohio</placeName></q> is equally interesting as a study in interpretive selectivity. Two aspects of the map stand out. <ref target="#methodology">First, it appears that Henshaw may have used conflicting atlases as source images. <ref target="#education">Second, this map, above all others I have examined, seems to bear traces of a pedagogical practice, perhaps inspired by <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/hMAiXhEzw4u">Willard</persName>’s teaching style, which otherwise might have been lost to us. I posit that someone, in all likelihood a schoolmistress, read aloud a geography textbook and directed Henshaw and her fellow students to make imaginative placements of voiced elements on the sketched maps before them. After tracing the basic contours of the map of <placeName key="Ohio" ref="https://sws.geonames.org/5165418   " ana="webannotation:http://temp.lincsproject.ca/SqVWCD1stFX">Ohio</placeName>, Henshaw sought to position forts and internal boundary lines based on descriptive prose she heard read aloud.</ref> Evidence of this is borne in the selection and placement of elements on the map, but her embedded texts also bear traces of the aural. The city of <placeName key="Cincinnati " ref="https://sws.geonames.org/4508722" ana="webannotation:http://temp.lincsproject.ca/lViMBlf8H1H">Cincinnati</placeName> is spelled <q>Cincinata.</q> There is a town Henshaw labels as <q>Nassauville</q> which every source spells <q>Masseyville.</q> Many futile attempts to corroborate Henshaw’s spelling in text and map archives have led me to conclude that her map of <placeName key="Ohio" ref="https://sws.geonames.org/5165418   " ana="webannotation:http://temp.lincsproject.ca/64I781mEPp7">Ohio</placeName> bears evidence of mishearing. <ref target="#technology">This is perhaps a minor point, but it demonstrates how much we may be able to learn from a close and computer-assisted reading of historical maps.</ref>
                             </ref>
                         </ref>
                     </ref>
@@ -11883,6 +11883,95 @@
     "body": {
         "id": "https://sws.geonames.org/5165418   ",
         "label": "Ohio",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/lViMBlf8H1H">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/lViMBlf8H1H",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T16:56:12.573Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/VPjQ5LBGhss",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/VPjQ5LBGhss/selector/textPosition/kSRc6I4fw4J",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45185,
+                "end": 45195,
+                "refinedBy": {
+                    "id": "/target/VPjQ5LBGhss/selector/textQuote/NkNfYQx3HT7",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Cincinnati",
+                    "prefix": " The city of",
+                    "suffix": "is spelled Cincinata"
+                }
+            },
+            {
+                "id": "/target/VPjQ5LBGhss/selector/css/CQTbBxScDZF",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/lViMBlf8H1H]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/4508722",
+        "label": "Cincinnati ",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
     },
