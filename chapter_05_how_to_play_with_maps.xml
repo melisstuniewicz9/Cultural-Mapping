@@ -504,7 +504,7 @@
                 </p>
                 <p xml:id="p1224">
                     <ref target="#technology">
-                        <ref target="#spatiality">First, we must acknowledge what has been holding humanists back. In 2008, Martyn Jessop of <orgName key="Kings College London" ref="http://viaf.org/viaf/128638237" ana="webannotation:http://temp.lincsproject.ca/eAbGoybQBl2">King’s College, London</orgName> published an article in <title level="j">Literary and Linguistic Computing</title> in which he documented what he called an unexpected <title>inhibition</title> among digital humanities scholars—a reluctance to engage deeply with geospatial tools and data <note place="inline">
+                        <ref target="#spatiality">First, we must acknowledge what has been holding humanists back. In 2008, Martyn Jessop of <orgName key="Kings College London" ref="http://viaf.org/viaf/128638237" ana="webannotation:http://temp.lincsproject.ca/eAbGoybQBl2">King’s College, London</orgName> published an article in <title level="j"><orgName key="Literary and Linguistic Computing" ref="http://www.wikidata.org/entity/Q6647643" ana="webannotation:http://temp.lincsproject.ca/bmMQJj7MMK1">Literary and Linguistic Computing</orgName></title> in which he documented what he called an unexpected <title>inhibition</title> among digital humanities scholars—a reluctance to engage deeply with geospatial tools and data <note place="inline">
                                 <bibl>Jessop 39</bibl>
                             </note>. <ref target="#education">In this piece, Jessop identifies the chief deficiencies of <abbr>GIS </abbr>es, from the point of view of the humanities, and he addresses the institutional systems that fail to support and promote their use. He notes that digital humanists are deeply engaged with place and space, and not usually daunted by a learning curve; they are, however, hesitant to embrace <abbr>GIS</abbr>.</ref> This article raises a fundamental question: Why—given the huge blossoming of activity elsewhere in <abbr>GIS</abbr>, the deep engagement of the humanities with place and space, and the general technological adventurousness of the digital humanities community—have scholars in our field been so slow to engage with maps?</ref>
                     </ref>
@@ -8226,6 +8226,95 @@
         "label": "Philadelphia",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/bmMQJj7MMK1">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/bmMQJj7MMK1",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T16:15:11.136Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/EoM3BGyL0hW",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/EoM3BGyL0hW/selector/textPosition/Tnff3Md3mVS",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 11846,
+                "end": 11879,
+                "refinedBy": {
+                    "id": "/target/EoM3BGyL0hW/selector/textQuote/lifHGaJlSm4",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Literary and Linguistic Computing",
+                    "prefix": " In 2008, Martyn Jessop of King’s College, London published an article in",
+                    "suffix": "in which he documented what he called an unexpected inhibition among digital humanities scholars—a reluctance to engage deeply with geospatial tools and data \n                                Jessop 39\n                            "
+                }
+            },
+            {
+                "id": "/target/EoM3BGyL0hW/selector/css/c8eP8SwpTjN",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/bmMQJj7MMK1]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q6647643",
+        "type": "frbroo:F1",
+        "label": "Literary and Linguistic Computing",
+        "description": "scientific journal"
     },
     "P2_has_type": [
         "oa:identifying"
