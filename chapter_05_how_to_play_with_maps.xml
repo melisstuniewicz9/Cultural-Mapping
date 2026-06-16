@@ -911,7 +911,7 @@
                         <bibl>. <title level="m">Spatial Humanities: Institute for Enabling Geospatial Scholarship</title>. <orgName key="University of Virginia. Library." ref="http://viaf.org/viaf/154761183" ana="webannotation:http://temp.lincsproject.ca/eCoIeC7FXDP">University of Virginia Library</orgName>. <ref target="http://spatial.scholarslab.org">http://spatial.scholarslab.org</ref>
                         </bibl>
                         <bibl><persName key="Schulten, Susan." ref="http://viaf.org/viaf/61728848" ana="webannotation:http://temp.lincsproject.ca/CjUPgRRmpNs">Schulten</persName>, <persName key="Schulten, Susan." ref="http://viaf.org/viaf/61728848" ana="webannotation:http://temp.lincsproject.ca/3cV1CPXpH6P">Susan</persName>. <title level="a"><persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/jXUaXi1z6n7">Emma Willard</persName> and the Graphic Foundations of American History</title>. <title level="j">Journal of Historical Geography</title> 33 (2007): 542–64.</bibl>
-                        <bibl><persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/yaM9QiqFB8o">Willard</persName>, Emma. <title level="a">Letter to Miss Foster, 5 Nov. 1848</title>. <title level="m">The Life of Emma Willard</title>, by John Lord. New York: D. Appleton, 1873.</bibl>
+                        <bibl><persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/yaM9QiqFB8o">Willard</persName>, <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/JxehTjsZJAl">Emma</persName>. <title level="a">Letter to Miss Foster, 5 Nov. 1848</title>. <title level="m">The Life of Emma Willard</title>, by John Lord. New York: D. Appleton, 1873.</bibl>
                         <bibl>. <title level="m">A Plan for Improving Female Education</title>. Middlebury: S.W. Copeland, 1819.</bibl>
                         <bibl>Willson, Marcius. <title level="a">A Critical Review of American Common School Histories: As Embraced in a Report Submitted to the New Jersey Society of Teachers and Friends of Education</title>. <title level="j">Biblical Repository</title> (July 1845): 517–39.</bibl>
                         <bibl><persName key="Woodbridge, William C. (William Channing), 1794-1845" ref="http://viaf.org/viaf/17655388" ana="webannotation:http://temp.lincsproject.ca/gPJ8wMFzh9g">Woodbridge</persName>, <persName key="Woodbridge, William C. (William Channing), 1794-1845" ref="http://viaf.org/viaf/17655388" ana="webannotation:http://temp.lincsproject.ca/yyXhX2yPjL9">William Channing</persName>, and <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/JNaRiasvpM5">Emma Willard</persName>. <title level="m">Geography for Beginners</title>. <placeName key="Hartford" ref="https://sws.geonames.org/4835797" ana="webannotation:http://temp.lincsproject.ca/yii8Qi6Lmdj">Hartford</placeName>, <placeName key="Connecticut" ref="https://sws.geonames.org/4831725" ana="webannotation:http://temp.lincsproject.ca/Gjjo4Mwpg09">CT</placeName>: Oliver D. Cooke, 1826.</bibl>
@@ -11364,20 +11364,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ep7i4qRHR4h">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/JxehTjsZJAl">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/ep7i4qRHR4h",
+    "id": "http://temp.lincsproject.ca/JxehTjsZJAl",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-06-16T14:42:20.075Z",
+    "created": "2026-06-16T15:03:07.500Z",
     "creator": {
         "id": "https://github.com/melisstuniewicz9",
         "type": "crm:E21_Person",
@@ -11437,6 +11437,14 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/ep7i4qRHR4h]"
+            },
+            {
+                "id": "/target/t6QVuPkKdtr/selector/css/ROh9lKuZazy",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/JxehTjsZJAl]"
             }
         ]
     },
