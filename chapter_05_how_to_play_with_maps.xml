@@ -904,7 +904,7 @@
                         </bibl>
                         <bibl><persName key="Nowviskie, Bethany" ref="http://viaf.org/viaf/9880157643271438590009" ana="webannotation:http://temp.lincsproject.ca/VXQUp732IyP">Nowviskie</persName>, <placeName key="Nowviskie, Bethany" ref="http://viaf.org/viaf/9880157643271438590009" ana="webannotation:http://temp.lincsproject.ca/zsOp2PmPOqK">Bethany</placeName>, David McClure, Wayne Graham, Adam Soroka, Jeremy Boggs, and Eric Rochester. <title level="a">Geo-Temporal Interpretation of Archival Collections with Neatline</title>. <title level="j">Literary and Linguistic Computing</title> 28.4 (2013): 692–99. <ref target="http://llc.oxfordjournals.org/content/28/4/692.abstract">http://llc.oxfordjournals.org/content/28/4/692.abstract</ref>
                         </bibl>
-                        <bibl><orgName key="Renear, Allen." ref="http://viaf.org/viaf/311203806" ana="webannotation:http://temp.lincsproject.ca/MQeDpHwAMIE">Renear</orgName>, <persName key="Renear, Allen" ref="https://viaf.org/en/viaf/311203806" ana="webannotation:http://temp.lincsproject.ca/IMUo6QAVMsN">Alan</persName>, <persName key="Mylonas, Elli." ref="http://viaf.org/viaf/92815076" ana="webannotation:http://temp.lincsproject.ca/T9b9hvm8bjN">Elli Mylonas</persName>, and David Durand. <title level="a">Refining Our Notion of What Text Really Is: The Problem of Overlapping Hierarchies</title>. 1993. <ref target="http://www.stg.brown.edu/resources/stg/monographs/ohco.html">http://www.stg.brown.edu/resources/stg/monographs/ohco.html</ref>
+                        <bibl><orgName key="Renear, Allen." ref="http://viaf.org/viaf/311203806" ana="webannotation:http://temp.lincsproject.ca/MQeDpHwAMIE">Renear</orgName>, <persName key="Renear, Allen" ref="https://viaf.org/en/viaf/311203806" ana="webannotation:http://temp.lincsproject.ca/IMUo6QAVMsN">Alan</persName>, <persName key="Mylonas, Elli." ref="http://viaf.org/viaf/92815076" ana="webannotation:http://temp.lincsproject.ca/T9b9hvm8bjN">Elli Mylonas</persName>, and <persName key="Durand, David G." ref="http://viaf.org/viaf/9072454" ana="webannotation:http://temp.lincsproject.ca/P9IYgzBCsTf">David Durand</persName>. <title level="a">Refining Our Notion of What Text Really Is: The Problem of Overlapping Hierarchies</title>. 1993. <ref target="http://www.stg.brown.edu/resources/stg/monographs/ohco.html">http://www.stg.brown.edu/resources/stg/monographs/ohco.html</ref>
                         </bibl>
                         <bibl>Scholars’ Lab. <title level="m">Neatline: Plot Your Course in Space and Time</title>. University of Virginia Library. <ref target="http://neatline.org">http://neatline.org</ref>
                         </bibl>
@@ -10547,6 +10547,95 @@
         "id": "http://viaf.org/viaf/92815076",
         "type": "crm:E21_Person",
         "label": "Mylonas, Elli."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/P9IYgzBCsTf">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/P9IYgzBCsTf",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T14:48:54.139Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/q9o43o5Rid7",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/q9o43o5Rid7/selector/textPosition/KBc8SBc79Fz",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 54860,
+                "end": 54872,
+                "refinedBy": {
+                    "id": "/target/q9o43o5Rid7/selector/textQuote/iRwePuoIHgg",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "David Durand",
+                    "prefix": "abstract\n                        \n                        Renear, Alan, Elli Mylonas, and",
+                    "suffix": " Refining Our Notion of What Text Really Is: The Problem of Overlapping Hierarchies"
+                }
+            },
+            {
+                "id": "/target/q9o43o5Rid7/selector/css/PjnSb1IQLM9",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/P9IYgzBCsTf]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/9072454",
+        "type": "crm:E21_Person",
+        "label": "Durand, David G.",
+        "description": "Durand, David G., 19..-...., auteur en informatique"
     },
     "P2_has_type": [
         "oa:identifying"
