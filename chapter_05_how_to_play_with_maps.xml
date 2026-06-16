@@ -416,7 +416,7 @@
                 <p xml:id="p1214">
                     <ref target="#intertextuality">
                         <ref target="#education">The title of this chapter is a nod to <persName key="Monmonier, Mark S." ref="http://viaf.org/viaf/79086507" ana="webannotation:http://temp.lincsproject.ca/TfkmNMrPSCu">Mark Monmonier’s</persName> influential 1991 volume, <title level="m">How to Lie with Maps</title>, a book that raised the cartographic awareness of a generation of university students, particularly in the social sciences where the stakes can be quite high for uncritical reading of graphs and images. <persName key="Monmonier, Mark S." ref="http://viaf.org/viaf/79086507" ana="webannotation:http://temp.lincsproject.ca/FVJpZSoNbUJ">Monmonier</persName> examines the complex rhetoric of contemporary mapmaking in the age of print journalism and pre-web mass media.</ref>
-                        <ref target="#technology">His book provides a cautionary tour through the variety of expressive approaches that cartographers and the designers of geospatial infographics were using on the cusp—but not quite the bloom—of interactive digital mapping. In essence, it is a survey of print-based designs that produce geospatial un-truths in exactly those situations where truth is implied or expected.</ref> In other words, <persName key="Monmonier, Mark S." ref="http://viaf.org/viaf/79086507" ana="webannotation:http://temp.lincsproject.ca/xsGTxdzEQTf">Monmonier</persName> looks at mappy, newsprint versions of a progression Mark Twain is said to have named <q>lies, damned lies, and statistics.</q>
+                        <ref target="#technology">His book provides a cautionary tour through the variety of expressive approaches that cartographers and the designers of geospatial infographics were using on the cusp—but not quite the bloom—of interactive digital mapping. In essence, it is a survey of print-based designs that produce geospatial un-truths in exactly those situations where truth is implied or expected.</ref> In other words, <persName key="Monmonier, Mark S." ref="http://viaf.org/viaf/79086507" ana="webannotation:http://temp.lincsproject.ca/xsGTxdzEQTf">Monmonier</persName> looks at mappy, newsprint versions of a progression <persName key="Twain, Mark, 1835-1910." ref="http://viaf.org/viaf/50566653" ana="webannotation:http://temp.lincsproject.ca/fkow5T62xSY">Mark Twain</persName> is said to have named <q>lies, damned lies, and statistics.</q>
                     </ref>
                 </p>
                 <p xml:id="p1215">
@@ -2796,9 +2796,102 @@
 }]]>
 				
 </rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/fkow5T62xSY">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/fkow5T62xSY",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T00:59:45.121Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/7sp7reGwfgk",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/7sp7reGwfgk/selector/textPosition/1cYznrd8Beg",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 1094,
+                "end": 1104,
+                "refinedBy": {
+                    "id": "/target/7sp7reGwfgk/selector/textQuote/MAUriUEX3R8",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Mark Twain",
+                    "prefix": " In other words, Monmonier looks at mappy, newsprint versions of a progression",
+                    "suffix": "is said to have named lies, damned lies, and statistics"
+                }
+            },
+            {
+                "id": "/target/7sp7reGwfgk/selector/css/WQJH6pEnDy3",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/fkow5T62xSY]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/50566653",
+        "type": "crm:E21_Person",
+        "label": "Twain, Mark, 1835-1910.",
+        "description": "Твен, М. 1835-1910 Марк"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 			
 </rdf:RDF>
 		
+
+		
 </xenoData>
+	
 	</standOff>
+
 </TEI>
