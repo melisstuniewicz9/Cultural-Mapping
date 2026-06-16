@@ -915,7 +915,7 @@
                         <bibl>. <title level="m">A Plan for Improving Female Education</title>. Middlebury: S.W. Copeland, 1819.</bibl>
                         <bibl>Willson, Marcius. <title level="a">A Critical Review of American Common School Histories: As Embraced in a Report Submitted to the New Jersey Society of Teachers and Friends of Education</title>. <title level="j">Biblical Repository</title> (July 1845): 517–39.</bibl>
                         <bibl>Woodbridge, William Channing, and <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/JNaRiasvpM5">Emma Willard</persName>. <title level="m">Geography for Beginners</title>. <placeName key="Hartford" ref="https://sws.geonames.org/4835797" ana="webannotation:http://temp.lincsproject.ca/yii8Qi6Lmdj">Hartford</placeName>, <placeName key="Connecticut" ref="https://sws.geonames.org/4831725" ana="webannotation:http://temp.lincsproject.ca/Gjjo4Mwpg09">CT</placeName>: Oliver D. Cooke, 1826.</bibl>
-                        <bibl>. <title level="m">A System of Universal Geography</title>. Hartford, <placeName key="Connecticut" ref="https://sws.geonames.org/4831725" ana="webannotation:http://temp.lincsproject.ca/ChAGBwiukXk">CT</placeName>: Oliver D. Cooke, 1827.</bibl>
+                        <bibl>. <title level="m">A System of Universal Geography</title>. <placeName key="Hartford" ref="https://sws.geonames.org/4835797" ana="webannotation:http://temp.lincsproject.ca/qNzE2LJnJA7">Hartford</placeName>, <placeName key="Connecticut" ref="https://sws.geonames.org/4831725" ana="webannotation:http://temp.lincsproject.ca/ChAGBwiukXk">CT</placeName>: Oliver D. Cooke, 1827.</bibl>
                     </listBibl>
                 </div>
             </div>
@@ -9642,6 +9642,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/yii8Qi6Lmdj]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/4835797",
+        "label": "Hartford",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/qNzE2LJnJA7">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/qNzE2LJnJA7",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T14:27:53.117Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/3V9bBQd4Ehv",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/3V9bBQd4Ehv/selector/textPosition/8TbQdIJSeIO",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 56217,
+                "end": 56225,
+                "refinedBy": {
+                    "id": "/target/3V9bBQd4Ehv/selector/textQuote/ypegaHpHKX2",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Hartford",
+                    "prefix": "",
+                    "suffix": " CT: Oliver D"
+                }
+            },
+            {
+                "id": "/target/3V9bBQd4Ehv/selector/css/XSnrhogtr4N",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/qNzE2LJnJA7]"
             }
         ]
     },
