@@ -524,7 +524,7 @@
                     <ref target="#technology">
                         <ref target="#spatiality">
                             <ref target="#theme_or_topic">The next two reasons involve <abbr>GIS</abbr> tools and the data to which we as humanities scholars want to apply those tools. How suitable are current geospatial software packages to the concerns of the humanities, since this software is made and marketed almost entirely within the sciences and quantitative social sciences? <ref target="#history">Production and reception histories of texts—that is, the history of printing and publishing, the histories of readership—may be reasonably mappable, but, as we know, such bibliographical scholarship is still marginalized in the broader discipline of literary studies.</ref> How useful, then, are <abbr>GIS</abbr> tools to the interpretive concerns of the majority of literary scholars? How apt are they at reflecting or analyzing the spatial relations of qualities like subjectivity and emotion? Can <abbr>GIS</abbr> tools be used to analyze time as it is experienced and expressed in narrative—how do they deal with the complex chronologies we see every day in the documentary record? The answer is <q>not very well.</q>
-                                <ref target="#economics">In fact, it is only recently that time became a factor at all in the geospatial software produced by California-based Environmental Systems Research Institute, a company that controls the market for analytical <abbr>GIS</abbr>
+                                <ref target="#economics">In fact, it is only recently that time became a factor at all in the geospatial software produced by <placeName key="California" ref="https://sws.geonames.org/5332921" ana="webannotation:http://temp.lincsproject.ca/cmMpNJghNLf">California</placeName>-based Environmental Systems Research Institute, a company that controls the market for analytical <abbr>GIS</abbr>
                                 </ref>.</ref>
                         </ref>
                     </ref>
@@ -3679,6 +3679,95 @@
         "type": "crm:E74_Group",
         "label": "Kings College London",
         "description": "King's College University of London"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/cmMpNJghNLf">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/cmMpNJghNLf",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T13:03:32.737Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/W4LSNcxncEd",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/W4LSNcxncEd/selector/textPosition/DMhSTwjdvlS",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15040,
+                "end": 15050,
+                "refinedBy": {
+                    "id": "/target/W4LSNcxncEd/selector/textQuote/BRbRjZOw1oo",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "California",
+                    "prefix": "\n                                In fact, it is only recently that time became a factor at all in the geospatial software produced by",
+                    "suffix": "based Environmental Systems Research Institute, a company that controls the market for analytical GIS\n                                "
+                }
+            },
+            {
+                "id": "/target/W4LSNcxncEd/selector/css/dSHBu3rxmch",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/cmMpNJghNLf]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/5332921",
+        "type": "crm:E53_Place",
+        "label": "California",
+        "description": "California, US"
     },
     "P2_has_type": [
         "oa:identifying"
