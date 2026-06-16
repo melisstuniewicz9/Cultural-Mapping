@@ -573,7 +573,7 @@
                         <ref target="#education">
                             <ref target="#childhood">
                                 <ref target="#spatiality">The historical example of Frances Alsop Henshaw, who was fortunate to have good teachers, functions precisely in this invitational way. In 1823, Henshaw was fourteen years old. </ref>
-                                <ref target="#class_issue">As the daughter of a reasonably well-to-do <placeName key="New England" ref="https://sws.geonames.org/11919979" ana="webannotation:http://temp.lincsproject.ca/Gta2lLpdPnm">New England</placeName> merchant, she attended Middlebury Female Academy, a small school in Vermont</ref>. <ref target="#manuscript_history">
+                                <ref target="#class_issue">As the daughter of a reasonably well-to-do <placeName key="New England" ref="https://sws.geonames.org/11919979" ana="webannotation:http://temp.lincsproject.ca/Gta2lLpdPnm">New England</placeName> merchant, she attended Middlebury Female Academy, a small school in <placeName key="Vermont" ref="https://sws.geonames.org/5242283" ana="webannotation:http://temp.lincsproject.ca/tj0a2veaguM">Vermont</placeName></ref>. <ref target="#manuscript_history">
                                     <ref target="#archival_location">There, she created a document I first encountered in the library of map collector <persName key="Rumsey, David, 1944-...." ref="http://viaf.org/viaf/39021078" ana="webannotation:http://temp.lincsproject.ca/7dOGopp41UC">David Rumsey</persName>. </ref>It purports to be a <q>book of penmanship,</q> but—in addition to the set copy-texts one might expect to see in a handwriting practice-book—also contains a series of hand-drawn, delicately coloured maps of what were then the nineteen United States. <ref target="#tone_or_style">Each of these maps—and this is where the penmanship exercise comes in—is paired with a geometrically designed and highly embellished prose passage, which Henshaw seems to have copied from the geography books that were available to her as a schoolgirl in the new American republic.</ref>
                                 </ref>
                                 <note xml:id="n65" place="end">This portion of the chapter draws on research previously published in the 2010 issue of <title level="j">Poetess Archive Journal</title> as <title level="a">
@@ -8315,6 +8315,95 @@
         "type": "frbroo:F1",
         "label": "Literary and Linguistic Computing",
         "description": "scientific journal"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/tj0a2veaguM">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/tj0a2veaguM",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T16:17:07.106Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/WRumQZwIVri",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/WRumQZwIVri/selector/textPosition/uyeVyUuMCz1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 20982,
+                "end": 20989,
+                "refinedBy": {
+                    "id": "/target/WRumQZwIVri/selector/textQuote/5UORnU7PfRr",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Vermont",
+                    "prefix": " \n                                As the daughter of a reasonably well-to-do New England merchant, she attended Middlebury Female Academy, a small school in",
+                    "suffix": " \n                                    There, she created a document I first encountered in the library of map collector David Rumsey"
+                }
+            },
+            {
+                "id": "/target/WRumQZwIVri/selector/css/Ehy4YCboBd0",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/tj0a2veaguM]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/5242283",
+        "type": "crm:E53_Place",
+        "label": "Vermont",
+        "description": "Vermont, US"
     },
     "P2_has_type": [
         "oa:identifying"
