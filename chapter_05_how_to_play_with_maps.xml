@@ -596,7 +596,7 @@
                 <p xml:id="p1234">
                     <ref target="#authorship">
                         <ref target="#spatiality">In some ways, Henshaw’s book is utterly unique. <ref target="#history">
-                                <ref target="#education">But it is also a product of larger trends in the geographic education of women in North America in the early nineteenth century. <ref target="#gender_issue">Middlebury Female Academy was the first school established by famed educational reformer <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/cyQM9HMOCaV">Emma Willard</persName>, author of <title level="m">A Plan for Improving Female Education</title>
+                                <ref target="#education">But it is also a product of larger trends in the geographic education of women in <placeName key="North America" ref="https://sws.geonames.org/6255149  " ana="webannotation:http://temp.lincsproject.ca/y6DNfI2lE7d">North America</placeName> in the early nineteenth century. <ref target="#gender_issue">Middlebury Female Academy was the first school established by famed educational reformer <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/cyQM9HMOCaV">Emma Willard</persName>, author of <title level="m">A Plan for Improving Female Education</title>
                                         <note place="inline">
                                             <bibl>1818</bibl>
                                         </note> and co-author of a seminal textbook, <title>Geography for Beginners</title>
@@ -4575,6 +4575,95 @@
     "body": {
         "id": "https://sws.geonames.org/6167865  ",
         "label": "Toronto ",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/y6DNfI2lE7d">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/y6DNfI2lE7d",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T14:03:44.362Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/IXmJOkgHeyd",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/IXmJOkgHeyd/selector/textPosition/0GBNdSx3hFI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 23916,
+                "end": 23929,
+                "refinedBy": {
+                    "id": "/target/IXmJOkgHeyd/selector/textQuote/BitZudR2H2m",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "North America",
+                    "prefix": " \n                                But it is also a product of larger trends in the geographic education of women in",
+                    "suffix": "in the early nineteenth century"
+                }
+            },
+            {
+                "id": "/target/IXmJOkgHeyd/selector/css/ATtbH1l8SV6",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/y6DNfI2lE7d]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6255149  ",
+        "label": "North America",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
     },
