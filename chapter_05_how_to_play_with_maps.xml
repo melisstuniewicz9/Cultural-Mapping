@@ -890,7 +890,7 @@
                         <bibl>Jessop, Martyn. <title level="a">“<title key="The Inhibition of Geographical Information in Digital Humanities Scholarship" ref="http://www.wikidata.org/entity/Q57074452" ana="webannotation:http://temp.lincsproject.ca/kRu2wmX6K3g">The Inhibition of Geographical Information in Digital Humanities Scholarship</title>.”</title>
                             <title level="j">Literary and Linguistic Computing</title> 23 (April 2008): 39–50.</bibl>
                         <bibl><persName key="Monmonier, Mark S." ref="http://viaf.org/viaf/79086507" ana="webannotation:http://temp.lincsproject.ca/lVEBHCT4oAZ">Monmonier</persName>, <persName key="Monmonier, Mark S." ref="https://viaf.org/en/viaf/79086507" ana="webannotation:http://temp.lincsproject.ca/m4Va8QlpeSp">Mark</persName>. <title level="m">How to Lie with Maps</title>. Chicago: <orgName key="University of Chicago. Press" ref="http://viaf.org/viaf/122888939" ana="webannotation:http://temp.lincsproject.ca/VroJxYxpjPs">University of Chicago Press</orgName>, 1996.</bibl>
-                        <bibl><persName key="Morse, Jedidiah, 1761-1826" ref="http://viaf.org/viaf/59893447" ana="webannotation:http://temp.lincsproject.ca/ODVT0kWEBQx" type="real" cert="high">Morse</persName>, <persName key="Morse, Jedidiah, 1761-1826" ref="http://viaf.org/viaf/59893447" ana="webannotation:http://temp.lincsproject.ca/Z6sTJ0nWmad" type="real">Jedidiah</persName>. <title level="m">Geography Made Easy: Being an Abridgement of the American Universal Geography</title>. Boston: Thomas and Andrews, 1802.</bibl>
+                        <bibl><persName key="Morse, Jedidiah, 1761-1826" ref="http://viaf.org/viaf/59893447" ana="webannotation:http://temp.lincsproject.ca/ODVT0kWEBQx" type="real" cert="high">Morse</persName>, <persName key="Morse, Jedidiah, 1761-1826" ref="http://viaf.org/viaf/59893447" ana="webannotation:http://temp.lincsproject.ca/Z6sTJ0nWmad" type="real" cert="high">Jedidiah</persName>. <title level="m">Geography Made Easy: Being an Abridgement of the American Universal Geography</title>. Boston: Thomas and Andrews, 1802.</bibl>
                         <bibl>
                             <author>
                                 <abbr>nines</abbr>: Networked Infrastructure for Nineteenth-Century Electronic Scholarship.</author>
@@ -10015,7 +10015,8 @@
         ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh"
     ]
 }]]>
 				
