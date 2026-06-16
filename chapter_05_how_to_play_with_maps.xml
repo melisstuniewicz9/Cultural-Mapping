@@ -540,7 +540,7 @@
                     <ref target="#technology">
                         <ref target="#spatiality">For Jessop, the broad issue of scholarly communication is also of great importance <note place="inline">
                                 <bibl>46–49</bibl>
-                            </note>—how we are to fund, produce, evaluate, distribute, and archive innovative geospatial scholarship in disciplines and institutions that are wedded to traditional research practices—a large question whose parameters lie outside the scope of this chapter. One might expect that our uses of <abbr>GIS</abbr>, since Jessop’s 2008 article, would have become increasingly ludic and experimental. But Ian Gregory and <persName key="Ell, Paul S." ref="http://viaf.org/viaf/92571103" ana="webannotation:http://temp.lincsproject.ca/zVqylUFncrl" type="real">Paul Ell</persName> suggest otherwise in their 2007 book, <title level="m">Historical <abbr>GIS</abbr>: Technologies, Methodologies, and Scholarship</title>. Gregory and Ell state that <q>the researcher using <abbr>GIS</abbr> should be asking, <q>What are the geographical aspects of my research question?</q> rather than [the more open] <q>What can I do with my dataset using this software?</q>
+                            </note>—how we are to fund, produce, evaluate, distribute, and archive innovative geospatial scholarship in disciplines and institutions that are wedded to traditional research practices—a large question whose parameters lie outside the scope of this chapter. One might expect that our uses of <abbr>GIS</abbr>, since Jessop’s 2008 article, would have become increasingly ludic and experimental. But Ian Gregory and <persName key="Ell, Paul S." ref="http://viaf.org/viaf/92571103" ana="webannotation:http://temp.lincsproject.ca/zVqylUFncrl" type="real" cert="high">Paul Ell</persName> suggest otherwise in their 2007 book, <title level="m">Historical <abbr>GIS</abbr>: Technologies, Methodologies, and Scholarship</title>. Gregory and Ell state that <q>the researcher using <abbr>GIS</abbr> should be asking, <q>What are the geographical aspects of my research question?</q> rather than [the more open] <q>What can I do with my dataset using this software?</q>
                             </q>
                             <note place="inline">
                                 <bibl>1</bibl>
@@ -3951,7 +3951,8 @@
         ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh"
     ]
 }]]>
 				
