@@ -887,7 +887,7 @@
                         <bibl>Gregory, Ian, and Paul S. Ell. <title level="m">Historical GIS: Technologies, Methodologies, and Scholarship</title>. <placeName key="Cambridge" ref="https://sws.geonames.org/2653941  " ana="webannotation:http://temp.lincsproject.ca/AQrkP42tEvF">Cambridge</placeName>: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/huw7U7xusuw">Cambridge University Press</orgName>, 2007.</bibl>
                         <bibl>Henshaw, Frances Alsop. <title level="a">Book of Penmanship Executed at the Middlebury Female Academy</title>. 1823. <title level="m">Library of <persName key="Rumsey, David, 1944-...." ref="http://viaf.org/viaf/39021078" ana="webannotation:http://temp.lincsproject.ca/nVNkDg4NSvf">David Rumsey</persName></title>. Pub. List No. 2501.000. <ref target="http://bit.ly/dmbgHL">http://bit.ly/dmbgHL</ref>
                         </bibl>
-                        <bibl>Jessop, Martyn. <title level="a">“The Inhibition of Geographical Information in Digital Humanities Scholarship.”</title>
+                        <bibl>Jessop, Martyn. <title level="a">“<title key="The Inhibition of Geographical Information in Digital Humanities Scholarship" ref="http://www.wikidata.org/entity/Q57074452" ana="webannotation:http://temp.lincsproject.ca/kRu2wmX6K3g">The Inhibition of Geographical Information in Digital Humanities Scholarship</title>.”</title>
                             <title level="j">Literary and Linguistic Computing</title> 23 (April 2008): 39–50.</bibl>
                         <bibl><persName key="Monmonier, Mark S." ref="http://viaf.org/viaf/79086507" ana="webannotation:http://temp.lincsproject.ca/lVEBHCT4oAZ">Monmonier</persName>, Mark. <title level="m">How to Lie with Maps</title>. Chicago: <orgName key="University of Chicago. Press" ref="http://viaf.org/viaf/122888939" ana="webannotation:http://temp.lincsproject.ca/VroJxYxpjPs">University of Chicago Press</orgName>, 1996.</bibl>
                         <bibl>Morse, Jedidiah. <title level="m">Geography Made Easy: Being an Abridgement of the American Universal Geography</title>. Boston: Thomas and Andrews, 1802.</bibl>
@@ -8671,6 +8671,95 @@
         "label": "Cambridge",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/kRu2wmX6K3g">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/kRu2wmX6K3g",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T14:20:06.185Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/MqOnkcec0ya",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/MqOnkcec0ya/selector/textPosition/oPJSyXLKYjZ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 53207,
+                "end": 53283,
+                "refinedBy": {
+                    "id": "/target/MqOnkcec0ya/selector/textQuote/7QgaZjMHbQc",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "The Inhibition of Geographical Information in Digital Humanities Scholarship",
+                    "prefix": " ",
+                    "suffix": "”\n                            Literary and Linguistic Computing 23 (April 2008): 39–50"
+                }
+            },
+            {
+                "id": "/target/MqOnkcec0ya/selector/css/kckxwnhADUV",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/kRu2wmX6K3g]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q57074452",
+        "type": "frbroo:F1",
+        "label": "The Inhibition of Geographical Information in Digital Humanities Scholarship",
+        "description": "article"
     },
     "P2_has_type": [
         "oa:identifying"
