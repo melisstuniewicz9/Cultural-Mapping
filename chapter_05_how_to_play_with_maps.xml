@@ -890,7 +890,7 @@
                         <bibl>Jessop, Martyn. <title level="a">“<title key="The Inhibition of Geographical Information in Digital Humanities Scholarship" ref="http://www.wikidata.org/entity/Q57074452" ana="webannotation:http://temp.lincsproject.ca/kRu2wmX6K3g">The Inhibition of Geographical Information in Digital Humanities Scholarship</title>.”</title>
                             <title level="j">Literary and Linguistic Computing</title> 23 (April 2008): 39–50.</bibl>
                         <bibl><persName key="Monmonier, Mark S." ref="http://viaf.org/viaf/79086507" ana="webannotation:http://temp.lincsproject.ca/lVEBHCT4oAZ">Monmonier</persName>, <persName key="Monmonier, Mark S." ref="https://viaf.org/en/viaf/79086507" ana="webannotation:http://temp.lincsproject.ca/m4Va8QlpeSp">Mark</persName>. <title level="m">How to Lie with Maps</title>. Chicago: <orgName key="University of Chicago. Press" ref="http://viaf.org/viaf/122888939" ana="webannotation:http://temp.lincsproject.ca/VroJxYxpjPs">University of Chicago Press</orgName>, 1996.</bibl>
-                        <bibl><persName key="Morse, Jedidiah, 1761-1826" ref="http://viaf.org/viaf/59893447" ana="webannotation:http://temp.lincsproject.ca/ODVT0kWEBQx" type="real" cert="high">Morse</persName>, Jedidiah. <title level="m">Geography Made Easy: Being an Abridgement of the American Universal Geography</title>. Boston: Thomas and Andrews, 1802.</bibl>
+                        <bibl><persName key="Morse, Jedidiah, 1761-1826" ref="http://viaf.org/viaf/59893447" ana="webannotation:http://temp.lincsproject.ca/ODVT0kWEBQx" type="real" cert="high">Morse</persName>, <persName key="Morse, Jedidiah, 1761-1826" ref="http://viaf.org/viaf/59893447" ana="webannotation:http://temp.lincsproject.ca/Z6sTJ0nWmad">Jedidiah</persName>. <title level="m">Geography Made Easy: Being an Abridgement of the American Universal Geography</title>. Boston: Thomas and Andrews, 1802.</bibl>
                         <bibl>
                             <author>
                                 <abbr>nines</abbr>: Networked Infrastructure for Nineteenth-Century Electronic Scholarship.</author>
@@ -9921,6 +9921,95 @@
         "label": "Monmonier, Mark S.",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Z6sTJ0nWmad">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Z6sTJ0nWmad",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T14:34:40.583Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4i77fjl1iem",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4i77fjl1iem/selector/textPosition/dUq9CFYDrcn",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 53510,
+                "end": 53518,
+                "refinedBy": {
+                    "id": "/target/4i77fjl1iem/selector/textQuote/Hl1mROYLaAw",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Jedidiah",
+                    "prefix": "\n                        Morse,",
+                    "suffix": " Geography Made Easy: Being an Abridgement of the American Universal Geography"
+                }
+            },
+            {
+                "id": "/target/4i77fjl1iem/selector/css/GjNSMt1Ispg",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Z6sTJ0nWmad]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/59893447",
+        "type": "crm:E21_Person",
+        "label": "Morse, Jedidiah, 1761-1826",
+        "description": "Jedidiah Morse United States geographer and clergyman"
     },
     "P2_has_type": [
         "oa:identifying"
