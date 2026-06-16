@@ -504,7 +504,7 @@
                 </p>
                 <p xml:id="p1224">
                     <ref target="#technology">
-                        <ref target="#spatiality">First, we must acknowledge what has been holding humanists back. In 2008, Martyn Jessop of King’s College, London published an article in <title level="j">Literary and Linguistic Computing</title> in which he documented what he called an unexpected <title>inhibition</title> among digital humanities scholars—a reluctance to engage deeply with geospatial tools and data <note place="inline">
+                        <ref target="#spatiality">First, we must acknowledge what has been holding humanists back. In 2008, Martyn Jessop of <orgName key="Kings College London" ref="http://viaf.org/viaf/128638237" ana="webannotation:http://temp.lincsproject.ca/eAbGoybQBl2">King’s College, London</orgName> published an article in <title level="j">Literary and Linguistic Computing</title> in which he documented what he called an unexpected <title>inhibition</title> among digital humanities scholars—a reluctance to engage deeply with geospatial tools and data <note place="inline">
                                 <bibl>Jessop 39</bibl>
                             </note>. <ref target="#education">In this piece, Jessop identifies the chief deficiencies of <abbr>GIS </abbr>es, from the point of view of the humanities, and he addresses the institutional systems that fail to support and promote their use. He notes that digital humanists are deeply engaged with place and space, and not usually daunted by a learning curve; they are, however, hesitant to embrace <abbr>GIS</abbr>.</ref> This article raises a fundamental question: Why—given the huge blossoming of activity elsewhere in <abbr>GIS</abbr>, the deep engagement of the humanities with place and space, and the general technological adventurousness of the digital humanities community—have scholars in our field been so slow to engage with maps?</ref>
                     </ref>
@@ -3590,6 +3590,95 @@
         "label": "New England",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/eAbGoybQBl2">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/eAbGoybQBl2",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T13:00:53.455Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ryxGYabMb3x",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ryxGYabMb3x/selector/textPosition/pjmTUdJmy9A",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 11799,
+                "end": 11821,
+                "refinedBy": {
+                    "id": "/target/ryxGYabMb3x/selector/textQuote/jdaMG5uPWza",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "King’s College, London",
+                    "prefix": " In 2008, Martyn Jessop of",
+                    "suffix": "published an article in Literary and Linguistic Computing in which he documented what he called an unexpected inhibition among digital humanities scholars—a reluctance to engage deeply with geospatial tools and data \n                                Jessop 39\n                            "
+                }
+            },
+            {
+                "id": "/target/ryxGYabMb3x/selector/css/m8plDsvAHSm",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/eAbGoybQBl2]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/128638237",
+        "type": "crm:E74_Group",
+        "label": "Kings College London",
+        "description": "King's College University of London"
     },
     "P2_has_type": [
         "oa:identifying"
