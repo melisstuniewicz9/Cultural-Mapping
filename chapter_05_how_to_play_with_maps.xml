@@ -602,7 +602,7 @@
                                         </note> and co-author of a seminal textbook, <title>Geography for Beginners</title>
                                         <note place="inline">
                                             <bibl>1826</bibl>
-                                        </note>. <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/eTMfAy1Bb60">Willard</persName> is best remembered today as the founder of <orgName key="Troy Female Seminary" ref="http://viaf.org/viaf/134150016" ana="webannotation:http://temp.lincsproject.ca/PXbghZCWGtZ">the Troy Female Seminary</orgName>, now the prestigious <orgName key="Emma Willard School (Troy, N.Y.)" ref="http://viaf.org/viaf/147825434" ana="webannotation:http://temp.lincsproject.ca/zFG4Y6v0GaZ">Emma Willard School</orgName> for girls in <placeName key="Troy" ref="https://www.geonames.org/5141502/troy.html" ana="webannotation:http://temp.lincsproject.ca/KHbckKqCSMc">Troy</placeName>, New York. Beginning in the 1820s, <orgName key="Troy Female Seminary" ref="http://viaf.org/viaf/134150016" ana="webannotation:http://temp.lincsproject.ca/QbFTgBZzUEC">Troy Female Seminary</orgName> was America’s pre­eminent academy for teachers who went on to spread <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/GuVMn4LdxSI">Willard</persName>’s approaches to the pedagogy of place and space across the continent.</ref> <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/A2J8bPtVm1P">Willard</persName> had moved from Middlebury to <placeName key="Troy" ref="https://www.geonames.org/5141502/troy.html" ana="webannotation:http://temp.lincsproject.ca/8ekK9wseOEr">Troy</placeName> two years before the date recorded in Henshaw’s book, but a reading of her letters and her <title level="m">System of Universal Geography</title>
+                                        </note>. <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/eTMfAy1Bb60">Willard</persName> is best remembered today as the founder of <orgName key="Troy Female Seminary" ref="http://viaf.org/viaf/134150016" ana="webannotation:http://temp.lincsproject.ca/PXbghZCWGtZ">the Troy Female Seminary</orgName>, now the prestigious <orgName key="Emma Willard School (Troy, N.Y.)" ref="http://viaf.org/viaf/147825434" ana="webannotation:http://temp.lincsproject.ca/zFG4Y6v0GaZ">Emma Willard School</orgName> for girls in <placeName key="Troy" ref="https://sws.geonames.org/5141502" ana="webannotation:http://temp.lincsproject.ca/qfxFEa36Bjj">Troy</placeName>, New York. Beginning in the 1820s, <orgName key="Troy Female Seminary" ref="http://viaf.org/viaf/134150016" ana="webannotation:http://temp.lincsproject.ca/QbFTgBZzUEC">Troy Female Seminary</orgName> was America’s pre­eminent academy for teachers who went on to spread <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/GuVMn4LdxSI">Willard</persName>’s approaches to the pedagogy of place and space across the continent.</ref> <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/A2J8bPtVm1P">Willard</persName> had moved from Middlebury to <placeName key="Troy" ref="https://www.geonames.org/5141502/troy.html" ana="webannotation:http://temp.lincsproject.ca/8ekK9wseOEr">Troy</placeName> two years before the date recorded in Henshaw’s book, but a reading of her letters and her <title level="m">System of Universal Geography</title>
                                     <note place="inline">
                                         <bibl>co-authored in 1827 with William Channing Woodbridge</bibl>
                                     </note> in the context of Henshaw’s schoolwork is suggestive of continued influence. The arts-based geospatial exercises <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/7XD9dvr5pZB">Willard</persName> developed early in her career as a teacher endured among the instructors she trained and the students she taught—influencing Frances Alsop Henshaw.</ref>
@@ -8679,20 +8679,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/KHbckKqCSMc">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/qfxFEa36Bjj">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/KHbckKqCSMc",
+    "id": "http://temp.lincsproject.ca/qfxFEa36Bjj",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-06-16T16:23:02.126Z",
+    "created": "2026-06-16T16:25:12.862Z",
     "creator": {
         "id": "https://github.com/melisstuniewicz9",
         "type": "crm:E21_Person",
@@ -8752,11 +8752,19 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/KHbckKqCSMc]"
+            },
+            {
+                "id": "/target/eYmIDsLfW0d/selector/css/WS4CS41gIKd",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/qfxFEa36Bjj]"
             }
         ]
     },
     "body": {
-        "id": "https://www.geonames.org/5141502/troy.html",
+        "id": "https://sws.geonames.org/5141502",
         "label": "Troy",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
