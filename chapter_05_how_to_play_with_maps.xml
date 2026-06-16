@@ -914,7 +914,7 @@
                         <bibl><persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/yaM9QiqFB8o">Willard</persName>, Emma. <title level="a">Letter to Miss Foster, 5 Nov. 1848</title>. <title level="m">The Life of Emma Willard</title>, by John Lord. New York: D. Appleton, 1873.</bibl>
                         <bibl>. <title level="m">A Plan for Improving Female Education</title>. Middlebury: S.W. Copeland, 1819.</bibl>
                         <bibl>Willson, Marcius. <title level="a">A Critical Review of American Common School Histories: As Embraced in a Report Submitted to the New Jersey Society of Teachers and Friends of Education</title>. <title level="j">Biblical Repository</title> (July 1845): 517–39.</bibl>
-                        <bibl>Woodbridge, William Channing, and <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/JNaRiasvpM5">Emma Willard</persName>. <title level="m">Geography for Beginners</title>. <placeName key="Hartford" ref="https://sws.geonames.org/4835797" ana="webannotation:http://temp.lincsproject.ca/yii8Qi6Lmdj">Hartford</placeName>, <placeName key="Connecticut" ref="https://sws.geonames.org/4831725" ana="webannotation:http://temp.lincsproject.ca/Gjjo4Mwpg09">CT</placeName>: Oliver D. Cooke, 1826.</bibl>
+                        <bibl>Woodbridge, <persName key="Woodbridge, William C. (William Channing), 1794-1845" ref="http://viaf.org/viaf/17655388" ana="webannotation:http://temp.lincsproject.ca/yyXhX2yPjL9">William Channing</persName>, and <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/JNaRiasvpM5">Emma Willard</persName>. <title level="m">Geography for Beginners</title>. <placeName key="Hartford" ref="https://sws.geonames.org/4835797" ana="webannotation:http://temp.lincsproject.ca/yii8Qi6Lmdj">Hartford</placeName>, <placeName key="Connecticut" ref="https://sws.geonames.org/4831725" ana="webannotation:http://temp.lincsproject.ca/Gjjo4Mwpg09">CT</placeName>: Oliver D. Cooke, 1826.</bibl>
                         <bibl>. <title level="m">A System of Universal Geography</title>. <placeName key="Hartford" ref="https://sws.geonames.org/4835797" ana="webannotation:http://temp.lincsproject.ca/qNzE2LJnJA7">Hartford</placeName>, <placeName key="Connecticut" ref="https://sws.geonames.org/4831725" ana="webannotation:http://temp.lincsproject.ca/ChAGBwiukXk">CT</placeName>: Oliver D. Cooke, 1827.</bibl>
                     </listBibl>
                 </div>
@@ -11445,6 +11445,95 @@
         "type": "crm:E21_Person",
         "label": "Willard, Emma, 1787-1870",
         "description": "Willard, Emma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/yyXhX2yPjL9">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/yyXhX2yPjL9",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T15:01:32.930Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/cp8wKyiAEHd",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/cp8wKyiAEHd/selector/textPosition/0df3vwZvyMg",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 56060,
+                "end": 56076,
+                "refinedBy": {
+                    "id": "/target/cp8wKyiAEHd/selector/textQuote/mDKo7FAqDeJ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "William Channing",
+                    "prefix": "\n                        Woodbridge,",
+                    "suffix": " and Emma Willard"
+                }
+            },
+            {
+                "id": "/target/cp8wKyiAEHd/selector/css/zcgbuEZnT3B",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/yyXhX2yPjL9]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/17655388",
+        "type": "crm:E21_Person",
+        "label": "Woodbridge, William C. (William Channing), 1794-1845",
+        "description": "Woodbridge, William Channing, 1794-1845"
     },
     "P2_has_type": [
         "oa:identifying"
