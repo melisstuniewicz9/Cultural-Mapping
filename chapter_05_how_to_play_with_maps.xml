@@ -878,7 +878,7 @@
                 <div type="section">
                     <head>Works Cited</head>
                     <listBibl>
-                        <bibl>Arrowsmith, Aaron, and Samuel Lewis. <title level="m">General Atlas</title>. <placeName key="Boston" ref="https://sws.geonames.org/4930956  " ana="webannotation:http://temp.lincsproject.ca/mt9oHcM9CVL">Boston</placeName>: Thomas and Andrews, 1812.</bibl>
+                        <bibl><persName key="Arrowsmith, Aaron, 1750-1823" ref="http://viaf.org/viaf/18101110" ana="webannotation:http://temp.lincsproject.ca/Tb70FNSFx5A">Arrowsmith</persName>, Aaron, and Samuel Lewis. <title level="m">General Atlas</title>. <placeName key="Boston" ref="https://sws.geonames.org/4930956  " ana="webannotation:http://temp.lincsproject.ca/mt9oHcM9CVL">Boston</placeName>: Thomas and Andrews, 1812.</bibl>
                         <bibl><persName key="Brückner, Martin, 1963-" ref="http://viaf.org/viaf/51981660" ana="webannotation:http://temp.lincsproject.ca/2N2SAFAScBf">Brückner</persName>, <persName key="Brückner, Martin, 1963-" ref="http://viaf.org/viaf/51981660" ana="webannotation:http://temp.lincsproject.ca/vgqgHvpoP2m">Martin</persName>. <title level="m"><event key="The Geographic Revolution in Early America: Maps, Literacy, and National Identity" ref="http://www.wikidata.org/entity/Q136103109" ana="webannotation:http://temp.lincsproject.ca/yzwnUEojF09">The Geographic Revolution in Early America</event>: Maps, Literacy, and National Identity</title>. <placeName key="Chapel Hill" ref="https://sws.geonames.org/4460162 " ana="webannotation:http://temp.lincsproject.ca/Y2kVzmEY1ME">Chapel Hill</placeName>: <orgName key="University of North Carolina Press." ref="http://viaf.org/viaf/265412814" ana="webannotation:http://temp.lincsproject.ca/AKIpSuvcFET">University of North Carolina Press</orgName>, 2006.</bibl>
                         <bibl>Carey, Mathew. <title level="m">Carey’s American Pocket Atlas</title>. <placeName key="Philadelphia" ref="https://sws.geonames.org/4560349 " ana="webannotation:http://temp.lincsproject.ca/AmUD97oHS4D">Philadelphia</placeName>: M. Carey, 1805.</bibl>
                         <bibl><placeName key="Clay, Jenny Strauss, 1942-...." ref="http://viaf.org/viaf/26664" ana="webannotation:http://temp.lincsproject.ca/zqFjft94zoK">Clay</placeName>, <persName key="Clay, Jenny Strauss, 1942-...." ref="http://viaf.org/viaf/26664" ana="webannotation:http://temp.lincsproject.ca/DlailRtyMrm">Jenny Strauss</persName>. <title level="a">Mapping the Catalogue of Ships</title>. <title level="m">Scholars’ Lab Blog</title>. 13 January 2012. <ref target="http://www.scholarslab.org/announcements/mapping-the-catalogue-of-ships">http://www.scholarslab.org/announcements/mapping-the-catalogue-of-ships</ref>
@@ -9743,6 +9743,95 @@
         "type": "crm:E21_Person",
         "label": "Nowviskie, Bethany",
         "description": "Bethany Nowviskie"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Tb70FNSFx5A">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Tb70FNSFx5A",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T15:25:33.050Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/tiFkYbZwwtU",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/tiFkYbZwwtU/selector/textPosition/oLff7jBYQdB",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 52063,
+                "end": 52073,
+                "refinedBy": {
+                    "id": "/target/tiFkYbZwwtU/selector/textQuote/exMtsrHcvAe",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Arrowsmith",
+                    "prefix": "\n                    \n                \n                \n                    Works Cited\n                    \n                       ",
+                    "suffix": " Aaron, and Samuel Lewis"
+                }
+            },
+            {
+                "id": "/target/tiFkYbZwwtU/selector/css/RLc78NQxDpx",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Tb70FNSFx5A]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/18101110",
+        "type": "crm:E21_Person",
+        "label": "Arrowsmith, Aaron, 1750-1823",
+        "description": "Arrowsmith, Aaron, 1750-1823, cartographe"
     },
     "P2_has_type": [
         "oa:identifying"
