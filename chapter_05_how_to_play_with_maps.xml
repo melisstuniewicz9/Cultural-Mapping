@@ -880,7 +880,7 @@
                     <listBibl>
                         <bibl>Arrowsmith, Aaron, and Samuel Lewis. <title level="m">General Atlas</title>. Boston: Thomas and Andrews, 1812.</bibl>
                         <bibl>Brückner, Martin. <title level="m">The Geographic Revolution in Early America: Maps, Literacy, and National Identity</title>. Chapel Hill: <orgName key="University of North Carolina Press." ref="http://viaf.org/viaf/265412814" ana="webannotation:http://temp.lincsproject.ca/AKIpSuvcFET">University of North Carolina Press</orgName>, 2006.</bibl>
-                        <bibl>Carey, Mathew. <title level="m">Carey’s American Pocket Atlas</title>. Philadelphia: M. Carey, 1805.</bibl>
+                        <bibl>Carey, Mathew. <title level="m">Carey’s American Pocket Atlas</title>. <placeName key="Philadelphia" ref="https://sws.geonames.org/4560349 " ana="webannotation:http://temp.lincsproject.ca/AmUD97oHS4D">Philadelphia</placeName>: M. Carey, 1805.</bibl>
                         <bibl><placeName key="Clay, Jenny Strauss, 1942-...." ref="http://viaf.org/viaf/26664" ana="webannotation:http://temp.lincsproject.ca/zqFjft94zoK">Clay</placeName>, <persName key="Clay, Jenny Strauss, 1942-...." ref="http://viaf.org/viaf/26664" ana="webannotation:http://temp.lincsproject.ca/DlailRtyMrm">Jenny Strauss</persName>. <title level="a">Mapping the Catalogue of Ships</title>. <title level="m">Scholars’ Lab Blog</title>. 13 January 2012. <ref target="http://www.scholarslab.org/announcements/mapping-the-catalogue-of-ships">http://www.scholarslab.org/announcements/mapping-the-catalogue-of-ships</ref>
                         </bibl>
                         <bibl><persName key="Drucker, Johanna, 1952-...." ref="http://viaf.org/viaf/71503942" ana="webannotation:http://temp.lincsproject.ca/pyE7U398Btn">Drucker</persName>, <persName key="Drucker, Johanna, 1952-...." ref="http://viaf.org/viaf/71503942" ana="webannotation:http://temp.lincsproject.ca/wlTFKmsieLR">Johanna</persName>. <title level="m">SpecLab: Digital Aesthetics and Projects in Speculative Computing</title>. Chicago: <orgName key="University of Chicago. Press" ref="http://viaf.org/viaf/122888939" ana="webannotation:http://temp.lincsproject.ca/aCOfZcSHkBQ">University of Chicago Press</orgName>, 2009.</bibl>
@@ -7247,6 +7247,95 @@
         "type": "crm:E74_Group",
         "label": "University of Virginia",
         "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/AmUD97oHS4D">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/AmUD97oHS4D",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T13:33:42.277Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Hne8bJokvoo",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Hne8bJokvoo/selector/textPosition/TUsiMxeAQij",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 52399,
+                "end": 52411,
+                "refinedBy": {
+                    "id": "/target/Hne8bJokvoo/selector/textQuote/bcjWtGUEHgf",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Philadelphia",
+                    "prefix": "",
+                    "suffix": " M"
+                }
+            },
+            {
+                "id": "/target/Hne8bJokvoo/selector/css/KeWesdidvp1",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/AmUD97oHS4D]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/4560349 ",
+        "label": "Philadelphia",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
