@@ -735,7 +735,7 @@
                                 <ref target="#theme_or_topic">
                                     <ref target="#tone_or_style">The heart of Henshaw’s book, however, is a series of nineteen hand-coloured maps and accompanying texts, at least ten of which were designed to sit in a particular spatial relationship to the American states they describe.</ref>
                                     <ref target="#intertextuality">
-                                        <ref target="#methodology">The maps are organized on a principle of adjacency, and Henshaw’s choices seem to reflect the conceptual and actual limits of American statehood in the atlases available to her at home and at school—primarily an 1805 edition of Mathew Carey’s <title level="m">American Pocket Atlas</title> and an 1812 edition of <persName key="Arrowsmith, Aaron, 1750-1823" ref="http://viaf.org/viaf/18101110" ana="webannotation:http://temp.lincsproject.ca/nYY69azccoP">Aaron Arrowsmith</persName> and <persName key="Samuel Lewis" ref="https://www.wikidata.org/wiki/Q51710886" ana="webannotation:http://temp.lincsproject.ca/G2cZrwn4BhH">Samuel Lewis’s</persName> <title level="m">General Atlas</title>.</ref> She leaves out some defined territories and regions (like the Louisiana Purchase), and may have used a third, as yet unidentified atlas for the state of <placeName key="Indiana" ref="https://sws.geonames.org/4921868 " ana="webannotation:http://temp.lincsproject.ca/Rha8FzXU8va">Indiana</placeName>.</ref>
+                                        <ref target="#methodology">The maps are organized on a principle of adjacency, and Henshaw’s choices seem to reflect the conceptual and actual limits of American statehood in the atlases available to her at home and at school—primarily an 1805 edition of <persName key="Carey, Mathew, 1760-1839" ref="http://viaf.org/viaf/6373149068460065730004" ana="webannotation:http://temp.lincsproject.ca/ivWNpwAvNCI">Mathew Carey’s</persName> <title level="m">American Pocket Atlas</title> and an 1812 edition of <persName key="Arrowsmith, Aaron, 1750-1823" ref="http://viaf.org/viaf/18101110" ana="webannotation:http://temp.lincsproject.ca/nYY69azccoP">Aaron Arrowsmith</persName> and <persName key="Samuel Lewis" ref="https://www.wikidata.org/wiki/Q51710886" ana="webannotation:http://temp.lincsproject.ca/G2cZrwn4BhH">Samuel Lewis’s</persName> <title level="m">General Atlas</title>.</ref> She leaves out some defined territories and regions (like the Louisiana Purchase), and may have used a third, as yet unidentified atlas for the state of <placeName key="Indiana" ref="https://sws.geonames.org/4921868 " ana="webannotation:http://temp.lincsproject.ca/Rha8FzXU8va">Indiana</placeName>.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -880,7 +880,7 @@
                     <listBibl>
                         <bibl><persName key="Arrowsmith, Aaron, 1750-1823" ref="http://viaf.org/viaf/18101110" ana="webannotation:http://temp.lincsproject.ca/Tb70FNSFx5A">Arrowsmith</persName>, <persName key="Arrowsmith, Aaron, 1750-1823" ref="http://viaf.org/viaf/18101110" ana="webannotation:http://temp.lincsproject.ca/6rd0vYWByxZ">Aaron</persName>, and <persName key="Samuel Lewis" ref="https://www.wikidata.org/wiki/Q51710886" ana="webannotation:http://temp.lincsproject.ca/YGulqDviJrv">Samuel Lewis</persName>. <title level="m">General Atlas</title>. <placeName key="Boston" ref="https://sws.geonames.org/4930956  " ana="webannotation:http://temp.lincsproject.ca/mt9oHcM9CVL">Boston</placeName>: Thomas and Andrews, 1812.</bibl>
                         <bibl><persName key="Brückner, Martin, 1963-" ref="http://viaf.org/viaf/51981660" ana="webannotation:http://temp.lincsproject.ca/2N2SAFAScBf">Brückner</persName>, <persName key="Brückner, Martin, 1963-" ref="http://viaf.org/viaf/51981660" ana="webannotation:http://temp.lincsproject.ca/vgqgHvpoP2m">Martin</persName>. <title level="m"><event key="The Geographic Revolution in Early America: Maps, Literacy, and National Identity" ref="http://www.wikidata.org/entity/Q136103109" ana="webannotation:http://temp.lincsproject.ca/yzwnUEojF09">The Geographic Revolution in Early America</event>: Maps, Literacy, and National Identity</title>. <placeName key="Chapel Hill" ref="https://sws.geonames.org/4460162 " ana="webannotation:http://temp.lincsproject.ca/Y2kVzmEY1ME">Chapel Hill</placeName>: <orgName key="University of North Carolina Press." ref="http://viaf.org/viaf/265412814" ana="webannotation:http://temp.lincsproject.ca/AKIpSuvcFET">University of North Carolina Press</orgName>, 2006.</bibl>
-                        <bibl><persName key="Carey, Mathew, 1760-1839" ref="http://viaf.org/viaf/6373149068460065730004" ana="webannotation:http://temp.lincsproject.ca/qqfTJDwWRwP">Carey</persName>, <persName key="Carey, Mathew, 1760-1839" ref="http://viaf.org/viaf/6373149068460065730004" ana="webannotation:http://temp.lincsproject.ca/Tu62pIfLgli">Mathew</persName>. <title level="m">Carey’s American Pocket Atlas</title>. <placeName key="Philadelphia" ref="https://sws.geonames.org/4560349 " ana="webannotation:http://temp.lincsproject.ca/AmUD97oHS4D">Philadelphia</placeName>: <orgName key="Carey, Mathew, 1760-1839" ref="http://viaf.org/viaf/6373149068460065730004" ana="webannotation:http://temp.lincsproject.ca/lEE8aUQ1Ako">M. Carey</orgName>, 1805.</bibl>
+                        <bibl><persName key="Carey, Mathew, 1760-1839" ref="http://viaf.org/viaf/6373149068460065730004" ana="webannotation:http://temp.lincsproject.ca/qqfTJDwWRwP">Carey</persName>, <persName key="Carey, Mathew, 1760-1839" ref="http://viaf.org/viaf/6373149068460065730004" ana="webannotation:http://temp.lincsproject.ca/Tu62pIfLgli">Mathew</persName>. <title level="m"><persName key="Carey, Mathew, 1760-1839" ref="http://viaf.org/viaf/6373149068460065730004" ana="webannotation:http://temp.lincsproject.ca/yHxfEvzRhNi">Carey</persName>’s American Pocket Atlas</title>. <placeName key="Philadelphia" ref="https://sws.geonames.org/4560349 " ana="webannotation:http://temp.lincsproject.ca/AmUD97oHS4D">Philadelphia</placeName>: <orgName key="Carey, Mathew, 1760-1839" ref="http://viaf.org/viaf/6373149068460065730004" ana="webannotation:http://temp.lincsproject.ca/lEE8aUQ1Ako">M. Carey</orgName>, 1805.</bibl>
                         <bibl><placeName key="Clay, Jenny Strauss, 1942-...." ref="http://viaf.org/viaf/26664" ana="webannotation:http://temp.lincsproject.ca/zqFjft94zoK">Clay</placeName>, <persName key="Clay, Jenny Strauss, 1942-...." ref="http://viaf.org/viaf/26664" ana="webannotation:http://temp.lincsproject.ca/DlailRtyMrm">Jenny Strauss</persName>. <title level="a">Mapping the Catalogue of Ships</title>. <title level="m">Scholars’ Lab Blog</title>. 13 January 2012. <ref target="http://www.scholarslab.org/announcements/mapping-the-catalogue-of-ships">http://www.scholarslab.org/announcements/mapping-the-catalogue-of-ships</ref>
                         </bibl>
                         <bibl><persName key="Drucker, Johanna, 1952-...." ref="http://viaf.org/viaf/71503942" ana="webannotation:http://temp.lincsproject.ca/pyE7U398Btn">Drucker</persName>, <persName key="Drucker, Johanna, 1952-...." ref="http://viaf.org/viaf/71503942" ana="webannotation:http://temp.lincsproject.ca/wlTFKmsieLR">Johanna</persName>. <title level="m">SpecLab: Digital Aesthetics and Projects in Speculative Computing</title>. <placeName key="Chicago" ref="https://sws.geonames.org/4887398   " ana="webannotation:http://temp.lincsproject.ca/vECGStjdC8L">Chicago</placeName>: <orgName key="University of Chicago. Press" ref="http://viaf.org/viaf/122888939" ana="webannotation:http://temp.lincsproject.ca/aCOfZcSHkBQ">University of Chicago Press</orgName>, 2009.</bibl>
@@ -11271,6 +11271,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ivWNpwAvNCI">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ivWNpwAvNCI",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T19:41:53.361Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/QTsrAK5qFNV",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/QTsrAK5qFNV/selector/textPosition/c36IQ4AFuWK",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36830,
+                "end": 36844,
+                "refinedBy": {
+                    "id": "/target/QTsrAK5qFNV/selector/textQuote/6JuiRHAkuz0",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Mathew Carey’s",
+                    "prefix": "\n                                    \n                                        The maps are organized on a principle of adjacency, and Henshaw’s choices seem to reflect the conceptual and actual limits of American statehood in the atlases available to her at home and at school—primarily an 1805 edition of",
+                    "suffix": "American Pocket Atlas and an 1812 edition of Aaron Arrowsmith and Samuel Lewis’s General Atlas"
+                }
+            },
+            {
+                "id": "/target/QTsrAK5qFNV/selector/css/xCPDxi8Nemx",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ivWNpwAvNCI]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/6373149068460065730004",
+        "label": "Carey, Mathew, 1760-1839",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/nYY69azccoP">
 <![CDATA[{
     "@context": [
@@ -14021,6 +14110,95 @@
         "type": "crm:E21_Person",
         "label": "Carey, Mathew, 1760-1839",
         "description": "Carey, Mathew"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/yHxfEvzRhNi">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/yHxfEvzRhNi",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T19:41:24.798Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4kl5gPb1ZQk",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4kl5gPb1ZQk/selector/textPosition/1D0aJa7DEBq",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 52368,
+                "end": 52373,
+                "refinedBy": {
+                    "id": "/target/4kl5gPb1ZQk/selector/textQuote/o5UGCu7Ojhm",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Carey",
+                    "prefix": "",
+                    "suffix": "s American Pocket Atlas"
+                }
+            },
+            {
+                "id": "/target/4kl5gPb1ZQk/selector/css/hOWbeMDOv0z",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/yHxfEvzRhNi]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/6373149068460065730004",
+        "label": "Carey, Mathew, 1760-1839",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
