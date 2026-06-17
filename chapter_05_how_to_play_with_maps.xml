@@ -840,7 +840,7 @@
                 <p xml:id="p1253">
                     <ref target="#technology">
                         <ref target="#spatiality">
-                            <ref target="#theme_or_topic">I sense that analysis of the production of historical maps is best done through an experimental performance of similar cartographic processes—in the way that students of bibliography may fold sheets into gatherings in order to understand the construction of a book. The truest humanities <abbr>GIS</abbr> exercise, then, may be conducted completely offline, although the Scholars’ Lab Neatline project offers an interesting platform for sketching on maps and interrelating them with texts and contexts (Nowviskie et al.).</ref>
+                            <ref target="#theme_or_topic">I sense that analysis of the production of historical maps is best done through an experimental performance of similar cartographic processes—in the way that students of bibliography may fold sheets into gatherings in order to understand the construction of a book. The truest humanities <abbr>GIS</abbr> exercise, then, may be conducted completely offline, although the Scholars’ Lab Neatline project offers an interesting platform for sketching on maps and interrelating them with texts and contexts (<persName key="Nowviskie, Bethany" ref="http://viaf.org/viaf/9880157643271438590009" ana="webannotation:http://temp.lincsproject.ca/UZbzbCx7VOy">Nowviskie</persName> et al.).</ref>
                         </ref>
                     </ref>
                 </p>
@@ -12330,6 +12330,95 @@
         "label": "Cincinnati ",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/UZbzbCx7VOy">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/UZbzbCx7VOy",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T15:54:02.826Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/FLLRAI4PhPV",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/FLLRAI4PhPV/selector/textPosition/rR1d7f3kPOf",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 47674,
+                "end": 47683,
+                "refinedBy": {
+                    "id": "/target/FLLRAI4PhPV/selector/textQuote/4co6A0AQ1mP",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Nowviskie",
+                    "prefix": " The truest humanities GIS exercise, then, may be conducted completely offline, although the Scholars’ Lab Neatline project offers an interesting platform for sketching on maps and interrelating them with texts and contexts ",
+                    "suffix": "et al"
+                }
+            },
+            {
+                "id": "/target/FLLRAI4PhPV/selector/css/3KVUTlCZ7Uu",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/UZbzbCx7VOy]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/9880157643271438590009",
+        "type": "crm:E21_Person",
+        "label": "Nowviskie, Bethany",
+        "description": "Bethany Nowviskie"
     },
     "P2_has_type": [
         "oa:identifying"
