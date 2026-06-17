@@ -735,7 +735,7 @@
                                 <ref target="#theme_or_topic">
                                     <ref target="#tone_or_style">The heart of Henshaw’s book, however, is a series of nineteen hand-coloured maps and accompanying texts, at least ten of which were designed to sit in a particular spatial relationship to the American states they describe.</ref>
                                     <ref target="#intertextuality">
-                                        <ref target="#methodology">The maps are organized on a principle of adjacency, and Henshaw’s choices seem to reflect the conceptual and actual limits of American statehood in the atlases available to her at home and at school—primarily an 1805 edition of Mathew Carey’s <title level="m">American Pocket Atlas</title> and an 1812 edition of <persName key="Arrowsmith, Aaron, 1750-1823" ref="http://viaf.org/viaf/18101110" ana="webannotation:http://temp.lincsproject.ca/nYY69azccoP">Aaron Arrowsmith</persName> and Samuel Lewis’s <title level="m">General Atlas</title>.</ref> She leaves out some defined territories and regions (like the Louisiana Purchase), and may have used a third, as yet unidentified atlas for the state of <placeName key="Indiana" ref="https://sws.geonames.org/4921868 " ana="webannotation:http://temp.lincsproject.ca/Rha8FzXU8va">Indiana</placeName>.</ref>
+                                        <ref target="#methodology">The maps are organized on a principle of adjacency, and Henshaw’s choices seem to reflect the conceptual and actual limits of American statehood in the atlases available to her at home and at school—primarily an 1805 edition of Mathew Carey’s <title level="m">American Pocket Atlas</title> and an 1812 edition of <persName key="Arrowsmith, Aaron, 1750-1823" ref="http://viaf.org/viaf/18101110" ana="webannotation:http://temp.lincsproject.ca/nYY69azccoP">Aaron Arrowsmith</persName> and <persName key="Samuel Lewis" ref="https://www.wikidata.org/wiki/Q51710886" ana="webannotation:http://temp.lincsproject.ca/G2cZrwn4BhH">Samuel Lewis’s</persName> <title level="m">General Atlas</title>.</ref> She leaves out some defined territories and regions (like the Louisiana Purchase), and may have used a third, as yet unidentified atlas for the state of <placeName key="Indiana" ref="https://sws.geonames.org/4921868 " ana="webannotation:http://temp.lincsproject.ca/Rha8FzXU8va">Indiana</placeName>.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -10818,6 +10818,95 @@
         "type": "crm:E21_Person",
         "label": "Arrowsmith, Aaron, 1750-1823",
         "description": "Arrowsmith, Aaron, 1750-1823, cartographe"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/G2cZrwn4BhH">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/G2cZrwn4BhH",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T15:49:13.464Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/yDtwgjZBTNu",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/yDtwgjZBTNu/selector/textPosition/0SGWf9J3mGB",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36911,
+                "end": 36925,
+                "refinedBy": {
+                    "id": "/target/yDtwgjZBTNu/selector/textQuote/fJVrgFY1kNJ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Samuel Lewis’s",
+                    "prefix": "\n                                    \n                                        The maps are organized on a principle of adjacency, and Henshaw’s choices seem to reflect the conceptual and actual limits of American statehood in the atlases available to her at home and at school—primarily an 1805 edition of Mathew Carey’s American Pocket Atlas and an 1812 edition of Aaron Arrowsmith and",
+                    "suffix": "General Atlas"
+                }
+            },
+            {
+                "id": "/target/yDtwgjZBTNu/selector/css/2igi1as04YD",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/G2cZrwn4BhH]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q51710886",
+        "label": "Samuel Lewis",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
