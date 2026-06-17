@@ -914,7 +914,7 @@
                         <bibl><persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/yaM9QiqFB8o">Willard</persName>, <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/JxehTjsZJAl">Emma</persName>. <title level="a">Letter to Miss Foster, 5 Nov. 1848</title>. <title level="m">The Life of Emma Willard</title>, by <persName key="John Lord" ref="https://www.wikidata.org/wiki/Q6245267" ana="webannotation:http://temp.lincsproject.ca/93AL6HHxRzY">John Lord</persName>. <placeName key="New York" ref="https://sws.geonames.org/5128638 " ana="webannotation:http://temp.lincsproject.ca/M8H7Vtab0Aj">New York</placeName>: <orgName key="D. Appleton and Company." ref="http://viaf.org/viaf/129012558" ana="webannotation:http://temp.lincsproject.ca/qYjLVpXyXc5">D. Appleton</orgName>, 1873.</bibl>
                         <bibl>. <title level="m">A Plan for Improving Female Education</title>. <placeName key="Middlebury (village)" ref="https://sws.geonames.org/5238499" ana="webannotation:http://temp.lincsproject.ca/I7wSLZvUWHP">Middlebury</placeName>: <persName key="Copeland, Jared Warner, 1791-1857" ref="http://viaf.org/viaf/54000299" ana="webannotation:http://temp.lincsproject.ca/BXw9Y8pyfdU">S.W. Copeland</persName>, 1819.</bibl>
                         <bibl><persName key="Willson, Marcius, 1813-1905" ref="http://viaf.org/viaf/47145857778023020115" ana="webannotation:http://temp.lincsproject.ca/LUqEvQRDkgj">Willson</persName>, <persName key="Willson, Marcius, 1813-1905" ref="http://viaf.org/viaf/47145857778023020115" ana="webannotation:http://temp.lincsproject.ca/sfq2JVcERt6">Marcius</persName>. <title level="a">A Critical Review of American Common School Histories: As Embraced in a Report Submitted to the New Jersey Society of Teachers and Friends of Education</title>. <title level="j">Biblical Repository</title> (July 1845): 517–39.</bibl>
-                        <bibl><persName key="Woodbridge, William C. (William Channing), 1794-1845" ref="http://viaf.org/viaf/17655388" ana="webannotation:http://temp.lincsproject.ca/gPJ8wMFzh9g">Woodbridge</persName>, <persName key="Woodbridge, William C. (William Channing), 1794-1845" ref="http://viaf.org/viaf/17655388" ana="webannotation:http://temp.lincsproject.ca/yyXhX2yPjL9">William Channing</persName>, and <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/JNaRiasvpM5">Emma Willard</persName>. <title level="m">Geography for Beginners</title>. <placeName key="Hartford" ref="https://sws.geonames.org/4835797" ana="webannotation:http://temp.lincsproject.ca/yii8Qi6Lmdj">Hartford</placeName>, <placeName key="Connecticut" ref="https://sws.geonames.org/4831725" ana="webannotation:http://temp.lincsproject.ca/Gjjo4Mwpg09">CT</placeName>: Oliver D. Cooke, 1826.</bibl>
+                        <bibl><persName key="Woodbridge, William C. (William Channing), 1794-1845" ref="http://viaf.org/viaf/17655388" ana="webannotation:http://temp.lincsproject.ca/gPJ8wMFzh9g">Woodbridge</persName>, <persName key="Woodbridge, William C. (William Channing), 1794-1845" ref="http://viaf.org/viaf/17655388" ana="webannotation:http://temp.lincsproject.ca/yyXhX2yPjL9">William Channing</persName>, and <persName key="Willard, Emma, 1787-1870" ref="http://viaf.org/viaf/54499159" ana="webannotation:http://temp.lincsproject.ca/JNaRiasvpM5">Emma Willard</persName>. <title level="m">Geography for Beginners</title>. <placeName key="Hartford" ref="https://sws.geonames.org/4835797" ana="webannotation:http://temp.lincsproject.ca/yii8Qi6Lmdj">Hartford</placeName>, <placeName key="Connecticut" ref="https://sws.geonames.org/4831725" ana="webannotation:http://temp.lincsproject.ca/Gjjo4Mwpg09">CT</placeName>: <persName key="Oliver Dudley Cooke" ref="http://www.wikidata.org/entity/Q66809369" ana="webannotation:http://temp.lincsproject.ca/A1YAXOY0Rpg">Oliver D. Cooke</persName>, 1826.</bibl>
                         <bibl>. <title level="m">A System of Universal Geography</title>. <placeName key="Hartford" ref="https://sws.geonames.org/4835797" ana="webannotation:http://temp.lincsproject.ca/qNzE2LJnJA7">Hartford</placeName>, <placeName key="Connecticut" ref="https://sws.geonames.org/4831725" ana="webannotation:http://temp.lincsproject.ca/ChAGBwiukXk">CT</placeName>: <persName key="Oliver Dudley Cooke" ref="http://www.wikidata.org/entity/Q66809369" ana="webannotation:http://temp.lincsproject.ca/05ZtQKiCEm2">Oliver D. Cooke</persName>, 1827.</bibl>
                     </listBibl>
                 </div>
@@ -16991,6 +16991,95 @@
         "label": "Connecticut",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/A1YAXOY0Rpg">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/A1YAXOY0Rpg",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T19:40:07.503Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/QJqRe9KU5fp",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/QJqRe9KU5fp/selector/textPosition/XDsJ8td4jDo",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 56135,
+                "end": 56150,
+                "refinedBy": {
+                    "id": "/target/QJqRe9KU5fp/selector/textQuote/h86pP2YjUUj",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Oliver D. Cooke",
+                    "prefix": " Hartford, CT:",
+                    "suffix": " 1826"
+                }
+            },
+            {
+                "id": "/target/QJqRe9KU5fp/selector/css/Oi06PdFYyTu",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/A1YAXOY0Rpg]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q66809369",
+        "type": "crm:E21_Person",
+        "label": "Oliver Dudley Cooke",
+        "description": "born 1766; died 1833"
     },
     "P2_has_type": [
         "oa:identifying"
