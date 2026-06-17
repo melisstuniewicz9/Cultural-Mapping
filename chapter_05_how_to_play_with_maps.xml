@@ -540,7 +540,7 @@
                     <ref target="#technology">
                         <ref target="#spatiality">For Jessop, the broad issue of scholarly communication is also of great importance <note place="inline">
                                 <bibl>46–49</bibl>
-                            </note>—how we are to fund, produce, evaluate, distribute, and archive innovative geospatial scholarship in disciplines and institutions that are wedded to traditional research practices—a large question whose parameters lie outside the scope of this chapter. One might expect that our uses of <abbr>GIS</abbr>, since Jessop’s 2008 article, would have become increasingly ludic and experimental. But Ian Gregory and <persName key="Ell, Paul S." ref="http://viaf.org/viaf/92571103" ana="webannotation:http://temp.lincsproject.ca/zVqylUFncrl" type="real" cert="high">Paul Ell</persName> suggest otherwise in their 2007 book, <title level="m">Historical <abbr>GIS</abbr>: Technologies, Methodologies, and Scholarship</title>. Gregory and <persName key="Ell, Paul S." ref="http://viaf.org/viaf/92571103" ana="webannotation:http://temp.lincsproject.ca/Sad7gbJ5gmn" type="real" cert="high">Ell</persName> state that <q>the researcher using <abbr>GIS</abbr> should be asking, <q>What are the geographical aspects of my research question?</q> rather than [the more open] <q>What can I do with my dataset using this software?</q>
+                            </note>—how we are to fund, produce, evaluate, distribute, and archive innovative geospatial scholarship in disciplines and institutions that are wedded to traditional research practices—a large question whose parameters lie outside the scope of this chapter. One might expect that our uses of <abbr>GIS</abbr>, since Jessop’s 2008 article, would have become increasingly ludic and experimental. But <persName key="Gregory, Ian N., 1970-...." ref="http://viaf.org/viaf/119669087" ana="webannotation:http://temp.lincsproject.ca/WJxaa4MYjfc">Ian Gregory</persName> and <persName key="Ell, Paul S." ref="http://viaf.org/viaf/92571103" ana="webannotation:http://temp.lincsproject.ca/zVqylUFncrl" type="real" cert="high">Paul Ell</persName> suggest otherwise in their 2007 book, <title level="m">Historical <abbr>GIS</abbr>: Technologies, Methodologies, and Scholarship</title>. Gregory and <persName key="Ell, Paul S." ref="http://viaf.org/viaf/92571103" ana="webannotation:http://temp.lincsproject.ca/Sad7gbJ5gmn" type="real" cert="high">Ell</persName> state that <q>the researcher using <abbr>GIS</abbr> should be asking, <q>What are the geographical aspects of my research question?</q> rather than [the more open] <q>What can I do with my dataset using this software?</q>
                             </q>
                             <note place="inline">
                                 <bibl>1</bibl>
@@ -8404,6 +8404,95 @@
         "type": "frbroo:F1",
         "label": "Literary and Linguistic Computing",
         "description": "scientific journal"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/WJxaa4MYjfc">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/WJxaa4MYjfc",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T15:47:19.516Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/s2luEzLy9g8",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_05_how_to_play_with_maps.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "How to Play with Maps"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/s2luEzLy9g8/selector/textPosition/tI5IW1iNy1G",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16635,
+                "end": 16646,
+                "refinedBy": {
+                    "id": "/target/s2luEzLy9g8/selector/textQuote/Mz3x1ZnbQCS",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ian Gregory",
+                    "prefix": " But",
+                    "suffix": "and Paul Ell suggest otherwise in their 2007 book, Historical GIS: Technologies, Methodologies, and Scholarship"
+                }
+            },
+            {
+                "id": "/target/s2luEzLy9g8/selector/css/g9awhShulzJ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/WJxaa4MYjfc]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/119669087",
+        "type": "crm:E21_Person",
+        "label": "Gregory, Ian N., 1970-....",
+        "description": "Gregory, Ian, 1970-"
     },
     "P2_has_type": [
         "oa:identifying"
