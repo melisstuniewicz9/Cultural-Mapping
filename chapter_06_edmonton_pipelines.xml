@@ -563,7 +563,7 @@
                     <head>Rossdale</head>
                     <p xml:id="p1273">
                         <ref target="#history">
-                            <ref target="#spatiality">The Rossdale Flats, a two-square-kilometre zone geographically central to <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/Lf9s9g1HtNp">Edmonton</placeName> yet topographically as well as symbolically beneath the city core, have staged quintessentially urban contests between private and public, efficiency and commemoration, settlement, commerce, and resource extraction. <ref target="#race_issue">Rossdale occupies the site of pre–Treaty 6 Aboriginal settlements</ref>, the second Fort Edmonton, the inauguration of the Province of Alberta, a burial ground, an ice house, a fair ground, a ball park, and a power plant. <ref target="#class_issue">In the early twentieth century, it offered working-class housing near the coal seams of the North Saskatchewan River; in the early twenty-first century, it is characterized by expensive vinyl-sided Victorian houses alongside the Capital City Recreation Area.</ref>
+                            <ref target="#spatiality">The Rossdale Flats, a two-square-kilometre zone geographically central to <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/Lf9s9g1HtNp">Edmonton</placeName> yet topographically as well as symbolically beneath the city core, have staged quintessentially urban contests between private and public, efficiency and commemoration, settlement, commerce, and resource extraction. <ref target="#race_issue">Rossdale occupies the site of pre–Treaty 6 Aboriginal settlements</ref>, the second Fort Edmonton, the inauguration of the Province of Alberta, a burial ground, an ice house, a fair ground, a ball park, and a power plant. <ref target="#class_issue">In the early twentieth century, it offered working-class housing near the coal seams of <placeName key="North Saskatchewan River" ref="https://sws.geonames.org/6090589" ana="webannotation:http://temp.lincsproject.ca/e6KuK5VisWo">the North Saskatchewan River</placeName>; in the early twenty-first century, it is characterized by expensive vinyl-sided Victorian houses alongside the Capital City Recreation Area.</ref>
                                 <ref target="#politics">The conflicts of civic, corporate, and environmental interests have circulated in Rossdale.</ref>
                                 <ref target="#economics">It is the site for powerful past futures: here is where the planetarium was to be built, where baseball would flourish, where power generation would triple, where artist studios and chic cafes would heighten <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/ISxiuqBXbyY">Edmonton</placeName>’s cosmopolitan cachet.</ref>
                             </ref>
@@ -3674,6 +3674,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/e6KuK5VisWo">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/e6KuK5VisWo",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-18T18:17:52.604Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/i0ayWzkAu1m",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/i0ayWzkAu1m/selector/textPosition/9iRheF2ASbu",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 19743,
+                "end": 19771,
+                "refinedBy": {
+                    "id": "/target/i0ayWzkAu1m/selector/textQuote/SitFNCv7JxT",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the North Saskatchewan River",
+                    "prefix": " In the early twentieth century, it offered working-class housing near the coal seams of",
+                    "suffix": " in the early twenty-first century, it is characterized by expensive vinyl-sided Victorian houses alongside the Capital City Recreation Area"
+                }
+            },
+            {
+                "id": "/target/i0ayWzkAu1m/selector/css/PurSNgRQ20X",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/e6KuK5VisWo]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6090589",
+        "type": "crm:E53_Place",
+        "label": "North Saskatchewan River",
+        "description": "Saskatchewan, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Jn2mCChwkoa">
 <![CDATA[{
     "@context": [
@@ -4822,6 +4911,95 @@
         "type": "crm:E21_Person",
         "label": "Sassen, Saskia.",
         "description": "Sassen, Saskia, 1947-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/r2u22HeEUqL">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/r2u22HeEUqL",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-18T18:17:27.671Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/jt8eaMW5bSb",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/jt8eaMW5bSb/selector/textPosition/HyevPaMSiKh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 19469,
+                "end": 19479,
+                "refinedBy": {
+                    "id": "/target/jt8eaMW5bSb/selector/textQuote/8ZWR2P60ESp",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "pre–Treaty",
+                    "prefix": " Rossdale occupies the site of",
+                    "suffix": "6 Aboriginal settlements, the second Fort Edmonton, the inauguration of the Province of Alberta, a burial ground, an ice house, a fair ground, a ball park, and a power plant"
+                }
+            },
+            {
+                "id": "/target/jt8eaMW5bSb/selector/css/MoJ0lfFvvSj",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/r2u22HeEUqL]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://dbpedia.org/resource/Winter_War",
+        "type": "crm:E5_Event",
+        "label": "Winter War",
+        "description": "The Winter War was a war between the Soviet Union (USSR) and Finland. It began with a Soviet invasion of Finland on 30 November 1939, three months after the outbreak of World War II, and ended three and a half months later with the Moscow Peace Treaty on 13 March 1940. The League of Nations deemed the attack illegal and expelled the Soviet Union from the organisation."
     },
     "P2_has_type": [
         "oa:identifying"
