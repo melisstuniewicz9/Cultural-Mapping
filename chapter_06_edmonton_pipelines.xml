@@ -628,7 +628,7 @@
                         <bibl>Bruegmann, Robert. <title level="m">Sprawl: A Compact History</title>. Chicago: University of Chicago Press, 2006.</bibl>
                         <bibl>Casey, Edward S.<title level="m">The Fate of Place: A Philosophical History</title>. Berkeley: University of California Press, 1998.</bibl>
                         <bibl>Coverley, Merlin. <title level="m">Psychogeography</title>. London: Pocket Essentials, 2010.</bibl>
-                        <bibl>Edwards, Justin D., and Douglas Ivison. <title level="m">Downtown Canada: Writing Canadian Cities</title>. Toronto: <orgName key="University of Toronto. Press" ref="http://viaf.org/viaf/126595939" ana="webannotation:http://temp.lincsproject.ca/QknxExjPd26">University of Toronto Press</orgName>, 2005.</bibl>
+                        <bibl>Edwards, Justin D., and <persName key="Ivison, Douglas" ref="http://viaf.org/viaf/74103425" ana="webannotation:http://temp.lincsproject.ca/jdIwbqt78ht">Douglas Ivison</persName>. <title level="m">Downtown Canada: Writing Canadian Cities</title>. Toronto: <orgName key="University of Toronto. Press" ref="http://viaf.org/viaf/126595939" ana="webannotation:http://temp.lincsproject.ca/QknxExjPd26">University of Toronto Press</orgName>, 2005.</bibl>
                         <bibl>Goyette, Linda, and Carolina Jakeway Roemmich. <title level="m"><placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/6Q0wLnYEZW2">Edmonton</placeName> In Our Own Words</title>. <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/TGKTMhq8Y5V">Edmonton</placeName>: <orgName key="University of Alberta Press." ref="http://viaf.org/viaf/311351545" ana="webannotation:http://temp.lincsproject.ca/PoTzWfxjFE5">University of Alberta Press</orgName>, 2004.</bibl>
                         <bibl>Hagen, Darrin. <title level="m">The Edmonton Queen: Not a Riverboat Story</title>. <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/v0O2Zu3li3Z">Edmonton</placeName>: Slipstream Books, 1997.</bibl>
                         <bibl>Jacobs, Jane. <title level="m">The Death and Life of Great American Cities</title>. 1961. New York: Modern Library, 1993.</bibl>
@@ -3132,6 +3132,95 @@
         "type": "crm:E74_Group",
         "label": "McGill-Queen's University Press",
         "description": "joint venture"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/jdIwbqt78ht">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/jdIwbqt78ht",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-18T16:00:55.817Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/CGqPP2Lmvlb",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/CGqPP2Lmvlb/selector/textPosition/NMh0TtxveqI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27033,
+                "end": 27047,
+                "refinedBy": {
+                    "id": "/target/CGqPP2Lmvlb/selector/textQuote/Rva31ZPRnGx",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Douglas Ivison",
+                    "prefix": ", and",
+                    "suffix": " Downtown Canada: Writing Canadian Cities"
+                }
+            },
+            {
+                "id": "/target/CGqPP2Lmvlb/selector/css/nnGbi7p4Ukc",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/jdIwbqt78ht]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/74103425",
+        "type": "crm:E21_Person",
+        "label": "Ivison, Douglas",
+        "description": "Ivison, Douglas, 1968-"
     },
     "P2_has_type": [
         "oa:identifying"
