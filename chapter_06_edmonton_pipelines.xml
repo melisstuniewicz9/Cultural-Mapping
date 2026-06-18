@@ -476,7 +476,7 @@
                             <ref target="#economics">
                                 <ref target="#spatiality">
                                     <ref target="#theme_or_topic">Second, and at cross purposes with the notion of city as place, we are living less and less inside a city, and more and more inside urbanization itself—that is, inside a material and social space increasingly perceived to be in a constant state of flux—and in regards to which the stakes brought forth by material development—expansion, superposition, destruction, reconstruction—are challenging the formerly strict structural distinctions between centrality and periphery.</ref>
-                                    <note xml:id="n68" place="end">Saskia Sassen expresses it best when developing her well-known concept of the global city: <q>Today, there is no longer a simple straightforward relation between centrality and such geographic entities as the downtown and the central business district</q>
+                                    <note xml:id="n68" place="end"><persName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/A7sZfKiVD3s">Saskia Sassen</persName> expresses it best when developing her well-known concept of the global city: <q>Today, there is no longer a simple straightforward relation between centrality and such geographic entities as the downtown and the central business district</q>
                                         <note place="inline">
                                             <bibl>110</bibl>
                                         </note>.</note>
@@ -3221,6 +3221,95 @@
         "type": "crm:E53_Place",
         "label": "Tokyo",
         "description": "Tokyo, JP"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/A7sZfKiVD3s">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/A7sZfKiVD3s",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-18T18:14:33.442Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/hHFa000r9JK",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/hHFa000r9JK/selector/textPosition/WLaHFI4xiY5",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6597,
+                "end": 6610,
+                "refinedBy": {
+                    "id": "/target/hHFa000r9JK/selector/textQuote/xO3uZHUbkMc",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Saskia Sassen",
+                    "prefix": "\n                                   ",
+                    "suffix": "expresses it best when developing her well-known concept of the global city: Today, there is no longer a simple straightforward relation between centrality and such geographic entities as the downtown and the central business district\n                                        \n                                            110\n                                        "
+                }
+            },
+            {
+                "id": "/target/hHFa000r9JK/selector/css/enjv6iVwKf3",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/A7sZfKiVD3s]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/66527919",
+        "type": "crm:E21_Person",
+        "label": "Sassen, Saskia.",
+        "description": "Sassen, Saskia, 1947-...."
     },
     "P2_has_type": [
         "oa:identifying"
