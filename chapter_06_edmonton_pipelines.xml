@@ -572,7 +572,7 @@
                     <p xml:id="p1274">
                         <ref target="#history">
                             <ref target="#spatiality">
-                                <ref target="#technology">Such a dense city space hosts multiple, contradictory stories. What does it mean to <q>read</q> such a densely signifying space? I want a technology that can represent the following</ref>. Stand in one spot in the Rossdale Flats to apprehend the complexity of place. <ref target="#economics">If one looks closely at the boreal bush along the bicycle trails, one can discern raspberry canes and apple trees on the riverbanks, domestic remnants of the backyards from houses expropriated in the 1970s to build the <q>Ribbon of Green,</q> the development of <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/o00HhXMoRxB">Edmonton</placeName>’s river valley and ravine system. Where one stands and marvels, trying to imagine the vanished cityscape, is a riverbank hollowed by coal extraction: a formative city phenomenon beneath the plane of the visible. <ref target="#race_issue">Beneath that vision lies another, forcibly made invisible by the false celebration of this city as merely one hundred years old: Aboriginal Rossdale, routinely inhabited for six thousand years. </ref>One may be watched by a ring-necked pheasant, red squirrels, a coyote, foxes, and certainly magpies: denizens of the urban river valley. Look uphill, downriver, and one will see the brick brewery, now the residence of Gene Dub, the city’s best-loved architect, implicated as well in gentrification; upriver, the brickyard site has become a fitness centre. Running past is the North Saskatchewan River itself, linked to <placeName key="Saskatchewan Glacier" ref="https://sws.geonames.org/6141246" ana="webannotation:http://temp.lincsproject.ca/KvuQ61897WC">the Saskatchewan Glacier</placeName>, though heated and treated by the Rossdale power generating station.</ref>
+                                <ref target="#technology">Such a dense city space hosts multiple, contradictory stories. What does it mean to <q>read</q> such a densely signifying space? I want a technology that can represent the following</ref>. Stand in one spot in the Rossdale Flats to apprehend the complexity of place. <ref target="#economics">If one looks closely at the boreal bush along the bicycle trails, one can discern raspberry canes and apple trees on the riverbanks, domestic remnants of the backyards from houses expropriated in the 1970s to build the <q>Ribbon of Green,</q> the development of <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/o00HhXMoRxB">Edmonton</placeName>’s river valley and ravine system. Where one stands and marvels, trying to imagine the vanished cityscape, is a riverbank hollowed by coal extraction: a formative city phenomenon beneath the plane of the visible. <ref target="#race_issue">Beneath that vision lies another, forcibly made invisible by the false celebration of this city as merely one hundred years old: Aboriginal Rossdale, routinely inhabited for six thousand years. </ref>One may be watched by a ring-necked pheasant, red squirrels, a coyote, foxes, and certainly magpies: denizens of the urban river valley. Look uphill, downriver, and one will see the brick brewery, now the residence of Gene Dub, the city’s best-loved architect, implicated as well in gentrification; upriver, the brickyard site has become a fitness centre. Running past is <placeName key="North Saskatchewan River" ref="https://sws.geonames.org/6090589" ana="webannotation:http://temp.lincsproject.ca/Jn2mCChwkoa">the North Saskatchewan River</placeName> itself, linked to <placeName key="Saskatchewan Glacier" ref="https://sws.geonames.org/6141246" ana="webannotation:http://temp.lincsproject.ca/KvuQ61897WC">the Saskatchewan Glacier</placeName>, though heated and treated by the Rossdale power generating station.</ref>
                             </ref>
                         </ref>
                     </p>
@@ -3132,6 +3132,95 @@
         "type": "crm:E53_Place",
         "label": "Paris",
         "description": "Île-de-France, Paris, FR"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Jn2mCChwkoa">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Jn2mCChwkoa",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-18T16:39:33.305Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Y3jgclZt69M",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Y3jgclZt69M/selector/textPosition/BIdZb6CzceK",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 21788,
+                "end": 21816,
+                "refinedBy": {
+                    "id": "/target/Y3jgclZt69M/selector/textQuote/JBUAhV2k3gi",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the North Saskatchewan River",
+                    "prefix": " Running past is",
+                    "suffix": "itself, linked to the Saskatchewan Glacier, though heated and treated by the Rossdale power generating station"
+                }
+            },
+            {
+                "id": "/target/Y3jgclZt69M/selector/css/VSsa13Fmn7R",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Jn2mCChwkoa]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6090589",
+        "type": "crm:E53_Place",
+        "label": "North Saskatchewan River",
+        "description": "Saskatchewan, CA"
     },
     "P2_has_type": [
         "oa:identifying"
