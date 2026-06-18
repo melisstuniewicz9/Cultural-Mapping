@@ -542,7 +542,7 @@
                                 <ref target="#non-book_media">
                                     <ref target="#spatiality">
                                         <ref target="#history">
-                                            <ref target="#technology">The Cleveland Historical Map similarly spatializes local history. Finally, the mapping projects that Christian Nold has initiated are particularly compelling for the way they map urban intensities (the San Francisco Emotion Map) or their opposites (the Stockport Emotion Map). Nold equips community mappers with an electronic device that measures physical responses and then he sends them into city spaces. After he amasses responses, he can map the city sites that evoke particularly strong physical responses. Nold’s work also has evolved into community-based mapping, and, as in the case of Stockport, helps citizens understand how and why the city might fail to elicit intensity.</ref>
+                                            <ref target="#technology">The Cleveland Historical Map similarly spatializes local history. Finally, the mapping projects that <persName key="Christian Nold researcher" ref="http://viaf.org/viaf/6732166007106875590006" ana="webannotation:http://temp.lincsproject.ca/vq8t6jPz4AT">Christian Nold</persName> has initiated are particularly compelling for the way they map urban intensities (the San Francisco Emotion Map) or their opposites (the Stockport Emotion Map). Nold equips community mappers with an electronic device that measures physical responses and then he sends them into city spaces. After he amasses responses, he can map the city sites that evoke particularly strong physical responses. Nold’s work also has evolved into community-based mapping, and, as in the case of Stockport, helps citizens understand how and why the city might fail to elicit intensity.</ref>
                                         </ref>
                                     </ref>
                                 </ref> Pipelines hopes to adapt many aspects of projects like these—their community-mindedness, their attention to narrative, their understanding of history <q>from below,</q> for instance—while mobilizing the city’s open data to make sense of this particular city, in the here and now.</ref>
@@ -3310,6 +3310,95 @@
         "type": "crm:E53_Place",
         "label": "Montréal",
         "description": "Quebec, Municipio E, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/vq8t6jPz4AT">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/vq8t6jPz4AT",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-18T18:12:07.134Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/v6sA0XfZoF6",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/v6sA0XfZoF6/selector/textPosition/EaXwkykWAwT",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16433,
+                "end": 16447,
+                "refinedBy": {
+                    "id": "/target/v6sA0XfZoF6/selector/textQuote/kCQLyoirrw6",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Christian Nold",
+                    "prefix": " Finally, the mapping projects that",
+                    "suffix": "has initiated are particularly compelling for the way they map urban intensities (the San Francisco Emotion Map) or their opposites (the Stockport Emotion Map)"
+                }
+            },
+            {
+                "id": "/target/v6sA0XfZoF6/selector/css/cJn5Yf2iGGc",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/vq8t6jPz4AT]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/6732166007106875590006",
+        "type": "crm:E21_Person",
+        "label": "Christian Nold researcher",
+        "description": "Nold, Christian 1976-"
     },
     "P2_has_type": [
         "oa:identifying"
