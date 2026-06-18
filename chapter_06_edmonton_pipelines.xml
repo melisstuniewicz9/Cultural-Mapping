@@ -422,7 +422,7 @@
                         <ref target="#theme_or_topic">
                             <ref target="#spatiality">
                                 <ref target="#technology">
-                                    <ref target="#collaboration">Edmonton Pipelines is a research cell based at the University of Alberta that is interested in bringing together urban theory, digital technologies, and creative mapping techniques in order to narrate the city of <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/sk62COzP1Om">Edmonton</placeName>. Our goal is to create a series of interactive digital maps of the city of <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/xIH4TKIGEH4">Edmonton</placeName> to serve as a platform for both our own and other scholars’ experimentation and research. While we take the city of <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/yocgYc06JjE">Edmonton</placeName> as our focus and object of study, we are also the founding research group in the Canadian Institute for Research Computing in Arts’ (<abbr>CIRCA</abbr>) Digital Urbanism Collaboratory. Through this structure, we also hope to connect and collaborate with urban and digital scholars around the world, building a network of humanists who share our interests and concerns.</ref>
+                                    <ref target="#collaboration">Edmonton Pipelines is a research cell based at <orgName key="University of Alberta" ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/HxUk7NwUeuy">the University of Alberta</orgName> that is interested in bringing together urban theory, digital technologies, and creative mapping techniques in order to narrate the city of <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/sk62COzP1Om">Edmonton</placeName>. Our goal is to create a series of interactive digital maps of the city of <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/xIH4TKIGEH4">Edmonton</placeName> to serve as a platform for both our own and other scholars’ experimentation and research. While we take the city of <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/yocgYc06JjE">Edmonton</placeName> as our focus and object of study, we are also the founding research group in the Canadian Institute for Research Computing in Arts’ (<abbr>CIRCA</abbr>) Digital Urbanism Collaboratory. Through this structure, we also hope to connect and collaborate with urban and digital scholars around the world, building a network of humanists who share our interests and concerns.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -2688,6 +2688,95 @@
         "type": "crm:E53_Place",
         "label": "Edmonton",
         "description": "Alberta, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/HxUk7NwUeuy">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/HxUk7NwUeuy",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-18T15:56:53.827Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/qs9jujQ2JQu",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/qs9jujQ2JQu/selector/textPosition/FCvHPzyuNqB",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 469,
+                "end": 494,
+                "refinedBy": {
+                    "id": "/target/qs9jujQ2JQu/selector/textQuote/ddHAViOOb5b",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the University of Alberta",
+                    "prefix": "\n        \n            \n                \n                    Edmonton Pipelines\n                \n                \n                    Living and Playing in the Digital City\n                \n                 Heather Zwicker\n                \n                    What is Pipelines?\n                    \n                        \n                            \n                                \n                                    Edmonton Pipelines is a research cell based at",
+                    "suffix": "that is interested in bringing together urban theory, digital technologies, and creative mapping techniques in order to narrate the city of Edmonton"
+                }
+            },
+            {
+                "id": "/target/qs9jujQ2JQu/selector/css/Nq9Nb4JrtTH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/HxUk7NwUeuy]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/155492116",
+        "type": "crm:E74_Group",
+        "label": "University of Alberta",
+        "description": ""
     },
     "P2_has_type": [
         "oa:identifying"
