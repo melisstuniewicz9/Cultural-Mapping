@@ -459,7 +459,7 @@
                             <ref target="#spatiality">
                                 <ref target="#theme_or_topic">First, Pipelines asserts that the city is a place. The distinction between place and space has traditionally rested on the individual, subjective experience of the city. Space is a set of co-ordinates, an area delineated by objectivity alone, whereas place is what happens when this area is experienced by someone who creates memories, who builds his or her own path along with the traces left behind, who questions the layers of meaning and experience in any given location.<note xml:id="n66" place="end">This distinction is hinted at by Edward S. Casey in his 1997 book <title level="m">The Fate of Place</title>. But it is most clearly made by Augustin Berque in his 2000 book <title level="m" xml:lang="fr-CA">Écoumène: Introduction à l’étude des milieux humains</title>. See also Lucy Lippard, <title level="m">The Lure of the Local</title>
                                         <bibl>1997</bibl>.</note>
-                                    <ref target="#technology">Space is the <orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/25yWMf8KENZ">Google</orgName> map on one’s smart phone; place is the creative cartography of the Hitotoki projects, which impregnate Google maps with <q>singular experiences tied to locations.</q>
+                                    <ref target="#technology">Space is the <orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/25yWMf8KENZ">Google</orgName> map on one’s smart phone; place is the creative cartography of the Hitotoki projects, which impregnate <orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/EAMrkwR0TtE">Google</orgName> maps with <q>singular experiences tied to locations.</q>
                                         <note xml:id="n67" place="end">
                                             <hi rend="italic" xml:lang="ja-JP">Hitotoki</hi> is a Japanese word meaning <q>a moment in time.</q> Hitotoki sites exist for several global cities, including New York, <placeName key="Tokyo" ref="https://sws.geonames.org/1850147" ana="webannotation:http://temp.lincsproject.ca/CoE9TTu1zKU">Tokyo</placeName>, and London. See <note place="inline">
                                                 <bibl>
@@ -2946,6 +2946,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/25yWMf8KENZ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/EAMrkwR0TtE">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/EAMrkwR0TtE",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-18T18:12:28.257Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/cENCoqo9OXB",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/cENCoqo9OXB/selector/textPosition/MTy2PgVeLNg",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5245,
+                "end": 5251,
+                "refinedBy": {
+                    "id": "/target/cENCoqo9OXB/selector/textQuote/jk7McIxTGYe",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": "\n                                    Space is the Google map on one’s smart phone; place is the creative cartography of the Hitotoki projects, which impregnate",
+                    "suffix": "maps with singular experiences tied to locations"
+                }
+            },
+            {
+                "id": "/target/cENCoqo9OXB/selector/css/5scN1YVYUSE",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/EAMrkwR0TtE]"
             }
         ]
     },
