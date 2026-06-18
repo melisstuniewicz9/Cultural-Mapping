@@ -499,7 +499,7 @@
                         <ref target="#theory">
                             <ref target="#theme_or_topic">
                                 <ref target="#spatiality">
-                                    <ref target="#history">Fourth, it appears to us that lesser known Canadian cities recently have become sites of fascinating activity. Entire neighbourhoods spring up from the ground in a matter of weeks; large downtown areas are reconceived and rebranded through ambitious projects. Since the turn of the twenty-first century, Canadian cities like <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/AoAgcrpYxdZ">Edmonton</placeName>, for example, have been made infamous by such spectacle. This is a unique period in the history of urban development</ref>. <ref target="#writing_climate">From the perspective of the everyday, individual life, it might very well be an untold experience. As a postwar, mid-sized, car-centred city, <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/aQZ99nZBrYd">Edmonton</placeName> is at once unique and a representative case study. It is unique in that it is North America’s most northern city of over one million inhabitants, but it is also representative of the main type of urban space—based on mobility—that developed after the <ref target="#history">Second World War</ref>. Such cities have been either understudied or dismissed as characterless manifestations of <q>sprawl.</q> It is precisely this lack of attention that animates this project. This is starting to change, with books by Linda Goyette, Darrin Hagen, and my own beginning to chronicle <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/TtLpgCSTPu4">Edmonton</placeName>. But it is still possible to pick up a book subtitled <title level="m" type="sub">Writing Canadian Cities</title> and see no mention of <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/dfu90qGH6CF">Edmonton</placeName>. Far from a detriment, however, being understoried is a boon to the Pipelines project, as it means the <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/xICDRBU2zh9">Edmonton</placeName> city space is still malleable, amenable to a plethora of stories that intersect in complex ways. Any single city location might mean a number of things, and our various pipelines attempt to distribute distinct meanings through semiotically dense urban spaces.</ref>
+                                    <ref target="#history">Fourth, it appears to us that lesser known Canadian cities recently have become sites of fascinating activity. Entire neighbourhoods spring up from the ground in a matter of weeks; large downtown areas are reconceived and rebranded through ambitious projects. Since the turn of the twenty-first century, Canadian cities like <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/AoAgcrpYxdZ">Edmonton</placeName>, for example, have been made infamous by such spectacle. This is a unique period in the history of urban development</ref>. <ref target="#writing_climate">From the perspective of the everyday, individual life, it might very well be an untold experience. As a postwar, mid-sized, car-centred city, <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/aQZ99nZBrYd">Edmonton</placeName> is at once unique and a representative case study. It is unique in that it is <placeName key="North America" ref="https://sws.geonames.org/6255149" ana="webannotation:http://temp.lincsproject.ca/03q7iIcym8o">North America’s</placeName> most northern city of over one million inhabitants, but it is also representative of the main type of urban space—based on mobility—that developed after the <ref target="#history">Second World War</ref>. Such cities have been either understudied or dismissed as characterless manifestations of <q>sprawl.</q> It is precisely this lack of attention that animates this project. This is starting to change, with books by Linda Goyette, Darrin Hagen, and my own beginning to chronicle <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/TtLpgCSTPu4">Edmonton</placeName>. But it is still possible to pick up a book subtitled <title level="m" type="sub">Writing Canadian Cities</title> and see no mention of <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/dfu90qGH6CF">Edmonton</placeName>. Far from a detriment, however, being understoried is a boon to the Pipelines project, as it means the <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/xICDRBU2zh9">Edmonton</placeName> city space is still malleable, amenable to a plethora of stories that intersect in complex ways. Any single city location might mean a number of things, and our various pipelines attempt to distribute distinct meanings through semiotically dense urban spaces.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -3488,6 +3488,94 @@
         "type": "crm:E21_Person",
         "label": "Sassen, Saskia.",
         "description": "Sassen, Saskia, 1947-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/03q7iIcym8o">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/03q7iIcym8o",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-18T18:19:51.804Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/UMIu863vXH1",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/UMIu863vXH1/selector/textPosition/OcMToEmcmZA",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9735,
+                "end": 9750,
+                "refinedBy": {
+                    "id": "/target/UMIu863vXH1/selector/textQuote/BJh3e1HUZbu",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "North America’s",
+                    "prefix": " It is unique in that it is",
+                    "suffix": "most northern city of over one million inhabitants, but it is also representative of the main type of urban space—based on mobility—that developed after the Second World War"
+                }
+            },
+            {
+                "id": "/target/UMIu863vXH1/selector/css/jKTHeb1mFzL",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/03q7iIcym8o]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6255149",
+        "type": "crm:E53_Place",
+        "label": "North America"
     },
     "P2_has_type": [
         "oa:identifying"
