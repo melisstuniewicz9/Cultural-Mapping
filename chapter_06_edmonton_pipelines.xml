@@ -457,7 +457,7 @@
                     <p xml:id="p1264">
                         <ref target="#theory">
                             <ref target="#spatiality">
-                                <ref target="#theme_or_topic">First, Pipelines asserts that the city is a place. The distinction between place and space has traditionally rested on the individual, subjective experience of the city. Space is a set of co-ordinates, an area delineated by objectivity alone, whereas place is what happens when this area is experienced by someone who creates memories, who builds his or her own path along with the traces left behind, who questions the layers of meaning and experience in any given location.<note xml:id="n66" place="end">This distinction is hinted at by <persName key="Casey, Edward S., 1939-...." ref="http://viaf.org/viaf/109734232" ana="webannotation:http://temp.lincsproject.ca/ekutfmCzj07">Edward S. Casey</persName> in his 1997 book <title level="m">The Fate of Place</title>. But it is most clearly made by Augustin Berque in his 2000 book <title level="m" xml:lang="fr-CA">Écoumène: Introduction à l’étude des milieux humains</title>. See also Lucy Lippard, <title level="m">The Lure of the Local</title>
+                                <ref target="#theme_or_topic">First, Pipelines asserts that the city is a place. The distinction between place and space has traditionally rested on the individual, subjective experience of the city. Space is a set of co-ordinates, an area delineated by objectivity alone, whereas place is what happens when this area is experienced by someone who creates memories, who builds his or her own path along with the traces left behind, who questions the layers of meaning and experience in any given location.<note xml:id="n66" place="end">This distinction is hinted at by <persName key="Casey, Edward S., 1939-...." ref="http://viaf.org/viaf/109734232" ana="webannotation:http://temp.lincsproject.ca/ekutfmCzj07">Edward S. Casey</persName> in his 1997 book <title level="m">The Fate of Place</title>. But it is most clearly made by Augustin Berque in his 2000 book <title level="m" xml:lang="fr-CA">Écoumène: Introduction à l’étude des milieux humains</title>. See also <persName key="Lippard, Lucy R." ref="http://viaf.org/viaf/109482861" ana="webannotation:http://temp.lincsproject.ca/zbOD7WI28b5">Lucy Lippard</persName>, <title level="m">The Lure of the Local</title>
                                         <bibl>1997</bibl>.</note>
                                     <ref target="#technology">Space is the <orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/25yWMf8KENZ">Google</orgName> map on one’s smart phone; place is the creative cartography of the Hitotoki projects, which impregnate <orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/EAMrkwR0TtE">Google</orgName> maps with <q>singular experiences tied to locations.</q>
                                         <note xml:id="n67" place="end">
@@ -2954,6 +2954,95 @@
         "type": "crm:E21_Person",
         "label": "Casey, Edward S., 1939-....",
         "description": "Casey, Edward S."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/zbOD7WI28b5">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/zbOD7WI28b5",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-18T18:18:53.055Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/WuPhvHZ7Gvb",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/WuPhvHZ7Gvb/selector/textPosition/d0bZs1MquKi",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5004,
+                "end": 5016,
+                "refinedBy": {
+                    "id": "/target/WuPhvHZ7Gvb/selector/textQuote/GpWRCuo0Tdi",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Lucy Lippard",
+                    "prefix": " See also",
+                    "suffix": " The Lure of the Local\n                                        1997"
+                }
+            },
+            {
+                "id": "/target/WuPhvHZ7Gvb/selector/css/eUSIuL2rVpJ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/zbOD7WI28b5]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/109482861",
+        "type": "crm:E21_Person",
+        "label": "Lippard, Lucy R.",
+        "description": "Lippard, Lucy R., 1937-...."
     },
     "P2_has_type": [
         "oa:identifying"
