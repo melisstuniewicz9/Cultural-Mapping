@@ -624,7 +624,7 @@
                     <listBibl>
                         <head>Print Sources</head>
                         <bibl xml:lang="fr-CA">Berque, Augustin. <title level="m">Écoumène: Introduction à l’étude des milieux humains</title>. Paris: Éditions Belin, 2000.</bibl>
-                        <bibl>Boutros, Alexandra, and Will Straw, eds. <title level="m">Circulation and the City: Essays on Urban Culture</title>. Montreal and Kingston: McGill-Queen’s University Press, 2010.</bibl>
+                        <bibl>Boutros, Alexandra, and Will Straw, eds. <title level="m">Circulation and the City: Essays on Urban Culture</title>. Montreal and Kingston: <orgName key="McGill-Queen's University Press" ref="http://www.wikidata.org/entity/Q6801272" ana="webannotation:http://temp.lincsproject.ca/FHqa9j0GGGj">McGill-Queen’s University Press</orgName>, 2010.</bibl>
                         <bibl>Bruegmann, Robert. <title level="m">Sprawl: A Compact History</title>. Chicago: University of Chicago Press, 2006.</bibl>
                         <bibl>Casey, Edward S.<title level="m">The Fate of Place: A Philosophical History</title>. Berkeley: University of California Press, 1998.</bibl>
                         <bibl>Coverley, Merlin. <title level="m">Psychogeography</title>. London: Pocket Essentials, 2010.</bibl>
@@ -648,6 +648,95 @@
 <xenoData>
 			
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/FHqa9j0GGGj">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/FHqa9j0GGGj",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-18T15:48:34.291Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/rSIqMGDs5XB",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/rSIqMGDs5XB/selector/textPosition/qB0eMUjpjTD",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 26608,
+                "end": 26639,
+                "refinedBy": {
+                    "id": "/target/rSIqMGDs5XB/selector/textQuote/Z5FVSbmHBfE",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McGill-Queen’s University Press",
+                    "prefix": " Montreal and Kingston:",
+                    "suffix": " 2010"
+                }
+            },
+            {
+                "id": "/target/rSIqMGDs5XB/selector/css/t56dGA3xAJB",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/FHqa9j0GGGj]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q6801272",
+        "type": "crm:E74_Group",
+        "label": "McGill-Queen's University Press",
+        "description": "joint venture"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/QknxExjPd26">
 <![CDATA[{
