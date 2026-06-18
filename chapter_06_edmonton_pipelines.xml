@@ -625,7 +625,7 @@
                         <head>Print Sources</head>
                         <bibl xml:lang="fr-CA">Berque, Augustin. <title level="m">Écoumène: Introduction à l’étude des milieux humains</title>. Paris: Éditions Belin, 2000.</bibl>
                         <bibl>Boutros, Alexandra, and Will Straw, eds. <title level="m">Circulation and the City: Essays on Urban Culture</title>. Montreal and Kingston: <orgName key="McGill-Queen's University Press" ref="http://www.wikidata.org/entity/Q6801272" ana="webannotation:http://temp.lincsproject.ca/FHqa9j0GGGj">McGill-Queen’s University Press</orgName>, 2010.</bibl>
-                        <bibl>Bruegmann, Robert. <title level="m">Sprawl: A Compact History</title>. Chicago: <orgName key="University of Chicago. Press" ref="http://viaf.org/viaf/122888939" ana="webannotation:http://temp.lincsproject.ca/mnRP8jC8Wek">University of Chicago Press</orgName>, 2006.</bibl>
+                        <bibl>Bruegmann, Robert. <title level="m">Sprawl: A Compact History</title>. <placeName key="Chicago" ref="https://sws.geonames.org/4887398" ana="webannotation:http://temp.lincsproject.ca/NVrazmUvIK1">Chicago</placeName>: <orgName key="University of Chicago. Press" ref="http://viaf.org/viaf/122888939" ana="webannotation:http://temp.lincsproject.ca/mnRP8jC8Wek">University of Chicago Press</orgName>, 2006.</bibl>
                         <bibl>Casey, Edward S.<title level="m">The Fate of Place: A Philosophical History</title>. Berkeley: <orgName key="University of California press" ref="http://viaf.org/viaf/148948307" ana="webannotation:http://temp.lincsproject.ca/0BqIjlIjWie">University of California Press</orgName>, 1998.</bibl>
                         <bibl>Coverley, Merlin. <title level="m">Psychogeography</title>. London: Pocket Essentials, 2010.</bibl>
                         <bibl>Edwards, Justin D., and <persName key="Ivison, Douglas" ref="http://viaf.org/viaf/74103425" ana="webannotation:http://temp.lincsproject.ca/jdIwbqt78ht">Douglas Ivison</persName>. <title level="m">Downtown Canada: Writing Canadian Cities</title>. Toronto: <orgName key="University of Toronto. Press" ref="http://viaf.org/viaf/126595939" ana="webannotation:http://temp.lincsproject.ca/QknxExjPd26">University of Toronto Press</orgName>, 2005.</bibl>
@@ -3132,6 +3132,95 @@
         "type": "crm:E74_Group",
         "label": "McGill-Queen's University Press",
         "description": "joint venture"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/NVrazmUvIK1">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/NVrazmUvIK1",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-18T16:03:27.769Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/3eUjpfOvzAY",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/3eUjpfOvzAY/selector/textPosition/m4uVRfTKKVx",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 26717,
+                "end": 26724,
+                "refinedBy": {
+                    "id": "/target/3eUjpfOvzAY/selector/textQuote/nVHnnLU8h5G",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Chicago",
+                    "prefix": "",
+                    "suffix": " University of Chicago Press, 2006"
+                }
+            },
+            {
+                "id": "/target/3eUjpfOvzAY/selector/css/QWO0cpZCrKu",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/NVrazmUvIK1]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/4887398",
+        "type": "crm:E53_Place",
+        "label": "Chicago",
+        "description": ""
     },
     "P2_has_type": [
         "oa:identifying"
