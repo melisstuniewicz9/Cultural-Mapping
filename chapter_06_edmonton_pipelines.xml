@@ -633,7 +633,7 @@
                         <bibl>Hagen, Darrin. <title level="m">The Edmonton Queen: Not a Riverboat Story</title>. <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/v0O2Zu3li3Z">Edmonton</placeName>: Slipstream Books, 1997.</bibl>
                         <bibl>Jacobs, Jane. <title level="m">The Death and Life of Great American Cities</title>. 1961. New York: Modern Library, 1993.</bibl>
                         <bibl>Lippard, Lucy. <title level="m">The Lure of the Local: Senses of Place in a Multicentered Society</title>. New York: New Press, 1997.</bibl>
-                        <bibl>Lynch, Kevin. <title level="m">The Image of the City</title>. Cambridge, MA: MIT Press, 1960.</bibl>
+                        <bibl>Lynch, Kevin. <title level="m">The Image of the City</title>. Cambridge, MA: <orgName key="MIT press" ref="http://viaf.org/viaf/159490691" ana="webannotation:http://temp.lincsproject.ca/QDXpxH82muH">MIT Press</orgName>, 1960.</bibl>
                         <bibl>Mumford, Lewis. <title level="m">The Culture of Cities</title>. 1938. New York: Harcourt Brace, 1981.</bibl>
                         <bibl>Sassen, Saskia. <title level="a">The Global City: Introducing a Concept and Its History</title>. <title level="m">Mutations</title>. Rem Koolhaas, Stefano Boeri, Sanford Kwinter, Nadia Tazi, Hans Ulrich Obrist. Barcelona: <abbr>actar</abbr>; Bordeaux: Arc en rêve centre d’architecture, 2001. 104–15.</bibl>
                         <bibl>Self, Will, and Ralph Steadman. <title level="m">Psychogeography: Disentangling the Modern Conundrum of Psyche and Place</title>. New York: Bloomsbury, 2007.</bibl>
@@ -3754,6 +3754,95 @@
         "id": "http://viaf.org/viaf/311351545",
         "type": "crm:E74_Group",
         "label": "University of Alberta Press."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/QDXpxH82muH">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/QDXpxH82muH",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-18T16:04:20.028Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/IXjdDu0xd50",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/IXjdDu0xd50/selector/textPosition/ukgvhdAfDBw",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27724,
+                "end": 27733,
+                "refinedBy": {
+                    "id": "/target/IXjdDu0xd50/selector/textQuote/p9SuEqfjkr9",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "MIT Press",
+                    "prefix": " Cambridge, MA:",
+                    "suffix": " 1960"
+                }
+            },
+            {
+                "id": "/target/IXjdDu0xd50/selector/css/YbzF0YS0HRb",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/QDXpxH82muH]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/159490691",
+        "type": "crm:E74_Group",
+        "label": "MIT press",
+        "description": "M.I.T. Press"
     },
     "P2_has_type": [
         "oa:identifying"
