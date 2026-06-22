@@ -642,7 +642,7 @@
                     <p xml:id="p1205">
                         <ref target="#technology">
                             <ref target="#genre_journalism">
-                                <ref target="#methodology">Before this in-depth identification of the periodical can take place, however, a full run of the journal had to be located and the paper issues scanned with optical character recognition (<abbr rend="small-caps">ocr</abbr>) software to convert them into workable files</ref>. <ref target="#spatiality">Some issues of the <title level="j">Canadian Bookman</title> were located at the <orgName>Thomas Fisher Rare Book Library</orgName> of the <orgName>University of Toronto</orgName> and others were found at the <orgName>E.J. Pratt Library of Victoria University</orgName> in the <orgName>University of Toronto</orgName>.</ref>
+                                <ref target="#methodology">Before this in-depth identification of the periodical can take place, however, a full run of the journal had to be located and the paper issues scanned with optical character recognition (<abbr rend="small-caps">ocr</abbr>) software to convert them into workable files</ref>. <ref target="#spatiality">Some issues of the <title level="j">Canadian Bookman</title> were located at the <orgName>Thomas Fisher Rare Book Library</orgName> of the <orgName>University of Toronto</orgName> and others were found at the <orgName>E.J. Pratt Library of <orgName key="Victoria University" ref="http://www.wikidata.org/entity/Q3551503" ana="webannotation:http://temp.lincsproject.ca/zm1DOxOgNVW">Victoria University</orgName></orgName> in the <orgName>University of Toronto</orgName>.</ref>
                                 <ref target="#archive">After librarians closely supervised the scanning of the fragile paper issues of the <title level="j">Canadian Bookman</title>, the journal was mounted on the <title level="m">Internet Archive</title> website (http://archive.org) where only those issues that are out of copyright are available. The <orgName>CWRC</orgName> project aims to put the full run of the <title level="j">Canadian Bookman</title> online, but there are ongoing Canadian copyright considerations for many of the issues, and all issues from <date cert="high" from="1923" to="1941">1923 to 1941</date> have been dark archived (i.e., the content has been preserved but has not been granted public access) until copyright is secured.</ref>
                             </ref>
                         </ref>
@@ -2371,6 +2371,184 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/sSj9X8vRjNB">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/sSj9X8vRjNB",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T18:46:47.655Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/k85yF5WLdO5",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/k85yF5WLdO5/selector/textPosition/xWI34U8skaB",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 25162,
+                "end": 25166,
+                "refinedBy": {
+                    "id": "/target/k85yF5WLdO5/selector/textQuote/P8t4H1e636u",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Fyfe",
+                    "prefix": " At the same time,",
+                    "suffix": "notes, an international digital identifier suggests editorial forgiveness, where editing can become seamless in a web of copy"
+                }
+            },
+            {
+                "id": "/target/k85yF5WLdO5/selector/css/IREqkTE03FO",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/sSj9X8vRjNB]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/316562735",
+        "label": "Fyfe, Paul.",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/fwYbrZBezDw">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/fwYbrZBezDw",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T18:46:26.089Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/u2lu4QrYiQF",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/u2lu4QrYiQF/selector/textPosition/4nRqz7VQVRC",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 25498,
+                "end": 25502,
+                "refinedBy": {
+                    "id": "/target/u2lu4QrYiQF/selector/textQuote/t9t8ieT8MWW",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Fyfe",
+                    "prefix": " For",
+                    "suffix": " the work thereby is transformed from an abstraction to an object with a unique name that cannot be duplicated, even in digital reproduction"
+                }
+            },
+            {
+                "id": "/target/u2lu4QrYiQF/selector/css/AkQAGSW90Ee",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/fwYbrZBezDw]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/316562735",
+        "label": "Fyfe, Paul.",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/cXdOZfVdfVU">
 <![CDATA[{
     "@context": [
@@ -2452,6 +2630,103 @@
         "type": "crm:E21_Person",
         "label": "Fyfe, Paul.",
         "description": "Fyfe, Paul (Paul Camm)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/zm1DOxOgNVW">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/zm1DOxOgNVW",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T18:52:25.491Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/xMLQKkMKyWT",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/xMLQKkMKyWT/selector/textPosition/3U3X8eCOgck",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 31568,
+                "end": 31587,
+                "refinedBy": {
+                    "id": "/target/xMLQKkMKyWT/selector/textQuote/5IJnveXwbuh",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Victoria University",
+                    "prefix": " Pratt Library of",
+                    "suffix": "in the University of Toronto"
+                }
+            },
+            {
+                "id": "/target/xMLQKkMKyWT/selector/css/dBxo6u1DGeV",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/m1wdIi3CdxN]"
+            },
+            {
+                "id": "/target/xMLQKkMKyWT/selector/css/I28LxW8LZHd",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/zm1DOxOgNVW]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q3551503",
+        "type": "crm:E74_Group",
+        "label": "Victoria University",
+        "description": "federated college of the University of Toronto, Canada"
     },
     "P2_has_type": [
         "oa:identifying"
