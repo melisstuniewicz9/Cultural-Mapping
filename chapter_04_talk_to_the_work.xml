@@ -726,7 +726,7 @@
                             <title level="j">Journal of the American Society for Information Science </title>42.5 (1991): 351–60.</bibl>
                         <bibl>Fyfe, Paul. <title level="a">Electronic Errata: Digital Publishing, Open Review, and the Futures of Correction.</title>
                             <title level="m">Debates in the Digital Humanities</title>. Ed. <persName key="Gold, Matthew K." ref="http://viaf.org/viaf/221222930" ana="webannotation:http://temp.lincsproject.ca/QKpZefoGaw1">Matthew Gold</persName>. Minneapolis: <orgName key="University of Minnesota. Press" ref="http://viaf.org/viaf/146595780" ana="webannotation:http://temp.lincsproject.ca/7oQVmlZXqQI">University of Minnesota Press</orgName>, 2012. 259–80.</bibl>
-                        <bibl>Genette, Gerard. <title level="m">Paratexts: Thresholds of Interpretation</title>. Trans. Jane E. Lewin. Cambridge: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/SIrbUclNrlB">Cambridge University Press</orgName>, 1987.</bibl>
+                        <bibl>Genette, Gerard. <title level="m">Paratexts: Thresholds of Interpretation</title>. Trans. <persName key="Lewin, Jane E." ref="http://viaf.org/viaf/208798270" ana="webannotation:http://temp.lincsproject.ca/WJ12eQW9uTV">Jane E. Lewin</persName>. Cambridge: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/SIrbUclNrlB">Cambridge University Press</orgName>, 1987.</bibl>
                         <bibl>Guarino, Nicola. <title level="a">The Role of Identity Conditions in Ontology Design.</title>
                             <title level="m">Proceedings of the International Conference on Spatial Information Theory: Cognitive and Computational Foundations of Geographic Information Science</title>. Ed. Christian Freska and David M. Mark. Berlin: <orgName key="Springer-Verlag" ref="http://viaf.org/viaf/134381129" ana="webannotation:http://temp.lincsproject.ca/z1ATyQagAN5">Springer-Verlag</orgName>, 1999. 221–34.</bibl>
                         <bibl>Holdsworth, Michael. <title level="m">The International Standard Text Code (<abbr rend="sc-italic">istc</abbr>): A Work in Progress. A Supply Chain Perspective</title>. Book Industry Study Group and Book Industry Communication. March 2010. <ref target="http://www.bic.org.uk/files/pdfs/100401%20ISTC%20for%20BIC-BISG%20bic%20Final%20corrected.pdf">http://www.bic.org.uk/files/pdfs/100401%20ISTC%20for%20BIC-BISG%20bic%20Final%20corrected.pdf</ref>
@@ -1918,6 +1918,95 @@
         "label": "If You Build It Will They Come? The LAIRAH Study: Quantifying the Use of Online Resources in the Arts and Humanities through Statistical Analysis of User Log Data",
         "type": "frbroo:F1",
         "entityType": "frbroo:F1"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/WJ12eQW9uTV">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/WJ12eQW9uTV",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T18:06:26.827Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/fyc3g9q2ppJ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/fyc3g9q2ppJ/selector/textPosition/cJZY9mZBUTz",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 42286,
+                "end": 42299,
+                "refinedBy": {
+                    "id": "/target/fyc3g9q2ppJ/selector/textQuote/k03Mjc61ZCW",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Jane E. Lewin",
+                    "prefix": "",
+                    "suffix": " Cambridge: Cambridge University Press, 1987"
+                }
+            },
+            {
+                "id": "/target/fyc3g9q2ppJ/selector/css/oEvQio0hlhf",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/WJ12eQW9uTV]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/208798270",
+        "type": "crm:E21_Person",
+        "label": "Lewin, Jane E.",
+        "description": "Lewin, Jane E., 19..-...."
     },
     "P2_has_type": [
         "oa:identifying"
