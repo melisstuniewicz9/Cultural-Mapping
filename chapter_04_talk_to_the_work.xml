@@ -738,7 +738,7 @@
                             <title level="m">Internet Archive</title>. <ref target="http://archive.org">http://archive.org</ref>
                         </bibl>
                         <bibl>Jones, Maggie, and Neil Beagrie. <title level="m">Preservation Management of Digital Materials: A Handbook</title>. London: British Library, 2001.</bibl>
-                        <bibl>Kirschenbaum, Matthew G., Richard Ovenden, Gabriela Redwine, and Rachel Donahue. <title level="m">Digital Forensics and Born-Digital Content in Cultural Heritage Collections</title>. Council on Library and Information Resources, Washington, DC. December 2010. <ref target="http://www.clir.org/pubs/reports/pub149/reports/pub149/pub149.pdf">http://www.clir.org/pubs/reports/pub149/reports/pub149/pub149.pdf</ref>
+                        <bibl><persName key="Kirschenbaum, Matthew G." ref="http://viaf.org/viaf/55311010" ana="webannotation:http://temp.lincsproject.ca/YLku3F62Z6B">Kirschenbaum</persName>, Matthew G., Richard Ovenden, Gabriela Redwine, and Rachel Donahue. <title level="m">Digital Forensics and Born-Digital Content in Cultural Heritage Collections</title>. Council on Library and Information Resources, Washington, DC. December 2010. <ref target="http://www.clir.org/pubs/reports/pub149/reports/pub149/pub149.pdf">http://www.clir.org/pubs/reports/pub149/reports/pub149/pub149.pdf</ref>
                         </bibl>
                         <bibl>McGann, Jerome. <title level="m">The Textual Condition</title>. Princeton: Princeton University Press, 1991.</bibl>
                         <bibl>Paskin, Norman. <title level="a">Components of <abbr>DRM</abbr> Systems.</title>
@@ -1918,6 +1918,95 @@
         "label": "If You Build It Will They Come? The LAIRAH Study: Quantifying the Use of Online Resources in the Arts and Humanities through Statistical Analysis of User Log Data",
         "type": "frbroo:F1",
         "entityType": "frbroo:F1"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/YLku3F62Z6B">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/YLku3F62Z6B",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T18:01:34.307Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/tqTXVZx8GcZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/tqTXVZx8GcZ/selector/textPosition/s0acM5H8CpF",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 43677,
+                "end": 43689,
+                "refinedBy": {
+                    "id": "/target/tqTXVZx8GcZ/selector/textQuote/kYFYfVCwWMf",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Kirschenbaum",
+                    "prefix": "\n                       ",
+                    "suffix": " Matthew G"
+                }
+            },
+            {
+                "id": "/target/tqTXVZx8GcZ/selector/css/i56Mu7fTHlu",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/YLku3F62Z6B]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/55311010",
+        "type": "crm:E21_Person",
+        "label": "Kirschenbaum, Matthew G.",
+        "description": "Matthew G. Kirschenbaum"
     },
     "P2_has_type": [
         "oa:identifying"
