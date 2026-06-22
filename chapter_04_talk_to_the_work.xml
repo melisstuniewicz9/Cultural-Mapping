@@ -722,7 +722,7 @@
                             <title level="j">
                                 <abbr>dhq</abbr>: Digital Humanities Quarterly</title> 3 (2009). <ref target="http://works.bepress.com/cgi/viewcontent.cgi?article=1232&amp;context=borgman">http://works.bepress.com/cgi/viewcontent.cgi?article=1232&amp;context=borgman</ref>
                         </bibl>
-                        <bibl>Buckland, Michael K. <title level="a">Information as Thing.</title>
+                        <bibl>Buckland, <persName key="Buckland, Michael Keeble, 1941-...." ref="http://viaf.org/viaf/110232641" ana="webannotation:http://temp.lincsproject.ca/HQmAkhW50np">Michael K.</persName> <title level="a">Information as Thing.</title>
                             <title level="j">Journal of the American Society for Information Science </title>42.5 (1991): 351–60.</bibl>
                         <bibl>Fyfe, Paul. <title level="a">Electronic Errata: Digital Publishing, Open Review, and the Futures of Correction.</title>
                             <title level="m">Debates in the Digital Humanities</title>. Ed. Matthew Gold. Minneapolis: University of Minnesota Press, 2012. 259–80.</bibl>
@@ -939,6 +939,95 @@
         "type": "crm:E21_Person",
         "label": "Borgman, Christine L., 1951-....",
         "description": "Borgman, Christine L."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/HQmAkhW50np">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/HQmAkhW50np",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T17:19:53.987Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/v2xwGFe7I6k",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/v2xwGFe7I6k/selector/textPosition/Y1UXmgWQ6Op",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 41801,
+                "end": 41811,
+                "refinedBy": {
+                    "id": "/target/v2xwGFe7I6k/selector/textQuote/xl47awRm2SY",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Michael K.",
+                    "prefix": "cgi?article=1232&context=borgman\n                        \n                        Buckland,",
+                    "suffix": "Information as Thing"
+                }
+            },
+            {
+                "id": "/target/v2xwGFe7I6k/selector/css/GAH803tkP6k",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/HQmAkhW50np]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/110232641",
+        "type": "crm:E21_Person",
+        "label": "Buckland, Michael Keeble, 1941-....",
+        "description": "Buckland, Michael Keeble"
     },
     "P2_has_type": [
         "oa:identifying"
