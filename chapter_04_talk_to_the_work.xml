@@ -752,7 +752,7 @@
                         <bibl>Renear, Allen, and David Dubin. <title level="a">Towards Identity Conditions for Digital Documents.</title>
                             <title level="m">Proceedings of the 2003 International Conference on Dublin Core and Metadata Applications: Supporting Communities of Discourse and Practice—Metadata Research and Applications</title>. Dublin: <orgName key="Dublin Core Metadata Initiative" ref="http://viaf.org/viaf/138251091" ana="webannotation:http://temp.lincsproject.ca/4BdJyKNEEmn">Dublin Core Metadata Initiative</orgName>, 2003. 181–89.</bibl>
                         <bibl><persName key="Schreibman, Susan." ref="http://viaf.org/viaf/63873608" ana="webannotation:http://temp.lincsproject.ca/74K7qL97zZ6">Schreibman</persName>, <persName key="Schreibman, Susan." ref="http://viaf.org/viaf/63873608" ana="webannotation:http://temp.lincsproject.ca/Jryd5N6y72e">Susan</persName>. <title level="a">Computer-mediated Texts and Textuality: Theory and Practice.</title>
-                            <title level="j">Computers and the Humanities </title>36 (2002): 283–93.</bibl>
+                            <title level="j"><title key="Computers and the Humanities" ref="https://www.wikidata.org/wiki/Q26849475" ana="webannotation:http://temp.lincsproject.ca/zJA1MPUn4fH">Computers and the Humanities</title> </title>36 (2002): 283–93.</bibl>
                         <bibl><persName key="Smiraglia, Richard P., 1952-.." ref="http://viaf.org/viaf/261690065" ana="webannotation:http://temp.lincsproject.ca/Zd4Pt3J0DON">Smiraglia</persName>, <persName key=" Smiraglia, Richard P., 1952-.." ref="http://viaf.org/viaf/261690065" ana="webannotation:http://temp.lincsproject.ca/EpFWMcuohpC">Richard P.</persName> <title level="m">The Nature of <q>A Work</q>: Implications for the Organization of Knowledge</title>. Lanham, MD: <orgName key="Scarecrow press" ref="http://viaf.org/viaf/261535565" ana="webannotation:http://temp.lincsproject.ca/g04guEkZ5JO">Scarecrow Press</orgName>, 2001.</bibl>
                         <bibl>. <title level="a">The Progress of Theory in Knowledge Organization.</title>
                             <title level="j">Library Trends</title> 50.3 (2002): 330–49.</bibl>
@@ -3787,6 +3787,95 @@
         "type": "crm:E21_Person",
         "label": "Schreibman, Susan.",
         "description": "Schreibman, Susan, 19..-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/zJA1MPUn4fH">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/zJA1MPUn4fH",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T18:34:32.099Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/7TWyV6x9TyF",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/7TWyV6x9TyF/selector/textPosition/Dy361WK5LSk",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45274,
+                "end": 45302,
+                "refinedBy": {
+                    "id": "/target/7TWyV6x9TyF/selector/textQuote/q0GANkzJovR",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Computers and the Humanities",
+                    "prefix": "\n                           ",
+                    "suffix": "36 (2002): 283–93"
+                }
+            },
+            {
+                "id": "/target/7TWyV6x9TyF/selector/css/rKnRE2Cjqz1",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/zJA1MPUn4fH]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q26849475",
+        "label": "Computers and the Humanities",
+        "type": "frbroo:F1",
+        "entityType": "frbroo:F1"
     },
     "P2_has_type": [
         "oa:identifying"
