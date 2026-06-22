@@ -643,7 +643,7 @@
                         <ref target="#technology">
                             <ref target="#genre_journalism">
                                 <ref target="#methodology">Before this in-depth identification of the periodical can take place, however, a full run of the journal had to be located and the paper issues scanned with optical character recognition (<abbr rend="small-caps">ocr</abbr>) software to convert them into workable files</ref>. <ref target="#spatiality">Some issues of the <title level="j">Canadian Bookman</title> were located at the <orgName>Thomas Fisher Rare Book Library</orgName> of the <orgName>University of Toronto</orgName> and others were found at the <orgName>E.J. Pratt Library of <orgName key="Victoria University" ref="http://www.wikidata.org/entity/Q3551503" ana="webannotation:http://temp.lincsproject.ca/zm1DOxOgNVW">Victoria University</orgName></orgName> in the <orgName>University of Toronto</orgName>.</ref>
-                                <ref target="#archive">After librarians closely supervised the scanning of the fragile paper issues of the <title level="j">Canadian Bookman</title>, the journal was mounted on the <title level="m">Internet Archive</title> website (http://archive.org) where only those issues that are out of copyright are available. The <orgName>CWRC</orgName> project aims to put the full run of the <title level="j">Canadian Bookman</title> online, but there are ongoing Canadian copyright considerations for many of the issues, and all issues from <date cert="high" from="1923" to="1941">1923 to 1941</date> have been dark archived (i.e., the content has been preserved but has not been granted public access) until copyright is secured.</ref>
+                                <ref target="#archive">After librarians closely supervised the scanning of the fragile paper issues of the <title level="j">Canadian Bookman</title>, the journal was mounted on the <title level="m"><orgName key="Internet archive" ref="http://viaf.org/viaf/123343900" ana="webannotation:http://temp.lincsproject.ca/Dwa7yBkjWy1">Internet Archive</orgName></title> website (http://archive.org) where only those issues that are out of copyright are available. The <orgName>CWRC</orgName> project aims to put the full run of the <title level="j">Canadian Bookman</title> online, but there are ongoing Canadian copyright considerations for many of the issues, and all issues from <date cert="high" from="1923" to="1941">1923 to 1941</date> have been dark archived (i.e., the content has been preserved but has not been granted public access) until copyright is secured.</ref>
                             </ref>
                         </ref>
                     </p>
@@ -2727,6 +2727,95 @@
         "type": "crm:E74_Group",
         "label": "Victoria University",
         "description": "federated college of the University of Toronto, Canada"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Dwa7yBkjWy1">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Dwa7yBkjWy1",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T18:52:48.328Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/fUiaw9TnroA",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/fUiaw9TnroA/selector/textPosition/8DWtBuV1wlU",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 31783,
+                "end": 31799,
+                "refinedBy": {
+                    "id": "/target/fUiaw9TnroA/selector/textQuote/9I6SeRvQcwr",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Internet Archive",
+                    "prefix": "\n                                After librarians closely supervised the scanning of the fragile paper issues of the Canadian Bookman, the journal was mounted on the",
+                    "suffix": "website (http://archive"
+                }
+            },
+            {
+                "id": "/target/fUiaw9TnroA/selector/css/q77kPV0zyY1",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Dwa7yBkjWy1]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/123343900",
+        "type": "crm:E74_Group",
+        "label": "Internet archive",
+        "description": "Internet Archive (Firm)"
     },
     "P2_has_type": [
         "oa:identifying"
