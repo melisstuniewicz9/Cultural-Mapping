@@ -463,7 +463,7 @@
                     </p>
                     <p xml:id="p1189">
                         <ref target="#technology">An identifier is an important feature of any model of information ontology.<note xml:id="n59" place="end">
-                                <persName><persName key="Warwick, Claire." ref="http://viaf.org/viaf/288190614" ana="webannotation:http://temp.lincsproject.ca/ck6oYmkFqsc">Warwick</persName>, <persName key="Warwick, Claire." ref="http://viaf.org/viaf/288190614" ana="webannotation:http://temp.lincsproject.ca/gezxKLOcITY">Claire</persName></persName>, <persName>Melissa Terras</persName>, <persName>Paul Huntington</persName>, and <persName>Nikoleta Pappa</persName>, <title level="a">If You Build It Will They Come? The <hi rend="small-caps">lairah</hi> Study: Quantifying the Use of Online Resources in the Arts and Humanities through Statistical Analysis of User Log Data,</title>
+                                <persName><persName key="Warwick, Claire." ref="http://viaf.org/viaf/288190614" ana="webannotation:http://temp.lincsproject.ca/ck6oYmkFqsc">Warwick</persName>, <persName key="Warwick, Claire." ref="http://viaf.org/viaf/288190614" ana="webannotation:http://temp.lincsproject.ca/gezxKLOcITY">Claire</persName></persName>, <persName>Melissa Terras</persName>, <persName>Paul Huntington</persName>, and <persName>Nikoleta Pappa</persName>, <title level="a">If You Build It Will They Come? The <hi rend="small-caps">lairah</hi> Study: <title key="If You Build It Will They Come? The LAIRAH Study: Quantifying the Use of Online Resources in the Arts and Humanities through Statistical Analysis of User Log Data" ref="https://www.wikidata.org/wiki/Q57195616" ana="webannotation:http://temp.lincsproject.ca/v1zV65hikBo">Quantifying the Use of Online Resources in the Arts and Humanities</title> through Statistical Analysis of User Log Data,</title>
                                 <title level="j">Literary and Linguistic Computing </title>23.1 (<date cert="high" when="2008">2008</date>): 85–1021. For further discussion of identity conditions, see <bibl>
                                     <persName>Renear</persName> and <persName>Dubin</persName> 183</bibl>; and <bibl>
                                     <persName>Guarino</persName> 221</bibl>.</note> First, and most important, when international systems—such as the digital object identifier (<abbr>DOI</abbr>) system—are used to assign identifiers to digitized works, infrastructure administrators and technical staff no longer struggle to unify metadata standards that originate from different resources and are created by different people using different schemas. In many cases, such as <orgName>
@@ -1829,6 +1829,95 @@
         "type": "crm:E21_Person",
         "label": "Warwick, Claire.",
         "description": "Claire Warwick researcher"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/v1zV65hikBo">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/v1zV65hikBo",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T17:59:33.116Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/PvEBTBVYH1z",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/PvEBTBVYH1z/selector/textPosition/Mj8gfvr7TTW",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6217,
+                "end": 6283,
+                "refinedBy": {
+                    "id": "/target/PvEBTBVYH1z/selector/textQuote/Ow47ADZo9pE",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Quantifying the Use of Online Resources in the Arts and Humanities",
+                    "prefix": "\n                                Warwick, Claire, Melissa Terras, Paul Huntington, and Nikoleta Pappa, If You Build It Will They Come? The lairah Study:",
+                    "suffix": "through Statistical Analysis of User Log Data,\n                                Literary and Linguistic Computing 23"
+                }
+            },
+            {
+                "id": "/target/PvEBTBVYH1z/selector/css/inxzsyObJYL",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/v1zV65hikBo]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q57195616",
+        "label": "If You Build It Will They Come? The LAIRAH Study: Quantifying the Use of Online Resources in the Arts and Humanities through Statistical Analysis of User Log Data",
+        "type": "frbroo:F1",
+        "entityType": "frbroo:F1"
     },
     "P2_has_type": [
         "oa:identifying"
