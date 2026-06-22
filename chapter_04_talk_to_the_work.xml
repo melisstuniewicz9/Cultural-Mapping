@@ -429,7 +429,7 @@
                     <p xml:id="p1185">
                         <ref target="#technology">
                             <ref target="#genre">Colleagues who research good practice in the construction of projects in the digital humanities suggest one possible reason for this neglect. <ref target="#authorship">They point out that for the majority of academics who write books or other textual materials, dissemination of their work other than through print media is new terrain and considered outside the authors’ domain <note place="inline">
-                                        <bibl>Warwick et al. 90</bibl>
+                                        <bibl><persName key="Warwick, Claire." ref="http://viaf.org/viaf/288190614" ana="webannotation:http://temp.lincsproject.ca/4U1ZJV7V9Tn">Warwick</persName> et al. 90</bibl>
                                     </note>. Rarely are authors and publishers concerned with accessibility and discoverability; rather, academic librarians are seen as largely responsible for ensuring discoverability of a scholar’s work. Authors and publishers expect librarians to create metadata records that link a scholarly work to the host institution’s integrated library system (<abbr rend="small-caps">ils</abbr>), perhaps highlight the work as a <q>special item</q> in its online public access catalogue (<abbr rend="small-caps">opac</abbr>), and to link further to a library resource guide.</ref>
                             </ref>
                         </ref>
@@ -1473,6 +1473,95 @@
         "type": "crm:E74_Group",
         "label": "Springer-Verlag",
         "description": "Springer-Verlag Berlin"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/4U1ZJV7V9Tn">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/4U1ZJV7V9Tn",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T17:56:16.086Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/D1HXpABqMfD",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/D1HXpABqMfD/selector/textPosition/oCZ0c4WYnjk",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 1428,
+                "end": 1435,
+                "refinedBy": {
+                    "id": "/target/D1HXpABqMfD/selector/textQuote/BVytJbh5zpA",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Warwick",
+                    "prefix": " They point out that for the majority of academics who write books or other textual materials, dissemination of their work other than through print media is new terrain and considered outside the authors’ domain \n                                       ",
+                    "suffix": "et al"
+                }
+            },
+            {
+                "id": "/target/D1HXpABqMfD/selector/css/A1nXQZWWyTw",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/4U1ZJV7V9Tn]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/288190614",
+        "type": "crm:E21_Person",
+        "label": "Warwick, Claire.",
+        "description": "Claire Warwick researcher"
     },
     "P2_has_type": [
         "oa:identifying"
