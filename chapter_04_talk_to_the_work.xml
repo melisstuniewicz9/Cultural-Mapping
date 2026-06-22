@@ -725,7 +725,7 @@
                         <bibl><title key="Buckland, Michael Keeble, 1941-...." ref="http://viaf.org/viaf/110232641" ana="webannotation:http://temp.lincsproject.ca/MylHmaFfPCK">Buckland</title>, <persName key="Buckland, Michael Keeble, 1941-...." ref="http://viaf.org/viaf/110232641" ana="webannotation:http://temp.lincsproject.ca/HQmAkhW50np">Michael K.</persName> <title level="a">Information as Thing.</title>
                             <title level="j">Journal of the American Society for Information Science </title>42.5 (1991): 351–60.</bibl>
                         <bibl><persName key="Fyfe, Paul." ref="http://viaf.org/viaf/316562735" ana="webannotation:http://temp.lincsproject.ca/cXdOZfVdfVU">Fyfe</persName>, <persName key="Fyfe, Paul." ref="http://viaf.org/viaf/316562735" ana="webannotation:http://temp.lincsproject.ca/nAqyco7dXHo">Paul</persName>. <title level="a">Electronic Errata: Digital Publishing, Open Review, and the Futures of Correction.</title>
-                            <title level="m">Debates in the Digital Humanities</title>. Ed. <persName key="Gold, Matthew K." ref="http://viaf.org/viaf/221222930" ana="webannotation:http://temp.lincsproject.ca/QKpZefoGaw1">Matthew Gold</persName>. Minneapolis: <orgName key="University of Minnesota. Press" ref="http://viaf.org/viaf/146595780" ana="webannotation:http://temp.lincsproject.ca/7oQVmlZXqQI">University of Minnesota Press</orgName>, 2012. 259–80.</bibl>
+                            <title level="m"><orgName key="Debates in the Digital Humanities" ref="https://www.wikidata.org/wiki/Q73880530" ana="webannotation:http://temp.lincsproject.ca/uYByWERAqUn">Debates in the Digital Humanities</orgName></title>. Ed. <persName key="Gold, Matthew K." ref="http://viaf.org/viaf/221222930" ana="webannotation:http://temp.lincsproject.ca/QKpZefoGaw1">Matthew Gold</persName>. Minneapolis: <orgName key="University of Minnesota. Press" ref="http://viaf.org/viaf/146595780" ana="webannotation:http://temp.lincsproject.ca/7oQVmlZXqQI">University of Minnesota Press</orgName>, 2012. 259–80.</bibl>
                         <bibl>Genette, Gerard. <title level="m">Paratexts: Thresholds of Interpretation</title>. Trans. <persName key="Lewin, Jane E." ref="http://viaf.org/viaf/208798270" ana="webannotation:http://temp.lincsproject.ca/WJ12eQW9uTV">Jane E. Lewin</persName>. Cambridge: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/SIrbUclNrlB">Cambridge University Press</orgName>, 1987.</bibl>
                         <bibl>Guarino, Nicola. <title level="a">The Role of Identity Conditions in Ontology Design.</title>
                             <title level="m">Proceedings of the International Conference on Spatial Information Theory: Cognitive and Computational Foundations of Geographic Information Science</title>. Ed. Christian Freska and David M. Mark. Berlin: <orgName key="Springer-Verlag" ref="http://viaf.org/viaf/134381129" ana="webannotation:http://temp.lincsproject.ca/z1ATyQagAN5">Springer-Verlag</orgName>, 1999. 221–34.</bibl>
@@ -2096,6 +2096,95 @@
         "type": "crm:E21_Person",
         "label": "Fyfe, Paul.",
         "description": "Fyfe, Paul (Paul Camm)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/uYByWERAqUn">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/uYByWERAqUn",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T18:11:27.976Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/fRZD0pAr3jd",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/fRZD0pAr3jd/selector/textPosition/4PuUAERAoQe",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 42086,
+                "end": 42119,
+                "refinedBy": {
+                    "id": "/target/fRZD0pAr3jd/selector/textQuote/F5jYHDDdi2b",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Debates in the Digital Humanities",
+                    "prefix": "\n                           ",
+                    "suffix": " Ed"
+                }
+            },
+            {
+                "id": "/target/fRZD0pAr3jd/selector/css/sgLwLooM2NM",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/uYByWERAqUn]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q73880530",
+        "label": "Debates in the Digital Humanities",
+        "type": "frbroo:F1",
+        "entityType": "frbroo:F1"
     },
     "P2_has_type": [
         "oa:identifying"
