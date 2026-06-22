@@ -742,7 +742,7 @@
                         </bibl>
                         <bibl><persName key="McGann, Jerome J." ref="http://viaf.org/viaf/106059501" ana="webannotation:http://temp.lincsproject.ca/hiwdHn7OO9a">McGann</persName>, <persName key="McGann, Jerome J." ref="http://viaf.org/viaf/106059501" ana="webannotation:http://temp.lincsproject.ca/OuGlcqPTkmW">Jerome</persName>. <title level="m">The Textual Condition</title>. Princeton: <orgName key="Princeton university press" ref="http://viaf.org/viaf/158317684" ana="webannotation:http://temp.lincsproject.ca/nCESJOmTzhi">Princeton University Press</orgName>, 1991.</bibl>
                         <bibl>Paskin, Norman. <title level="a">Components of <abbr>DRM</abbr> Systems.</title>
-                            <title level="m">Digital Rights Management: Technological, Economic, Legal and Political Aspects</title>. Ed. Eberhard Becker, Willms Buhse, Dirk Günnewig, Neils Rump. Berlin: Springer-Verlag, 2003. 26–61.</bibl>
+                            <title level="m">Digital Rights Management: Technological, Economic, Legal and Political Aspects</title>. Ed. Eberhard Becker, Willms Buhse, <persName key="Günnewig, Dirk 1975-" ref="http://viaf.org/viaf/35541443" ana="webannotation:http://temp.lincsproject.ca/H3rdZOpR8bN">Dirk Günnewig</persName>, Neils Rump. Berlin: Springer-Verlag, 2003. 26–61.</bibl>
                         <bibl>. <title level="a">Digital Object Identifiers.</title>
                             <title level="j">Information Services and Use </title>22 (2002): 97–112.</bibl>
                         <bibl>. <title level="a">On Making and Identifying a <q>Copy.</q>
@@ -2897,6 +2897,95 @@
         "type": "crm:E74_Group",
         "label": "Princeton university press",
         "description": "Princeton University Press independent publisher with close connections to Princeton University"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/H3rdZOpR8bN">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/H3rdZOpR8bN",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T18:23:32.884Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/zyatmDqYD59",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/zyatmDqYD59/selector/textPosition/KFOa3iXoJvX",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 44322,
+                "end": 44335,
+                "refinedBy": {
+                    "id": "/target/zyatmDqYD59/selector/textQuote/JZBYbp78Mdk",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Dirk Günnewig",
+                    "prefix": " Eberhard Becker, Willms Buhse,",
+                    "suffix": " Neils Rump"
+                }
+            },
+            {
+                "id": "/target/zyatmDqYD59/selector/css/Hfp8w4dUXei",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/H3rdZOpR8bN]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/35541443",
+        "type": "crm:E21_Person",
+        "label": "Günnewig, Dirk 1975-",
+        "description": "Dirk Günnewig"
     },
     "P2_has_type": [
         "oa:identifying"
