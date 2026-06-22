@@ -744,7 +744,7 @@
                         <bibl>Paskin, Norman. <title level="a">Components of <abbr>DRM</abbr> Systems.</title>
                             <title level="m">Digital Rights Management: Technological, Economic, Legal and Political Aspects</title>. Ed. Eberhard Becker, Willms Buhse, <persName key="Günnewig, Dirk 1975-" ref="http://viaf.org/viaf/35541443" ana="webannotation:http://temp.lincsproject.ca/H3rdZOpR8bN">Dirk Günnewig</persName>, Neils Rump. Berlin: Springer-Verlag, 2003. 26–61.</bibl>
                         <bibl>. <title level="a">Digital Object Identifiers.</title>
-                            <title level="j">Information Services and Use </title>22 (2002): 97–112.</bibl>
+                            <title level="j"><orgName key="Information Services &amp; Use" ref="https://www.wikidata.org/wiki/Q6030834" ana="webannotation:http://temp.lincsproject.ca/XqbJXt893Vk">Information Services and Use</orgName> </title>22 (2002): 97–112.</bibl>
                         <bibl>. <title level="a">On Making and Identifying a <q>Copy.</q>
                             </title>
                             <title level="j">D-Lib Magazine </title>9.1 (January 2003). <ref target="http://www.dlib.org/dlib/april06/paskin/04paskin.htmldoi:10.1045/april2006-paskin">http://www.dlib.org/dlib/april06/paskin/04paskin.htmldoi:10.1045/april2006-paskin</ref>
@@ -3520,6 +3520,95 @@
         "type": "crm:E21_Person",
         "label": "Günnewig, Dirk 1975-",
         "description": "Dirk Günnewig"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/XqbJXt893Vk">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/XqbJXt893Vk",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T18:35:57.874Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/UmaeNxzTDrf",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/UmaeNxzTDrf/selector/textPosition/VzzxC172pex",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 44469,
+                "end": 44497,
+                "refinedBy": {
+                    "id": "/target/UmaeNxzTDrf/selector/textQuote/RHcZc6CJs9x",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Information Services and Use",
+                    "prefix": "\n                           ",
+                    "suffix": "22 (2002): 97–112"
+                }
+            },
+            {
+                "id": "/target/UmaeNxzTDrf/selector/css/j1oGRtmLdAT",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/XqbJXt893Vk]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q6030834",
+        "label": "Information Services & Use",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
