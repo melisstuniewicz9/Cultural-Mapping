@@ -751,7 +751,7 @@
                         </bibl>
                         <bibl>Renear, Allen, and David Dubin. <title level="a">Towards Identity Conditions for Digital Documents.</title>
                             <title level="m">Proceedings of the 2003 International Conference on Dublin Core and Metadata Applications: Supporting Communities of Discourse and Practice—Metadata Research and Applications</title>. Dublin: Dublin Core Metadata Initiative, 2003. 181–89.</bibl>
-                        <bibl><persName key="Schreibman, Susan." ref="http://viaf.org/viaf/63873608" ana="webannotation:http://temp.lincsproject.ca/74K7qL97zZ6">Schreibman</persName>, Susan. <title level="a">Computer-mediated Texts and Textuality: Theory and Practice.</title>
+                        <bibl><persName key="Schreibman, Susan." ref="http://viaf.org/viaf/63873608" ana="webannotation:http://temp.lincsproject.ca/74K7qL97zZ6">Schreibman</persName>, <persName key="Schreibman, Susan." ref="http://viaf.org/viaf/63873608" ana="webannotation:http://temp.lincsproject.ca/Jryd5N6y72e">Susan</persName>. <title level="a">Computer-mediated Texts and Textuality: Theory and Practice.</title>
                             <title level="j">Computers and the Humanities </title>36 (2002): 283–93.</bibl>
                         <bibl>Smiraglia, Richard P. <title level="m">The Nature of <q>A Work</q>: Implications for the Organization of Knowledge</title>. Lanham, MD: <orgName key="Scarecrow press" ref="http://viaf.org/viaf/261535565" ana="webannotation:http://temp.lincsproject.ca/g04guEkZ5JO">Scarecrow Press</orgName>, 2001.</bibl>
                         <bibl>. <title level="a">The Progress of Theory in Knowledge Organization.</title>
@@ -2978,6 +2978,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/74K7qL97zZ6]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/63873608",
+        "type": "crm:E21_Person",
+        "label": "Schreibman, Susan.",
+        "description": "Schreibman, Susan, 19..-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Jryd5N6y72e">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Jryd5N6y72e",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T18:22:09.308Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Wc2YqFMMkCQ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Wc2YqFMMkCQ/selector/textPosition/EVamxuxblzl",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45178,
+                "end": 45183,
+                "refinedBy": {
+                    "id": "/target/Wc2YqFMMkCQ/selector/textQuote/Dn03cCcHLBc",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Susan",
+                    "prefix": "\n                        Schreibman,",
+                    "suffix": " Computer-mediated Texts and Textuality: Theory and Practice"
+                }
+            },
+            {
+                "id": "/target/Wc2YqFMMkCQ/selector/css/m3VOWwxdsH1",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Jryd5N6y72e]"
             }
         ]
     },
