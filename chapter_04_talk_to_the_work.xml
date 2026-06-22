@@ -725,7 +725,7 @@
                         <bibl><title key="Buckland, Michael Keeble, 1941-...." ref="http://viaf.org/viaf/110232641" ana="webannotation:http://temp.lincsproject.ca/MylHmaFfPCK">Buckland</title>, <persName key="Buckland, Michael Keeble, 1941-...." ref="http://viaf.org/viaf/110232641" ana="webannotation:http://temp.lincsproject.ca/HQmAkhW50np">Michael K.</persName> <title level="a">Information as Thing.</title>
                             <title level="j">Journal of the American Society for Information Science </title>42.5 (1991): 351–60.</bibl>
                         <bibl>Fyfe, Paul. <title level="a">Electronic Errata: Digital Publishing, Open Review, and the Futures of Correction.</title>
-                            <title level="m">Debates in the Digital Humanities</title>. Ed. Matthew Gold. Minneapolis: University of Minnesota Press, 2012. 259–80.</bibl>
+                            <title level="m">Debates in the Digital Humanities</title>. Ed. Matthew Gold. Minneapolis: <orgName key="University of Minnesota. Press" ref="http://viaf.org/viaf/146595780" ana="webannotation:http://temp.lincsproject.ca/7oQVmlZXqQI">University of Minnesota Press</orgName>, 2012. 259–80.</bibl>
                         <bibl>Genette, Gerard. <title level="m">Paratexts: Thresholds of Interpretation</title>. Trans. Jane E. Lewin. Cambridge: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/SIrbUclNrlB">Cambridge University Press</orgName>, 1987.</bibl>
                         <bibl>Guarino, Nicola. <title level="a">The Role of Identity Conditions in Ontology Design.</title>
                             <title level="m">Proceedings of the International Conference on Spatial Information Theory: Cognitive and Computational Foundations of Geographic Information Science</title>. Ed. Christian Freska and David M. Mark. Berlin: Springer-Verlag, 1999. 221–34.</bibl>
@@ -1117,6 +1117,95 @@
         "type": "crm:E21_Person",
         "label": "Buckland, Michael Keeble, 1941-....",
         "description": "Buckland, Michael Keeble"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/7oQVmlZXqQI">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/7oQVmlZXqQI",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T17:42:57.702Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/qFh6DfhaKtq",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/qFh6DfhaKtq/selector/textPosition/886yhhvJQBR",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 42152,
+                "end": 42181,
+                "refinedBy": {
+                    "id": "/target/qFh6DfhaKtq/selector/textQuote/TKBPgN3PjQE",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "University of Minnesota Press",
+                    "prefix": " Minneapolis:",
+                    "suffix": " 2012"
+                }
+            },
+            {
+                "id": "/target/qFh6DfhaKtq/selector/css/S5z87e9yP7m",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/7oQVmlZXqQI]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/146595780",
+        "type": "crm:E74_Group",
+        "label": "University of Minnesota. Press",
+        "description": "Wydawnictwo Uniwersytetu Minnesoty"
     },
     "P2_has_type": [
         "oa:identifying"
