@@ -740,7 +740,7 @@
                         <bibl>Jones, Maggie, and Neil Beagrie. <title level="m">Preservation Management of Digital Materials: A Handbook</title>. London: British Library, 2001.</bibl>
                         <bibl><persName key="Kirschenbaum, Matthew G." ref="http://viaf.org/viaf/55311010" ana="webannotation:http://temp.lincsproject.ca/YLku3F62Z6B">Kirschenbaum</persName>, <persName key="Kirschenbaum, Matthew G." ref="http://viaf.org/viaf/55311010" ana="webannotation:http://temp.lincsproject.ca/WflJLj3jHou">Matthew G.</persName>, Richard Ovenden, Gabriela Redwine, and Rachel Donahue. <title level="m">Digital Forensics and Born-Digital Content in Cultural Heritage Collections</title>. Council on Library and Information Resources, Washington, DC. December 2010. <ref target="http://www.clir.org/pubs/reports/pub149/reports/pub149/pub149.pdf">http://www.clir.org/pubs/reports/pub149/reports/pub149/pub149.pdf</ref>
                         </bibl>
-                        <bibl>McGann, Jerome. <title level="m">The Textual Condition</title>. Princeton: Princeton University Press, 1991.</bibl>
+                        <bibl>McGann, <persName key="McGann, Jerome J." ref="http://viaf.org/viaf/106059501" ana="webannotation:http://temp.lincsproject.ca/OuGlcqPTkmW">Jerome</persName>. <title level="m">The Textual Condition</title>. Princeton: Princeton University Press, 1991.</bibl>
                         <bibl>Paskin, Norman. <title level="a">Components of <abbr>DRM</abbr> Systems.</title>
                             <title level="m">Digital Rights Management: Technological, Economic, Legal and Political Aspects</title>. Ed. Eberhard Becker, Willms Buhse, Dirk Günnewig, Neils Rump. Berlin: Springer-Verlag, 2003. 26–61.</bibl>
                         <bibl>. <title level="a">Digital Object Identifiers.</title>
@@ -2096,6 +2096,95 @@
         "type": "crm:E21_Person",
         "label": "Kirschenbaum, Matthew G.",
         "description": "Matthew G. Kirschenbaum"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/OuGlcqPTkmW">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/OuGlcqPTkmW",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T18:03:58.067Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/HgGBbrEyNgF",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/HgGBbrEyNgF/selector/textPosition/4Avz5DE2Gak",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 44035,
+                "end": 44041,
+                "refinedBy": {
+                    "id": "/target/HgGBbrEyNgF/selector/textQuote/nRWlS4dGpfm",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Jerome",
+                    "prefix": "pdf\n                        \n                        McGann,",
+                    "suffix": " The Textual Condition"
+                }
+            },
+            {
+                "id": "/target/HgGBbrEyNgF/selector/css/QLQUwlDyJ73",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/OuGlcqPTkmW]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/106059501",
+        "type": "crm:E21_Person",
+        "label": "McGann, Jerome J.",
+        "description": "McGann, Jerome J., 1937-...."
     },
     "P2_has_type": [
         "oa:identifying"
