@@ -463,7 +463,7 @@
                     </p>
                     <p xml:id="p1189">
                         <ref target="#technology">An identifier is an important feature of any model of information ontology.<note xml:id="n59" place="end">
-                                <persName><persName key="Warwick, Claire." ref="http://viaf.org/viaf/288190614" ana="webannotation:http://temp.lincsproject.ca/ck6oYmkFqsc">Warwick</persName>, Claire</persName>, <persName>Melissa Terras</persName>, <persName>Paul Huntington</persName>, and <persName>Nikoleta Pappa</persName>, <title level="a">If You Build It Will They Come? The <hi rend="small-caps">lairah</hi> Study: Quantifying the Use of Online Resources in the Arts and Humanities through Statistical Analysis of User Log Data,</title>
+                                <persName><persName key="Warwick, Claire." ref="http://viaf.org/viaf/288190614" ana="webannotation:http://temp.lincsproject.ca/ck6oYmkFqsc">Warwick</persName>, <persName key="Warwick, Claire." ref="http://viaf.org/viaf/288190614" ana="webannotation:http://temp.lincsproject.ca/gezxKLOcITY">Claire</persName></persName>, <persName>Melissa Terras</persName>, <persName>Paul Huntington</persName>, and <persName>Nikoleta Pappa</persName>, <title level="a">If You Build It Will They Come? The <hi rend="small-caps">lairah</hi> Study: Quantifying the Use of Online Resources in the Arts and Humanities through Statistical Analysis of User Log Data,</title>
                                 <title level="j">Literary and Linguistic Computing </title>23.1 (<date cert="high" when="2008">2008</date>): 85–1021. For further discussion of identity conditions, see <bibl>
                                     <persName>Renear</persName> and <persName>Dubin</persName> 183</bibl>; and <bibl>
                                     <persName>Guarino</persName> 221</bibl>.</note> First, and most important, when international systems—such as the digital object identifier (<abbr>DOI</abbr>) system—are used to assign identifiers to digitized works, infrastructure administrators and technical staff no longer struggle to unify metadata standards that originate from different resources and are created by different people using different schemas. In many cases, such as <orgName>
@@ -1740,6 +1740,95 @@
         "type": "crm:E74_Group",
         "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
         "description": "Google firma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/gezxKLOcITY">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/gezxKLOcITY",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T17:58:19.960Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4KaYMgsJSbu",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4KaYMgsJSbu/selector/textPosition/pqgwH0X0mul",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6106,
+                "end": 6112,
+                "refinedBy": {
+                    "id": "/target/4KaYMgsJSbu/selector/textQuote/kE7Lvy6UAGQ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Claire",
+                    "prefix": "\n                                Warwick,",
+                    "suffix": " Melissa Terras, Paul Huntington, and Nikoleta Pappa, If You Build It Will They Come? The lairah Study: Quantifying the Use of Online Resources in the Arts and Humanities through Statistical Analysis of User Log Data,\n                                Literary and Linguistic Computing 23"
+                }
+            },
+            {
+                "id": "/target/4KaYMgsJSbu/selector/css/HC86m06oN5E",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/gezxKLOcITY]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/288190614",
+        "type": "crm:E21_Person",
+        "label": "Warwick, Claire.",
+        "description": "Claire Warwick researcher"
     },
     "P2_has_type": [
         "oa:identifying"
