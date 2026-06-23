@@ -605,7 +605,7 @@
                         <bibl>
                             <title level="m">Cleveland Historical</title>. <ref target="http://www.clevelandhistorical.org">http://www.clevelandhistorical.org</ref>
                         </bibl>
-                        <bibl>Dein, Alan, and Francesca Panetta. <title level="a">Sound Map: The Caledonian Road</title>. <title level="j">The Guardian</title> 26 April 2010. <ref target="http://www.guardian.co.uk/society/interactive/2010/apr/26/caledonian-road-sound-map">http://www.guardian.co.uk/society/interactive/2010/apr/26/caledonian-road-sound-map</ref>
+                        <bibl>Dein, <persName key="Dein, Alan" ref="http://viaf.org/viaf/51086449" ana="webannotation:http://temp.lincsproject.ca/B1jOkofH9pP">Alan</persName>, and Francesca Panetta. <title level="a">Sound Map: The Caledonian Road</title>. <title level="j">The Guardian</title> 26 April 2010. <ref target="http://www.guardian.co.uk/society/interactive/2010/apr/26/caledonian-road-sound-map">http://www.guardian.co.uk/society/interactive/2010/apr/26/caledonian-road-sound-map</ref>
                         </bibl>
                         <bibl><persName key="Mod, Craig" ref="http://viaf.org/viaf/171067525" ana="webannotation:http://temp.lincsproject.ca/7WbH44NL9sR">Mod</persName>, <persName key="Mod, Craig" ref="http://viaf.org/viaf/171067525" ana="webannotation:http://temp.lincsproject.ca/BcRuEuWI4l6">Craig</persName>. <title level="a">Hitotoki: Narrative Mapping the World</title>. <ref target="http://www.hitotoki.org">http://www.hitotoki.org</ref>
                         </bibl>
@@ -6880,6 +6880,94 @@
         "label": "Alberta",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/B1jOkofH9pP">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/B1jOkofH9pP",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T14:43:30.331Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/EIuI0iLDD2J",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/EIuI0iLDD2J/selector/textPosition/2HSvznmdNcU",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 25427,
+                "end": 25431,
+                "refinedBy": {
+                    "id": "/target/EIuI0iLDD2J/selector/textQuote/SQ1TxttZoRL",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Alan",
+                    "prefix": "org\n                        \n                        Dein,",
+                    "suffix": " and Francesca Panetta"
+                }
+            },
+            {
+                "id": "/target/EIuI0iLDD2J/selector/css/k5iYX4tc650",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/B1jOkofH9pP]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/51086449",
+        "type": "crm:E21_Person",
+        "label": "Dein, Alan"
     },
     "P2_has_type": [
         "oa:identifying"
