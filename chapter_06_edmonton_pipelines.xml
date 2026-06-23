@@ -635,7 +635,7 @@
                         <bibl><persName key="Lippard, Lucy R." ref="http://viaf.org/viaf/109482861" ana="webannotation:http://temp.lincsproject.ca/d57qtC6RvpL">Lippard</persName>, <persName key="Lippard, Lucy R." ref="http://viaf.org/viaf/109482861" ana="webannotation:http://temp.lincsproject.ca/3fm8BT3q1VO">Lucy</persName>. <title level="m">The Lure of the Local: Senses of Place in a Multicentered Society</title>. New York: New Press, 1997.</bibl>
                         <bibl>Lynch, Kevin. <title level="m">The Image of the City</title>. Cambridge, MA: <orgName key="MIT press" ref="http://viaf.org/viaf/159490691" ana="webannotation:http://temp.lincsproject.ca/QDXpxH82muH">MIT Press</orgName>, 1960.</bibl>
                         <bibl>Mumford, Lewis. <title level="m">The Culture of Cities</title>. 1938. New York: Harcourt Brace, 1981.</bibl>
-                        <bibl><persName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/fKNtgLxoTcF">Sassen</persName>, <placeName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/ISsA5znz4UJ">Saskia</placeName>. <title level="a">The Global City: Introducing a Concept and Its History</title>. <title level="m">Mutations</title>. <persName key="Koolhaas, Rem, 1944-...." ref="http://viaf.org/viaf/111300727" ana="webannotation:http://temp.lincsproject.ca/XTVnZIIUC2k">Rem Koolhaas</persName>, <persName key="Boeri, Stefano, 1956-...." ref="http://viaf.org/viaf/79150344" ana="webannotation:http://temp.lincsproject.ca/rYg9MFp22TB">Stefano Boeri</persName>, <persName key="Kwinter, Sanford." ref="http://viaf.org/viaf/306416444" ana="webannotation:http://temp.lincsproject.ca/3b5lUuAHGAp">Sanford Kwinter</persName>, Nadia Tazi, Hans Ulrich Obrist. Barcelona: <abbr>actar</abbr>; Bordeaux: Arc en rêve centre d’architecture, 2001. 104–15.</bibl>
+                        <bibl><persName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/fKNtgLxoTcF">Sassen</persName>, <placeName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/ISsA5znz4UJ">Saskia</placeName>. <title level="a">The Global City: Introducing a Concept and Its History</title>. <title level="m">Mutations</title>. <persName key="Koolhaas, Rem, 1944-...." ref="http://viaf.org/viaf/111300727" ana="webannotation:http://temp.lincsproject.ca/XTVnZIIUC2k">Rem Koolhaas</persName>, <persName key="Boeri, Stefano, 1956-...." ref="http://viaf.org/viaf/79150344" ana="webannotation:http://temp.lincsproject.ca/rYg9MFp22TB">Stefano Boeri</persName>, <persName key="Kwinter, Sanford." ref="http://viaf.org/viaf/306416444" ana="webannotation:http://temp.lincsproject.ca/3b5lUuAHGAp">Sanford Kwinter</persName>, <persName key="Tazi, Nadia." ref="http://viaf.org/viaf/68936344" ana="webannotation:http://temp.lincsproject.ca/f0dsqRJIzWj">Nadia Tazi</persName>, Hans Ulrich Obrist. Barcelona: <abbr>actar</abbr>; Bordeaux: Arc en rêve centre d’architecture, 2001. 104–15.</bibl>
                         <bibl>Self, Will, and <persName key="Steadman, Ralph, 1936-...." ref="http://viaf.org/viaf/103610475" ana="webannotation:http://temp.lincsproject.ca/vmwEhmNI8WP">Ralph Steadman</persName>. <title level="m">Psychogeography: Disentangling the Modern Conundrum of Psyche and Place</title>. New York: <orgName key="Bloomsbury publishing" ref="http://viaf.org/viaf/127945522" ana="webannotation:http://temp.lincsproject.ca/AloxiQsbhGn">Bloomsbury</orgName>, 2007.</bibl>
                         <bibl>Zwicker, Heather, ed. <title level="m"><placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/kW2EDcZio0f">Edmonton</placeName> on Location: River City Chronicles</title>. <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/bP4LC2gmYxL">Edmonton</placeName>: <orgName key="NeWest Press." ref="http://viaf.org/viaf/317291403" ana="webannotation:http://temp.lincsproject.ca/l7lsL9ECzeU">NeWest Press</orgName>, 2005.</bibl>
                     </listBibl>
@@ -9367,6 +9367,95 @@
         "type": "crm:E21_Person",
         "label": "Kwinter, Sanford.",
         "description": "Kwinter, Sanford ca. 20. Jh."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/f0dsqRJIzWj">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/f0dsqRJIzWj",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T15:12:51.052Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/DTg3KpbSXIB",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/DTg3KpbSXIB/selector/textPosition/mM0bJG8q0yd",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27995,
+                "end": 28005,
+                "refinedBy": {
+                    "id": "/target/DTg3KpbSXIB/selector/textQuote/UuhTi7v3MwX",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Nadia Tazi",
+                    "prefix": " Rem Koolhaas, Stefano Boeri, Sanford Kwinter,",
+                    "suffix": " Hans Ulrich Obrist"
+                }
+            },
+            {
+                "id": "/target/DTg3KpbSXIB/selector/css/ataHYm9drjp",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/f0dsqRJIzWj]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/68936344",
+        "type": "crm:E21_Person",
+        "label": "Tazi, Nadia.",
+        "description": "Tazi, Nadia, 1953-...."
     },
     "P2_has_type": [
         "oa:identifying"
