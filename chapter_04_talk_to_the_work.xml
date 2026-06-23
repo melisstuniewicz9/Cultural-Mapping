@@ -750,7 +750,7 @@
                             <title level="j">D-Lib Magazine </title>9.1 (January 2003). <ref target="http://www.dlib.org/dlib/april06/paskin/04paskin.htmldoi:10.1045/april2006-paskin">http://www.dlib.org/dlib/april06/paskin/04paskin.htmldoi:10.1045/april2006-paskin</ref>
                         </bibl>
                         <bibl>Renear, <persName key="Renear, Allen." ref="http://viaf.org/viaf/311203806" ana="webannotation:http://temp.lincsproject.ca/LdsfIjAVYUu">Allen</persName>, and David Dubin. <title level="a">Towards Identity Conditions for Digital Documents.</title>
-                            <title level="m">Proceedings of the 2003 International Conference on Dublin Core and Metadata Applications: Supporting Communities of Discourse and Practice—Metadata Research and Applications</title>. Dublin: <orgName key="Dublin Core Metadata Initiative" ref="http://viaf.org/viaf/138251091" ana="webannotation:http://temp.lincsproject.ca/4BdJyKNEEmn">Dublin Core Metadata Initiative</orgName>, 2003. 181–89.</bibl>
+                            <title level="m">Proceedings of the 2003 International Conference on Dublin Core and Metadata Applications: Supporting Communities of Discourse and Practice—Metadata Research and Applications</title>. <placeName key="Dublin" ref="https://sws.geonames.org/5152333 " ana="webannotation:http://temp.lincsproject.ca/iFg7bPDelX3">Dublin</placeName>: <orgName key="Dublin Core Metadata Initiative" ref="http://viaf.org/viaf/138251091" ana="webannotation:http://temp.lincsproject.ca/4BdJyKNEEmn">Dublin Core Metadata Initiative</orgName>, 2003. 181–89.</bibl>
                         <bibl><persName key="Schreibman, Susan." ref="http://viaf.org/viaf/63873608" ana="webannotation:http://temp.lincsproject.ca/74K7qL97zZ6">Schreibman</persName>, <persName key="Schreibman, Susan." ref="http://viaf.org/viaf/63873608" ana="webannotation:http://temp.lincsproject.ca/Jryd5N6y72e">Susan</persName>. <title level="a">Computer-mediated Texts and Textuality: Theory and Practice.</title>
                             <title level="j"><title key="Computers and the Humanities" ref="https://www.wikidata.org/wiki/Q26849475" ana="webannotation:http://temp.lincsproject.ca/zJA1MPUn4fH">Computers and the Humanities</title> </title>36 (2002): 283–93.</bibl>
                         <bibl><persName key="Smiraglia, Richard P., 1952-.." ref="http://viaf.org/viaf/261690065" ana="webannotation:http://temp.lincsproject.ca/Zd4Pt3J0DON">Smiraglia</persName>, <persName key=" Smiraglia, Richard P., 1952-.." ref="http://viaf.org/viaf/261690065" ana="webannotation:http://temp.lincsproject.ca/EpFWMcuohpC">Richard P.</persName> <title level="m">The Nature of <q>A Work</q>: Implications for the Organization of Knowledge</title>. <placeName key="Lanham" ref="https://sws.geonames.org/4360321  " ana="webannotation:http://temp.lincsproject.ca/giasn33H1KN">Lanham</placeName>, <placeName key="Maryland" ref="https://sws.geonames.org/4361885 " ana="webannotation:http://temp.lincsproject.ca/tkJFStqFHYA">MD</placeName>: <orgName key="Scarecrow press" ref="http://viaf.org/viaf/261535565" ana="webannotation:http://temp.lincsproject.ca/g04guEkZ5JO">Scarecrow Press</orgName>, 2001.</bibl>
@@ -5039,6 +5039,95 @@
         "type": "crm:E21_Person",
         "label": "Renear, Allen.",
         "description": "Allen H. Renear"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/iFg7bPDelX3">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/iFg7bPDelX3",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T11:17:11.408Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/v7bLXNQrjSR",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/v7bLXNQrjSR/selector/textPosition/nCwMX7N1Ozp",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45087,
+                "end": 45093,
+                "refinedBy": {
+                    "id": "/target/v7bLXNQrjSR/selector/textQuote/vjjyOpphiB9",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Dublin",
+                    "prefix": "",
+                    "suffix": " Dublin Core Metadata Initiative, 2003"
+                }
+            },
+            {
+                "id": "/target/v7bLXNQrjSR/selector/css/slUW827pDfK",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/iFg7bPDelX3]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/5152333 ",
+        "label": "Dublin",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
