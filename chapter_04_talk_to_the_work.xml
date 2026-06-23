@@ -741,7 +741,7 @@
                         <bibl><persName key="Kirschenbaum, Matthew G." ref="http://viaf.org/viaf/55311010" ana="webannotation:http://temp.lincsproject.ca/YLku3F62Z6B">Kirschenbaum</persName>, <persName key="Kirschenbaum, Matthew G." ref="http://viaf.org/viaf/55311010" ana="webannotation:http://temp.lincsproject.ca/WflJLj3jHou">Matthew G.</persName>, Richard Ovenden, Gabriela Redwine, and Rachel Donahue. <title level="m">Digital Forensics and Born-Digital Content in Cultural Heritage Collections</title>. <orgName key="Council on library and information resources" ref="http://viaf.org/viaf/128348952" ana="webannotation:http://temp.lincsproject.ca/nIJ5uZSzcyF">Council on Library and Information Resources</orgName>, Washington, DC. December 2010. <ref target="http://www.clir.org/pubs/reports/pub149/reports/pub149/pub149.pdf">http://www.clir.org/pubs/reports/pub149/reports/pub149/pub149.pdf</ref>
                         </bibl>
                         <bibl><persName key="McGann, Jerome J." ref="http://viaf.org/viaf/106059501" ana="webannotation:http://temp.lincsproject.ca/hiwdHn7OO9a">McGann</persName>, <persName key="McGann, Jerome J." ref="http://viaf.org/viaf/106059501" ana="webannotation:http://temp.lincsproject.ca/OuGlcqPTkmW">Jerome</persName>. <title level="m">The Textual Condition</title>. <orgName key="Princeton" ref="https://nerve.lincsproject.ca/xsveKFjuFrsi9K-2j-dDb" ana="webannotation:http://temp.lincsproject.ca/MWqRULOClz3">Princeton</orgName>: <orgName key="Princeton university press" ref="http://viaf.org/viaf/158317684" ana="webannotation:http://temp.lincsproject.ca/nCESJOmTzhi">Princeton University Press</orgName>, 1991.</bibl>
-                        <bibl>Paskin, Norman. <title level="a">Components of <abbr>DRM</abbr> Systems.</title>
+                        <bibl>Paskin, <persName key="Paskin, Norman" ref="http://viaf.org/viaf/204173665923907391898" ana="webannotation:http://temp.lincsproject.ca/LnvCc5H0CcA">Norman</persName>. <title level="a">Components of <abbr>DRM</abbr> Systems.</title>
                             <title level="m">Digital Rights Management: Technological, Economic, Legal and Political Aspects</title>. Ed. Eberhard Becker, Willms Buhse, <persName key="Günnewig, Dirk 1975-" ref="http://viaf.org/viaf/35541443" ana="webannotation:http://temp.lincsproject.ca/H3rdZOpR8bN">Dirk Günnewig</persName>, Neils Rump. <placeName key="Berlin" ref="https://www.geonames.org/2950159/berlin.html" ana="webannotation:http://temp.lincsproject.ca/YIlRyjSDSWo">Berlin</placeName>: Springer-Verlag, 2003. 26–61.</bibl>
                         <bibl>. <title level="a">Digital Object Identifiers.</title>
                             <title level="j"><orgName key="Information Services &amp; Use" ref="https://www.wikidata.org/wiki/Q6030834" ana="webannotation:http://temp.lincsproject.ca/XqbJXt893Vk">Information Services and Use</orgName> </title>22 (2002): 97–112.</bibl>
@@ -4869,6 +4869,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/nt8T6AgvlZ5">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/nt8T6AgvlZ5",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T11:21:12.892Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/nHPxYAWnJRm",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/nHPxYAWnJRm/selector/textPosition/Fx29cHWaONa",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 43531,
+                "end": 43536,
+                "refinedBy": {
+                    "id": "/target/nHPxYAWnJRm/selector/textQuote/HgtOwt0ZFW4",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Jones",
+                    "prefix": "org\n                        \n                       ",
+                    "suffix": " Maggie, and Neil Beagrie"
+                }
+            },
+            {
+                "id": "/target/nHPxYAWnJRm/selector/css/MCa1ZLnmTYB",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/nt8T6AgvlZ5]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/23049473",
+        "label": "Jones, Maggie",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/YIlRyjSDSWo">
 <![CDATA[{
     "@context": [
@@ -4958,6 +5047,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/0WA7WjTbgkr">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/0WA7WjTbgkr",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T11:20:57.191Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/P08xhluan4K",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/P08xhluan4K/selector/textPosition/DjD3DZpGz6G",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 43538,
+                "end": 43544,
+                "refinedBy": {
+                    "id": "/target/P08xhluan4K/selector/textQuote/pvVqJjW0X1L",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Maggie",
+                    "prefix": "org\n                        \n                        Jones,",
+                    "suffix": " and Neil Beagrie"
+                }
+            },
+            {
+                "id": "/target/P08xhluan4K/selector/css/lYAh8stoDUq",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/0WA7WjTbgkr]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/23049473",
+        "label": "Jones, Maggie",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/rMdrY3fQk2m">
 <![CDATA[{
     "@context": [
@@ -5039,6 +5217,94 @@
         "label": "London",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/LnvCc5H0CcA">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/LnvCc5H0CcA",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T11:21:56.806Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/DGH4NGuxoKM",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/DGH4NGuxoKM/selector/textPosition/xd5ZLeJUf8k",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 44143,
+                "end": 44149,
+                "refinedBy": {
+                    "id": "/target/DGH4NGuxoKM/selector/textQuote/OEh7uhv7Wrk",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Norman",
+                    "prefix": "\n                        Paskin,",
+                    "suffix": " Components of DRM Systems"
+                }
+            },
+            {
+                "id": "/target/DGH4NGuxoKM/selector/css/d7tilTsTno2",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/LnvCc5H0CcA]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/204173665923907391898",
+        "type": "crm:E21_Person",
+        "label": "Paskin, Norman"
     },
     "P2_has_type": [
         "oa:identifying"
