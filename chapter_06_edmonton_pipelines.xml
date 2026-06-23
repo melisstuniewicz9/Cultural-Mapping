@@ -636,7 +636,7 @@
                         <bibl>Lynch, Kevin. <title level="m">The Image of the City</title>. Cambridge, MA: <orgName key="MIT press" ref="http://viaf.org/viaf/159490691" ana="webannotation:http://temp.lincsproject.ca/QDXpxH82muH">MIT Press</orgName>, 1960.</bibl>
                         <bibl>Mumford, Lewis. <title level="m">The Culture of Cities</title>. 1938. New York: Harcourt Brace, 1981.</bibl>
                         <bibl><persName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/fKNtgLxoTcF">Sassen</persName>, <placeName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/ISsA5znz4UJ">Saskia</placeName>. <title level="a">The Global City: Introducing a Concept and Its History</title>. <title level="m">Mutations</title>. <persName key="Koolhaas, Rem, 1944-...." ref="http://viaf.org/viaf/111300727" ana="webannotation:http://temp.lincsproject.ca/XTVnZIIUC2k">Rem Koolhaas</persName>, <persName key="Boeri, Stefano, 1956-...." ref="http://viaf.org/viaf/79150344" ana="webannotation:http://temp.lincsproject.ca/rYg9MFp22TB">Stefano Boeri</persName>, <persName key="Kwinter, Sanford." ref="http://viaf.org/viaf/306416444" ana="webannotation:http://temp.lincsproject.ca/3b5lUuAHGAp">Sanford Kwinter</persName>, <persName key="Tazi, Nadia." ref="http://viaf.org/viaf/68936344" ana="webannotation:http://temp.lincsproject.ca/f0dsqRJIzWj">Nadia Tazi</persName>, <persName key="Obrist, Hans-Ulrich, 1968-" ref="http://viaf.org/viaf/116932378" ana="webannotation:http://temp.lincsproject.ca/YaCifW7mnbl">Hans Ulrich Obrist</persName>. Barcelona: <abbr>actar</abbr>; Bordeaux: <orgName key="Arc en rêve-Centre d'architecture (Bordeaux)" ref="http://viaf.org/viaf/147461741" ana="webannotation:http://temp.lincsproject.ca/JDsCfolFQHq">Arc en rêve centre d’architecture,</orgName> 2001. 104–15.</bibl>
-                        <bibl>Self, Will, and <persName key="Steadman, Ralph, 1936-...." ref="http://viaf.org/viaf/103610475" ana="webannotation:http://temp.lincsproject.ca/vmwEhmNI8WP">Ralph Steadman</persName>. <title level="m">Psychogeography: Disentangling the Modern Conundrum of Psyche and Place</title>. New York: <orgName key="Bloomsbury publishing" ref="http://viaf.org/viaf/127945522" ana="webannotation:http://temp.lincsproject.ca/AloxiQsbhGn">Bloomsbury</orgName>, 2007.</bibl>
+                        <bibl>Self, <persName key="Self, Will, 1961-...." ref="http://viaf.org/viaf/41934124" ana="webannotation:http://temp.lincsproject.ca/NE6KUcIRIMv">Will</persName>, and <persName key="Steadman, Ralph, 1936-...." ref="http://viaf.org/viaf/103610475" ana="webannotation:http://temp.lincsproject.ca/vmwEhmNI8WP">Ralph Steadman</persName>. <title level="m">Psychogeography: Disentangling the Modern Conundrum of Psyche and Place</title>. New York: <orgName key="Bloomsbury publishing" ref="http://viaf.org/viaf/127945522" ana="webannotation:http://temp.lincsproject.ca/AloxiQsbhGn">Bloomsbury</orgName>, 2007.</bibl>
                         <bibl>Zwicker, Heather, ed. <title level="m"><placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/kW2EDcZio0f">Edmonton</placeName> on Location: River City Chronicles</title>. <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/bP4LC2gmYxL">Edmonton</placeName>: <orgName key="NeWest Press." ref="http://viaf.org/viaf/317291403" ana="webannotation:http://temp.lincsproject.ca/l7lsL9ECzeU">NeWest Press</orgName>, 2005.</bibl>
                     </listBibl>
                 </div>
@@ -9812,6 +9812,95 @@
         "type": "crm:E74_Group",
         "label": "Arc en rêve-Centre d'architecture (Bordeaux)",
         "description": "Arc en rêve centre d'architecture"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/NE6KUcIRIMv">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/NE6KUcIRIMv",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T15:23:32.974Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/LuLqCHRWzZF",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/LuLqCHRWzZF/selector/textPosition/NA1T46OWs8R",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28134,
+                "end": 28138,
+                "refinedBy": {
+                    "id": "/target/LuLqCHRWzZF/selector/textQuote/h9Z6XoXund8",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Will",
+                    "prefix": "\n                        Self,",
+                    "suffix": " and Ralph Steadman"
+                }
+            },
+            {
+                "id": "/target/LuLqCHRWzZF/selector/css/3pAzobnWU3u",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/NE6KUcIRIMv]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/41934124",
+        "type": "crm:E21_Person",
+        "label": "Self, Will, 1961-....",
+        "description": "Self, Will"
     },
     "P2_has_type": [
         "oa:identifying"
