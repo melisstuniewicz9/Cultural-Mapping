@@ -747,7 +747,7 @@
                             <title level="j"><orgName key="Information Services &amp; Use" ref="https://www.wikidata.org/wiki/Q6030834" ana="webannotation:http://temp.lincsproject.ca/XqbJXt893Vk">Information Services and Use</orgName> </title>22 (2002): 97–112.</bibl>
                         <bibl>. <title level="a">On Making and Identifying a <q>Copy.</q>
                             </title>
-                            <title level="j"><orgName key="D-Lib Magazine" ref="http://www.wikidata.org/entity/Q5203268" ana="webannotation:http://temp.lincsproject.ca/8p2E5YmeDd8">D-Lib Magazine</orgName> </title>9.1 (January 2003). <ref target="http://www.dlib.org/dlib/april06/paskin/04paskin.htmldoi:10.1045/april2006-paskin">http://www.dlib.org/dlib/april06/paskin/04paskin.htmldoi:10.1045/april2006-paskin</ref>
+                            <title level="j"><orgName key="D-Lib Magazine" ref="https://www.wikidata.org/wiki/Q5203268" ana="webannotation:http://temp.lincsproject.ca/8p2E5YmeDd8 webannotation:http://temp.lincsproject.ca/G65QavPXbfV">D-Lib Magazine</orgName> </title>9.1 (January 2003). <ref target="http://www.dlib.org/dlib/april06/paskin/04paskin.htmldoi:10.1045/april2006-paskin">http://www.dlib.org/dlib/april06/paskin/04paskin.htmldoi:10.1045/april2006-paskin</ref>
                         </bibl>
                         <bibl>Renear, <persName key="Renear, Allen." ref="http://viaf.org/viaf/311203806" ana="webannotation:http://temp.lincsproject.ca/LdsfIjAVYUu">Allen</persName>, and David Dubin. <title level="a">Towards Identity Conditions for Digital Documents.</title>
                             <title level="m">Proceedings of the 2003 International Conference on Dublin Core and Metadata Applications: Supporting Communities of Discourse and Practice—Metadata Research and Applications</title>. <placeName key="Dublin" ref="https://sws.geonames.org/5152333 " ana="webannotation:http://temp.lincsproject.ca/iFg7bPDelX3">Dublin</placeName>: <orgName key="Dublin Core Metadata Initiative" ref="http://viaf.org/viaf/138251091" ana="webannotation:http://temp.lincsproject.ca/4BdJyKNEEmn">Dublin Core Metadata Initiative</orgName>, 2003. 181–89.</bibl>
@@ -6575,20 +6575,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/8p2E5YmeDd8">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/G65QavPXbfV">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/8p2E5YmeDd8",
+    "id": "http://temp.lincsproject.ca/G65QavPXbfV",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-06-23T12:47:21.032Z",
+    "created": "2026-06-23T12:48:02.865Z",
     "creator": {
         "id": "https://github.com/melisstuniewicz9",
         "type": "crm:E21_Person",
@@ -6648,14 +6648,22 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/8p2E5YmeDd8]"
+            },
+            {
+                "id": "/target/6MPtVRtK7zx/selector/css/6gGwQ0q9iEl",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/G65QavPXbfV]"
             }
         ]
     },
     "body": {
-        "id": "http://www.wikidata.org/entity/Q5203268",
-        "type": "crm:E74_Group",
+        "id": "https://www.wikidata.org/wiki/Q5203268",
         "label": "D-Lib Magazine",
-        "description": "journal"
+        "type": "frbroo:F1",
+        "entityType": "frbroo:F1"
     },
     "P2_has_type": [
         "oa:identifying"
