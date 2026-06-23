@@ -613,7 +613,7 @@
                             <title level="a">Montreal Sound Map</title>. <ref target="http://www.montrealsoundmap.com">http://www.montrealsoundmap.com</ref>
                         </bibl>
                         <bibl>
-                            <title level="a">New York Sound Map</title>. <ref target="http://www.nysoundmap.org">http://www.nysoundmap.org</ref>
+                            <title level="a"><placeName key="New York" ref="https://sws.geonames.org/5128638" ana="webannotation:http://temp.lincsproject.ca/j4TZb55qjVw">New York</placeName> Sound Map</title>. <ref target="http://www.nysoundmap.org">http://www.nysoundmap.org</ref>
                         </bibl>
                         <bibl><persName key="Nold, Christian 1976-" ref="http://viaf.org/viaf/6732166007106875590006" ana="webannotation:http://temp.lincsproject.ca/6SOK9NdBk3n">Nold</persName>, <persName key="Nold, Christian 1976-" ref="http://viaf.org/viaf/6732166007106875590006" ana="webannotation:http://temp.lincsproject.ca/kukwoPVvxuJ">Christian</persName>. <title level="m">Bio Mapping / Emotion Mapping</title>. 2004–ongoing. <ref target="http://biomapping.net">http://biomapping.net</ref>
                         </bibl>
@@ -5990,6 +5990,95 @@
         "id": "https://sws.geonames.org/5128581",
         "type": "crm:E53_Place",
         "label": "New York City",
+        "description": "New York, US"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/j4TZb55qjVw">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/j4TZb55qjVw",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T15:42:07.929Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Zjw1T06muAA",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Zjw1T06muAA/selector/textPosition/lrmYsC4bx56",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 25932,
+                "end": 25940,
+                "refinedBy": {
+                    "id": "/target/Zjw1T06muAA/selector/textQuote/9hk3dXid8nV",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "New York",
+                    "prefix": "com\n                        \n                        \n                           ",
+                    "suffix": "Sound Map"
+                }
+            },
+            {
+                "id": "/target/Zjw1T06muAA/selector/css/SmF7rIgTVWe",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/j4TZb55qjVw]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/5128638",
+        "type": "crm:E53_Place",
+        "label": "New York",
         "description": "New York, US"
     },
     "P2_has_type": [
