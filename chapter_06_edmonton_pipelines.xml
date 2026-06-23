@@ -615,7 +615,7 @@
                         <bibl>
                             <title level="a">New York Sound Map</title>. <ref target="http://www.nysoundmap.org">http://www.nysoundmap.org</ref>
                         </bibl>
-                        <bibl><persName key="Nold, Christian 1976-" ref="http://viaf.org/viaf/6732166007106875590006" ana="webannotation:http://temp.lincsproject.ca/6SOK9NdBk3n">Nold</persName>, Christian. <title level="m">Bio Mapping / Emotion Mapping</title>. 2004–ongoing. <ref target="http://biomapping.net">http://biomapping.net</ref>
+                        <bibl><persName key="Nold, Christian 1976-" ref="http://viaf.org/viaf/6732166007106875590006" ana="webannotation:http://temp.lincsproject.ca/6SOK9NdBk3n">Nold</persName>, <persName key="Nold, Christian 1976-" ref="http://viaf.org/viaf/6732166007106875590006" ana="webannotation:http://temp.lincsproject.ca/kukwoPVvxuJ">Christian</persName>. <title level="m">Bio Mapping / Emotion Mapping</title>. 2004–ongoing. <ref target="http://biomapping.net">http://biomapping.net</ref>
                         </bibl>
                         <bibl>
                             <title level="a">Toronto Sound Map</title>. <ref target="http://www.torontosoundmap.com">http://www.torontosoundmap.com</ref>
@@ -6880,6 +6880,95 @@
         "label": "Alberta",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/kukwoPVvxuJ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/kukwoPVvxuJ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T14:09:05.830Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/EoMxKLFP1W1",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/EoMxKLFP1W1/selector/textPosition/XSDzMeiVeHF",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 26033,
+                "end": 26042,
+                "refinedBy": {
+                    "id": "/target/EoMxKLFP1W1/selector/textQuote/FTh7DfJKXb5",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Christian",
+                    "prefix": "org\n                        \n                        Nold,",
+                    "suffix": " Bio Mapping / Emotion Mapping"
+                }
+            },
+            {
+                "id": "/target/EoMxKLFP1W1/selector/css/Bq2V20qr19N",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/kukwoPVvxuJ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/6732166007106875590006",
+        "label": "Nold, Christian 1976-",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
