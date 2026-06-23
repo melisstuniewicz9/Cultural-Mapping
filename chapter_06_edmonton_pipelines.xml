@@ -637,7 +637,7 @@
                         <bibl>Mumford, Lewis. <title level="m">The Culture of Cities</title>. 1938. New York: Harcourt Brace, 1981.</bibl>
                         <bibl><persName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/fKNtgLxoTcF">Sassen</persName>, <placeName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/ISsA5znz4UJ">Saskia</placeName>. <title level="a">The Global City: Introducing a Concept and Its History</title>. <title level="m">Mutations</title>. Rem Koolhaas, Stefano Boeri, Sanford Kwinter, Nadia Tazi, Hans Ulrich Obrist. Barcelona: <abbr>actar</abbr>; Bordeaux: Arc en rêve centre d’architecture, 2001. 104–15.</bibl>
                         <bibl>Self, Will, and <persName key="Steadman, Ralph, 1936-...." ref="http://viaf.org/viaf/103610475" ana="webannotation:http://temp.lincsproject.ca/vmwEhmNI8WP">Ralph Steadman</persName>. <title level="m">Psychogeography: Disentangling the Modern Conundrum of Psyche and Place</title>. New York: Bloomsbury, 2007.</bibl>
-                        <bibl>Zwicker, Heather, ed. <title level="m"><placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/kW2EDcZio0f">Edmonton</placeName> on Location: River City Chronicles</title>. <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/bP4LC2gmYxL">Edmonton</placeName>: NeWest Press, 2005.</bibl>
+                        <bibl>Zwicker, Heather, ed. <title level="m"><placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/kW2EDcZio0f">Edmonton</placeName> on Location: River City Chronicles</title>. <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/bP4LC2gmYxL">Edmonton</placeName>: <orgName key="NeWest Press." ref="http://viaf.org/viaf/317291403" ana="webannotation:http://temp.lincsproject.ca/l7lsL9ECzeU">NeWest Press</orgName>, 2005.</bibl>
                     </listBibl>
                 </div>
             </div>
@@ -6969,6 +6969,95 @@
         "type": "crm:E74_Group",
         "label": "Éditions Belin.",
         "description": "Belin (firma)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/l7lsL9ECzeU">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/l7lsL9ECzeU",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T14:05:07.822Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/eqR3WTCC9yz",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/eqR3WTCC9yz/selector/textPosition/ySm3u3W75Sh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28362,
+                "end": 28374,
+                "refinedBy": {
+                    "id": "/target/eqR3WTCC9yz/selector/textQuote/fE1Y9hAJWdm",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "NeWest Press",
+                    "prefix": " Edmonton:",
+                    "suffix": " 2005"
+                }
+            },
+            {
+                "id": "/target/eqR3WTCC9yz/selector/css/UkqibNVyHUI",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/l7lsL9ECzeU]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/317291403",
+        "type": "crm:E74_Group",
+        "label": "NeWest Press.",
+        "description": "NeWest Press maison d'édition"
     },
     "P2_has_type": [
         "oa:identifying"
