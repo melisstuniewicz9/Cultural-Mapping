@@ -602,7 +602,7 @@
                     <head>Identity and Sameness: <title level="j">The Canadian Bookman</title> as a Test Case for <hi rend="sc-italic">istc</hi> Registration</head>
                     <p xml:id="p1200">
                         <ref target="#intellectual_history">
-                            <ref target="#genre_journalism">The <title level="j">Canadian Bookman</title> was a specialized periodical with a focus on books and authors, literary criticism, publishing, bookselling, and libraries. <ref target="#place_of_publication">The <title level="j"><orgName key="Canadian Author &amp; Bookman" ref="https://www.wikidata.org/wiki/Q5029743" ana="webannotation:http://temp.lincsproject.ca/NE76jOLRnq2">Bookman</orgName></title> commenced publication in <date cert="high" when="1909">1909</date> in <placeName>Toronto</placeName> as a monthly review of contemporary literature devoted to the interests of the Canadian book buyer.</ref> It published until <date cert="high" when="1914">1914</date> and re-emerged in <date cert="high" when="1915">1915</date> as the <title level="j">Canadian Bookseller and Library Journal</title>. It changed its name to <title level="j"><orgName key="Canadian Author &amp; Bookman" ref="https://www.wikidata.org/wiki/Q5029743" ana="webannotation:http://temp.lincsproject.ca/pNL2urV4WKe">Canadian Bookman</orgName></title> in <date cert="high" when="1919">1919</date> and published continuously until the October–November issue of <date cert="high" when="1941-10">1941</date>.</ref>
+                            <ref target="#genre_journalism">The <title level="j">Canadian Bookman</title> was a specialized periodical with a focus on books and authors, literary criticism, publishing, bookselling, and libraries. <ref target="#place_of_publication">The <title level="j">Bookman</title> commenced publication in <date cert="high" when="1909">1909</date> in <placeName>Toronto</placeName> as a monthly review of contemporary literature devoted to the interests of the Canadian book buyer.</ref> It published until <date cert="high" when="1914">1914</date> and re-emerged in <date cert="high" when="1915">1915</date> as the <title level="j">Canadian Bookseller and Library Journal</title>. It changed its name to <title level="j"><orgName key="Canadian Author &amp; Bookman" ref="https://www.wikidata.org/wiki/Q5029743" ana="webannotation:http://temp.lincsproject.ca/pNL2urV4WKe">Canadian Bookman</orgName></title> in <date cert="high" when="1919">1919</date> and published continuously until the October–November issue of <date cert="high" when="1941-10">1941</date>.</ref>
                         </ref>
                     </p>
                     <p xml:id="p1201">
@@ -4958,95 +4958,6 @@
         "type": "crm:E21_Person",
         "label": "Jones, Maggie",
         "description": "Jones, Maggie (Margaret J.)"
-    },
-    "P2_has_type": [
-        "oa:identifying"
-    ]
-}]]>
-				
-</rdf:Description>
-				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/NE76jOLRnq2">
-<![CDATA[{
-    "@context": [
-        "http://www.w3.org/ns/anno.jsonld",
-        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
-        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
-    ],
-    "id": "http://temp.lincsproject.ca/NE76jOLRnq2",
-    "type": [
-        "Annotation",
-        "crm:E33_Linguistic_Object"
-    ],
-    "motivation": "oa:identifying",
-    "created": "2026-06-23T12:16:06.972Z",
-    "creator": {
-        "id": "https://github.com/melisstuniewicz9",
-        "type": "crm:E21_Person",
-        "name": "Melissa Tuniewicz"
-    },
-    "generator": {
-        "id": "https://nerve.lincsproject.ca",
-        "type": [
-            "Software",
-            "crm:E73_Information_Object"
-        ],
-        "P16_used_specific_object": "https://nerve.lincsproject.ca",
-        "name": "NERVE",
-        "softwareVersion": "0.3.0"
-    },
-    "target": {
-        "id": "/target/y86uYsqAkCC",
-        "type": [
-            "SpecificResource",
-            "crm:E73_Information_Object"
-        ],
-        "source": {
-            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
-            "type": "crm:D1_Digital_Object",
-            "format": "application/tei+xml",
-            "language": "en",
-            "P1_is_identified_by": {
-                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
-                "type": "crm:E33_E41_Linguistic_Appellation",
-                "title": "Talk to the Work"
-            }
-        },
-        "selector": [
-            {
-                "id": "/target/y86uYsqAkCC/selector/textPosition/Mk8PKtqegWD",
-                "type": [
-                    "TextPositionSelector",
-                    "crm:E73_Information_Object"
-                ],
-                "start": 26111,
-                "end": 26118,
-                "refinedBy": {
-                    "id": "/target/y86uYsqAkCC/selector/textQuote/0rugkiWfdq1",
-                    "type": [
-                        "TextQuoteSelector",
-                        "crm:E33_Linguistic_Object"
-                    ],
-                    "exact": "Bookman",
-                    "prefix": " The",
-                    "suffix": "commenced publication in 1909 in Toronto as a monthly review of contemporary literature devoted to the interests of the Canadian book buyer"
-                }
-            },
-            {
-                "id": "/target/y86uYsqAkCC/selector/css/J7DtrvLSM4X",
-                "type": [
-                    "CssSelector",
-                    "crm:E73_Information_Object"
-                ],
-                "value": "[ana~=webannotation:http://temp.lincsproject.ca/NE76jOLRnq2]"
-            }
-        ]
-    },
-    "body": {
-        "id": "https://www.wikidata.org/wiki/Q5029743",
-        "label": "Canadian Author & Bookman",
-        "type": "crm:E74_Group",
-        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
