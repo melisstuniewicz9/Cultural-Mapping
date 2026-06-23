@@ -728,7 +728,7 @@
                             <title level="m"><orgName key="Debates in the Digital Humanities" ref="https://www.wikidata.org/wiki/Q73880530" ana="webannotation:http://temp.lincsproject.ca/uYByWERAqUn">Debates in the Digital Humanities</orgName></title>. Ed. <persName key="Gold, Matthew K." ref="http://viaf.org/viaf/221222930" ana="webannotation:http://temp.lincsproject.ca/QKpZefoGaw1">Matthew Gold</persName>. <placeName key="Minneapolis" ref="https://sws.geonames.org/5037657 " ana="webannotation:http://temp.lincsproject.ca/Ty6Fkl7Rc45">Minneapolis</placeName>: <orgName key="University of Minnesota. Press" ref="http://viaf.org/viaf/146595780" ana="webannotation:http://temp.lincsproject.ca/7oQVmlZXqQI">University of Minnesota Press</orgName>, 2012. 259–80.</bibl>
                         <bibl><title key="Genette, Gérard, 1930-2018." ref="http://viaf.org/viaf/34457081" ana="webannotation:http://temp.lincsproject.ca/k9vN2swMfJq">Genette</title>, <persName key="Genette, Gérard, 1930-2018." ref="http://viaf.org/viaf/34457081" ana="webannotation:http://temp.lincsproject.ca/6cnwRGLgqVr">Gerard</persName>. <title level="m">Paratexts: Thresholds of Interpretation</title>. Trans. <persName key="Lewin, Jane E." ref="http://viaf.org/viaf/208798270" ana="webannotation:http://temp.lincsproject.ca/WJ12eQW9uTV">Jane E. Lewin</persName>. <placeName key="Cambridge" ref="https://sws.geonames.org/2653941  " ana="webannotation:http://temp.lincsproject.ca/uXYlYH0cnZy">Cambridge</placeName>: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/SIrbUclNrlB">Cambridge University Press</orgName>, 1987.</bibl>
                         <bibl>Guarino, <persName key="Guarino, N. Nicola" ref="http://viaf.org/viaf/2399149108444868780003" ana="webannotation:http://temp.lincsproject.ca/ZLBnGiii5Wm">Nicola</persName>. <title level="a">The Role of Identity Conditions in Ontology Design.</title>
-                            <title level="m">Proceedings of the International Conference on Spatial Information Theory: Cognitive and Computational Foundations of Geographic Information Science</title>. Ed. Christian Freska and David M. Mark. Berlin: <orgName key="Springer-Verlag" ref="http://viaf.org/viaf/134381129" ana="webannotation:http://temp.lincsproject.ca/z1ATyQagAN5">Springer-Verlag</orgName>, 1999. 221–34.</bibl>
+                            <title level="m">Proceedings of the International Conference on Spatial Information Theory: Cognitive and Computational Foundations of Geographic Information Science</title>. Ed. Christian Freska and David M. Mark. <placeName key="Berlin" ref="https://www.geonames.org/2950159/berlin.html" ana="webannotation:http://temp.lincsproject.ca/gjw7rGj57Dc">Berlin</placeName>: <orgName key="Springer-Verlag" ref="http://viaf.org/viaf/134381129" ana="webannotation:http://temp.lincsproject.ca/z1ATyQagAN5">Springer-Verlag</orgName>, 1999. 221–34.</bibl>
                         <bibl>Holdsworth, Michael. <title level="m">The International Standard Text Code (<abbr rend="sc-italic">istc</abbr>): A Work in Progress. A Supply Chain Perspective</title>. Book Industry Study Group and Book Industry Communication. March 2010. <ref target="http://www.bic.org.uk/files/pdfs/100401%20ISTC%20for%20BIC-BISG%20bic%20Final%20corrected.pdf">http://www.bic.org.uk/files/pdfs/100401%20ISTC%20for%20BIC-BISG%20bic%20Final%20corrected.pdf</ref>
                         </bibl>
                         <bibl>
@@ -5047,6 +5047,95 @@
         "label": "Guarino, N. Nicola",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/gjw7rGj57Dc">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/gjw7rGj57Dc",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T11:45:48.210Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/NFLGiail4HO",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/NFLGiail4HO/selector/textPosition/dbxy1s87UNk",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 42657,
+                "end": 42663,
+                "refinedBy": {
+                    "id": "/target/NFLGiail4HO/selector/textQuote/JwmPiFQc0QZ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": "",
+                    "suffix": " Springer-Verlag, 1999"
+                }
+            },
+            {
+                "id": "/target/NFLGiail4HO/selector/css/Tpf0MikzJIZ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/gjw7rGj57Dc]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.geonames.org/2950159/berlin.html",
+        "label": "Berlin",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
