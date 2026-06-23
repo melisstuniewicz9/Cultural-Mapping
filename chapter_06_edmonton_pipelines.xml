@@ -461,7 +461,7 @@
                                         <bibl>1997</bibl>.</note>
                                     <ref target="#technology">Space is the <orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/25yWMf8KENZ">Google</orgName> map on one’s smart phone; place is the creative cartography of the Hitotoki projects, which impregnate <orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/EAMrkwR0TtE">Google</orgName> maps with <q>singular experiences tied to locations.</q>
                                         <note xml:id="n67" place="end">
-                                            <hi rend="italic" xml:lang="ja-JP">Hitotoki</hi> is a Japanese word meaning <q>a moment in time.</q> Hitotoki sites exist for several global cities, including New York, <placeName key="Tokyo" ref="https://sws.geonames.org/1850147" ana="webannotation:http://temp.lincsproject.ca/CoE9TTu1zKU">Tokyo</placeName>, and <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/COtsJAxLj6k">London</placeName>. See <note place="inline">
+                                            <hi rend="italic" xml:lang="ja-JP">Hitotoki</hi> is a Japanese word meaning <q>a moment in time.</q> Hitotoki sites exist for several global cities, including <placeName key="New York City" ref="https://sws.geonames.org/5128581 " ana="webannotation:http://temp.lincsproject.ca/OgmjPjnl80v">New York</placeName>, <placeName key="Tokyo" ref="https://sws.geonames.org/1850147" ana="webannotation:http://temp.lincsproject.ca/CoE9TTu1zKU">Tokyo</placeName>, and <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/COtsJAxLj6k">London</placeName>. See <note place="inline">
                                                 <bibl>
                                                     <ref target="http://www.hitotoki.org/classic/about">http://www.hitotoki.org/classic/about</ref>
                                                 </bibl>
@@ -5716,6 +5716,95 @@
         "type": "crm:E5_Event",
         "label": "Winter War",
         "description": "The Winter War was a war between the Soviet Union (USSR) and Finland. It began with a Soviet invasion of Finland on 30 November 1939, three months after the outbreak of World War II, and ended three and a half months later with the Moscow Peace Treaty on 13 March 1940. The League of Nations deemed the attack illegal and expelled the Soviet Union from the organisation."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/OgmjPjnl80v">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/OgmjPjnl80v",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T13:36:31.803Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/tnTjFtHUVFT",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/tnTjFtHUVFT/selector/textPosition/2QT4BS0bDUN",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5499,
+                "end": 5507,
+                "refinedBy": {
+                    "id": "/target/tnTjFtHUVFT/selector/textQuote/bxCHNpCzn1z",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "New York",
+                    "prefix": " Hitotoki sites exist for several global cities, including",
+                    "suffix": " Tokyo, and London"
+                }
+            },
+            {
+                "id": "/target/tnTjFtHUVFT/selector/css/Pbjx37qvTCE",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/OgmjPjnl80v]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/5128581 ",
+        "label": "New York City",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
