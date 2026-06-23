@@ -742,7 +742,7 @@
                         </bibl>
                         <bibl><persName key="McGann, Jerome J." ref="http://viaf.org/viaf/106059501" ana="webannotation:http://temp.lincsproject.ca/hiwdHn7OO9a">McGann</persName>, <persName key="McGann, Jerome J." ref="http://viaf.org/viaf/106059501" ana="webannotation:http://temp.lincsproject.ca/OuGlcqPTkmW">Jerome</persName>. <title level="m">The Textual Condition</title>. <orgName key="Princeton" ref="https://nerve.lincsproject.ca/xsveKFjuFrsi9K-2j-dDb" ana="webannotation:http://temp.lincsproject.ca/MWqRULOClz3">Princeton</orgName>: <orgName key="Princeton university press" ref="http://viaf.org/viaf/158317684" ana="webannotation:http://temp.lincsproject.ca/nCESJOmTzhi">Princeton University Press</orgName>, 1991.</bibl>
                         <bibl>Paskin, <persName key="Paskin, Norman" ref="http://viaf.org/viaf/204173665923907391898" ana="webannotation:http://temp.lincsproject.ca/LnvCc5H0CcA">Norman</persName>. <title level="a">Components of <abbr>DRM</abbr> Systems.</title>
-                            <title level="m">Digital Rights Management: Technological, Economic, Legal and Political Aspects</title>. Ed. Eberhard Becker, Willms Buhse, <persName key="Günnewig, Dirk 1975-" ref="http://viaf.org/viaf/35541443" ana="webannotation:http://temp.lincsproject.ca/H3rdZOpR8bN">Dirk Günnewig</persName>, Neils Rump. <placeName key="Berlin" ref="https://www.geonames.org/2950159/berlin.html" ana="webannotation:http://temp.lincsproject.ca/YIlRyjSDSWo">Berlin</placeName>: Springer-Verlag, 2003. 26–61.</bibl>
+                            <title level="m">Digital Rights Management: Technological, Economic, Legal and Political Aspects</title>. Ed. <persName key="Becker, Eberhard" ref="http://viaf.org/viaf/48495620" ana="webannotation:http://temp.lincsproject.ca/voe9MVl7Tj8">Eberhard Becker</persName>, Willms Buhse, <persName key="Günnewig, Dirk 1975-" ref="http://viaf.org/viaf/35541443" ana="webannotation:http://temp.lincsproject.ca/H3rdZOpR8bN">Dirk Günnewig</persName>, Neils Rump. <placeName key="Berlin" ref="https://www.geonames.org/2950159/berlin.html" ana="webannotation:http://temp.lincsproject.ca/YIlRyjSDSWo">Berlin</placeName>: Springer-Verlag, 2003. 26–61.</bibl>
                         <bibl>. <title level="a">Digital Object Identifiers.</title>
                             <title level="j"><orgName key="Information Services &amp; Use" ref="https://www.wikidata.org/wiki/Q6030834" ana="webannotation:http://temp.lincsproject.ca/XqbJXt893Vk">Information Services and Use</orgName> </title>22 (2002): 97–112.</bibl>
                         <bibl>. <title level="a">On Making and Identifying a <q>Copy.</q>
@@ -6478,6 +6478,95 @@
         "id": "http://viaf.org/viaf/204173665923907391898",
         "type": "crm:E21_Person",
         "label": "Paskin, Norman"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/voe9MVl7Tj8">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/voe9MVl7Tj8",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T12:28:50.658Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/OaZwNDqz3rC",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/OaZwNDqz3rC/selector/textPosition/EbGSNvNonv5",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 44291,
+                "end": 44306,
+                "refinedBy": {
+                    "id": "/target/OaZwNDqz3rC/selector/textQuote/8nyV8znXZjS",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Eberhard Becker",
+                    "prefix": "",
+                    "suffix": " Willms Buhse, Dirk Günnewig, Neils Rump"
+                }
+            },
+            {
+                "id": "/target/OaZwNDqz3rC/selector/css/X3BWxnJ2ShC",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/voe9MVl7Tj8]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/48495620",
+        "label": "Becker, Eberhard",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
