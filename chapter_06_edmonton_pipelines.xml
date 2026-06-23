@@ -516,7 +516,7 @@
                     <p xml:id="p1269">
                         <ref target="#theme_or_topic">Pipelines is an attempt to tell new city stories for our twenty-first-century reality. The project draws on traditional <ref target="#genre">narrative practice—literature</ref>, <ref target="#genre_non-fiction">creative non-fiction</ref>, <ref target="#genre">close reading</ref>, and <ref target="#genre">literary theory</ref>, for instance—but it also seeks inspiration in new ways of inhabiting the city. <ref target="#theory">Traditionally, theories of urban culture have suggested three major concepts for inhabiting the city as place (versus space): the flâneur, the everyday, and psychogeography.</ref>
                         </ref>
-                        <note xml:id="n70" place="end">For representative approaches to each, see <persName key="Coverley, Merlin." ref="http://viaf.org/viaf/71355916" ana="webannotation:http://temp.lincsproject.ca/MZdlkOKezOd">Merlin Coverley</persName>, Will Self, and Ralph Steadman, respectively.</note>
+                        <note xml:id="n70" place="end">For representative approaches to each, see <persName key="Coverley, Merlin." ref="http://viaf.org/viaf/71355916" ana="webannotation:http://temp.lincsproject.ca/MZdlkOKezOd">Merlin Coverley</persName>, Will Self, and <persName key="Steadman, Ralph, 1936-...." ref="http://viaf.org/viaf/103610475" ana="webannotation:http://temp.lincsproject.ca/TvoARzhnCkQ">Ralph Steadman</persName>, respectively.</note>
                         <ref target="#social_movement">
                             <ref target="#technology">
                                 <ref target="#spatiality">More recently, however, the city has also emerged as place in the form of a playground for tech-savvy adults engaged in city games like Manhunt, parkour, and geocaching.<note xml:id="n71" place="end">This is to say nothing about locative games like Parallel Kingdom, Wherigo, Gbanga Familia, or TrailHit, few of which were even in production when I began writing this essay, nor of less ludic locative apps like FourSquare—the point being that urban gaming is a burgeoning field.</note> Manhunt, a massive game of hide-and-go-seek organized online and played by strangers, turns denizens into fellow game players for a few hours on a specified night; when the game ends, the community dissolves back into the urban flow. Parkour uses urban space against the grain, using city structures as a physical and orienteering challenge. And geocaching creates secret communities by hiding small objects in plain sight, unnoticed except by the online community swapping geolocations. These games, specific to cities, engender twenty-first-century urban subjectivities, less individualistic than those of the late nineteenth (flâneur) or twentieth centuries (psychogeography and the everyday), even though the forms of community they produce are fleeting and often accidental. Like their predecessors, Manhunt, parkour, and geocaching are technologically mediated. As automatic writing is to psychogeography, so is the website to Manhunt; as poetry is to flâneurie, so is the digital map to geocaching.</ref>
@@ -5982,6 +5982,95 @@
         "id": "http://viaf.org/viaf/71355916",
         "type": "crm:E21_Person",
         "label": "Coverley, Merlin."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/TvoARzhnCkQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/TvoARzhnCkQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T13:39:23.589Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/lmYL37DvfFg",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/lmYL37DvfFg/selector/textPosition/wntG1owmerH",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 13151,
+                "end": 13165,
+                "refinedBy": {
+                    "id": "/target/lmYL37DvfFg/selector/textQuote/MKrDLVxiEbb",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ralph Steadman",
+                    "prefix": "\n                        \n                        For representative approaches to each, see Merlin Coverley, Will Self, and",
+                    "suffix": " respectively"
+                }
+            },
+            {
+                "id": "/target/lmYL37DvfFg/selector/css/K50mzSjTIeb",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/TvoARzhnCkQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/103610475",
+        "type": "crm:E21_Person",
+        "label": "Steadman, Ralph, 1936-....",
+        "description": "Steadman, Ralph"
     },
     "P2_has_type": [
         "oa:identifying"
