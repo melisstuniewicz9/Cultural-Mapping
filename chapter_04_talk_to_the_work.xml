@@ -757,7 +757,7 @@
                         <bibl>. <title level="a">The Progress of Theory in Knowledge Organization.</title>
                             <title level="j">Library Trends</title> 50.3 (2002): 330–49.</bibl>
                         <bibl>. <title level="a">Works as Signs, Symbols, and Canons: The Epistemology of the Work.</title>
-                            <title level="j"><orgName key="Knowledge Organization" ref="http://www.wikidata.org/entity/Q6423317" ana="webannotation:http://temp.lincsproject.ca/091dP8MvTwC">Knowledge Organization</orgName> </title>28.4 (2001): 199–200.</bibl>
+                            <title level="j"><orgName key="Knowledge Organization" ref="https://www.wikidata.org/wiki/Q6423317" ana="webannotation:http://temp.lincsproject.ca/091dP8MvTwC webannotation:http://temp.lincsproject.ca/RlCNRJG8FBW">Knowledge Organization</orgName> </title>28.4 (2001): 199–200.</bibl>
                     </listBibl>
                 </div>
             </div>
@@ -4869,20 +4869,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/091dP8MvTwC">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/RlCNRJG8FBW">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/091dP8MvTwC",
+    "id": "http://temp.lincsproject.ca/RlCNRJG8FBW",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-06-23T11:08:41.231Z",
+    "created": "2026-06-23T11:09:18.287Z",
     "creator": {
         "id": "https://github.com/melisstuniewicz9",
         "type": "crm:E21_Person",
@@ -4942,14 +4942,22 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/091dP8MvTwC]"
+            },
+            {
+                "id": "/target/XEsX4p2ob5A/selector/css/4S0jrSETvs9",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/RlCNRJG8FBW]"
             }
         ]
     },
     "body": {
-        "id": "http://www.wikidata.org/entity/Q6423317",
-        "type": "crm:E74_Group",
+        "id": "https://www.wikidata.org/wiki/Q6423317",
         "label": "Knowledge Organization",
-        "description": "academic journal"
+        "type": "frbroo:F1",
+        "entityType": "frbroo:F1"
     },
     "P2_has_type": [
         "oa:identifying"
