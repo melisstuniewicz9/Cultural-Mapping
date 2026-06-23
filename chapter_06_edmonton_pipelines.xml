@@ -633,7 +633,7 @@
                         <bibl><persName key="Hagen, Darrin, 1964-" ref="http://viaf.org/viaf/34233225" ana="webannotation:http://temp.lincsproject.ca/e9AZPCbrX37">Hagen</persName>, <persName key="Hagen, Darrin, 1964-" ref="http://viaf.org/viaf/34233225" ana="webannotation:http://temp.lincsproject.ca/oedKSlQGMHE">Darrin</persName>. <title level="m">The Edmonton Queen: Not a Riverboat Story</title>. <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/v0O2Zu3li3Z">Edmonton</placeName>: Slipstream Books, 1997.</bibl>
                         <bibl>Jacobs, Jane. <title level="m">The Death and Life of Great American Cities</title>. 1961. New York: Modern Library, 1993.</bibl>
                         <bibl><persName key="Lippard, Lucy R." ref="http://viaf.org/viaf/109482861" ana="webannotation:http://temp.lincsproject.ca/d57qtC6RvpL">Lippard</persName>, <persName key="Lippard, Lucy R." ref="http://viaf.org/viaf/109482861" ana="webannotation:http://temp.lincsproject.ca/3fm8BT3q1VO">Lucy</persName>. <title level="m">The Lure of the Local: Senses of Place in a Multicentered Society</title>. New York: New Press, 1997.</bibl>
-                        <bibl>Lynch, <persName key="Lynch, Kevin, 1918-1984." ref="http://viaf.org/viaf/76390028" ana="webannotation:http://temp.lincsproject.ca/WG2jBaAwVQf">Kevin</persName>. <title level="m">The Image of the City</title>. Cambridge, MA: <orgName key="MIT press" ref="http://viaf.org/viaf/159490691" ana="webannotation:http://temp.lincsproject.ca/QDXpxH82muH">MIT Press</orgName>, 1960.</bibl>
+                        <bibl><persName key="Lynch, Kevin, 1918-1984." ref="http://viaf.org/viaf/76390028" ana="webannotation:http://temp.lincsproject.ca/f1oT2QiM5IY">Lynch</persName>, <persName key="Lynch, Kevin, 1918-1984." ref="http://viaf.org/viaf/76390028" ana="webannotation:http://temp.lincsproject.ca/WG2jBaAwVQf">Kevin</persName>. <title level="m">The Image of the City</title>. Cambridge, MA: <orgName key="MIT press" ref="http://viaf.org/viaf/159490691" ana="webannotation:http://temp.lincsproject.ca/QDXpxH82muH">MIT Press</orgName>, 1960.</bibl>
                         <bibl>Mumford, Lewis. <title level="m">The Culture of Cities</title>. 1938. New York: Harcourt Brace, 1981.</bibl>
                         <bibl><persName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/fKNtgLxoTcF">Sassen</persName>, <placeName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/ISsA5znz4UJ">Saskia</placeName>. <title level="a">The Global City: Introducing a Concept and Its History</title>. <title level="m">Mutations</title>. <persName key="Koolhaas, Rem, 1944-...." ref="http://viaf.org/viaf/111300727" ana="webannotation:http://temp.lincsproject.ca/XTVnZIIUC2k">Rem Koolhaas</persName>, <persName key="Boeri, Stefano, 1956-...." ref="http://viaf.org/viaf/79150344" ana="webannotation:http://temp.lincsproject.ca/rYg9MFp22TB">Stefano Boeri</persName>, <persName key="Kwinter, Sanford." ref="http://viaf.org/viaf/306416444" ana="webannotation:http://temp.lincsproject.ca/3b5lUuAHGAp">Sanford Kwinter</persName>, <persName key="Tazi, Nadia." ref="http://viaf.org/viaf/68936344" ana="webannotation:http://temp.lincsproject.ca/f0dsqRJIzWj">Nadia Tazi</persName>, <persName key="Obrist, Hans-Ulrich, 1968-" ref="http://viaf.org/viaf/116932378" ana="webannotation:http://temp.lincsproject.ca/YaCifW7mnbl">Hans Ulrich Obrist</persName>. Barcelona: <abbr>actar</abbr>; Bordeaux: <orgName key="Arc en rêve-Centre d'architecture (Bordeaux)" ref="http://viaf.org/viaf/147461741" ana="webannotation:http://temp.lincsproject.ca/JDsCfolFQHq">Arc en rêve centre d’architecture,</orgName> 2001. 104–15.</bibl>
                         <bibl><persName key="Self, Will, 1961-...." ref="http://viaf.org/viaf/41934124" ana="webannotation:http://temp.lincsproject.ca/lSJnM5ySv3p">Self</persName>, <persName key="Self, Will, 1961-...." ref="http://viaf.org/viaf/41934124" ana="webannotation:http://temp.lincsproject.ca/NE6KUcIRIMv">Will</persName>, and <persName key="Steadman, Ralph, 1936-...." ref="http://viaf.org/viaf/103610475" ana="webannotation:http://temp.lincsproject.ca/vmwEhmNI8WP">Ralph Steadman</persName>. <title level="m">Psychogeography: Disentangling the Modern Conundrum of Psyche and Place</title>. New York: <orgName key="Bloomsbury publishing" ref="http://viaf.org/viaf/127945522" ana="webannotation:http://temp.lincsproject.ca/AloxiQsbhGn">Bloomsbury</orgName>, 2007.</bibl>
@@ -9278,6 +9278,95 @@
         "type": "crm:E21_Person",
         "label": "Lippard, Lucy R.",
         "description": "Lippard, Lucy R., 1937-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/f1oT2QiM5IY">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/f1oT2QiM5IY",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T15:24:31.160Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/AuFM3R6VJ6y",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/AuFM3R6VJ6y/selector/textPosition/cf3ETO6w8DZ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27672,
+                "end": 27677,
+                "refinedBy": {
+                    "id": "/target/AuFM3R6VJ6y/selector/textQuote/9urN0QTQQ6h",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Lynch",
+                    "prefix": "\n                       ",
+                    "suffix": " Kevin"
+                }
+            },
+            {
+                "id": "/target/AuFM3R6VJ6y/selector/css/y4ANS2jcyFJ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/f1oT2QiM5IY]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/76390028",
+        "type": "crm:E21_Person",
+        "label": "Lynch, Kevin, 1918-1984.",
+        "description": "Lynch, Kevin, 1918-"
     },
     "P2_has_type": [
         "oa:identifying"
