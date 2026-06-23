@@ -542,7 +542,7 @@
                                 <ref target="#non-book_media">
                                     <ref target="#spatiality">
                                         <ref target="#history">
-                                            <ref target="#technology">The Cleveland Historical Map similarly spatializes local history. Finally, the mapping projects that <persName key="Nold, Christian 1976-" ref="http://viaf.org/viaf/6732166007106875590006" ana="webannotation:http://temp.lincsproject.ca/1UL0N6kNvsc">Christian Nold</persName> has initiated are particularly compelling for the way they map urban intensities (the San Francisco Emotion Map) or their opposites (the Stockport Emotion Map). Nold equips community mappers with an electronic device that measures physical responses and then he sends them into city spaces. After he amasses responses, he can map the city sites that evoke particularly strong physical responses. Nold’s work also has evolved into community-based mapping, and, as in the case of Stockport, helps citizens understand how and why the city might fail to elicit intensity.</ref>
+                                            <ref target="#technology">The Cleveland Historical Map similarly spatializes local history. Finally, the mapping projects that <persName key="Nold, Christian 1976-" ref="http://viaf.org/viaf/6732166007106875590006" ana="webannotation:http://temp.lincsproject.ca/1UL0N6kNvsc">Christian Nold</persName> has initiated are particularly compelling for the way they map urban intensities (the San Francisco Emotion Map) or their opposites (the Stockport Emotion Map). <persName key="Nold, Christian 1976-" ref="http://viaf.org/viaf/6732166007106875590006" ana="webannotation:http://temp.lincsproject.ca/oIbFic2ydTQ">Nold</persName> equips community mappers with an electronic device that measures physical responses and then he sends them into city spaces. After he amasses responses, he can map the city sites that evoke particularly strong physical responses. <persName key="Nold, Christian 1976-" ref="http://viaf.org/viaf/6732166007106875590006" ana="webannotation:http://temp.lincsproject.ca/GdVhZZ7dNem">Nold</persName>’s work also has evolved into community-based mapping, and, as in the case of Stockport, helps citizens understand how and why the city might fail to elicit intensity.</ref>
                                         </ref>
                                     </ref>
                                 </ref> Pipelines hopes to adapt many aspects of projects like these—their community-mindedness, their attention to narrative, their understanding of history <q>from below,</q> for instance—while mobilizing the city’s open data to make sense of this particular city, in the here and now.</ref>
@@ -615,7 +615,7 @@
                         <bibl>
                             <title level="a">New York Sound Map</title>. <ref target="http://www.nysoundmap.org">http://www.nysoundmap.org</ref>
                         </bibl>
-                        <bibl>Nold, Christian. <title level="m">Bio Mapping / Emotion Mapping</title>. 2004–ongoing. <ref target="http://biomapping.net">http://biomapping.net</ref>
+                        <bibl><persName key="Nold, Christian 1976-" ref="http://viaf.org/viaf/6732166007106875590006" ana="webannotation:http://temp.lincsproject.ca/6SOK9NdBk3n">Nold</persName>, Christian. <title level="m">Bio Mapping / Emotion Mapping</title>. 2004–ongoing. <ref target="http://biomapping.net">http://biomapping.net</ref>
                         </bibl>
                         <bibl>
                             <title level="a">Toronto Sound Map</title>. <ref target="http://www.torontosoundmap.com">http://www.torontosoundmap.com</ref>
@@ -6524,6 +6524,273 @@
         "label": "Toronto",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/oIbFic2ydTQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/oIbFic2ydTQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T14:02:09.436Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/0wLi4FSq4zC",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/0wLi4FSq4zC/selector/textPosition/il1z9oX4C8K",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16609,
+                "end": 16613,
+                "refinedBy": {
+                    "id": "/target/0wLi4FSq4zC/selector/textQuote/bdHgLtUSSR4",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Nold",
+                    "prefix": "",
+                    "suffix": "equips community mappers with an electronic device that measures physical responses and then he sends them into city spaces"
+                }
+            },
+            {
+                "id": "/target/0wLi4FSq4zC/selector/css/6I89bK2XYAf",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/oIbFic2ydTQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/6732166007106875590006",
+        "label": "Nold, Christian 1976-",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/GdVhZZ7dNem">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/GdVhZZ7dNem",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T14:02:09.663Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/KNZIZIwTM21",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/KNZIZIwTM21/selector/textPosition/bRELKIVrtYw",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16844,
+                "end": 16848,
+                "refinedBy": {
+                    "id": "/target/KNZIZIwTM21/selector/textQuote/vsPwjPsKrU1",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Nold",
+                    "prefix": "",
+                    "suffix": "s work also has evolved into community-based mapping, and, as in the case of Stockport, helps citizens understand how and why the city might fail to elicit intensity"
+                }
+            },
+            {
+                "id": "/target/KNZIZIwTM21/selector/css/5POS8zDLXHC",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/GdVhZZ7dNem]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/6732166007106875590006",
+        "label": "Nold, Christian 1976-",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/6SOK9NdBk3n">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/6SOK9NdBk3n",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T14:02:09.796Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/vzGct2Q1CVg",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/vzGct2Q1CVg/selector/textPosition/kGhej9H3k5T",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 26027,
+                "end": 26031,
+                "refinedBy": {
+                    "id": "/target/vzGct2Q1CVg/selector/textQuote/cpx0PW7dHgO",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Nold",
+                    "prefix": "org\n                        \n                       ",
+                    "suffix": " Christian"
+                }
+            },
+            {
+                "id": "/target/vzGct2Q1CVg/selector/css/Gg1skDALe8v",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/6SOK9NdBk3n]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/6732166007106875590006",
+        "label": "Nold, Christian 1976-",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
