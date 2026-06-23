@@ -607,7 +607,7 @@
                         </bibl>
                         <bibl>Dein, Alan, and Francesca Panetta. <title level="a">Sound Map: The Caledonian Road</title>. <title level="j">The Guardian</title> 26 April 2010. <ref target="http://www.guardian.co.uk/society/interactive/2010/apr/26/caledonian-road-sound-map">http://www.guardian.co.uk/society/interactive/2010/apr/26/caledonian-road-sound-map</ref>
                         </bibl>
-                        <bibl>Mod, Craig. <title level="a">Hitotoki: Narrative Mapping the World</title>. <ref target="http://www.hitotoki.org">http://www.hitotoki.org</ref>
+                        <bibl>Mod, <persName key="Mod, Craig" ref="http://viaf.org/viaf/171067525" ana="webannotation:http://temp.lincsproject.ca/BcRuEuWI4l6">Craig</persName>. <title level="a">Hitotoki: Narrative Mapping the World</title>. <ref target="http://www.hitotoki.org">http://www.hitotoki.org</ref>
                         </bibl>
                         <bibl>
                             <title level="a">Montreal Sound Map</title>. <ref target="http://www.montrealsoundmap.com">http://www.montrealsoundmap.com</ref>
@@ -6880,6 +6880,95 @@
         "label": "Alberta",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/BcRuEuWI4l6">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/BcRuEuWI4l6",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T14:41:57.696Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/IObaGWKrcu5",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/IObaGWKrcu5/selector/textPosition/sZSPkoXucRi",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 25654,
+                "end": 25659,
+                "refinedBy": {
+                    "id": "/target/IObaGWKrcu5/selector/textQuote/m1WNEMMdQag",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Craig",
+                    "prefix": "uk/society/interactive/2010/apr/26/caledonian-road-sound-map\n                        \n                        Mod,",
+                    "suffix": " Hitotoki: Narrative Mapping the World"
+                }
+            },
+            {
+                "id": "/target/IObaGWKrcu5/selector/css/C8IAoUf4Wym",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/BcRuEuWI4l6]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/171067525",
+        "type": "crm:E21_Person",
+        "label": "Mod, Craig",
+        "description": "Craig Mod writer and photographer"
     },
     "P2_has_type": [
         "oa:identifying"
