@@ -630,7 +630,7 @@
                         <bibl><persName key="Coverley, Merlin." ref="http://viaf.org/viaf/71355916" ana="webannotation:http://temp.lincsproject.ca/ZDYfSPEX1Db">Coverley</persName>, <persName key="Coverley, Merlin." ref="http://viaf.org/viaf/71355916" ana="webannotation:http://temp.lincsproject.ca/Oad2HFiBwcI">Merlin</persName>. <title level="m">Psychogeography</title>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/Gyqj7ImiPVh">London</placeName>: Pocket Essentials, 2010.</bibl>
                         <bibl><persName key="Edwards, Justin D., 1970-...." ref="http://viaf.org/viaf/116861733" ana="webannotation:http://temp.lincsproject.ca/QSiqYTw0W9J">Edwards</persName>, <persName key="Edwards, Justin D., 1970-...." ref="http://viaf.org/viaf/116861733" ana="webannotation:http://temp.lincsproject.ca/bSyS8clzM2v">Justin D.,</persName> and <persName key="Ivison, Douglas" ref="http://viaf.org/viaf/74103425" ana="webannotation:http://temp.lincsproject.ca/jdIwbqt78ht" cert="high" type="real">Douglas Ivison</persName>. <title level="m">Downtown <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/De5OjrD9IDQ">Canada</placeName>: Writing Canadian Cities</title>. <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/0nOYmWrSzHJ">Toronto</placeName>: <orgName key="University of Toronto. Press" ref="http://viaf.org/viaf/126595939" ana="webannotation:http://temp.lincsproject.ca/QknxExjPd26">University of Toronto Press</orgName>, 2005.</bibl>
                         <bibl><persName key="Goyette, Linda, 1955-...." ref="http://viaf.org/viaf/36321908" ana="webannotation:http://temp.lincsproject.ca/yzrn0K00uoN">Goyette</persName>, <persName key="Goyette, Linda, 1955-...." ref="http://viaf.org/viaf/36321908" ana="webannotation:http://temp.lincsproject.ca/Dd1NHBzl4V7">Linda</persName>, and Carolina Jakeway Roemmich. <title level="m"><placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/6Q0wLnYEZW2">Edmonton</placeName> In Our Own Words</title>. <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/TGKTMhq8Y5V">Edmonton</placeName>: <orgName key="University of Alberta Press." ref="http://viaf.org/viaf/311351545" ana="webannotation:http://temp.lincsproject.ca/PoTzWfxjFE5">University of Alberta Press</orgName>, 2004.</bibl>
-                        <bibl>Hagen, Darrin. <title level="m">The Edmonton Queen: Not a Riverboat Story</title>. <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/v0O2Zu3li3Z">Edmonton</placeName>: Slipstream Books, 1997.</bibl>
+                        <bibl>Hagen, <persName key="Hagen, Darrin, 1964-" ref="http://viaf.org/viaf/34233225" ana="webannotation:http://temp.lincsproject.ca/oedKSlQGMHE">Darrin</persName>. <title level="m">The Edmonton Queen: Not a Riverboat Story</title>. <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/v0O2Zu3li3Z">Edmonton</placeName>: Slipstream Books, 1997.</bibl>
                         <bibl>Jacobs, Jane. <title level="m">The Death and Life of Great American Cities</title>. 1961. New York: Modern Library, 1993.</bibl>
                         <bibl><persName key="Lippard, Lucy R." ref="http://viaf.org/viaf/109482861" ana="webannotation:http://temp.lincsproject.ca/d57qtC6RvpL">Lippard</persName>, <persName key="Lippard, Lucy R." ref="http://viaf.org/viaf/109482861" ana="webannotation:http://temp.lincsproject.ca/3fm8BT3q1VO">Lucy</persName>. <title level="m">The Lure of the Local: Senses of Place in a Multicentered Society</title>. New York: New Press, 1997.</bibl>
                         <bibl>Lynch, Kevin. <title level="m">The Image of the City</title>. Cambridge, MA: <orgName key="MIT press" ref="http://viaf.org/viaf/159490691" ana="webannotation:http://temp.lincsproject.ca/QDXpxH82muH">MIT Press</orgName>, 1960.</bibl>
@@ -8922,6 +8922,95 @@
         "type": "crm:E21_Person",
         "label": "Edwards, Justin D., 1970-....",
         "description": "Edwards, Justin D."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/oedKSlQGMHE">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/oedKSlQGMHE",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T15:22:32.287Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/vX8m8hN1nYk",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/vX8m8hN1nYk/selector/textPosition/s7tSkG4rU2c",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27309,
+                "end": 27315,
+                "refinedBy": {
+                    "id": "/target/vX8m8hN1nYk/selector/textQuote/4aLU3yT6fQo",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Darrin",
+                    "prefix": "\n                        Hagen,",
+                    "suffix": " The Edmonton Queen: Not a Riverboat Story"
+                }
+            },
+            {
+                "id": "/target/vX8m8hN1nYk/selector/css/WC8kprLPPva",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/oedKSlQGMHE]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/34233225",
+        "type": "crm:E21_Person",
+        "label": "Hagen, Darrin, 1964-",
+        "description": "Darrin Hagen Darrin Hagen is an award-winning playwright, author and LGBTQ historian."
     },
     "P2_has_type": [
         "oa:identifying"
