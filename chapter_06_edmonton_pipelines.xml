@@ -560,11 +560,11 @@
                     </p>
                 </div>
                 <div type="section">
-                    <head>Rossdale</head>
+                    <head><placeName key="Rossdale" ref="https://sws.geonames.org/6127856" ana="webannotation:http://temp.lincsproject.ca/M9Bb9a1sS8K">Rossdale</placeName></head>
                     <p xml:id="p1273">
                         <ref target="#history">
-                            <ref target="#spatiality">The Rossdale Flats, a two-square-kilometre zone geographically central to <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/Lf9s9g1HtNp">Edmonton</placeName> yet topographically as well as symbolically beneath the city core, have staged quintessentially urban contests between private and public, efficiency and commemoration, settlement, commerce, and resource extraction. <ref target="#race_issue">Rossdale occupies the site of pre–Treaty 6 Aboriginal settlements</ref>, the second Fort Edmonton, the inauguration of <placeName key="Alberta" ref="https://sws.geonames.org/5883102" ana="webannotation:http://temp.lincsproject.ca/5rmHWvMRdPs">the Province of Alberta</placeName>, a burial ground, an ice house, a fair ground, a ball park, and a power plant. <ref target="#class_issue">In the early twentieth century, it offered working-class housing near the coal seams of <placeName key="North Saskatchewan River" ref="https://sws.geonames.org/6090589" ana="webannotation:http://temp.lincsproject.ca/e6KuK5VisWo">the North Saskatchewan River</placeName>; in the early twenty-first century, it is characterized by expensive vinyl-sided Victorian houses alongside the Capital City Recreation Area.</ref>
-                                <ref target="#politics">The conflicts of civic, corporate, and environmental interests have circulated in Rossdale.</ref>
+                            <ref target="#spatiality">The Rossdale Flats, a two-square-kilometre zone geographically central to <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/Lf9s9g1HtNp">Edmonton</placeName> yet topographically as well as symbolically beneath the city core, have staged quintessentially urban contests between private and public, efficiency and commemoration, settlement, commerce, and resource extraction. <ref target="#race_issue"><placeName key="Rossdale" ref="https://sws.geonames.org/6127856" ana="webannotation:http://temp.lincsproject.ca/HcORCoWQ6Ss">Rossdale</placeName> occupies the site of pre–Treaty 6 Aboriginal settlements</ref>, the second Fort Edmonton, the inauguration of <placeName key="Alberta" ref="https://sws.geonames.org/5883102" ana="webannotation:http://temp.lincsproject.ca/5rmHWvMRdPs">the Province of Alberta</placeName>, a burial ground, an ice house, a fair ground, a ball park, and a power plant. <ref target="#class_issue">In the early twentieth century, it offered working-class housing near the coal seams of <placeName key="North Saskatchewan River" ref="https://sws.geonames.org/6090589" ana="webannotation:http://temp.lincsproject.ca/e6KuK5VisWo">the North Saskatchewan River</placeName>; in the early twenty-first century, it is characterized by expensive vinyl-sided Victorian houses alongside the Capital City Recreation Area.</ref>
+                                <ref target="#politics">The conflicts of civic, corporate, and environmental interests have circulated in <placeName key="Rossdale" ref="https://sws.geonames.org/6127856" ana="webannotation:http://temp.lincsproject.ca/6HfzKICsX8F">Rossdale</placeName>.</ref>
                                 <ref target="#economics">It is the site for powerful past futures: here is where the planetarium was to be built, where baseball would flourish, where power generation would triple, where artist studios and chic cafes would heighten <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/ISxiuqBXbyY">Edmonton</placeName>’s cosmopolitan cachet.</ref>
                             </ref>
                         </ref>
@@ -572,7 +572,7 @@
                     <p xml:id="p1274">
                         <ref target="#history">
                             <ref target="#spatiality">
-                                <ref target="#technology">Such a dense city space hosts multiple, contradictory stories. What does it mean to <q>read</q> such a densely signifying space? I want a technology that can represent the following</ref>. Stand in one spot in the Rossdale Flats to apprehend the complexity of place. <ref target="#economics">If one looks closely at the boreal bush along the bicycle trails, one can discern raspberry canes and apple trees on the riverbanks, domestic remnants of the backyards from houses expropriated in the 1970s to build the <q>Ribbon of Green,</q> the development of <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/o00HhXMoRxB">Edmonton</placeName>’s river valley and ravine system. Where one stands and marvels, trying to imagine the vanished cityscape, is a riverbank hollowed by coal extraction: a formative city phenomenon beneath the plane of the visible. <ref target="#race_issue">Beneath that vision lies another, forcibly made invisible by the false celebration of this city as merely one hundred years old: Aboriginal Rossdale, routinely inhabited for six thousand years. </ref>One may be watched by a ring-necked pheasant, red squirrels, a coyote, foxes, and certainly magpies: denizens of the urban river valley. Look uphill, downriver, and one will see the brick brewery, now the residence of <persName key="Gene Dub architecte canadien" ref="http://viaf.org/viaf/96113713" ana="webannotation:http://temp.lincsproject.ca/Yqamdpjzeom">Gene Dub</persName>, the city’s best-loved architect, implicated as well in gentrification; upriver, the brickyard site has become a fitness centre. Running past is <placeName key="North Saskatchewan River" ref="https://sws.geonames.org/6090589" ana="webannotation:http://temp.lincsproject.ca/Jn2mCChwkoa">the North Saskatchewan River</placeName> itself, linked to <placeName key="Saskatchewan Glacier" ref="https://sws.geonames.org/6141246" ana="webannotation:http://temp.lincsproject.ca/KvuQ61897WC">the Saskatchewan Glacier</placeName>, though heated and treated by the Rossdale power generating station.</ref>
+                                <ref target="#technology">Such a dense city space hosts multiple, contradictory stories. What does it mean to <q>read</q> such a densely signifying space? I want a technology that can represent the following</ref>. Stand in one spot in the Rossdale Flats to apprehend the complexity of place. <ref target="#economics">If one looks closely at the boreal bush along the bicycle trails, one can discern raspberry canes and apple trees on the riverbanks, domestic remnants of the backyards from houses expropriated in the 1970s to build the <q>Ribbon of Green,</q> the development of <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/o00HhXMoRxB">Edmonton</placeName>’s river valley and ravine system. Where one stands and marvels, trying to imagine the vanished cityscape, is a riverbank hollowed by coal extraction: a formative city phenomenon beneath the plane of the visible. <ref target="#race_issue">Beneath that vision lies another, forcibly made invisible by the false celebration of this city as merely one hundred years old: Aboriginal <placeName key="Rossdale" ref="https://sws.geonames.org/6127856" ana="webannotation:http://temp.lincsproject.ca/7gHOBkBgZDk">Rossdale</placeName>, routinely inhabited for six thousand years. </ref>One may be watched by a ring-necked pheasant, red squirrels, a coyote, foxes, and certainly magpies: denizens of the urban river valley. Look uphill, downriver, and one will see the brick brewery, now the residence of <persName key="Gene Dub architecte canadien" ref="http://viaf.org/viaf/96113713" ana="webannotation:http://temp.lincsproject.ca/Yqamdpjzeom">Gene Dub</persName>, the city’s best-loved architect, implicated as well in gentrification; upriver, the brickyard site has become a fitness centre. Running past is <placeName key="North Saskatchewan River" ref="https://sws.geonames.org/6090589" ana="webannotation:http://temp.lincsproject.ca/Jn2mCChwkoa">the North Saskatchewan River</placeName> itself, linked to <placeName key="Saskatchewan Glacier" ref="https://sws.geonames.org/6141246" ana="webannotation:http://temp.lincsproject.ca/KvuQ61897WC">the Saskatchewan Glacier</placeName>, though heated and treated by the Rossdale power generating station.</ref>
                             </ref>
                         </ref>
                     </p>
@@ -7510,6 +7510,362 @@
         "label": "Nold, Christian 1976-",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/M9Bb9a1sS8K">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/M9Bb9a1sS8K",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T15:59:47.576Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ClQwNXikWHb",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ClQwNXikWHb/selector/textPosition/hm6bzrQxsrA",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 19057,
+                "end": 19065,
+                "refinedBy": {
+                    "id": "/target/ClQwNXikWHb/selector/textQuote/uNBdsmH4KSM",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Rossdale",
+                    "prefix": "\n                        \n                    \n                \n                \n                   ",
+                    "suffix": "                    \n                        \n                            The Rossdale Flats, a two-square-kilometre zone geographically central to Edmonton yet topographically as well as symbolically beneath the city core, have staged quintessentially urban contests between private and public, efficiency and commemoration, settlement, commerce, and resource extraction"
+                }
+            },
+            {
+                "id": "/target/ClQwNXikWHb/selector/css/IfVyAD1EZkz",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/M9Bb9a1sS8K]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6127856",
+        "label": "Rossdale",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/HcORCoWQ6Ss">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/HcORCoWQ6Ss",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T15:59:47.856Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/dB6aqwbJXCf",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/dB6aqwbJXCf/selector/textPosition/8Pxuu6EIThM",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 19439,
+                "end": 19447,
+                "refinedBy": {
+                    "id": "/target/dB6aqwbJXCf/selector/textQuote/bEgLGwpSy2i",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Rossdale",
+                    "prefix": "",
+                    "suffix": "occupies the site of pre–Treaty 6 Aboriginal settlements, the second Fort Edmonton, the inauguration of the Province of Alberta, a burial ground, an ice house, a fair ground, a ball park, and a power plant"
+                }
+            },
+            {
+                "id": "/target/dB6aqwbJXCf/selector/css/jP6P7XiCoof",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/HcORCoWQ6Ss]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6127856",
+        "label": "Rossdale",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/6HfzKICsX8F">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/6HfzKICsX8F",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T15:59:48.019Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/maYjPFF1CYN",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/maYjPFF1CYN/selector/textPosition/kGAq08ARPol",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 20028,
+                "end": 20036,
+                "refinedBy": {
+                    "id": "/target/maYjPFF1CYN/selector/textQuote/m447DIBYAvt",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Rossdale",
+                    "prefix": "\n                                The conflicts of civic, corporate, and environmental interests have circulated in",
+                    "suffix": "\n                                It is the site for powerful past futures: here is where the planetarium was to be built, where baseball would flourish, where power generation would triple, where artist studios and chic cafes would heighten Edmonton’s cosmopolitan cachet"
+                }
+            },
+            {
+                "id": "/target/maYjPFF1CYN/selector/css/EDxkbFsiQnj",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/6HfzKICsX8F]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6127856",
+        "label": "Rossdale",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/7gHOBkBgZDk">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/7gHOBkBgZDk",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T15:59:48.187Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/LBV1sS7Ny75",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/LBV1sS7Ny75/selector/textPosition/VPbCAPpvriv",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 21362,
+                "end": 21370,
+                "refinedBy": {
+                    "id": "/target/LBV1sS7Ny75/selector/textQuote/1HHrHVFJwpg",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Rossdale",
+                    "prefix": " Beneath that vision lies another, forcibly made invisible by the false celebration of this city as merely one hundred years old: Aboriginal",
+                    "suffix": " routinely inhabited for six thousand years"
+                }
+            },
+            {
+                "id": "/target/LBV1sS7Ny75/selector/css/IDbCUOUdSi9",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/7gHOBkBgZDk]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6127856",
+        "label": "Rossdale",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
