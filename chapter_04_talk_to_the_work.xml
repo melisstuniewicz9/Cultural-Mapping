@@ -607,7 +607,7 @@
                     </p>
                     <p xml:id="p1201">
                         <ref target="#technology">
-                            <ref target="#genre_journalism">The <title level="j">Canadian Bookman</title> digital edition project is hosted by <orgName>
+                            <ref target="#genre_journalism">The <title level="j"><orgName key="Canadian Author &amp; Bookman" ref="https://www.wikidata.org/wiki/Q5029743" ana="webannotation:http://temp.lincsproject.ca/deh8hDIZSsA">Canadian Bookman</orgName></title> digital edition project is hosted by <orgName>
                                     <abbr>CWRC</abbr>
                                 </orgName> and uses <abbr>ISTC</abbr> registration to accomplish two primary objectives. The first objective is to enable cross-platform discovery of the project, in which readers are exposed to related projects and other digital copies of the <title level="j">Canadian Bookman</title> available on the web. The second objective of <abbr>ISTC</abbr> registration is to describe the serial’s paratextual elements, specifically advertisements, in order to move beyond basic encoding strategies to represent the relationship between works and advertisements.</ref>
                         </ref>
@@ -620,7 +620,7 @@
                                     <bibl>56</bibl>
                                 </note> transmit meaning, <orgName>
                                     <abbr>CWRC</abbr>
-                                </orgName>’s <title level="j">Canadian Bookman</title> project contends that advertisements exceed their commercial dimension to become an intrinsic textual feature of the periodical.</ref>
+                                </orgName>’s <title level="j"><orgName key="Canadian Author &amp; Bookman" ref="https://www.wikidata.org/wiki/Q5029743" ana="webannotation:http://temp.lincsproject.ca/nFZUc8lIh9u">Canadian Bookman</orgName></title> project contends that advertisements exceed their commercial dimension to become an intrinsic textual feature of the periodical.</ref>
                         </ref>
                     </p>
                     <p xml:id="p1203">
@@ -636,7 +636,7 @@
                             <ref target="#genre_journalism">In order to transcribe, annotate, and represent advertisements as extra-textual cues, and analyze how they serve to alter the reading event and a reader’s interpretation of literary texts, it is necessary to consider layout as a discursive system. Dissecting a periodical’s page (including the physical placement of advertisements on the page) will help determine the authoritative value of the physical proximity of advertisements to a literary work and their role in the production of literary meaning.<ref target="#technology"/>
                                 <orgName>
                                     <abbr>CWRC</abbr>
-                                </orgName>’s <title level="j">Canadian Bookman</title> project, in its initial stages, aims to look at the historical and bibliographical information connected to advertisements in each issue of the periodical (specifically, the people responsible for each advertisement, including the publisher, copywriter, printer, and consumers).</ref>
+                                </orgName>’s <title level="j"><orgName key="Canadian Author &amp; Bookman" ref="https://www.wikidata.org/wiki/Q5029743" ana="webannotation:http://temp.lincsproject.ca/4OQj1yMRFEz">Canadian Bookman</orgName></title> project, in its initial stages, aims to look at the historical and bibliographical information connected to advertisements in each issue of the periodical (specifically, the people responsible for each advertisement, including the publisher, copywriter, printer, and consumers).</ref>
                         </ref>
                     </p>
                     <p xml:id="p1205">
@@ -659,7 +659,7 @@
                         <ref target="#technology">
                             <ref target="#genre_journalism">
                                 <ref target="#editions">
-                                    <ref target="#theme_or_topic">Several questions arise from these digitizations of <title level="j">Canadian Bookman</title>. One must ask, for example, whether these scanned versions should be registered as the original work. There is no easy answer to this probing question. If paratexts inform the work—as I believe they do—scanning and presenting on the web only those periodical issues that are free of copyright shifts the work away from its original, print-based state. But in what way has the periodical been derived from the original? Is it in a manner that justifies a different identifier? Does <q>original</q> refer to an individual issue (or the texts within that issue) or the complete run of <title level="j">Canadian Bookman</title>? This matter is complicated further by the fact that a significant amount of content in the full run has Canadian copyright issues that may prevent its inclusion in the final digital edition. Moreover, serials differ from monographs, and one may wonder whether separate registration of each issue accurately reflects the intention of its editors (both the editors of the original print run and the current digitization). In other words, how a work is divided and identified has much to do with editorial considerations and not only with the management of digital content.</ref>
+                                    <ref target="#theme_or_topic">Several questions arise from these digitizations of <title level="j"><orgName key="Canadian Author &amp; Bookman" ref="https://www.wikidata.org/wiki/Q5029743" ana="webannotation:http://temp.lincsproject.ca/LYkoJ8K3XXP">Canadian Bookman</orgName></title>. One must ask, for example, whether these scanned versions should be registered as the original work. There is no easy answer to this probing question. If paratexts inform the work—as I believe they do—scanning and presenting on the web only those periodical issues that are free of copyright shifts the work away from its original, print-based state. But in what way has the periodical been derived from the original? Is it in a manner that justifies a different identifier? Does <q>original</q> refer to an individual issue (or the texts within that issue) or the complete run of <title level="j"><orgName key="Canadian Author &amp; Bookman" ref="https://www.wikidata.org/wiki/Q5029743" ana="webannotation:http://temp.lincsproject.ca/SjkGfszJrLJ">Canadian Bookman</orgName></title>? This matter is complicated further by the fact that a significant amount of content in the full run has Canadian copyright issues that may prevent its inclusion in the final digital edition. Moreover, serials differ from monographs, and one may wonder whether separate registration of each issue accurately reflects the intention of its editors (both the editors of the original print run and the current digitization). In other words, how a work is divided and identified has much to do with editorial considerations and not only with the management of digital content.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -5039,6 +5039,451 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/pNL2urV4WKe]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q5029743",
+        "label": "Canadian Author & Bookman",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/deh8hDIZSsA">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/deh8hDIZSsA",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T11:52:33.665Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/n9NWa0XSd5H",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/n9NWa0XSd5H/selector/textPosition/LApNLgXBPrU",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 26596,
+                "end": 26612,
+                "refinedBy": {
+                    "id": "/target/n9NWa0XSd5H/selector/textQuote/yX7YS95NXqK",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canadian Bookman",
+                    "prefix": "\n                        \n                    \n                    \n                        \n                            The",
+                    "suffix": "digital edition project is hosted by \n                                    CWRC\n                                 and uses ISTC registration to accomplish two primary objectives"
+                }
+            },
+            {
+                "id": "/target/n9NWa0XSd5H/selector/css/mTOi8EqPKBu",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/deh8hDIZSsA]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q5029743",
+        "label": "Canadian Author & Bookman",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/nFZUc8lIh9u">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/nFZUc8lIh9u",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T11:52:33.770Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/G01GWQKRXgG",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/G01GWQKRXgG/selector/textPosition/0sO1jBrJrtQ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28008,
+                "end": 28024,
+                "refinedBy": {
+                    "id": "/target/G01GWQKRXgG/selector/textQuote/x9neeyZYTeI",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canadian Bookman",
+                    "prefix": " Drawing on Jerome McGann’s assertion that both the work’s words (linguistic codes) and its physical features (the bibliographical code) \n                                    56\n                                 transmit meaning, \n                                    CWRC\n                                ’s",
+                    "suffix": "project contends that advertisements exceed their commercial dimension to become an intrinsic textual feature of the periodical"
+                }
+            },
+            {
+                "id": "/target/G01GWQKRXgG/selector/css/jnO0Yxn6vxd",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/nFZUc8lIh9u]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q5029743",
+        "label": "Canadian Author & Bookman",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/4OQj1yMRFEz">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/4OQj1yMRFEz",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T11:52:33.880Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/oBCSR8FJXot",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/oBCSR8FJXot/selector/textPosition/r6Fnv9E7JuV",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 30712,
+                "end": 30728,
+                "refinedBy": {
+                    "id": "/target/oBCSR8FJXot/selector/textQuote/vWqFm9a1NCt",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canadian Bookman",
+                    "prefix": "\n                                \n                                    CWRC\n                                ’s",
+                    "suffix": "project, in its initial stages, aims to look at the historical and bibliographical information connected to advertisements in each issue of the periodical (specifically, the people responsible for each advertisement, including the publisher, copywriter, printer, and consumers)"
+                }
+            },
+            {
+                "id": "/target/oBCSR8FJXot/selector/css/k0UwLEbyWrA",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/4OQj1yMRFEz]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q5029743",
+        "label": "Canadian Author & Bookman",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/LYkoJ8K3XXP">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/LYkoJ8K3XXP",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T11:52:33.993Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/1UGLJY6hlTQ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/1UGLJY6hlTQ/selector/textPosition/jfFFxMOaPYI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 33805,
+                "end": 33821,
+                "refinedBy": {
+                    "id": "/target/1UGLJY6hlTQ/selector/textQuote/AUJunTZmqC2",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canadian Bookman",
+                    "prefix": "\n                            \n                        \n                    \n                    \n                        \n                            \n                                \n                                    Several questions arise from these digitizations of",
+                    "suffix": " One must ask, for example, whether these scanned versions should be registered as the original work"
+                }
+            },
+            {
+                "id": "/target/1UGLJY6hlTQ/selector/css/1xtlufixh65",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/LYkoJ8K3XXP]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q5029743",
+        "label": "Canadian Author & Bookman",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/SjkGfszJrLJ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/SjkGfszJrLJ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T11:52:34.653Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/11n0OVxvxzo",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_04_talk_to_the_work.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Talk to the Work"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/11n0OVxvxzo/selector/textPosition/qYcrIurHKIU",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 34397,
+                "end": 34413,
+                "refinedBy": {
+                    "id": "/target/11n0OVxvxzo/selector/textQuote/UlfW7tQgHwd",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canadian Bookman",
+                    "prefix": " But in what way has the periodical been derived from the original? Is it in a manner that justifies a different identifier? Does original refer to an individual issue (or the texts within that issue) or the complete run of",
+                    "suffix": " This matter is complicated further by the fact that a significant amount of content in the full run has Canadian copyright issues that may prevent its inclusion in the final digital edition"
+                }
+            },
+            {
+                "id": "/target/11n0OVxvxzo/selector/css/CX0Xm3x70x4",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/SjkGfszJrLJ]"
             }
         ]
     },
