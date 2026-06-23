@@ -628,7 +628,7 @@
                         <bibl><persName key="Bruegmann, Robert" ref="http://viaf.org/viaf/46835259" ana="webannotation:http://temp.lincsproject.ca/udrAzzVemm2">Bruegmann</persName>, <persName key="Bruegmann, Robert" ref="http://viaf.org/viaf/46835259" ana="webannotation:http://temp.lincsproject.ca/rplVjcomBoT">Robert</persName>. <title level="m">Sprawl: A Compact History</title>. <placeName key="Chicago" ref="https://sws.geonames.org/4887398" ana="webannotation:http://temp.lincsproject.ca/NVrazmUvIK1">Chicago</placeName>: <orgName key="University of Chicago. Press" ref="http://viaf.org/viaf/122888939" ana="webannotation:http://temp.lincsproject.ca/mnRP8jC8Wek">University of Chicago Press</orgName>, 2006.</bibl>
                         <bibl>Casey, Edward S.<title level="m">The Fate of Place: A Philosophical History</title>. Berkeley: <orgName key="University of California press" ref="http://viaf.org/viaf/148948307" ana="webannotation:http://temp.lincsproject.ca/0BqIjlIjWie">University of California Press</orgName>, 1998.</bibl>
                         <bibl><persName key="Coverley, Merlin." ref="http://viaf.org/viaf/71355916" ana="webannotation:http://temp.lincsproject.ca/ZDYfSPEX1Db">Coverley</persName>, <persName key="Coverley, Merlin." ref="http://viaf.org/viaf/71355916" ana="webannotation:http://temp.lincsproject.ca/Oad2HFiBwcI">Merlin</persName>. <title level="m">Psychogeography</title>. London: Pocket Essentials, 2010.</bibl>
-                        <bibl>Edwards, <persName key="Edwards, Justin D., 1970-...." ref="http://viaf.org/viaf/116861733" ana="webannotation:http://temp.lincsproject.ca/bSyS8clzM2v">Justin D.,</persName> and <persName key="Ivison, Douglas" ref="http://viaf.org/viaf/74103425" ana="webannotation:http://temp.lincsproject.ca/jdIwbqt78ht" cert="high" type="real">Douglas Ivison</persName>. <title level="m">Downtown <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/De5OjrD9IDQ">Canada</placeName>: Writing Canadian Cities</title>. Toronto: <orgName key="University of Toronto. Press" ref="http://viaf.org/viaf/126595939" ana="webannotation:http://temp.lincsproject.ca/QknxExjPd26">University of Toronto Press</orgName>, 2005.</bibl>
+                        <bibl><persName key="Edwards, Justin D., 1970-...." ref="http://viaf.org/viaf/116861733" ana="webannotation:http://temp.lincsproject.ca/QSiqYTw0W9J">Edwards</persName>, <persName key="Edwards, Justin D., 1970-...." ref="http://viaf.org/viaf/116861733" ana="webannotation:http://temp.lincsproject.ca/bSyS8clzM2v">Justin D.,</persName> and <persName key="Ivison, Douglas" ref="http://viaf.org/viaf/74103425" ana="webannotation:http://temp.lincsproject.ca/jdIwbqt78ht" cert="high" type="real">Douglas Ivison</persName>. <title level="m">Downtown <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/De5OjrD9IDQ">Canada</placeName>: Writing Canadian Cities</title>. Toronto: <orgName key="University of Toronto. Press" ref="http://viaf.org/viaf/126595939" ana="webannotation:http://temp.lincsproject.ca/QknxExjPd26">University of Toronto Press</orgName>, 2005.</bibl>
                         <bibl><persName key="Goyette, Linda, 1955-...." ref="http://viaf.org/viaf/36321908" ana="webannotation:http://temp.lincsproject.ca/yzrn0K00uoN">Goyette</persName>, <persName key="Goyette, Linda, 1955-...." ref="http://viaf.org/viaf/36321908" ana="webannotation:http://temp.lincsproject.ca/Dd1NHBzl4V7">Linda</persName>, and Carolina Jakeway Roemmich. <title level="m"><placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/6Q0wLnYEZW2">Edmonton</placeName> In Our Own Words</title>. <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/TGKTMhq8Y5V">Edmonton</placeName>: <orgName key="University of Alberta Press." ref="http://viaf.org/viaf/311351545" ana="webannotation:http://temp.lincsproject.ca/PoTzWfxjFE5">University of Alberta Press</orgName>, 2004.</bibl>
                         <bibl>Hagen, Darrin. <title level="m">The Edmonton Queen: Not a Riverboat Story</title>. <placeName key="Edmonton" ref="https://sws.geonames.org/5946768" ana="webannotation:http://temp.lincsproject.ca/v0O2Zu3li3Z">Edmonton</placeName>: Slipstream Books, 1997.</bibl>
                         <bibl>Jacobs, Jane. <title level="m">The Death and Life of Great American Cities</title>. 1961. New York: Modern Library, 1993.</bibl>
@@ -8388,6 +8388,95 @@
         "id": "http://viaf.org/viaf/71355916",
         "type": "crm:E21_Person",
         "label": "Coverley, Merlin."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/QSiqYTw0W9J">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/QSiqYTw0W9J",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T14:51:12.261Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/nxzeVCTRFvM",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/nxzeVCTRFvM/selector/textPosition/wnjkH501Oom",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27009,
+                "end": 27016,
+                "refinedBy": {
+                    "id": "/target/nxzeVCTRFvM/selector/textQuote/DAhhQlGAXmE",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Edwards",
+                    "prefix": "\n                       ",
+                    "suffix": " Justin D"
+                }
+            },
+            {
+                "id": "/target/nxzeVCTRFvM/selector/css/U1JHMHh1KH4",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/QSiqYTw0W9J]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/116861733",
+        "type": "crm:E21_Person",
+        "label": "Edwards, Justin D., 1970-....",
+        "description": "Edwards, Justin D."
     },
     "P2_has_type": [
         "oa:identifying"
