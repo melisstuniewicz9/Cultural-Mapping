@@ -529,7 +529,7 @@
                     <p xml:id="p1270">
                         <ref target="#technology">
                             <ref target="#spatiality">Of course, there are already many web-based cartographies that take cities as object and inspiration. Hitotoki, mentioned above, offers short place-based narratives from <placeName key="Tokyo" ref="https://sws.geonames.org/1850147" ana="webannotation:http://temp.lincsproject.ca/HEiZeFZ4k4V">Tokyo</placeName>, <placeName key="New York City" ref="https://sws.geonames.org/5128581" ana="webannotation:http://temp.lincsproject.ca/OjgrgXYFHuh">New York</placeName>, <placeName key="Shanghai" ref="https://sws.geonames.org/1796236" ana="webannotation:http://temp.lincsproject.ca/rb6pkpFx3WA">Shanghai</placeName>, <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/li02975qs8J">Paris</placeName>, and Sofia. The site has recently become <orgName key="Twitter (Firm)" ref="http://viaf.org/viaf/38145970073232250833" ana="webannotation:http://temp.lincsproject.ca/q5Y4BAdZJYz">Twitter</orgName>-based, but in its <q>classic</q> form Hitotoki asserts the importance of place by insisting that even quotidian stories take place somewhere, and imbues that somewhere with significance. In a different vein, sound maps such as London’s <placeName key="Caledonian Road Apartments" ref="https://sws.geonames.org/10115056" ana="webannotation:http://temp.lincsproject.ca/XWsXhLAUdCo">Caledonian Road</placeName> project demonstrate new ways of collecting and publicizing popular history <note place="inline">
-                                    <bibl><orgName key="Dein, Alan" ref="http://viaf.org/viaf/51086449" ana="webannotation:http://temp.lincsproject.ca/sq4abDIObhZ">Dein</orgName> and Panetta</bibl>
+                                    <bibl><orgName key="Dein, Alan" ref="http://viaf.org/viaf/51086449" ana="webannotation:http://temp.lincsproject.ca/sq4abDIObhZ">Dein</orgName> and <orgName key="Panetta, Francesca" ref="https://www.wikidata.org/wiki/Q87065570" ana="webannotation:http://temp.lincsproject.ca/MZ3JeLEwnyq">Panetta</orgName></bibl>
                                 </note>.<note xml:id="n72" place="end">
                                     <ref target="#non-book_media">This map stands in for a growing number of sound maps, to say nothing of the less crafted, more encyclopedic acoustic city maps like those of <placeName key="Toronto" ref="https://sws.geonames.org/6167865.  " ana="webannotation:http://temp.lincsproject.ca/8V44ljtuSL1">Toronto</placeName></ref>
                                     <bibl>
@@ -12493,6 +12493,95 @@
     "body": {
         "id": "http://viaf.org/viaf/51086449",
         "label": "Dein, Alan",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/MZ3JeLEwnyq">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/MZ3JeLEwnyq",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-24T17:43:36.965Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ITko6EoR5RH",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ITko6EoR5RH/selector/textPosition/h7d1tprfJBz",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15565,
+                "end": 15572,
+                "refinedBy": {
+                    "id": "/target/ITko6EoR5RH/selector/textQuote/6SxlYqkI1e3",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Panetta",
+                    "prefix": " In a different vein, sound maps such as London’s Caledonian Road project demonstrate new ways of collecting and publicizing popular history \n                                    Dein and",
+                    "suffix": "                                "
+                }
+            },
+            {
+                "id": "/target/ITko6EoR5RH/selector/css/bx0DRc5KvSn",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/MZ3JeLEwnyq]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q87065570",
+        "label": "Panetta, Francesca",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
     },
