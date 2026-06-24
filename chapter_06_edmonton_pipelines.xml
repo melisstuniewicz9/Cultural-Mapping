@@ -12147,6 +12147,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/iErznGm7fWr">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/iErznGm7fWr",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-24T17:41:31.408Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/e0HDJmsuMeZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/e0HDJmsuMeZ/selector/textPosition/ZcDTO5Psb7r",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15155,
+                "end": 15160,
+                "refinedBy": {
+                    "id": "/target/e0HDJmsuMeZ/selector/textQuote/tD3Fko3a75f",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Sofia",
+                    "prefix": " Hitotoki, mentioned above, offers short place-based narratives from Tokyo, New York, Shanghai, Paris, and",
+                    "suffix": " The site has recently become Twitter-based, but in its classic form Hitotoki asserts the importance of place by insisting that even quotidian stories take place somewhere, and imbues that somewhere with significance"
+                }
+            },
+            {
+                "id": "/target/e0HDJmsuMeZ/selector/css/Sm9M2Xn4SVn",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/iErznGm7fWr]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/727012",
+        "type": "crm:E53_Place",
+        "label": "Sofia",
+        "description": "Sofia, BG"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/q5Y4BAdZJYz">
 <![CDATA[{
     "@context": [
