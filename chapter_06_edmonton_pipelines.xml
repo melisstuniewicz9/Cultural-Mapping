@@ -542,7 +542,7 @@
                                 <ref target="#non-book_media">
                                     <ref target="#spatiality">
                                         <ref target="#history">
-                                            <ref target="#technology">The Cleveland Historical Map similarly spatializes local history. Finally, the mapping projects that <persName key="Nold, Christian 1976-" ref="http://viaf.org/viaf/6732166007106875590006" ana="webannotation:http://temp.lincsproject.ca/1UL0N6kNvsc">Christian Nold</persName> has initiated are particularly compelling for the way they map urban intensities (the San Francisco Emotion Map) or their opposites (the Stockport Emotion Map). <persName key="Nold, Christian 1976-" ref="http://viaf.org/viaf/6732166007106875590006" ana="webannotation:http://temp.lincsproject.ca/oIbFic2ydTQ">Nold</persName> equips community mappers with an electronic device that measures physical responses and then he sends them into city spaces. After he amasses responses, he can map the city sites that evoke particularly strong physical responses. <persName key="Nold, Christian 1976-" ref="http://viaf.org/viaf/6732166007106875590006" ana="webannotation:http://temp.lincsproject.ca/GdVhZZ7dNem">Nold</persName>’s work also has evolved into community-based mapping, and, as in the case of Stockport, helps citizens understand how and why the city might fail to elicit intensity.</ref>
+                                            <ref target="#technology">The Cleveland Historical Map similarly spatializes local history. Finally, the mapping projects that <persName key="Nold, Christian 1976-" ref="http://viaf.org/viaf/6732166007106875590006" ana="webannotation:http://temp.lincsproject.ca/1UL0N6kNvsc">Christian Nold</persName> has initiated are particularly compelling for the way they map urban intensities (the San Francisco Emotion Map) or their opposites (the Stockport Emotion Map). <persName key="Nold, Christian 1976-" ref="http://viaf.org/viaf/6732166007106875590006" ana="webannotation:http://temp.lincsproject.ca/oIbFic2ydTQ">Nold</persName> equips community mappers with an electronic device that measures physical responses and then he sends them into city spaces. After he amasses responses, he can map the city sites that evoke particularly strong physical responses. <persName key="Nold, Christian 1976-" ref="http://viaf.org/viaf/6732166007106875590006" ana="webannotation:http://temp.lincsproject.ca/GdVhZZ7dNem">Nold</persName>’s work also has evolved into community-based mapping, and, as in the case of <placeName key="Stockport" ref="https://sws.geonames.org/2636882" ana="webannotation:http://temp.lincsproject.ca/TiJO21X1Jnu">Stockport</placeName>, helps citizens understand how and why the city might fail to elicit intensity.</ref>
                                         </ref>
                                     </ref>
                                 </ref> Pipelines hopes to adapt many aspects of projects like these—their community-mindedness, their attention to narrative, their understanding of history <q>from below,</q> for instance—while mobilizing the city’s open data to make sense of this particular city, in the here and now.</ref>
@@ -12592,6 +12592,95 @@
         "label": "Panetta, Francesca",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/TiJO21X1Jnu">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/TiJO21X1Jnu",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-24T17:49:47.057Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ejDsoKb1qrI",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ejDsoKb1qrI/selector/textPosition/LtsZaDNLntn",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16926,
+                "end": 16935,
+                "refinedBy": {
+                    "id": "/target/ejDsoKb1qrI/selector/textQuote/NDdYbk6OkGe",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Stockport",
+                    "prefix": " Nold’s work also has evolved into community-based mapping, and, as in the case of",
+                    "suffix": " helps citizens understand how and why the city might fail to elicit intensity"
+                }
+            },
+            {
+                "id": "/target/ejDsoKb1qrI/selector/css/4IXciRCfsko",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/TiJO21X1Jnu]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2636882",
+        "type": "crm:E53_Place",
+        "label": "Stockport",
+        "description": "England, Borough of Stockport, GB"
     },
     "P2_has_type": [
         "oa:identifying"
