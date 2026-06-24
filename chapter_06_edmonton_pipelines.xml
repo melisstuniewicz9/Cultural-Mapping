@@ -595,7 +595,7 @@
                 <div type="section">
                     <head>Author’s Note</head>
                     <p xml:id="p1277" rend="authors-note">
-                        <ref target="#collaboration">I wish to acknowledge the assistance of colleagues Russell Cobb, <persName key="Engel, Maureen, 1968-" ref="http://viaf.org/viaf/14157222993184972804" ana="webannotation:http://temp.lincsproject.ca/pZNUhkLuC6H">Maureen Engel</persName>, and Daniel Laforest, as well as <persName key="Luckert, Erika Rebecca, 1992-" ref="http://viaf.org/viaf/316545930" ana="webannotation:http://temp.lincsproject.ca/OaXthNvUxaC">Erika Luckert</persName>, the student who has worked most closely <orgName key="Dein, Alan" ref="http://viaf.org/viaf/51086449" ana="webannotation:http://temp.lincsproject.ca/QmGsKV7u6k7">with </orgName>me on the Rossdale project.</ref>
+                        <ref target="#collaboration">I wish to acknowledge the assistance of colleagues Russell Cobb, <persName key="Engel, Maureen, 1968-" ref="http://viaf.org/viaf/14157222993184972804" ana="webannotation:http://temp.lincsproject.ca/pZNUhkLuC6H">Maureen Engel</persName>, and <persName key="Laforest, Daniel, 1974-...." ref="http://viaf.org/viaf/102772238" ana="webannotation:http://temp.lincsproject.ca/w91lHJPaIfZ">Daniel Laforest</persName>, as well as <persName key="Luckert, Erika Rebecca, 1992-" ref="http://viaf.org/viaf/316545930" ana="webannotation:http://temp.lincsproject.ca/OaXthNvUxaC">Erika Luckert</persName>, the student who has worked most closely <orgName key="Dein, Alan" ref="http://viaf.org/viaf/51086449" ana="webannotation:http://temp.lincsproject.ca/QmGsKV7u6k7">with </orgName>me on the Rossdale project.</ref>
                     </p>
                 </div>
                 <div type="section">
@@ -12228,6 +12228,95 @@
         "id": "http://viaf.org/viaf/14157222993184972804",
         "type": "crm:E21_Person",
         "label": "Engel, Maureen, 1968-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/w91lHJPaIfZ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/w91lHJPaIfZ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-24T15:43:22.311Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/bXSqXQCbEO9",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/bXSqXQCbEO9/selector/textPosition/z3wmuIQpdTm",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 24998,
+                "end": 25013,
+                "refinedBy": {
+                    "id": "/target/bXSqXQCbEO9/selector/textQuote/feZSOVWzGBO",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Daniel Laforest",
+                    "prefix": "\n                            \n                        \n                    \n                \n                \n                    Author’s Note\n                    \n                        I wish to acknowledge the assistance of colleagues Russell Cobb, Maureen Engel, and",
+                    "suffix": " as well as Erika Luckert, the student who has worked most closely with me on the Rossdale project"
+                }
+            },
+            {
+                "id": "/target/bXSqXQCbEO9/selector/css/biC9QBUQunO",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/w91lHJPaIfZ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/102772238",
+        "type": "crm:E21_Person",
+        "label": "Laforest, Daniel, 1974-....",
+        "description": "Laforest, Daniel"
     },
     "P2_has_type": [
         "oa:identifying"
