@@ -595,7 +595,7 @@
                 <div type="section">
                     <head>Author’s Note</head>
                     <p xml:id="p1277" rend="authors-note">
-                        <ref target="#collaboration">I wish to acknowledge the assistance of colleagues Russell Cobb, <persName key="Engel, Maureen, 1968-" ref="http://viaf.org/viaf/14157222993184972804" ana="webannotation:http://temp.lincsproject.ca/pZNUhkLuC6H">Maureen Engel</persName>, and <persName key="Laforest, Daniel, 1974-...." ref="http://viaf.org/viaf/102772238" ana="webannotation:http://temp.lincsproject.ca/w91lHJPaIfZ">Daniel Laforest</persName>, as well as <persName key="Luckert, Erika Rebecca, 1992-" ref="http://viaf.org/viaf/316545930" ana="webannotation:http://temp.lincsproject.ca/OaXthNvUxaC">Erika Luckert</persName>, the student who has worked most closely <orgName key="Dein, Alan" ref="http://viaf.org/viaf/51086449" ana="webannotation:http://temp.lincsproject.ca/QmGsKV7u6k7">with </orgName>me on the Rossdale project.</ref>
+                        <ref target="#collaboration">I wish to acknowledge the assistance of colleagues <persName key="Cobb, Russell, 1974-" ref="http://viaf.org/viaf/305446131" ana="webannotation:http://temp.lincsproject.ca/tsYFJEjtW7n">Russell Cobb</persName>, <persName key="Engel, Maureen, 1968-" ref="http://viaf.org/viaf/14157222993184972804" ana="webannotation:http://temp.lincsproject.ca/pZNUhkLuC6H">Maureen Engel</persName>, and <persName key="Laforest, Daniel, 1974-...." ref="http://viaf.org/viaf/102772238" ana="webannotation:http://temp.lincsproject.ca/w91lHJPaIfZ">Daniel Laforest</persName>, as well as <persName key="Luckert, Erika Rebecca, 1992-" ref="http://viaf.org/viaf/316545930" ana="webannotation:http://temp.lincsproject.ca/OaXthNvUxaC">Erika Luckert</persName>, the student who has worked most closely <orgName key="Dein, Alan" ref="http://viaf.org/viaf/51086449" ana="webannotation:http://temp.lincsproject.ca/QmGsKV7u6k7">with </orgName>me on the Rossdale project.</ref>
                     </p>
                 </div>
                 <div type="section">
@@ -12140,6 +12140,95 @@
         "type": "crm:E74_Group",
         "label": "NeWest Press.",
         "description": "NeWest Press maison d'édition"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/tsYFJEjtW7n">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/tsYFJEjtW7n",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-24T15:44:00.466Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/dEdYqz0D2GD",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/dEdYqz0D2GD/selector/textPosition/FJdJBvKtYyM",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 24965,
+                "end": 24977,
+                "refinedBy": {
+                    "id": "/target/dEdYqz0D2GD/selector/textQuote/lmq0HTOuLJD",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Russell Cobb",
+                    "prefix": "\n                            \n                        \n                    \n                \n                \n                    Author’s Note\n                    \n                        I wish to acknowledge the assistance of colleagues",
+                    "suffix": " Maureen Engel, and Daniel Laforest, as well as Erika Luckert, the student who has worked most closely with me on the Rossdale project"
+                }
+            },
+            {
+                "id": "/target/dEdYqz0D2GD/selector/css/LmqlxF48dY3",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/tsYFJEjtW7n]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/305446131",
+        "type": "crm:E21_Person",
+        "label": "Cobb, Russell, 1974-",
+        "description": "Cobb, Russell"
     },
     "P2_has_type": [
         "oa:identifying"
