@@ -528,7 +528,7 @@
                     <head>Digital Cartographies</head>
                     <p xml:id="p1270">
                         <ref target="#technology">
-                            <ref target="#spatiality">Of course, there are already many web-based cartographies that take cities as object and inspiration. Hitotoki, mentioned above, offers short place-based narratives from <placeName key="Tokyo" ref="https://sws.geonames.org/1850147" ana="webannotation:http://temp.lincsproject.ca/HEiZeFZ4k4V">Tokyo</placeName>, <placeName key="New York City" ref="https://sws.geonames.org/5128581" ana="webannotation:http://temp.lincsproject.ca/OjgrgXYFHuh">New York</placeName>, <placeName key="Shanghai" ref="https://sws.geonames.org/1796236" ana="webannotation:http://temp.lincsproject.ca/rb6pkpFx3WA">Shanghai</placeName>, <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/li02975qs8J">Paris</placeName>, and Sofia. The site has recently become <orgName key="Twitter (Firm)" ref="http://viaf.org/viaf/38145970073232250833" ana="webannotation:http://temp.lincsproject.ca/q5Y4BAdZJYz">Twitter</orgName>-based, but in its <q>classic</q> form Hitotoki asserts the importance of place by insisting that even quotidian stories take place somewhere, and imbues that somewhere with significance. In a different vein, sound maps such as London’s Caledonian Road project demonstrate new ways of collecting and publicizing popular history <note place="inline">
+                            <ref target="#spatiality">Of course, there are already many web-based cartographies that take cities as object and inspiration. Hitotoki, mentioned above, offers short place-based narratives from <placeName key="Tokyo" ref="https://sws.geonames.org/1850147" ana="webannotation:http://temp.lincsproject.ca/HEiZeFZ4k4V">Tokyo</placeName>, <placeName key="New York City" ref="https://sws.geonames.org/5128581" ana="webannotation:http://temp.lincsproject.ca/OjgrgXYFHuh">New York</placeName>, <placeName key="Shanghai" ref="https://sws.geonames.org/1796236" ana="webannotation:http://temp.lincsproject.ca/rb6pkpFx3WA">Shanghai</placeName>, <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/li02975qs8J">Paris</placeName>, and Sofia. The site has recently become <orgName key="Twitter (Firm)" ref="http://viaf.org/viaf/38145970073232250833" ana="webannotation:http://temp.lincsproject.ca/q5Y4BAdZJYz">Twitter</orgName>-based, but in its <q>classic</q> form Hitotoki asserts the importance of place by insisting that even quotidian stories take place somewhere, and imbues that somewhere with significance. In a different vein, sound maps such as London’s <placeName key="Caledonian Road Apartments" ref="https://sws.geonames.org/10115056" ana="webannotation:http://temp.lincsproject.ca/XWsXhLAUdCo">Caledonian Road</placeName> project demonstrate new ways of collecting and publicizing popular history <note place="inline">
                                     <bibl>Dein and Panetta</bibl>
                                 </note>.<note xml:id="n72" place="end">
                                     <ref target="#non-book_media">This map stands in for a growing number of sound maps, to say nothing of the less crafted, more encyclopedic acoustic city maps like those of <placeName key="Toronto" ref="https://sws.geonames.org/6167865.  " ana="webannotation:http://temp.lincsproject.ca/8V44ljtuSL1">Toronto</placeName></ref>
@@ -12228,6 +12228,95 @@
         "type": "crm:E74_Group",
         "label": "Twitter (Firm)",
         "description": "Twitter (selskap)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/XWsXhLAUdCo">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/XWsXhLAUdCo",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-24T17:28:17.103Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/S6TNW2Udj4B",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_06_edmonton_pipelines.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Edmonton Pipelines"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/S6TNW2Udj4B/selector/textPosition/xkbIqHfZq32",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15428,
+                "end": 15443,
+                "refinedBy": {
+                    "id": "/target/S6TNW2Udj4B/selector/textQuote/XNo5ewvKvjq",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Caledonian Road",
+                    "prefix": " In a different vein, sound maps such as London’s",
+                    "suffix": "project demonstrate new ways of collecting and publicizing popular history \n                                    Dein and Panetta\n                                "
+                }
+            },
+            {
+                "id": "/target/S6TNW2Udj4B/selector/css/4QfXEelJPsw",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/XWsXhLAUdCo]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/10115056",
+        "type": "crm:E53_Place",
+        "label": "Caledonian Road Apartments",
+        "description": "England, Greater London, GB"
     },
     "P2_has_type": [
         "oa:identifying"
