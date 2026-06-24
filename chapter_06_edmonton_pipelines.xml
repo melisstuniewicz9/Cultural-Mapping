@@ -5720,10 +5720,9 @@
         ]
     },
     "body": {
-        "id": "http://dbpedia.org/resource/Winter_War",
+        "id": "https://nerve.lincsproject.ca/sZIrMXxCISm9OENVxN5Xk",
         "type": "crm:E5_Event",
-        "label": "Winter War",
-        "description": "The Winter War was a war between the Soviet Union (USSR) and Finland. It began with a Soviet invasion of Finland on 30 November 1939, three months after the outbreak of World War II, and ended three and a half months later with the Moscow Peace Treaty on 13 March 1940. The League of Nations deemed the attack illegal and expelled the Soviet Union from the organisation."
+        "label": "pre–Treaty"
     },
     "P2_has_type": [
         "oa:identifying"
