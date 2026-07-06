@@ -880,7 +880,7 @@
                         <ref target="#history">
                             <ref target="#non-book_media">
                                 <ref target="#technology">
-                                    <ref target="#spatiality">According to Staff, and to Julia Gillen and Nigel Hall, when picture postcards were introduced into the United Kingdom in 1894 they typically bore an image on one side and the address on the other, with room around the picture for <q>a very short message in the margin</q>
+                                    <ref target="#spatiality">According to Staff, and to Julia Gillen and Nigel Hall, when picture postcards were introduced into <placeName key="the United Kingdom" ref="https://sws.geonames.org/2635167/" ana="webannotation:http://temp.lincsproject.ca/BKLxJqTVshE">the United Kingdom</placeName> in 1894 they typically bore an image on one side and the address on the other, with room around the picture for <q>a very short message in the margin</q>
                                         <note place="inline">
                                             <bibl>Staff 88</bibl>
                                         </note>; <note place="inline">
@@ -15943,6 +15943,95 @@
         "type": "crm:E74_Group",
         "label": "University of California, Los Angeles",
         "description": "Uniwersytet Kalifornijski (Los Angeles)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/BKLxJqTVshE">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/BKLxJqTVshE",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:15:46.090Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/65T7FVOMxSK",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/65T7FVOMxSK/selector/textPosition/QsxaTkgBpNZ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 48395,
+                "end": 48413,
+                "refinedBy": {
+                    "id": "/target/65T7FVOMxSK/selector/textQuote/bxgfwaDXpUY",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the United Kingdom",
+                    "prefix": "\n                                        \n                                    \n                                \n                            \n                        \n                    \n                    \n                        \n                            \n                                \n                                    According to Staff, and to Julia Gillen and Nigel Hall, when picture postcards were introduced into",
+                    "suffix": "in 1894 they typically bore an image on one side and the address on the other, with room around the picture for a very short message in the margin\n                                        \n                                            Staff 88\n                                        ; \n                                            Gillen and Hall 2\n                                        "
+                }
+            },
+            {
+                "id": "/target/65T7FVOMxSK/selector/css/pVUuVPM1WPW",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/BKLxJqTVshE]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2635167/",
+        "type": "crm:E53_Place",
+        "label": "the United Kingdom",
+        "description": ""
     },
     "P2_has_type": [
         "oa:identifying"
