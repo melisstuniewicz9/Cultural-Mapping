@@ -523,7 +523,7 @@
                                 <ref target="#spatiality">
                                     <ref target="#genre_drama">
                                         <ref target="#representation_of_women">
-                                            <ref target="#intellectual_history">Like Wilde’s play, Strauss’s opera, and <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/57AX7b9nCN9">Maud Allan’s</persName> <title level="a">Vision of Salome,</title> the performances by Fuller and Mata Hari are themselves part of what Udo Kultermann demonstrates was a growing interest in <placeName key="Europe" ref="https://sws.geonames.org/6255148" ana="webannotation:http://temp.lincsproject.ca/lmRSKe7lDbq">Europe</placeName> and North America in the representation of the figure of Salome in visual arts, theatre, and music.</ref> Kultermann traces the circulation of cultural representations of Salome from around the 1840s through to the 1970s, focusing on the intensification of such representations in the first decade of the twentieth century.</ref> Of these many representations, it was arguably Wilde’s play that led to the popularizing of Salome’s dance: the <title level="a">Dance of the Seven Veils</title> was a climactic event in the play and, although not described in the stage directions, figured prominently in the famous illustrations developed by Aubrey Beardsley for the first English edition of 1894. But it was arguably <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/0GW6GWKAwDk">Maud Allan’s</persName> performance that gave rise to what the <title level="j">New York Times</title> in 1908 called <q>Salomania.</q>
+                                            <ref target="#intellectual_history">Like Wilde’s play, Strauss’s opera, and <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/57AX7b9nCN9">Maud Allan’s</persName> <title level="a">Vision of Salome,</title> the performances by Fuller and Mata Hari are themselves part of what Udo Kultermann demonstrates was a growing interest in <placeName key="Europe" ref="https://sws.geonames.org/6255148" ana="webannotation:http://temp.lincsproject.ca/lmRSKe7lDbq">Europe</placeName> and <placeName key="North America" ref="https://sws.geonames.org/6255149" ana="webannotation:http://temp.lincsproject.ca/wVhcUfP6vxS">North America</placeName> in the representation of the figure of Salome in visual arts, theatre, and music.</ref> Kultermann traces the circulation of cultural representations of Salome from around the 1840s through to the 1970s, focusing on the intensification of such representations in the first decade of the twentieth century.</ref> Of these many representations, it was arguably Wilde’s play that led to the popularizing of Salome’s dance: the <title level="a">Dance of the Seven Veils</title> was a climactic event in the play and, although not described in the stage directions, figured prominently in the famous illustrations developed by Aubrey Beardsley for the first English edition of 1894. But it was arguably <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/0GW6GWKAwDk">Maud Allan’s</persName> performance that gave rise to what the <title level="j">New York Times</title> in 1908 called <q>Salomania.</q>
                                     </ref>
                                 </ref>
                             </ref>
@@ -651,7 +651,7 @@
                                                 <ref target="#genre_journalism">Toni Bentley draws attention to a <q>lengthy piece</q> that appeared in the <title level="j">New York Times Sunday Magazine</title> in 1908 issuing a <q>warning about the current threat</q>
                                                     <note place="inline">
                                                         <bibl>Bentley 68</bibl>
-                                                    </note> posed by Salome dancers and expressing concern not only that <q>this virus could lead [in the other direction]—to North America</q>
+                                                    </note> posed by Salome dancers and expressing concern not only that <q>this virus could lead [in the other direction]—to <placeName key="North America" ref="https://sws.geonames.org/6255149" ana="webannotation:http://temp.lincsproject.ca/8gUuX9ByGB4">North America</placeName></q>
                                                     <note place="inline">
                                                         <bibl>Veteran Diplomat</bibl>
                                                     </note> but into domestic space. <q>At the present rate,</q> the article suggests,</ref>
@@ -1039,7 +1039,7 @@
                     <listBibl>
                         <head>Archival Sources</head>
                         <bibl>Allan, Maud. <title level="a">Maud Allan Clippings</title>. New York Public Library for the Performing Arts, New York.</bibl>
-                        <bibl>. <title level="a">Maud Allan Collection</title>. Dance Collection Danse Archives, Toronto.</bibl>
+                        <bibl>. <title level="a">Maud Allan Collection</title>. Dance Collection Danse Archives, <placeName key="Toronto" ref="https://sws.geonames.org/8133394/" ana="webannotation:http://temp.lincsproject.ca/TT88PjR7LUN">Toronto</placeName>.</bibl>
                         <bibl>. <title level="a">Maud Allan Collection</title>. Museum of Performance and Design, San Francisco.</bibl>
                         <bibl>. <title level="a">Maud Allan Papers. Collection 2038</title>. Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</bibl>
                     </listBibl>
@@ -1049,8 +1049,8 @@
                         <bibl>
                             <title level="a">The Call of Salome</title>. <title level="j">New York Times</title> 16 August 1908.</bibl>
                         <bibl>Cherniavsky, Felix. <title level="m">The Cherniavsky Trio</title>. <placeName key="Vancouver, British Columbia" ref="https://sws.geonames.org/6173331/" ana="webannotation:http://temp.lincsproject.ca/Tki4dZTOi9L">Vancouver</placeName>: Felix Cherniavsky, 2001.</bibl>
-                        <bibl>. <title level="m"><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/XFwu9ErKIrP">Maud Allan</persName> and Her Art</title>. Toronto: Dance Collection Danse Press/es, 1998.</bibl>
-                        <bibl>. <title level="m">The Salome Dancer: The Life and Times of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/wydVE4Gj9Ze">Maud Allan</persName></title>. Toronto: McClelland and Stewart, 1991.</bibl>
+                        <bibl>. <title level="m"><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/XFwu9ErKIrP">Maud Allan</persName> and Her Art</title>. <placeName key="Toronto" ref="https://sws.geonames.org/8133394/" ana="webannotation:http://temp.lincsproject.ca/QxIJsSMSYk7">Toronto</placeName>: Dance Collection Danse Press/es, 1998.</bibl>
+                        <bibl>. <title level="m">The Salome Dancer: The Life and Times of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/wydVE4Gj9Ze">Maud Allan</persName></title>. <placeName key="Toronto" ref="https://sws.geonames.org/8133394/" ana="webannotation:http://temp.lincsproject.ca/t8VvwqMi26e">Toronto</placeName>: McClelland and Stewart, 1991.</bibl>
                         <bibl>Donnachie, Ian L., and Innes Macleod. <title level="m">Victorian and Edwardian Scottish Lowlands from Historic Photographs</title>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/WLZHphVZrAW">London</placeName>: B.T. Batsford, 1979.</bibl>
                         <bibl>Dragon, Andrea.<title level="a">The Salome Dancer: An Eastern Dance Takes Western Roots. PowerPoint presentation</title>. N.d. Salome—People Server at <hi rend="small-caps">uncw</hi>. Accessed 3 April 2012. <ref target="http://people.uncw.edu/deagona/raqs/Salomes%20d1f.ppt">http://people.uncw.edu/deagona/raqs/Salomes%20d1f.ppt</ref>
                         </bibl>
@@ -15065,6 +15065,182 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/wVhcUfP6vxS">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/wVhcUfP6vxS",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:11:28.338Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/8ltB497jXHc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/8ltB497jXHc/selector/textPosition/722V7gpT1lE",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 12245,
+                "end": 12258,
+                "refinedBy": {
+                    "id": "/target/8ltB497jXHc/selector/textQuote/JKIH5xHdpAC",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "North America",
+                    "prefix": "\n                                \n                            \n                        \n                    \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                            Like Wilde’s play, Strauss’s opera, and Maud Allan’s Vision of Salome, the performances by Fuller and Mata Hari are themselves part of what Udo Kultermann demonstrates was a growing interest in Europe and",
+                    "suffix": "in the representation of the figure of Salome in visual arts, theatre, and music"
+                }
+            },
+            {
+                "id": "/target/8ltB497jXHc/selector/css/E4ZV0d7zXxC",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/wVhcUfP6vxS]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6255149",
+        "type": "crm:E53_Place",
+        "label": "North America"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/8gUuX9ByGB4">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/8gUuX9ByGB4",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:11:28.446Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/CT36xbbf5oG",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/CT36xbbf5oG/selector/textPosition/KfPSKa0u2I1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 23957,
+                "end": 23970,
+                "refinedBy": {
+                    "id": "/target/CT36xbbf5oG/selector/textQuote/o92gGFQqzrG",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "North America",
+                    "prefix": " \n                                                Toni Bentley draws attention to a lengthy piece that appeared in the New York Times Sunday Magazine in 1908 issuing a warning about the current threat\n                                                    \n                                                        Bentley 68\n                                                     posed by Salome dancers and expressing concern not only that this virus could lead [in the other direction]—to",
+                    "suffix": "                                                    \n                                                        Veteran Diplomat\n                                                     but into domestic space"
+                }
+            },
+            {
+                "id": "/target/CT36xbbf5oG/selector/css/pErMsYdp4ch",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/8gUuX9ByGB4]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6255149",
+        "type": "crm:E53_Place",
+        "label": "North America"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/h6FO8WFdONg">
 <![CDATA[{
     "@context": [
@@ -15226,6 +15402,273 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/YaV328NMl4F]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/8133394/",
+        "type": "crm:E53_Place",
+        "label": "Toronto",
+        "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/TT88PjR7LUN">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/TT88PjR7LUN",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:10:44.513Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/nEWuLnmI5xe",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/nEWuLnmI5xe/selector/textPosition/sAUr7vj8Yev",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 66289,
+                "end": 66296,
+                "refinedBy": {
+                    "id": "/target/nEWuLnmI5xe/selector/textQuote/1reUf82bqIn",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Toronto",
+                    "prefix": " Dance Collection Danse Archives,",
+                    "suffix": "\n                        "
+                }
+            },
+            {
+                "id": "/target/nEWuLnmI5xe/selector/css/5byD2WGRFxN",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/TT88PjR7LUN]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/8133394/",
+        "type": "crm:E53_Place",
+        "label": "Toronto",
+        "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/QxIJsSMSYk7">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/QxIJsSMSYk7",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:10:44.513Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/XX2Db9WGGjb",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/XX2Db9WGGjb/selector/textPosition/FeFpwhzUXuL",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 67009,
+                "end": 67016,
+                "refinedBy": {
+                    "id": "/target/XX2Db9WGGjb/selector/textQuote/dwh18DnbzZS",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Toronto",
+                    "prefix": "",
+                    "suffix": " Dance Collection Danse Press/es, 1998"
+                }
+            },
+            {
+                "id": "/target/XX2Db9WGGjb/selector/css/xT898DzQDLP",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/QxIJsSMSYk7]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/8133394/",
+        "type": "crm:E53_Place",
+        "label": "Toronto",
+        "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/t8VvwqMi26e">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/t8VvwqMi26e",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:10:44.514Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/3VKXtzpu8kB",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/3VKXtzpu8kB/selector/textPosition/W1tcX5aIYpQ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 67136,
+                "end": 67143,
+                "refinedBy": {
+                    "id": "/target/3VKXtzpu8kB/selector/textQuote/3UgpgTdvepW",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Toronto",
+                    "prefix": "",
+                    "suffix": " McClelland and Stewart, 1991"
+                }
+            },
+            {
+                "id": "/target/3VKXtzpu8kB/selector/css/9pWMcUbRNTw",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/t8VvwqMi26e]"
             }
         ]
     },
