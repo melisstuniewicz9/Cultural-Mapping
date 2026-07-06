@@ -1054,7 +1054,7 @@
                         <bibl>Donnachie, Ian L., and Innes Macleod. <title level="m">Victorian and Edwardian Scottish Lowlands from Historic Photographs</title>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/WLZHphVZrAW">London</placeName>: B.T. Batsford, 1979.</bibl>
                         <bibl>Dragon, Andrea.<title level="a">The Salome Dancer: An Eastern Dance Takes Western Roots. PowerPoint presentation</title>. N.d. Salome—People Server at <hi rend="small-caps">uncw</hi>. Accessed 3 April 2012. <ref target="http://people.uncw.edu/deagona/raqs/Salomes%20d1f.ppt">http://people.uncw.edu/deagona/raqs/Salomes%20d1f.ppt</ref>
                         </bibl>
-                        <bibl>Garelick, Rhonda K. <title level="m">Electric Salome: Loie Fuller’s Performance of Modernism</title>. Princeton: Princeton University Press, 2007.</bibl>
+                        <bibl>Garelick, Rhonda K. <title level="m">Electric Salome: Loie Fuller’s Performance of Modernism</title>. Princeton: <orgName key="Princeton university press" ref="http://viaf.org/viaf/158317684" ana="webannotation:http://temp.lincsproject.ca/th8IMDJlTwC">Princeton University Press</orgName>, 2007.</bibl>
                         <bibl>Gillen, Julia, and Nigel Hall. <title level="a">The Edwardian Postcard: A Revolutionary Moment in Rapid Multimodal Communications</title>. Paper presented at the British Educational Research Association Annual Conference, Manchester, 2–5 September 2009. <ref target="http://www.lancs.ac.uk/fass/projects/EVIIpc/docs">http://www.lancs.ac.uk/fass/projects/EVIIpc/docs</ref>
                         </bibl>
                         <bibl>Hasan-Rokem, Galit. <title level="a">Jews as Postcards, or Postcards as Jews: Mobility in a Modern Genre</title>. <title level="j">Jewish Quarterly Review</title> 99.4 (2009): 505–46.</bibl>
@@ -15854,6 +15854,95 @@
         "type": "crm:E53_Place",
         "label": "Vancouver, British Columbia",
         "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/th8IMDJlTwC">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/th8IMDJlTwC",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:13:23.439Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/i2WwSHqxmoc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/i2WwSHqxmoc/selector/textPosition/a0TITJliF0y",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 67705,
+                "end": 67731,
+                "refinedBy": {
+                    "id": "/target/i2WwSHqxmoc/selector/textQuote/rnBh8bTvaiF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Princeton University Press",
+                    "prefix": " Princeton:",
+                    "suffix": " 2007"
+                }
+            },
+            {
+                "id": "/target/i2WwSHqxmoc/selector/css/rtzGoJzVjEL",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/th8IMDJlTwC]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/158317684",
+        "type": "crm:E74_Group",
+        "label": "Princeton university press",
+        "description": "Princeton University Press independent publisher with close connections to Princeton University"
     },
     "P2_has_type": [
         "oa:identifying"
