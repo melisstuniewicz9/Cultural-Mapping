@@ -412,14 +412,14 @@
                 <head>
                     <title level="a">Salomania</title>
                 </head>
-                <byline>Maud Allan, Postcards, and Early Twentieth-Century “Viral” Circulation</byline>
+                <byline><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/HC1CcZDaRA0">Maud Allan</persName>, Postcards, and Early Twentieth-Century “Viral” Circulation</byline>
                 <docAuthor> <persName key="Devereux, Cecily Margaret, 1963-" ref="http://viaf.org/viaf/31722451" ana="webannotation:http://temp.lincsproject.ca/b9vmOlLwZqQ">Cecily Devereux</persName></docAuthor>
                 <p xml:id="p1309">
                     <ref target="#technology">
                         <ref target="#representation_of_women">
                             <ref target="#theme_or_topic">
                                 <ref target="#history">
-                                    <ref target="#genre_Non_Book_Media">This chapter is concerned not with the digital per se or even with digital histories (histories of the media of representation and the processes by which those representations are reproduced and circulated), but with attempting to define and to trace the cultural genealogies that can also be seen to undergird the digital. It considers postcards, a technology of communication and of the circulation of images that took shape at the end of the nineteenth century, looking in particular at one crucial group in one category of early twentieth-century postcards—those bearing images of erotic dancers. My interest here is even more particular: this chapter focuses on postcard images of <ref target="#nationality">Canadian-born</ref> dancer Maud Allan in studio poses from what was, by 1908, her internationally known dance <title level="a">The Vision of Salome.</title>
+                                    <ref target="#genre_Non_Book_Media">This chapter is concerned not with the digital per se or even with digital histories (histories of the media of representation and the processes by which those representations are reproduced and circulated), but with attempting to define and to trace the cultural genealogies that can also be seen to undergird the digital. It considers postcards, a technology of communication and of the circulation of images that took shape at the end of the nineteenth century, looking in particular at one crucial group in one category of early twentieth-century postcards—those bearing images of erotic dancers. My interest here is even more particular: this chapter focuses on postcard images of <ref target="#nationality">Canadian-born</ref> dancer <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/17tv3N1rhv7">Maud Allan</persName> in studio poses from what was, by 1908, her internationally known dance <title level="a">The Vision of Salome.</title>
                                         <ref target="#genre_performance">
                                             <ref target="#spatiality">
                                                 <ref target="#health_issue">Allan’s Salome postcards, carrying the image of the dancer around the world and from the space of performance into the space of the home, or the domestic, are a foundational element in what the rhetoric of media representation suggests was a kind of disease: <q>Salomania,</q> the name for the condition of proliferating performances of Salome in the manner of Maud Allan, was a <q>condition</q> that mobilized in the early twentieth century what is now familiar as the rhetoric of the <q>viral.</q>
@@ -1099,6 +1099,184 @@
 <xenoData>
 			
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/HC1CcZDaRA0">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/HC1CcZDaRA0",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T17:58:10.388Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/CTzkOqyzE3w",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/CTzkOqyzE3w/selector/textPosition/NF1wRgmmEhK",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 103,
+                "end": 113,
+                "refinedBy": {
+                    "id": "/target/CTzkOqyzE3w/selector/textQuote/RjM1vz8RqdD",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Maud Allan",
+                    "prefix": "\n        \n            \n                \n                    Salomania\n                \n               ",
+                    "suffix": " Postcards, and Early Twentieth-Century “Viral” Circulation\n                 Cecily Devereux\n                \n                    \n                        \n                            \n                                \n                                    This chapter is concerned not with the digital per se or even with digital histories (histories of the media of representation and the processes by which those representations are reproduced and circulated), but with attempting to define and to trace the cultural genealogies that can also be seen to undergird the digital"
+                }
+            },
+            {
+                "id": "/target/CTzkOqyzE3w/selector/css/0C4JWvizvAY",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/HC1CcZDaRA0]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/79409973",
+        "type": "crm:E21_Person",
+        "label": "Allan, Maud",
+        "description": "Allan, Maud, 1873-1956"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/17tv3N1rhv7">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/17tv3N1rhv7",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T17:58:10.798Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/IlimucXaemn",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/IlimucXaemn/selector/textPosition/uU0dbmtJ6Cu",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 1075,
+                "end": 1085,
+                "refinedBy": {
+                    "id": "/target/IlimucXaemn/selector/textQuote/rNc3TaDyVeQ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Maud Allan",
+                    "prefix": " My interest here is even more particular: this chapter focuses on postcard images of Canadian-born dancer",
+                    "suffix": "in studio poses from what was, by 1908, her internationally known dance The Vision of Salome"
+                }
+            },
+            {
+                "id": "/target/IlimucXaemn/selector/css/T2pGH7OeVJv",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/17tv3N1rhv7]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/79409973",
+        "type": "crm:E21_Person",
+        "label": "Allan, Maud",
+        "description": "Allan, Maud, 1873-1956"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/b9vmOlLwZqQ">
 <![CDATA[{
