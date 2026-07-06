@@ -1060,7 +1060,7 @@
                         <bibl>Hasan-Rokem, Galit. <title level="a">Jews as Postcards, or Postcards as Jews: Mobility in a Modern Genre</title>. <title level="j">Jewish Quarterly Review</title> 99.4 (2009): 505–46.</bibl>
                         <bibl>Holt, Tonie, and Valmai Holt. <title level="m">Picture Postcards of the Golden Age: A Collector’s Guide</title>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/Kwk8nhIwcZQ">London</placeName>: MacGibbon and Kee, 1971.</bibl>
                         <bibl>Hutcheon, Linda, and Michael Hutcheon. <title level="a">Staging the Female Body: Richard Strauss’s <title level="m">Salome</title>
-                            </title>. <title level="m">Siren Songs: Representations of Gender and Sexuality in Opera</title>. Ed. Mary Ann Smart. Princeton: Princeton University Press, 2000. 204–21.</bibl>
+                            </title>. <title level="m">Siren Songs: Representations of Gender and Sexuality in Opera</title>. Ed. Mary Ann Smart. Princeton: <orgName key="Princeton university press" ref="http://viaf.org/viaf/158317684" ana="webannotation:http://temp.lincsproject.ca/6JXlpPXDAzj">Princeton University Press</orgName>, 2000. 204–21.</bibl>
                         <bibl>James, Russell. <title level="a">London Olympics 2012</title>. 5 June 2011. <title level="m">Internet Archive Wayback Machine</title>. <ref target="http://web.archive.org/web/20110615041339/http://www.russelljames.co.uk/rjolympics.htm">http://web.archive.org/web/20110615041339/http://www.russelljames.co.uk/rjolympics.htm</ref>
                         </bibl>
                         <bibl>Kultermann, Udo. <title level="a">The <q>Dance of the Seven Veils</q>: Salome and Erotic Culture around 1900</title>. <title level="j">Artibus et Historise</title> 27.53 (2006): 187–215.</bibl>
@@ -1083,7 +1083,7 @@
                             <title level="a">The Salome Pestilence</title>. <title level="j">New York Times</title> 3 September 1908.</bibl>
                         <bibl>Sigel, Lisa Z. <title level="a">Filth in the Wrong People’s Hands: Postcards and the Expansion of Pornography in Britain and the Atlantic World, 1880–1914</title>. <title level="j">Journal of Social History</title> 33.4 (2000): 859–85.</bibl>
                         <bibl>Staff, Frank. <title level="a">The Picture Postcard and Its Origins</title>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/Yzqv7q9tqTQ">London</placeName>: Lutterworth Press, 1966.</bibl>
-                        <bibl>Tydeman, William, and Steven Price. <title level="m">Wilde: Salome</title>. Cambridge: Cambridge University Press, 1996.</bibl>
+                        <bibl>Tydeman, William, and Steven Price. <title level="m">Wilde: Salome</title>. Cambridge: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/Zr5mNxyb1Hr">Cambridge University Press</orgName>, 1996.</bibl>
                         <bibl>Veteran Diplomat. <title level="a">The Spread of Bohemianism in English Society</title>. <title level="j">New York Times</title> 16 August 1908.</bibl>
                         <bibl>Volacci SEO Blog. <title level="a">What Does It Mean to <q>Go Viral</q>?</title>
                             <title level="m">Volacci.co </title>m. 26 May 2010. <ref target="http://www.volacci.com/search-engine-optimization-defining-going-viral">http://www.volacci.com/search-engine-optimization-defining-going-viral</ref>
@@ -15951,6 +15951,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/6JXlpPXDAzj">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/6JXlpPXDAzj",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:13:23.560Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/16ZALl9v7Ty",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/16ZALl9v7Ty/selector/textPosition/OAcCLHvoJt5",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 68606,
+                "end": 68632,
+                "refinedBy": {
+                    "id": "/target/16ZALl9v7Ty/selector/textQuote/KXY5sA5A8wU",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Princeton University Press",
+                    "prefix": " Princeton:",
+                    "suffix": " 2000"
+                }
+            },
+            {
+                "id": "/target/16ZALl9v7Ty/selector/css/GP1AiOmaWqn",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/6JXlpPXDAzj]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/158317684",
+        "type": "crm:E74_Group",
+        "label": "Princeton university press",
+        "description": "Princeton University Press independent publisher with close connections to Princeton University"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/13xqPzXplRI">
 <![CDATA[{
     "@context": [
@@ -16032,6 +16121,95 @@
         "type": "crm:E74_Group",
         "label": "Fordham University Press.",
         "description": "Fordham University Press publishing house division of Fordham University"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Zr5mNxyb1Hr">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Zr5mNxyb1Hr",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:13:36.778Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/zSOECNLHt1J",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/zSOECNLHt1J/selector/textPosition/GRrlMaMVmxb",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 70800,
+                "end": 70826,
+                "refinedBy": {
+                    "id": "/target/zSOECNLHt1J/selector/textQuote/K53igBy0IOM",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Cambridge University Press",
+                    "prefix": " Cambridge:",
+                    "suffix": " 1996"
+                }
+            },
+            {
+                "id": "/target/zSOECNLHt1J/selector/css/qTULc6Uo0qU",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Zr5mNxyb1Hr]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/127979069",
+        "type": "crm:E74_Group",
+        "label": "Cambridge university press",
+        "description": "Gwasg Prifysgol Caergrawnt"
     },
     "P2_has_type": [
         "oa:identifying"
