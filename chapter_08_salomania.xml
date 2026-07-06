@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="http://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>-->
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><!--<?xml-model href="http://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>--><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -381,7 +377,7 @@
         </fileDesc>
         <encodingDesc>
             <projectDesc>
-                <p />
+                <p/>
             </projectDesc>
             <classDecl>
                 <taxonomy>
@@ -398,14 +394,14 @@
         </profileDesc>
         <revisionDesc>
             <list>
-                <byline />
-                <item />
+                <byline/>
+                <item/>
                 <index>
-                    <term />
+                    <term/>
                 </index>
-                <byline />
+                <byline/>
                 <index>
-                    <term />
+                    <term/>
                 </index>
             </list>
         </revisionDesc>
@@ -417,7 +413,7 @@
                     <title level="a">Salomania</title>
                 </head>
                 <byline>Maud Allan, Postcards, and Early Twentieth-Century “Viral” Circulation</byline>
-                <docAuthor> Cecily Devereux</docAuthor>
+                <docAuthor> <persName key="Devereux, Cecily Margaret, 1963-" ref="http://viaf.org/viaf/31722451" ana="webannotation:http://temp.lincsproject.ca/b9vmOlLwZqQ">Cecily Devereux</persName></docAuthor>
                 <p xml:id="p1309">
                     <ref target="#technology">
                         <ref target="#representation_of_women">
@@ -1090,7 +1086,7 @@
                         <bibl>Tydeman, William, and Steven Price. <title level="m">Wilde: Salome</title>. Cambridge: Cambridge University Press, 1996.</bibl>
                         <bibl>Veteran Diplomat. <title level="a">The Spread of Bohemianism in English Society</title>. <title level="j">New York Times</title> 16 August 1908.</bibl>
                         <bibl>Volacci SEO Blog. <title level="a">What Does It Mean to <q>Go Viral</q>?</title>
-                            <title level="m">Volacci.co</title>m. 26 May 2010. <ref target="http://www.volacci.com/search-engine-optimization-defining-going-viral">http://www.volacci.com/search-engine-optimization-defining-going-viral</ref>
+                            <title level="m">Volacci.co </title>m. 26 May 2010. <ref target="http://www.volacci.com/search-engine-optimization-defining-going-viral">http://www.volacci.com/search-engine-optimization-defining-going-viral</ref>
                         </bibl>
                         <bibl>Walkowitz, Judith R. <title level="a">The <q>Vision of Salome</q>: Cosmopolitanism and Erotic Dancing in Central London, 1908–1918</title>. <title level="j">American Historical Review</title> 108.2 (2003): 337–76.</bibl>
                     </listBibl>
@@ -1098,4 +1094,103 @@
             </div>
         </body>
     </text>
+	<standOff type="annotation">
+		
+<xenoData>
+			
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/b9vmOlLwZqQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/b9vmOlLwZqQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T17:57:29.434Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/2cttiL28ODc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/2cttiL28ODc/selector/textPosition/2pwdcuGzhLa",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 191,
+                "end": 206,
+                "refinedBy": {
+                    "id": "/target/2cttiL28ODc/selector/textQuote/pec6LdhQIMf",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Cecily Devereux",
+                    "prefix": "\n        \n            \n                \n                    Salomania\n                \n                Maud Allan, Postcards, and Early Twentieth-Century “Viral” Circulation\n                ",
+                    "suffix": "                \n                    \n                        \n                            \n                                \n                                    This chapter is concerned not with the digital per se or even with digital histories (histories of the media of representation and the processes by which those representations are reproduced and circulated), but with attempting to define and to trace the cultural genealogies that can also be seen to undergird the digital"
+                }
+            },
+            {
+                "id": "/target/2cttiL28ODc/selector/css/pq1aSsaiWIs",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/b9vmOlLwZqQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/31722451",
+        "type": "crm:E21_Person",
+        "label": "Devereux, Cecily Margaret, 1963-",
+        "description": "Devereux, Cecily 1963-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+			
+</rdf:RDF>
+		
+</xenoData>
+	</standOff>
 </TEI>
