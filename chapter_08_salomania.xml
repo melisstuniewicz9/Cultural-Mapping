@@ -862,7 +862,7 @@
                         <ref target="#history">
                             <ref target="#nationality">
                                 <ref target="#spatiality">
-                                    <ref target="#theme_or_topic">Although postcard images of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/W5WVo4xScju">Allan</persName> circulated widely and were produced in <placeName key="Europe" ref="https://sws.geonames.org/6255148" ana="webannotation:http://temp.lincsproject.ca/tudMpgVeFRf">Europe</placeName> and North America as well as <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/0qhrH8M6PlG">England</placeName>, I am focusing here on <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/seRuPWQR4Pl">England</placeName> for two key reasons. <ref target="#class_issue">First, it was in <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/m2msa2WeR84">England</placeName> that <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/cEhDqbatTLL">Allan</persName> rose to spectacular fame, and where the picture postcard’s mobilization of her image can be seen to have had its most telling effect on her celebrity. <ref target="#historical_oppression">
+                                    <ref target="#theme_or_topic">Although postcard images of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/W5WVo4xScju">Allan</persName> circulated widely and were produced in <placeName key="Europe" ref="https://sws.geonames.org/6255148" ana="webannotation:http://temp.lincsproject.ca/tudMpgVeFRf">Europe</placeName> and <placeName key="North America" ref="https://sws.geonames.org/6255149" ana="webannotation:http://temp.lincsproject.ca/sLaqO7RLEWm">North America</placeName> as well as <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/0qhrH8M6PlG">England</placeName>, I am focusing here on <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/seRuPWQR4Pl">England</placeName> for two key reasons. <ref target="#class_issue">First, it was in <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/m2msa2WeR84">England</placeName> that <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/cEhDqbatTLL">Allan</persName> rose to spectacular fame, and where the picture postcard’s mobilization of her image can be seen to have had its most telling effect on her celebrity. <ref target="#historical_oppression">
                                                 <ref target="#genre_journalism">Second, the postcard emerged in <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/OD56j0kaFz5">England</placeName> as an imperial medium, a form of communication across the space of empire and a means of putting into circulation Anglo-Saxon presence in places outside of <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/s7aQvy2Bsvb">England</placeName>—or, in effect, of affirming what Percival Pollard described in his <title level="j">New York Times</title> Salomania article of 1908 as <q>our Anglo-Saxon lands.</q> The British postcard’s imperial function is suggested in accounts of its beginnings. In <title level="m">The Picture Postcard and Its Origins</title>, Frank Staff cites a 1900 account of a deliberate decision on the part of the first publishers of <q>pictorial postcards</q> to <q>issue cards of a topical character, that is, having views or portraits of interest at the moment</q>
                                                     <note place="inline">
                                                         <bibl>89</bibl>
@@ -15226,6 +15226,94 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/8gUuX9ByGB4]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6255149",
+        "type": "crm:E53_Place",
+        "label": "North America"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/sLaqO7RLEWm">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/sLaqO7RLEWm",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:11:28.516Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/x7MypVNX4al",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/x7MypVNX4al/selector/textPosition/tPrJqN89hrI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 46093,
+                "end": 46106,
+                "refinedBy": {
+                    "id": "/target/x7MypVNX4al/selector/textQuote/stf1QLM0L5x",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "North America",
+                    "prefix": "\n                                \n                            \n                        \n                    \n                    \n                        \n                            \n                                \n                                    Although postcard images of Allan circulated widely and were produced in Europe and",
+                    "suffix": "as well as England, I am focusing here on England for two key reasons"
+                }
+            },
+            {
+                "id": "/target/x7MypVNX4al/selector/css/aUO0wflKjaQ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/sLaqO7RLEWm]"
             }
         ]
     },
