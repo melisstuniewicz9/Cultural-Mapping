@@ -1048,7 +1048,7 @@
                         <bibl>Bentley, Toni. <title level="m">Sisters of Salome</title>. New Haven, CT: Yale University Press, 2002.</bibl>
                         <bibl>
                             <title level="a">The Call of Salome</title>. <title level="j">New York Times</title> 16 August 1908.</bibl>
-                        <bibl>Cherniavsky, Felix. <title level="m">The Cherniavsky Trio</title>. Vancouver: Felix Cherniavsky, 2001.</bibl>
+                        <bibl>Cherniavsky, Felix. <title level="m">The Cherniavsky Trio</title>. <placeName key="Vancouver, British Columbia" ref="https://sws.geonames.org/6173331/" ana="webannotation:http://temp.lincsproject.ca/Tki4dZTOi9L">Vancouver</placeName>: Felix Cherniavsky, 2001.</bibl>
                         <bibl>. <title level="m"><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/XFwu9ErKIrP">Maud Allan</persName> and Her Art</title>. Toronto: Dance Collection Danse Press/es, 1998.</bibl>
                         <bibl>. <title level="m">The Salome Dancer: The Life and Times of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/wydVE4Gj9Ze">Maud Allan</persName></title>. Toronto: McClelland and Stewart, 1991.</bibl>
                         <bibl>Donnachie, Ian L., and Innes Macleod. <title level="m">Victorian and Edwardian Scottish Lowlands from Historic Photographs</title>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/WLZHphVZrAW">London</placeName>: B.T. Batsford, 1979.</bibl>
@@ -15145,6 +15145,95 @@
         "id": "https://sws.geonames.org/6255148",
         "type": "crm:E53_Place",
         "label": "Europe"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Tki4dZTOi9L">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Tki4dZTOi9L",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:10:23.467Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4b0QfpaRK3V",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4b0QfpaRK3V/selector/textPosition/ln29iBwxSg0",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 66923,
+                "end": 66932,
+                "refinedBy": {
+                    "id": "/target/4b0QfpaRK3V/selector/textQuote/pew1s59lCol",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Vancouver",
+                    "prefix": "",
+                    "suffix": " Felix Cherniavsky, 2001"
+                }
+            },
+            {
+                "id": "/target/4b0QfpaRK3V/selector/css/0io8PvOKje7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Tki4dZTOi9L]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6173331/",
+        "type": "crm:E53_Place",
+        "label": "Vancouver, British Columbia",
+        "description": ""
     },
     "P2_has_type": [
         "oa:identifying"
