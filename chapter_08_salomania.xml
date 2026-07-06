@@ -443,7 +443,7 @@
                             <ref target="#gender_issue">
                                 <ref target="#theme_or_topic">
                                     <ref target="#response_formal">
-                                        <ref target="#genre_performance">On August 23, 1908, the <title level="j">New York Times</title> reported <ref target="#spatiality">an event that had taken place in London</ref>:<note xml:id="n75" place="end">On this <q>Maud Allan Dinner Dance,</q> see <bibl>Cherniavsky, <title level="m">Salome</title> 176–77</bibl> and <note place="inline">
+                                        <ref target="#genre_performance">On August 23, 1908, the <title level="j">New York Times</title> reported <ref target="#spatiality">an event that had taken place in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/NBaALthQguy">London</placeName></ref>:<note xml:id="n75" place="end">On this <q>Maud Allan Dinner Dance,</q> see <bibl>Cherniavsky, <title level="m">Salome</title> 176–77</bibl> and <note place="inline">
                                                     <bibl>Bentley 67–69</bibl>
                                                 </note>.</note>
                                             <ref target="#class_issue"> headlined <title level="a">Salome Dinner Dance,</title> the article claimed that <q>one of the great hostesses of the metropolis a few weeks ago issued invitations to twenty or thirty ladies whose names figure in Court and other fashionable lists, to attend a <q><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/Zii7jOJVmP7">Maud Allan</persName></q> dinner dance, which would be undesecrated by the presence of any man, and at which the guests were bidden to appear in Salome costumes</q>
@@ -478,9 +478,9 @@
                                         </ref>
                                         <note xml:id="n76" place="end">
                                             <ref target="#editions">
-                                                <ref target="#place_of_publication">Originally written in French, the first English edition of Wilde’s <title level="m">Salome</title> appeared in 1894, published by Elkin Mathews and John Lane in London and by Copeland and Day in Boston</ref>. It was translated by Lord Alfred Douglas and illustrated by Aubrey Beardsley</ref>.</note>
+                                                <ref target="#place_of_publication">Originally written in French, the first English edition of Wilde’s <title level="m">Salome</title> appeared in 1894, published by Elkin Mathews and John Lane in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/2PJt4ecLsIA">London</placeName> and by Copeland and Day in Boston</ref>. It was translated by Lord Alfred Douglas and illustrated by Aubrey Beardsley</ref>.</note>
                                     </ref>&gt; daughter of Herodias and step-daughter of Herod Antipas at whose request John the Baptist was beheaded following her dance for her step-father. <note xml:id="n77" place="end">Cherniavsky notes that both <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/AWW2AFMMPnX">Maud Allan</persName> and Marcel Rémy, who composed the music for <title level="a">The Vision of Salome,</title> saw this production in Berlin in 1902 <bibl>
-                                            <title level="m">Salome</title> 142</bibl>. See also <bibl>Tydeman and Price 140</bibl>.</note> <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/OXu8NW3pRS3">Allan</persName> toured briefly and sensationally through Europe, and in March 1908 <title level="a">The Vision of Salome</title> opened in London at the Palace Theatre. It would run for eighteen months, with <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/7OBCFkWoSp8">Allan</persName> as a main performer among a range of variety shows.<note xml:id="n78" place="end">See Judith Walkowitz on the Palace Theatre, its history from 1893 of presenting <title level="a">Living Pictures</title>
+                                            <title level="m">Salome</title> 142</bibl>. See also <bibl>Tydeman and Price 140</bibl>.</note> <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/OXu8NW3pRS3">Allan</persName> toured briefly and sensationally through Europe, and in March 1908 <title level="a">The Vision of Salome</title> opened in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/tftqXzwTtzl">London</placeName> at the Palace Theatre. It would run for eighteen months, with <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/7OBCFkWoSp8">Allan</persName> as a main performer among a range of variety shows.<note xml:id="n78" place="end">See Judith Walkowitz on the Palace Theatre, its history from 1893 of presenting <title level="a">Living Pictures</title>
                                         <bibl>348–50</bibl>, and its identity as a variety theatre <bibl>347–48</bibl>.</note>
                                     <ref target="#genre_lifeWriting">By October of 1908, Cherniavsky notes, the Palace Theatre marked the 250th performance of the dance with a gala event and publication of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/mkjpKKmo9mK">Allan</persName>’s autobiography, <title level="m">My Life and Dancing</title>, a slender volume that was distributed as a souvenir program <note place="inline">
                                             <bibl>
@@ -565,9 +565,9 @@
                                         <note place="inline">
                                             <bibl>Kultermann 132</bibl>
                                         </note>
-                                    </ref>. <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/Zt9EmuOontf">Allan</persName>’s followers here include a mix of dancers and singers. <ref target="#spatiality">There are images of <q xml:lang="fr-CA">Folies Bergère</q> dancer <q>La Sylphe”</q> (Edith Lambelle Langerfeld, 1883–1968) and vaudevillian Gertrude Hoffmann (1885–1966), identified by Cherniavsky as the dancer who, reportedly sent to watch and imitate <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/rV5KxBZrH1O">Allan</persName> in London, brought a copy, or version, of the Salome dance to the United States before <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/eS1KYG2Y0Fx">Allan</persName> could arrive with her own.</ref>
+                                    </ref>. <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/Zt9EmuOontf">Allan</persName>’s followers here include a mix of dancers and singers. <ref target="#spatiality">There are images of <q xml:lang="fr-CA">Folies Bergère</q> dancer <q>La Sylphe”</q> (Edith Lambelle Langerfeld, 1883–1968) and vaudevillian Gertrude Hoffmann (1885–1966), identified by Cherniavsky as the dancer who, reportedly sent to watch and imitate <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/rV5KxBZrH1O">Allan</persName> in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/HiXgQZsxi37">London</placeName>, brought a copy, or version, of the Salome dance to the United States before <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/eS1KYG2Y0Fx">Allan</persName> could arrive with her own.</ref>
                                     <note xml:id="n81" place="end">
-                                        <ref target="#education">Cherniavsky writes, <q>In April 1908—within weeks of [<persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/wYmmupWRzbV">Allan</persName>’s] sensational debut in London—Oscar Hammerstein had sent Gertrude Hoffmann, well known in the United States as a <q>mimic</q> dancer to London, to study <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/6gjGcOGAkfx">Maud Allan’s</persName> performance at the Palace Theatre. On July 13, 1908, Hoffmann duly opened a six-week season at the Hammerstein Theatre on Broadway featuring a skillful imitation of <hi rend="italic">
+                                        <ref target="#education">Cherniavsky writes, <q>In April 1908—within weeks of [<persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/wYmmupWRzbV">Allan</persName>’s] sensational debut in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/4lSJrzqN0Fx">London</placeName>—Oscar Hammerstein had sent Gertrude Hoffmann, well known in the United States as a <q>mimic</q> dancer to <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/hsMCfWe0MDW">London</placeName>, to study <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/6gjGcOGAkfx">Maud Allan’s</persName> performance at the Palace Theatre. On July 13, 1908, Hoffmann duly opened a six-week season at the Hammerstein Theatre on Broadway featuring a skillful imitation of <hi rend="italic">
                                                     <title level="a">The Vision of Salome</title>
                                                 </hi>. After Labour Day, Hoffmann set out on an ambitious tour that aroused more controversy than acclaim</q>
                                         </ref>
@@ -712,13 +712,13 @@
                                             <title level="a">The Salome Pestilence</title>
                                         </bibl>
                                     </note>, and the <title level="j">Theatre Magazine</title> made a similar reference to <q>all sorts and kinds of Salomes,</q> it is clear that in 1908 there was actually only one <q>kind</q> of Salome.</ref>
-                                <ref target="#representation_of_women">All of the women whose photographs the <title level="j">Theatre Magazine</title> includes, for instance, can be understood not just to be doing a Salome dance but, like the women at the London dinner dance, to be doing <title level="a"><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/utpgkk5ndDP">Maud Allan</persName></title>. Thus, they strike similar poses to <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/M28o0HsoO76">Allan</persName> and wear versions of the costume that she made famous in her dance.<note xml:id="n82" place="end">Tydeman and Price suggest that <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/JCmBG593Dz6">Allan</persName>’s costume was <q>strongly reminiscent of [Charles] Ricketts’s design</q> for a 1906 production in London <bibl>140</bibl>. It is not clear, however, that <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/H5XjybWsJNC">Allan</persName> had seen this production prior to designing and making her costume.</note>
+                                <ref target="#representation_of_women">All of the women whose photographs the <title level="j">Theatre Magazine</title> includes, for instance, can be understood not just to be doing a Salome dance but, like the women at the <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/HGttPk3E5yf">London</placeName> dinner dance, to be doing <title level="a"><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/utpgkk5ndDP">Maud Allan</persName></title>. Thus, they strike similar poses to <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/M28o0HsoO76">Allan</persName> and wear versions of the costume that she made famous in her dance.<note xml:id="n82" place="end">Tydeman and Price suggest that <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/JCmBG593Dz6">Allan</persName>’s costume was <q>strongly reminiscent of [Charles] Ricketts’s design</q> for a 1906 production in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/4zYSE0GzO47">London</placeName> <bibl>140</bibl>. It is not clear, however, that <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/H5XjybWsJNC">Allan</persName> had seen this production prior to designing and making her costume.</note>
                                 </ref> Like the women at the London <title level="a">Salome Dinner Dance,</title> they can be seen to be imitating <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/uVxvd0YEWWA">Allan</persName>, their poses indicating that they too <q>had learned some of her most captivating steps in movements</q> and their costumes <q>matching in all details the undress effect of Miss <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/dYxqoifiSz2">Allan</persName>’s scanty attire</q>
                                 <note place="inline">
                                     <bibl>
                                         <title level="a">Salome Dinner Dance</title>
                                     </bibl>
-                                </note>. It is not surprising that what the <title level="j">New York Times</title> called <q>Salomania</q> in the United States, contemporary critics in London, as Judith Walkowitz has observed, described as the <q><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/16u15eMlyQ7">Maud Allan</persName> boom</q>
+                                </note>. It is not surprising that what the <title level="j">New York Times</title> called <q>Salomania</q> in the United States, contemporary critics in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/2N0HOht5jr0">London</placeName>, as Judith Walkowitz has observed, described as the <q><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/16u15eMlyQ7">Maud Allan</persName> boom</q>
                                 <note place="inline">
                                     <bibl>344</bibl>
                                 </note>.</ref>
@@ -729,7 +729,7 @@
                             <ref target="#representation_of_women">
                                 <ref target="#authority">
                                     <ref target="#theme_or_topic">The extraordinary success of <title level="a">The Vision of Salome</title> and the emergence in 1908 of a culture of imitation that turned not to the many women performing Salome but to <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/9VV0OVSEucm">Allan</persName> in particular raises important questions both about this culture of imitation (what it signifies, where it comes from, what it leads to) and about <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/jPklYfyI6zT">Allan</persName>’s Salome (what it did, how it did it, what was at stake in this representation, and why it achieved what other representations did not). <ref target="#class_issue">
-                                            <ref target="#spatiality">In her study of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/qlxq7JUNpLr">Allan</persName> and <title level="a">The Vision of Salome</title> in London, Walkowitz suggests that <q><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/6QkZOQ3DjDY">Allan</persName>’s performances materialize[d] a new femininity</q> that, among other things, <q>facilitated the entry of respectable women into what one turn-of-the-century writer termed the <q>Night Side of London</q>: the cosmopolitan spaces of the commercial West End</q>
+                                            <ref target="#spatiality">In her study of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/qlxq7JUNpLr">Allan</persName> and <title level="a">The Vision of Salome</title> in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/C4LwM2viaOE">London</placeName>, Walkowitz suggests that <q><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/6QkZOQ3DjDY">Allan</persName>’s performances materialize[d] a new femininity</q> that, among other things, <q>facilitated the entry of respectable women into what one turn-of-the-century writer termed the <q>Night Side of London</q>: the cosmopolitan spaces of the commercial West End</q>
                                                 <note place="inline">
                                                     <bibl>346</bibl>
                                                 </note>
@@ -11683,6 +11683,896 @@
         "type": "crm:E21_Person",
         "label": "Allan, Maud",
         "description": "Allan, Maud, 1873-1956"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/NBaALthQguy">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/NBaALthQguy",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:08:45.386Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/TLx675esW8s",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/TLx675esW8s/selector/textPosition/zXxumpQe55W",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 3334,
+                "end": 3340,
+                "refinedBy": {
+                    "id": "/target/TLx675esW8s/selector/textQuote/fxyoIFJZFHw",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": "\n                                        \n                                    \n                                \n                            \n                        \n                    \n                \n                \n                    \n                        The Vision of Salome\n                    \n                    \n                        \n                            \n                                \n                                    \n                                        On August 23, 1908, the New York Times reported an event that had taken place in",
+                    "suffix": "On this Maud Allan Dinner Dance, see Cherniavsky, Salome 176–77 and \n                                                    Bentley 67–69\n                                                "
+                }
+            },
+            {
+                "id": "/target/TLx675esW8s/selector/css/qYgaT7L47sp",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/NBaALthQguy]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "type": "crm:E53_Place",
+        "label": "London",
+        "description": "England, Greater London, GB"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/2PJt4ecLsIA">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/2PJt4ecLsIA",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:08:45.387Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/FYBZmq05E1a",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/FYBZmq05E1a/selector/textPosition/nca4hoUpR9a",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7185,
+                "end": 7191,
+                "refinedBy": {
+                    "id": "/target/FYBZmq05E1a/selector/textQuote/iny65Xm8U4W",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": " It was, as Cherniavsky also suggests, inspired by Max Reinhardt’s 1902 production in Berlin of Oscar Wilde’s 1892 dramatic representation of Salome,\n                                        \n                                        \n                                            \n                                                Originally written in French, the first English edition of Wilde’s Salome appeared in 1894, published by Elkin Mathews and John Lane in",
+                    "suffix": "and by Copeland and Day in Boston"
+                }
+            },
+            {
+                "id": "/target/FYBZmq05E1a/selector/css/roaHxWHfOqq",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/2PJt4ecLsIA]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "type": "crm:E53_Place",
+        "label": "London",
+        "description": "England, Greater London, GB"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/tftqXzwTtzl">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/tftqXzwTtzl",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:08:45.388Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/r6XWaEwz81C",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/r6XWaEwz81C/selector/textPosition/L8HcnydFHep",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7823,
+                "end": 7829,
+                "refinedBy": {
+                    "id": "/target/r6XWaEwz81C/selector/textQuote/siflwcOHMez",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": " Allan toured briefly and sensationally through Europe, and in March 1908 The Vision of Salome opened in",
+                    "suffix": "at the Palace Theatre"
+                }
+            },
+            {
+                "id": "/target/r6XWaEwz81C/selector/css/1JbFFFJXPi4",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/tftqXzwTtzl]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "type": "crm:E53_Place",
+        "label": "London",
+        "description": "England, Greater London, GB"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/HiXgQZsxi37">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/HiXgQZsxi37",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:08:45.388Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/u8HFi2l5fB4",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/u8HFi2l5fB4/selector/textPosition/8Jdiq0qegAK",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16552,
+                "end": 16558,
+                "refinedBy": {
+                    "id": "/target/u8HFi2l5fB4/selector/textQuote/ep5mSbey6LL",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": " There are images of Folies Bergère dancer La Sylphe” (Edith Lambelle Langerfeld, 1883–1968) and vaudevillian Gertrude Hoffmann (1885–1966), identified by Cherniavsky as the dancer who, reportedly sent to watch and imitate Allan in",
+                    "suffix": " brought a copy, or version, of the Salome dance to the United States before Allan could arrive with her own"
+                }
+            },
+            {
+                "id": "/target/u8HFi2l5fB4/selector/css/TqCjh9dm5Mm",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/HiXgQZsxi37]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "type": "crm:E53_Place",
+        "label": "London",
+        "description": "England, Greater London, GB"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/4lSJrzqN0Fx">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/4lSJrzqN0Fx",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:08:45.389Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/7kHuQ7nvoOC",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/7kHuQ7nvoOC/selector/textPosition/vdGv6jWoJ6B",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16827,
+                "end": 16833,
+                "refinedBy": {
+                    "id": "/target/7kHuQ7nvoOC/selector/textQuote/swy06FSG9iZ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": "\n                                    \n                                        Cherniavsky writes, In April 1908—within weeks of [Allan’s] sensational debut in",
+                    "suffix": "Oscar Hammerstein had sent Gertrude Hoffmann, well known in the United States as a mimic dancer to London, to study Maud Allan’s performance at the Palace Theatre"
+                }
+            },
+            {
+                "id": "/target/7kHuQ7nvoOC/selector/css/3if8Z8gA4TE",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/4lSJrzqN0Fx]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "type": "crm:E53_Place",
+        "label": "London",
+        "description": "England, Greater London, GB"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/hsMCfWe0MDW">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/hsMCfWe0MDW",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:08:45.389Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/3tKBtHh4QlF",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/3tKBtHh4QlF/selector/textPosition/M0Yn7hlhGkI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16933,
+                "end": 16939,
+                "refinedBy": {
+                    "id": "/target/3tKBtHh4QlF/selector/textQuote/QzxSnNM0FUb",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": "\n                                    \n                                        Cherniavsky writes, In April 1908—within weeks of [Allan’s] sensational debut in London—Oscar Hammerstein had sent Gertrude Hoffmann, well known in the United States as a mimic dancer to",
+                    "suffix": " to study Maud Allan’s performance at the Palace Theatre"
+                }
+            },
+            {
+                "id": "/target/3tKBtHh4QlF/selector/css/FD2KOipwaaN",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/hsMCfWe0MDW]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "type": "crm:E53_Place",
+        "label": "London",
+        "description": "England, Greater London, GB"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/HGttPk3E5yf">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/HGttPk3E5yf",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:08:45.390Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/x8Y7Q4l1o87",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/x8Y7Q4l1o87/selector/textPosition/kOjyGyT4YG3",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28176,
+                "end": 28182,
+                "refinedBy": {
+                    "id": "/target/x8Y7Q4l1o87/selector/textQuote/j6ac49gIkNS",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": "\n                                All of the women whose photographs the Theatre Magazine includes, for instance, can be understood not just to be doing a Salome dance but, like the women at the",
+                    "suffix": "dinner dance, to be doing Maud Allan"
+                }
+            },
+            {
+                "id": "/target/x8Y7Q4l1o87/selector/css/RBpa4vGj4I2",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/HGttPk3E5yf]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "type": "crm:E53_Place",
+        "label": "London",
+        "description": "England, Greater London, GB"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/4zYSE0GzO47">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/4zYSE0GzO47",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:08:45.392Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/DTuTjFNxfTc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/DTuTjFNxfTc/selector/textPosition/gxN7ZYJo9Kx",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28457,
+                "end": 28463,
+                "refinedBy": {
+                    "id": "/target/DTuTjFNxfTc/selector/textQuote/bsrOsMpyUA7",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": "Tydeman and Price suggest that Allan’s costume was strongly reminiscent of [Charles] Ricketts’s design for a 1906 production in",
+                    "suffix": "140"
+                }
+            },
+            {
+                "id": "/target/DTuTjFNxfTc/selector/css/sPGsZKvQ1Ci",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/4zYSE0GzO47]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "type": "crm:E53_Place",
+        "label": "London",
+        "description": "England, Greater London, GB"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/2N0HOht5jr0">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/2N0HOht5jr0",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:08:45.394Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/pmRAN6Oby8u",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/pmRAN6Oby8u/selector/textPosition/7skuDofvFOn",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 29200,
+                "end": 29206,
+                "refinedBy": {
+                    "id": "/target/pmRAN6Oby8u/selector/textQuote/gewPAQaC7vd",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": " It is not surprising that what the New York Times called Salomania in the United States, contemporary critics in",
+                    "suffix": " as Judith Walkowitz has observed, described as the Maud Allan boom\n                                \n                                    344\n                                "
+                }
+            },
+            {
+                "id": "/target/pmRAN6Oby8u/selector/css/U78nylaw7Qj",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/2N0HOht5jr0]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "type": "crm:E53_Place",
+        "label": "London",
+        "description": "England, Greater London, GB"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/C4LwM2viaOE">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/C4LwM2viaOE",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:08:45.394Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/rN1ulAwoRse",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/rN1ulAwoRse/selector/textPosition/Ypkcw82M6QP",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 30124,
+                "end": 30130,
+                "refinedBy": {
+                    "id": "/target/rN1ulAwoRse/selector/textQuote/Hm2ghJuICHS",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "London",
+                    "prefix": " \n                                            In her study of Allan and The Vision of Salome in",
+                    "suffix": " Walkowitz suggests that Allan’s performances materialize[d] a new femininity that, among other things, facilitated the entry of respectable women into what one turn-of-the-century writer termed the Night Side of London: the cosmopolitan spaces of the commercial West End\n                                                \n                                                    346\n                                                \n                                            \n                                        "
+                }
+            },
+            {
+                "id": "/target/rN1ulAwoRse/selector/css/Q3lKexeOD9f",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/C4LwM2viaOE]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "type": "crm:E53_Place",
+        "label": "London",
+        "description": "England, Greater London, GB"
     },
     "P2_has_type": [
         "oa:identifying"
