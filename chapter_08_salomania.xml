@@ -505,7 +505,7 @@
                                                     <title level="m">Salome</title> 142</bibl>.</note> Richard Strauss’s opera <title level="m">Salome</title>, like <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/VMSh2pAJnJd">Allan</persName>’s dance, inspired by Wilde’s play, had been performed for the first time in Dresden in 1905, giving rise to growing numbers of women who performed the title role in various locations and who performed the <title level="a">Dance of the Seven Veils</title> when the singer could not or would not do so. Dutch dancer <persName key="Mata Hari, 1876-1917" ref="http://viaf.org/viaf/73861962" ana="webannotation:http://temp.lincsproject.ca/QZH5xIekdel">Mata Hari</persName> (Margaretha Geertruida Zelle) (1876–1917), who debuted her <q>Oriental</q> temple dancing in <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/MrdHvYXI0kd">Paris</placeName> in 1905, had asked to <q>create</q> the <title level="a">Dance of the Seven Veils</title> for the <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/tAFLWxLujth">Paris</placeName> premiere of Strauss’s opera in May 1907</ref>
                                         <note place="inline">
                                             <bibl>Tydeman and Price 144</bibl>
-                                        </note>. Denied that opportunity, Toni Bentley suggests she nonetheless added the dance to her repertoire.<note xml:id="n80" place="end">Mata Hari, <persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/E39v2LiSerS">Cherniavsky</persName> points out, was also appearing in <placeName key="Vienna" ref="https://sws.geonames.org/2761369" ana="webannotation:http://temp.lincsproject.ca/vSta12nwNZ9">Vienna</placeName> at the time of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/T9uFsrXXfUI">Allan</persName>’s first public performance of <title level="a">The Vision of Salome</title>
+                                        </note>. Denied that opportunity, <persName key="Bentley, Toni" ref="http://viaf.org/viaf/79122827" ana="webannotation:http://temp.lincsproject.ca/Kn6Y2ajimHC">Toni Bentley</persName> suggests she nonetheless added the dance to her repertoire.<note xml:id="n80" place="end">Mata Hari, <persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/E39v2LiSerS">Cherniavsky</persName> points out, was also appearing in <placeName key="Vienna" ref="https://sws.geonames.org/2761369" ana="webannotation:http://temp.lincsproject.ca/vSta12nwNZ9">Vienna</placeName> at the time of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/T9uFsrXXfUI">Allan</persName>’s first public performance of <title level="a">The Vision of Salome</title>
                                             <bibl>
                                                 <title level="m">Salome</title> 143</bibl>.</note> Meanwhile, as <persName key="McDearmon, Lacy Harrison, 1932-" ref="http://viaf.org/viaf/28836739" ana="webannotation:http://temp.lincsproject.ca/PiIYndXVdIT">Lacy McDearmon</persName> notes, Fuller developed a second Salome dance in 1907, <q>a much more elaborate version, with a specially commissioned score by Florent Schmitt, <hi xml:lang="fr-CA">La Tragédie de Salomé</hi>, to a scenario by Robert d’Humières</q>
                                         <note place="inline">
@@ -18447,6 +18447,95 @@
         "type": "crm:E21_Person",
         "label": "Mata Hari, 1876-1917",
         "description": "Mata Hari"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Kn6Y2ajimHC">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Kn6Y2ajimHC",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T16:16:38.366Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/a7q9fW9tcsU",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/a7q9fW9tcsU/selector/textPosition/nJAvww2xAo4",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10909,
+                "end": 10921,
+                "refinedBy": {
+                    "id": "/target/a7q9fW9tcsU/selector/textQuote/vYGYW2hoiQH",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Toni Bentley",
+                    "prefix": " Denied that opportunity,",
+                    "suffix": "suggests she nonetheless added the dance to her repertoire"
+                }
+            },
+            {
+                "id": "/target/a7q9fW9tcsU/selector/css/aspvsx0lQ9z",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Kn6Y2ajimHC]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/79122827",
+        "type": "crm:E21_Person",
+        "label": "Bentley, Toni",
+        "description": "Bentley, Toni, 1958-"
     },
     "P2_has_type": [
         "oa:identifying"
