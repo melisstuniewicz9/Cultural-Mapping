@@ -1088,7 +1088,7 @@
                         <bibl>Volacci SEO Blog. <title level="a">What Does It Mean to <q>Go Viral</q>?</title>
                             <title level="m">Volacci.co </title>m. 26 May 2010. <ref target="http://www.volacci.com/search-engine-optimization-defining-going-viral">http://www.volacci.com/search-engine-optimization-defining-going-viral</ref>
                         </bibl>
-                        <bibl><persName key="Walkowitz, Judith R." ref="http://viaf.org/viaf/4999958" ana="webannotation:http://temp.lincsproject.ca/Na8q8s3woQh">Walkowitz</persName>, Judith R. <title level="a">The <q>Vision of Salome</q>: Cosmopolitanism and Erotic Dancing in Central London, 1908–1918</title>. <title level="j">American Historical Review</title> 108.2 (2003): 337–76.</bibl>
+                        <bibl><persName key="Walkowitz, Judith R." ref="http://viaf.org/viaf/4999958" ana="webannotation:http://temp.lincsproject.ca/Na8q8s3woQh">Walkowitz</persName>, Judith R. <title level="a">The <q>Vision of Salome</q>: Cosmopolitanism and Erotic Dancing in Central London, 1908–1918</title>. <title level="j"><orgName key="The American Historical Review" ref="http://www.wikidata.org/entity/Q389936" ana="webannotation:http://temp.lincsproject.ca/wy8HYiIoPhI">American Historical Review</orgName></title> 108.2 (2003): 337–76.</bibl>
                     </listBibl>
                 </div>
             </div>
@@ -22618,6 +22618,95 @@
         "type": "crm:E74_Group",
         "label": "Cambridge university press",
         "description": "Gwasg Prifysgol Caergrawnt"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/wy8HYiIoPhI">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/wy8HYiIoPhI",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:10:54.243Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/YASDMhiX3zA",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/YASDMhiX3zA/selector/textPosition/ZAKtpjUiYmD",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 71309,
+                "end": 71335,
+                "refinedBy": {
+                    "id": "/target/YASDMhiX3zA/selector/textQuote/UhpjIGmXT1z",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "American Historical Review",
+                    "prefix": "",
+                    "suffix": "108"
+                }
+            },
+            {
+                "id": "/target/YASDMhiX3zA/selector/css/N2jwdFeffJ2",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/wy8HYiIoPhI]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q389936",
+        "type": "frbroo:F1",
+        "label": "The American Historical Review",
+        "description": "academic journal"
     },
     "P2_has_type": [
         "oa:identifying"
