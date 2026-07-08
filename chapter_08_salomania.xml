@@ -1057,7 +1057,7 @@
                         <bibl>Garelick, Rhonda K. <title level="m">Electric Salome: Loie Fuller’s Performance of Modernism</title>. <placeName key="Princeton" ref="https://sws.geonames.org/5102922" ana="webannotation:http://temp.lincsproject.ca/3Z6HER46nnW">Princeton</placeName>: <orgName key="Princeton university press" ref="http://viaf.org/viaf/158317684" ana="webannotation:http://temp.lincsproject.ca/th8IMDJlTwC">Princeton University Press</orgName>, 2007.</bibl>
                         <bibl>Gillen, Julia, and Nigel Hall. <title level="a">The Edwardian Postcard: A Revolutionary Moment in Rapid Multimodal Communications</title>. Paper presented at the British Educational Research Association Annual Conference, <placeName key="Manchester" ref="https://sws.geonames.org/2643123" ana="webannotation:http://temp.lincsproject.ca/qIUiig1pWT8">Manchester</placeName>, 2–5 September 2009. <ref target="http://www.lancs.ac.uk/fass/projects/EVIIpc/docs">http://www.lancs.ac.uk/fass/projects/EVIIpc/docs</ref>
                         </bibl>
-                        <bibl>Hasan-Rokem, Galit. <title level="a">Jews as Postcards, or Postcards as Jews: Mobility in a Modern Genre</title>. <title level="j">Jewish Quarterly Review</title> 99.4 (2009): 505–46.</bibl>
+                        <bibl>Hasan-Rokem, Galit. <title level="a"><title key="Jews as Postcards, or Postcards as Jews: Mobility in a Modern Genre" ref="http://www.wikidata.org/entity/Q139703370" ana="webannotation:http://temp.lincsproject.ca/CSB0yQVmFRQ">Jews as Postcards</title>, or Postcards as Jews: Mobility in a Modern Genre</title>. <title level="j">Jewish Quarterly Review</title> 99.4 (2009): 505–46.</bibl>
                         <bibl>Holt, Tonie, and <persName key="Holt, Valmai" ref="http://viaf.org/viaf/27219839" ana="webannotation:http://temp.lincsproject.ca/Dr9Qq5C7sKe">Valmai Holt</persName>. <title level="m">Picture Postcards of the Golden Age: A Collector’s Guide</title>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/Kwk8nhIwcZQ">London</placeName>: <orgName key="MacGibbon &amp; Kee." ref="http://viaf.org/viaf/315242555" ana="webannotation:http://temp.lincsproject.ca/owVhoqsiyTM">MacGibbon and Kee</orgName>, 1971.</bibl>
                         <bibl>Hutcheon, Linda, and Michael Hutcheon. <title level="a">Staging the Female Body: Richard Strauss’s <title level="m">Salome</title>
                             </title>. <title level="m">Siren Songs: Representations of Gender and Sexuality in Opera</title>. Ed. <persName key="Smart, Mary Ann." ref="http://viaf.org/viaf/12478911" ana="webannotation:http://temp.lincsproject.ca/inpAUgce7oN">Mary Ann Smart</persName>. <placeName key="Princeton" ref="https://sws.geonames.org/5102922" ana="webannotation:http://temp.lincsproject.ca/ko2HebLkjCc">Princeton</placeName>: <orgName key="Princeton university press" ref="http://viaf.org/viaf/158317684" ana="webannotation:http://temp.lincsproject.ca/6JXlpPXDAzj">Princeton University Press</orgName>, 2000. 204–21.</bibl>
@@ -22262,6 +22262,94 @@
         "label": "Manchester",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/CSB0yQVmFRQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/CSB0yQVmFRQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:14:05.682Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/8G1s1g6z1wO",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/8G1s1g6z1wO/selector/textPosition/OnoVwbqaqkD",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 68110,
+                "end": 68127,
+                "refinedBy": {
+                    "id": "/target/8G1s1g6z1wO/selector/textQuote/2iA9zx86O8J",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Jews as Postcards",
+                    "prefix": "",
+                    "suffix": " or Postcards as Jews: Mobility in a Modern Genre"
+                }
+            },
+            {
+                "id": "/target/8G1s1g6z1wO/selector/css/vTdNDkXCs1k",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/CSB0yQVmFRQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q139703370",
+        "type": "frbroo:F1",
+        "label": "Jews as Postcards, or Postcards as Jews: Mobility in a Modern Genre"
     },
     "P2_has_type": [
         "oa:identifying"
