@@ -502,7 +502,7 @@
                                                 <bibl>205</bibl>.) <persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/mcqAag4pusb">Cherniavsky</persName> notes that both <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/0H2C478Fj8m">Maud Allan</persName> and Marcel Rémy, who composed the music for <title level="a">The Vision of Salome,</title>
                                                 <q>saw this Reinhardt production in <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/O4s9wPeXw5z">Berlin</placeName></q>
                                                 <bibl>
-                                                    <title level="m">Salome</title> 142</bibl>.</note> Richard Strauss’s opera <title level="m">Salome</title>, like <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/VMSh2pAJnJd">Allan</persName>’s dance, inspired by Wilde’s play, had been performed for the first time in Dresden in 1905, giving rise to growing numbers of women who performed the title role in various locations and who performed the <title level="a">Dance of the Seven Veils</title> when the singer could not or would not do so. Dutch dancer Mata Hari (Margaretha Geertruida Zelle) (1876–1917), who debuted her <q>Oriental</q> temple dancing in <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/MrdHvYXI0kd">Paris</placeName> in 1905, had asked to <q>create</q> the <title level="a">Dance of the Seven Veils</title> for the <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/tAFLWxLujth">Paris</placeName> premiere of Strauss’s opera in May 1907</ref>
+                                                    <title level="m">Salome</title> 142</bibl>.</note> Richard Strauss’s opera <title level="m">Salome</title>, like <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/VMSh2pAJnJd">Allan</persName>’s dance, inspired by Wilde’s play, had been performed for the first time in Dresden in 1905, giving rise to growing numbers of women who performed the title role in various locations and who performed the <title level="a">Dance of the Seven Veils</title> when the singer could not or would not do so. Dutch dancer <persName key="Mata Hari, 1876-1917" ref="http://viaf.org/viaf/73861962" ana="webannotation:http://temp.lincsproject.ca/QZH5xIekdel">Mata Hari</persName> (Margaretha Geertruida Zelle) (1876–1917), who debuted her <q>Oriental</q> temple dancing in <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/MrdHvYXI0kd">Paris</placeName> in 1905, had asked to <q>create</q> the <title level="a">Dance of the Seven Veils</title> for the <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/tAFLWxLujth">Paris</placeName> premiere of Strauss’s opera in May 1907</ref>
                                         <note place="inline">
                                             <bibl>Tydeman and Price 144</bibl>
                                         </note>. Denied that opportunity, Toni Bentley suggests she nonetheless added the dance to her repertoire.<note xml:id="n80" place="end">Mata Hari, <persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/E39v2LiSerS">Cherniavsky</persName> points out, was also appearing in <placeName key="Vienna" ref="https://sws.geonames.org/2761369" ana="webannotation:http://temp.lincsproject.ca/vSta12nwNZ9">Vienna</placeName> at the time of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/T9uFsrXXfUI">Allan</persName>’s first public performance of <title level="a">The Vision of Salome</title>
@@ -18358,6 +18358,95 @@
         "type": "crm:E21_Person",
         "label": "Kayssler, Friedrich, 1874-1945",
         "description": "Friedrich Kayssler"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/QZH5xIekdel">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/QZH5xIekdel",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T16:15:46.296Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/aKgrBDwqRYq",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/aKgrBDwqRYq/selector/textPosition/dYLn5MN7KgF",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10521,
+                "end": 10530,
+                "refinedBy": {
+                    "id": "/target/aKgrBDwqRYq/selector/textQuote/Bil1Z10UGc5",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Mata Hari",
+                    "prefix": " Dutch dancer",
+                    "suffix": "(Margaretha Geertruida Zelle) (1876–1917), who debuted her Oriental temple dancing in Paris in 1905, had asked to create the Dance of the Seven Veils for the Paris premiere of Strauss’s opera in May 1907\n                                        \n                                            Tydeman and Price 144\n                                        "
+                }
+            },
+            {
+                "id": "/target/aKgrBDwqRYq/selector/css/VUyC4LffRWH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/QZH5xIekdel]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/73861962",
+        "type": "crm:E21_Person",
+        "label": "Mata Hari, 1876-1917",
+        "description": "Mata Hari"
     },
     "P2_has_type": [
         "oa:identifying"
