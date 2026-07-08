@@ -1041,7 +1041,7 @@
                         <bibl>Allan, Maud. <title level="a">Maud Allan Clippings</title>. New York Public Library for the Performing Arts, New York.</bibl>
                         <bibl>. <title level="a">Maud Allan Collection</title>. Dance Collection Danse Archives, <placeName key="Toronto" ref="https://sws.geonames.org/8133394/" ana="webannotation:http://temp.lincsproject.ca/TT88PjR7LUN">Toronto</placeName>.</bibl>
                         <bibl>. <title level="a">Maud Allan Collection</title>. Museum of Performance and Design, <placeName key="San Francisco" ref="https://sws.geonames.org/7174368     " ana="webannotation:http://temp.lincsproject.ca/VnYjVyLBCll">San Francisco</placeName>.</bibl>
-                        <bibl>. <title level="a">Maud Allan Papers. Collection 2038</title>. Department of Special Collections, Charles E. Young Research Library, <orgName key="University of California, Los Angeles" ref="http://viaf.org/viaf/122477083" ana="webannotation:http://temp.lincsproject.ca/3XJnz1ho9FO">University of California</orgName>, <placeName key="Los Angeles, U.S.A" ref="https://sws.geonames.org/5368361/" ana="webannotation:http://temp.lincsproject.ca/8MBoKpPucDg">Los Angeles</placeName>.</bibl>
+                        <bibl>. <title level="a">Maud Allan Papers. Collection 2038</title>. Department of Special Collections, <orgName key="Charles E. Young Research Library" ref="http://viaf.org/viaf/158543203" ana="webannotation:http://temp.lincsproject.ca/YVc8dyuzlLk">Charles E. Young Research Library</orgName>, <orgName key="University of California, Los Angeles" ref="http://viaf.org/viaf/122477083" ana="webannotation:http://temp.lincsproject.ca/3XJnz1ho9FO">University of California</orgName>, <placeName key="Los Angeles, U.S.A" ref="https://sws.geonames.org/5368361/" ana="webannotation:http://temp.lincsproject.ca/8MBoKpPucDg">Los Angeles</placeName>.</bibl>
                     </listBibl>
                     <listBibl>
                         <head>Secondary Sources</head>
@@ -21371,6 +21371,94 @@
         "type": "crm:E21_Person",
         "label": "Holt, Valmai",
         "description": "Holt, Valmai, 1935-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/YVc8dyuzlLk">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/YVc8dyuzlLk",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:21:07.477Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/olnAWykeQzR",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/olnAWykeQzR/selector/textPosition/LFOQ7XQuwo6",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 66493,
+                "end": 66526,
+                "refinedBy": {
+                    "id": "/target/olnAWykeQzR/selector/textQuote/NFJX4M9yRkc",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Charles E. Young Research Library",
+                    "prefix": " Department of Special Collections,",
+                    "suffix": " University of California, Los Angeles"
+                }
+            },
+            {
+                "id": "/target/olnAWykeQzR/selector/css/xYJ6TBDBBrB",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/YVc8dyuzlLk]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/158543203",
+        "type": "crm:E74_Group",
+        "label": "Charles E. Young Research Library"
     },
     "P2_has_type": [
         "oa:identifying"
