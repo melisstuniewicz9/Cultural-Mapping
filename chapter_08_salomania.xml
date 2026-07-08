@@ -1063,7 +1063,7 @@
                             </title>. <title level="m">Siren Songs: Representations of Gender and Sexuality in Opera</title>. Ed. <persName key="Smart, Mary Ann." ref="http://viaf.org/viaf/12478911" ana="webannotation:http://temp.lincsproject.ca/inpAUgce7oN">Mary Ann Smart</persName>. <placeName key="Princeton" ref="https://sws.geonames.org/5102922" ana="webannotation:http://temp.lincsproject.ca/ko2HebLkjCc">Princeton</placeName>: <orgName key="Princeton university press" ref="http://viaf.org/viaf/158317684" ana="webannotation:http://temp.lincsproject.ca/6JXlpPXDAzj">Princeton University Press</orgName>, 2000. 204–21.</bibl>
                         <bibl>James, Russell. <title level="a">London Olympics 2012</title>. 5 June 2011. <title level="m">Internet Archive Wayback Machine</title>. <ref target="http://web.archive.org/web/20110615041339/http://www.russelljames.co.uk/rjolympics.htm">http://web.archive.org/web/20110615041339/http://www.russelljames.co.uk/rjolympics.htm</ref>
                         </bibl>
-                        <bibl>Kultermann, Udo. <title level="a">The <q>Dance of the Seven Veils</q>: Salome and Erotic Culture around 1900</title>. <title level="j">Artibus et Historise</title> 27.53 (2006): 187–215.</bibl>
+                        <bibl><persName key="Kultermann, Udo" ref="http://viaf.org/viaf/109393649" ana="webannotation:http://temp.lincsproject.ca/9MT5vg6UeRj">Kultermann</persName>, Udo. <title level="a">The <q>Dance of the Seven Veils</q>: Salome and Erotic Culture around 1900</title>. <title level="j">Artibus et Historise</title> 27.53 (2006): 187–215.</bibl>
                         <bibl>
                             <title level="a"><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/fDwY9nnwelp">Maud Allan</persName></title>. <title level="m">Wikipedia</title>. 8 April 2011. <ref target="http://en.wikipedia.org/wiki/Maud_Allan">http://en.wikipedia.org/wiki/Maud_Allan</ref>
                         </bibl>
@@ -17902,6 +17902,95 @@
         "id": "https://sws.geonames.org/6255149",
         "type": "crm:E53_Place",
         "label": "North America"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/9MT5vg6UeRj">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/9MT5vg6UeRj",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:11:38.111Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/P18uMgUH8We",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/P18uMgUH8We/selector/textPosition/fy32K5kDKXb",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 68893,
+                "end": 68903,
+                "refinedBy": {
+                    "id": "/target/P18uMgUH8We/selector/textQuote/gFIfFVZzs7Z",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Kultermann",
+                    "prefix": "htm\n                        \n                       ",
+                    "suffix": " Udo"
+                }
+            },
+            {
+                "id": "/target/P18uMgUH8We/selector/css/pmdhs2gSbpA",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/9MT5vg6UeRj]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/109393649",
+        "type": "crm:E21_Person",
+        "label": "Kultermann, Udo",
+        "description": "Kultermann, Udo, 1927-2013"
     },
     "P2_has_type": [
         "oa:identifying"
