@@ -841,7 +841,7 @@
                                     <ref target="#theory">
                                         <ref target="#economics">According to different histories, postcards appeared somewhere between 1865 and 1870 but became a functional medium of international communication, says Esther Milne, only after 1874 <note place="inline">
                                                 <bibl>115</bibl>
-                                            </note> when the General Postal Union made it possible to send cards across national borders: prior to this date and to international postage agreements, Milne observes, postcards routinely were returned to their senders. Postcards, notes <persName key="Sigel, Lisa Z., 1965-...." ref="http://viaf.org/viaf/2694830" ana="webannotation:http://temp.lincsproject.ca/CdUtf2psdFJ">Sigel</persName>, <q>gained the full authorization of the Congress of the Universal Postal Union</q>
+                                            </note> when the General Postal Union made it possible to send cards across national borders: prior to this date and to international postage agreements, <persName key="Milne, Esther." ref="http://viaf.org/viaf/91038785" ana="webannotation:http://temp.lincsproject.ca/pHef8p5egsi">Milne</persName> observes, postcards routinely were returned to their senders. Postcards, notes <persName key="Sigel, Lisa Z., 1965-...." ref="http://viaf.org/viaf/2694830" ana="webannotation:http://temp.lincsproject.ca/CdUtf2psdFJ">Sigel</persName>, <q>gained the full authorization of the Congress of the Universal Postal Union</q>
                                             <note place="inline">
                                                 <bibl>860</bibl>
                                             </note> in 1886.</ref> Between 1894 and 1919, she indicates, <q>roughly 140 billion postcards were sent worldwide</q>
@@ -21015,6 +21015,95 @@
         "type": "crm:E21_Person",
         "label": "Sigel, Lisa Z., 1965-....",
         "description": "Sigel, Lisa Z."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/pHef8p5egsi">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/pHef8p5egsi",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:31:33.878Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/wvNQGGbFDpD",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/wvNQGGbFDpD/selector/textPosition/0HXVURkQ4Nn",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 44649,
+                "end": 44654,
+                "refinedBy": {
+                    "id": "/target/wvNQGGbFDpD/selector/textQuote/uEUyWvpp0pE",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Milne",
+                    "prefix": " \n                                    \n                                        According to different histories, postcards appeared somewhere between 1865 and 1870 but became a functional medium of international communication, says Esther Milne, only after 1874 \n                                                115\n                                             when the General Postal Union made it possible to send cards across national borders: prior to this date and to international postage agreements,",
+                    "suffix": "observes, postcards routinely were returned to their senders"
+                }
+            },
+            {
+                "id": "/target/wvNQGGbFDpD/selector/css/HIr2dJB4gs7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/pHef8p5egsi]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/91038785",
+        "type": "crm:E21_Person",
+        "label": "Milne, Esther.",
+        "description": "Milne, Esther, 19..-...."
     },
     "P2_has_type": [
         "oa:identifying"
