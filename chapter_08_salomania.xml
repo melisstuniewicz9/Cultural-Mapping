@@ -1054,7 +1054,7 @@
                         <bibl>Donnachie, Ian L., and Innes Macleod. <title level="m">Victorian and Edwardian Scottish Lowlands from Historic Photographs</title>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/WLZHphVZrAW">London</placeName>: B.T. Batsford, 1979.</bibl>
                         <bibl>Dragon, Andrea.<title level="a">The Salome Dancer: An Eastern Dance Takes Western Roots. PowerPoint presentation</title>. N.d. Salome—People Server at <hi rend="small-caps">uncw</hi>. Accessed 3 April 2012. <ref target="http://people.uncw.edu/deagona/raqs/Salomes%20d1f.ppt">http://people.uncw.edu/deagona/raqs/Salomes%20d1f.ppt</ref>
                         </bibl>
-                        <bibl>Garelick, Rhonda K. <title level="m">Electric Salome: Loie Fuller’s Performance of Modernism</title>. <placeName key="Princeton" ref="https://sws.geonames.org/5102922" ana="webannotation:http://temp.lincsproject.ca/3Z6HER46nnW">Princeton</placeName>: <orgName key="Princeton university press" ref="http://viaf.org/viaf/158317684" ana="webannotation:http://temp.lincsproject.ca/th8IMDJlTwC">Princeton University Press</orgName>, 2007.</bibl>
+                        <bibl><persName key="Garelick, Rhonda K., 1962-...." ref="http://viaf.org/viaf/59227838" ana="webannotation:http://temp.lincsproject.ca/gnVRNC1Ewx9">Garelick</persName>, Rhonda K. <title level="m">Electric Salome: Loie Fuller’s Performance of Modernism</title>. <placeName key="Princeton" ref="https://sws.geonames.org/5102922" ana="webannotation:http://temp.lincsproject.ca/3Z6HER46nnW">Princeton</placeName>: <orgName key="Princeton university press" ref="http://viaf.org/viaf/158317684" ana="webannotation:http://temp.lincsproject.ca/th8IMDJlTwC">Princeton University Press</orgName>, 2007.</bibl>
                         <bibl>Gillen, Julia, and Nigel Hall. <title level="a">The Edwardian Postcard: A Revolutionary Moment in Rapid Multimodal Communications</title>. Paper presented at the British Educational Research Association Annual Conference, <placeName key="Manchester" ref="https://sws.geonames.org/2643123" ana="webannotation:http://temp.lincsproject.ca/qIUiig1pWT8">Manchester</placeName>, 2–5 September 2009. <ref target="http://www.lancs.ac.uk/fass/projects/EVIIpc/docs">http://www.lancs.ac.uk/fass/projects/EVIIpc/docs</ref>
                         </bibl>
                         <bibl>Hasan-Rokem, Galit. <title level="a"><title key="Jews as Postcards, or Postcards as Jews: Mobility in a Modern Genre" ref="http://www.wikidata.org/entity/Q139703370" ana="webannotation:http://temp.lincsproject.ca/CSB0yQVmFRQ">Jews as Postcards</title>, or Postcards as Jews: Mobility in a Modern Genre</title>. <title level="j">Jewish Quarterly Review</title> 99.4 (2009): 505–46.</bibl>
@@ -21913,6 +21913,184 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/gnVRNC1Ewx9">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/gnVRNC1Ewx9",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:18:39.377Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/idUqk8waZB1",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/idUqk8waZB1/selector/textPosition/l8fLsUM69CU",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 67617,
+                "end": 67625,
+                "refinedBy": {
+                    "id": "/target/idUqk8waZB1/selector/textQuote/FFmPpkuwljl",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Garelick",
+                    "prefix": "ppt\n                        \n                       ",
+                    "suffix": " Rhonda K"
+                }
+            },
+            {
+                "id": "/target/idUqk8waZB1/selector/css/hobAHZySPXJ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/gnVRNC1Ewx9]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/59227838",
+        "type": "crm:E21_Person",
+        "label": "Garelick, Rhonda K., 1962-....",
+        "description": "Garelick, Rhonda K."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/aRQnN8fZbXO">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/aRQnN8fZbXO",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:18:20.549Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ripu9K0B5Iw",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ripu9K0B5Iw/selector/textPosition/YENULbPbEVu",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 67627,
+                "end": 67636,
+                "refinedBy": {
+                    "id": "/target/ripu9K0B5Iw/selector/textQuote/ImbOWVmLYhF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Rhonda K.",
+                    "prefix": "ppt\n                        \n                        Garelick,",
+                    "suffix": "Electric Salome: Loie Fuller’s Performance of Modernism"
+                }
+            },
+            {
+                "id": "/target/ripu9K0B5Iw/selector/css/wLF7WmBzHcI",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/aRQnN8fZbXO]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/59227838",
+        "type": "crm:E21_Person",
+        "label": "Garelick, Rhonda K., 1962-....",
+        "description": "Garelick, Rhonda K."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/3Z6HER46nnW">
 <![CDATA[{
     "@context": [
@@ -22705,6 +22883,94 @@
         "type": "crm:E21_Person",
         "label": "Kultermann, Udo",
         "description": "Kultermann, Udo, 1927-2013"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/lsUd3RL7sDv">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/lsUd3RL7sDv",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:17:08.570Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/KSZbIr3kNlw",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/KSZbIr3kNlw/selector/textPosition/Aysvvl4RCJ1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 69698,
+                "end": 69707,
+                "refinedBy": {
+                    "id": "/target/KSZbIr3kNlw/selector/textQuote/2tXsgbcDYX1",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McDearmon",
+                    "prefix": "html\n                        \n                       ",
+                    "suffix": " Lacy"
+                }
+            },
+            {
+                "id": "/target/KSZbIr3kNlw/selector/css/T8aC1qVGFK0",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/lsUd3RL7sDv]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/28836739",
+        "type": "crm:E21_Person",
+        "label": "McDearmon, Lacy Harrison, 1932-"
     },
     "P2_has_type": [
         "oa:identifying"
