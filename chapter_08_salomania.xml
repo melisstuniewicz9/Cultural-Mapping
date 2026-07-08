@@ -841,7 +841,7 @@
                                     <ref target="#theory">
                                         <ref target="#economics">According to different histories, postcards appeared somewhere between 1865 and 1870 but became a functional medium of international communication, says Esther Milne, only after 1874 <note place="inline">
                                                 <bibl>115</bibl>
-                                            </note> when the General Postal Union made it possible to send cards across national borders: prior to this date and to international postage agreements, Milne observes, postcards routinely were returned to their senders. Postcards, notes Sigel, <q>gained the full authorization of the Congress of the Universal Postal Union</q>
+                                            </note> when the General Postal Union made it possible to send cards across national borders: prior to this date and to international postage agreements, Milne observes, postcards routinely were returned to their senders. Postcards, notes <persName key="Sigel, Lisa Z., 1965-...." ref="http://viaf.org/viaf/2694830" ana="webannotation:http://temp.lincsproject.ca/CdUtf2psdFJ">Sigel</persName>, <q>gained the full authorization of the Congress of the Universal Postal Union</q>
                                             <note place="inline">
                                                 <bibl>860</bibl>
                                             </note> in 1886.</ref> Between 1894 and 1919, she indicates, <q>roughly 140 billion postcards were sent worldwide</q>
@@ -852,7 +852,7 @@
                                             <bibl>Donnachie and Macleod 98</bibl>
                                         </note>. By 1909, when <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/H8OtBGvk43f">Allan</persName>’s Salome cards were in wide circulation, <q>800,000,000 postcards were sold in <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/1VA85RqqZuL">England</placeName> alone each year</q>
                                         <note place="inline">
-                                            <bibl>Sigel 861</bibl>
+                                            <bibl><persName key="Sigel, Lisa Z., 1965-...." ref="http://viaf.org/viaf/2694830" ana="webannotation:http://temp.lincsproject.ca/FuauPRzF2xY">Sigel</persName> 861</bibl>
                                         </note>.</ref>
                                 </ref>
                             </ref>
@@ -1081,7 +1081,7 @@
                             <title level="a">Salome Dinner Dance</title>. <title level="j"><orgName key="New York Times company" ref="http://viaf.org/viaf/192149064" ana="webannotation:http://temp.lincsproject.ca/U9dx8Phc4GC">New York Times</orgName></title> 23 August 1908.</bibl>
                         <bibl>
                             <title level="a">The Salome Pestilence</title>. <title level="j"><orgName key="New York Times company" ref="http://viaf.org/viaf/192149064" ana="webannotation:http://temp.lincsproject.ca/oqPH9rKOUwb">New York Times</orgName></title> 3 September 1908.</bibl>
-                        <bibl>Sigel, Lisa Z. <title level="a">Filth in the Wrong People’s Hands: Postcards and the Expansion of Pornography in <placeName key="Britain" ref="https://sws.geonames.org/6301961" ana="webannotation:http://temp.lincsproject.ca/5jubPfjeBIG">Britain</placeName> and the Atlantic World, 1880–1914</title>. <title level="j"><orgName key="Journal of Social History" ref="http://www.wikidata.org/entity/Q6295929" ana="webannotation:http://temp.lincsproject.ca/2BX74llOwt2">Journal of Social History</orgName></title> 33.4 (2000): 859–85.</bibl>
+                        <bibl><persName key="Sigel, Lisa Z., 1965-...." ref="http://viaf.org/viaf/2694830" ana="webannotation:http://temp.lincsproject.ca/6bdRcQ6BQqs">Sigel</persName>, Lisa Z. <title level="a">Filth in the Wrong People’s Hands: Postcards and the Expansion of Pornography in <placeName key="Britain" ref="https://sws.geonames.org/6301961" ana="webannotation:http://temp.lincsproject.ca/5jubPfjeBIG">Britain</placeName> and the Atlantic World, 1880–1914</title>. <title level="j"><orgName key="Journal of Social History" ref="http://www.wikidata.org/entity/Q6295929" ana="webannotation:http://temp.lincsproject.ca/2BX74llOwt2">Journal of Social History</orgName></title> 33.4 (2000): 859–85.</bibl>
                         <bibl>Staff, Frank. <title level="a">The Picture Postcard and Its Origins</title>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/Yzqv7q9tqTQ">London</placeName>: <orgName key="Lutterworth press" ref="http://viaf.org/viaf/157514460" ana="webannotation:http://temp.lincsproject.ca/IreFTJ6g1fy">Lutterworth Press</orgName>, 1966.</bibl>
                         <bibl>Tydeman, William, and Steven Price. <title level="m">Wilde: Salome</title>. Cambridge: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/Zr5mNxyb1Hr">Cambridge University Press</orgName>, 1996.</bibl>
                         <bibl>Veteran Diplomat. <title level="a">The Spread of Bohemianism in English Society</title>. <title level="j"><orgName key="New York Times company" ref="http://viaf.org/viaf/192149064" ana="webannotation:http://temp.lincsproject.ca/YDFgegQQUaM">New York Times</orgName></title> 16 August 1908.</bibl>
@@ -20748,6 +20748,362 @@
         "label": "San Francisco",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/3DVj1wROb8h">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/3DVj1wROb8h",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:25:54.916Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/dDd4UWF6C12",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/dDd4UWF6C12/selector/textPosition/rFW3SAQbX8a",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 43853,
+                "end": 43866,
+                "refinedBy": {
+                    "id": "/target/dDd4UWF6C12/selector/textQuote/xcNkpEz8S43",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Lisa Z. Sigel",
+                    "prefix": "\n                                \n                            \n                        \n                    \n                \n                \n                    Postcards and the Circulation of White Femininity\n                    \n                        \n                            Postcards, as",
+                    "suffix": "suggests, were not a brand new form of communication at the turn of the nineteenth century \n                                    860–61\n                                , but they were quite new—about as new in communication at that moment, arguably, as email or texting is now"
+                }
+            },
+            {
+                "id": "/target/dDd4UWF6C12/selector/css/INDAFYHmUHu",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/3DVj1wROb8h]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/2694830",
+        "type": "crm:E21_Person",
+        "label": "Sigel, Lisa Z., 1965-....",
+        "description": "Sigel, Lisa Z."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/CdUtf2psdFJ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/CdUtf2psdFJ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:26:31.307Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/JgOTephyPx3",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/JgOTephyPx3/selector/textPosition/L9PClt3l85y",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 44734,
+                "end": 44739,
+                "refinedBy": {
+                    "id": "/target/JgOTephyPx3/selector/textQuote/uGyQY5Tcccc",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Sigel",
+                    "prefix": " Postcards, notes",
+                    "suffix": " gained the full authorization of the Congress of the Universal Postal Union\n                                            \n                                                860\n                                             in 1886"
+                }
+            },
+            {
+                "id": "/target/JgOTephyPx3/selector/css/p2XcH74xymM",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/CdUtf2psdFJ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/2694830",
+        "type": "crm:E21_Person",
+        "label": "Sigel, Lisa Z., 1965-....",
+        "description": "Sigel, Lisa Z."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/FuauPRzF2xY">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/FuauPRzF2xY",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:26:31.924Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/YL1ssbZoroX",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/YL1ssbZoroX/selector/textPosition/w52Za247Wtd",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45705,
+                "end": 45710,
+                "refinedBy": {
+                    "id": "/target/YL1ssbZoroX/selector/textQuote/jMhDS6t1zYn",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Sigel",
+                    "prefix": " By 1909, when Allan’s Salome cards were in wide circulation, 800,000,000 postcards were sold in England alone each year\n                                        \n                                           ",
+                    "suffix": "861\n                                        "
+                }
+            },
+            {
+                "id": "/target/YL1ssbZoroX/selector/css/OrJvjDea2rs",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/FuauPRzF2xY]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/2694830",
+        "type": "crm:E21_Person",
+        "label": "Sigel, Lisa Z., 1965-....",
+        "description": "Sigel, Lisa Z."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/6bdRcQ6BQqs">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/6bdRcQ6BQqs",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:26:31.926Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Ue7kVSykQLs",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Ue7kVSykQLs/selector/textPosition/iScSSBeVqFC",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 70419,
+                "end": 70424,
+                "refinedBy": {
+                    "id": "/target/Ue7kVSykQLs/selector/textQuote/FHRGzhYlWLY",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Sigel",
+                    "prefix": "\n                       ",
+                    "suffix": " Lisa Z"
+                }
+            },
+            {
+                "id": "/target/Ue7kVSykQLs/selector/css/OsODHodOknp",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/6bdRcQ6BQqs]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/2694830",
+        "type": "crm:E21_Person",
+        "label": "Sigel, Lisa Z., 1965-....",
+        "description": "Sigel, Lisa Z."
     },
     "P2_has_type": [
         "oa:identifying"
