@@ -847,7 +847,7 @@
                                             </note> in 1886.</ref> Between 1894 and 1919, she indicates, <q>roughly 140 billion postcards were sent worldwide</q>
                                         <note place="inline">
                                             <bibl>861</bibl>
-                                        </note>. In Britain, <q>over 300 million cards were actually posted…in 1895, over 400 million in 1900, and over 850 million in 1908. The number merely sold was much greater</q>
+                                        </note>. In <placeName key="Britain" ref="https://sws.geonames.org/6301961" ana="webannotation:http://temp.lincsproject.ca/cLPbuxHLeut">Britain</placeName>, <q>over 300 million cards were actually posted…in 1895, over 400 million in 1900, and over 850 million in 1908. The number merely sold was much greater</q>
                                         <note place="inline">
                                             <bibl>Donnachie and Macleod 98</bibl>
                                         </note>. By 1909, when <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/H8OtBGvk43f">Allan</persName>’s Salome cards were in wide circulation, <q>800,000,000 postcards were sold in <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/1VA85RqqZuL">England</placeName> alone each year</q>
@@ -912,9 +912,9 @@
                     <p xml:id="p1334">
                         <ref target="#technology">
                             <ref target="#history">
-                                <ref target="#economics">Cigarette cards were mobilized to sell cigarettes; postcards were mobilized as images that were themselves for sale, quickly becoming not only a medium of communication but itself a commodity to collect. Staff traces <q>the craze for collecting</q> that developed in Britain <note place="inline">
+                                <ref target="#economics">Cigarette cards were mobilized to sell cigarettes; postcards were mobilized as images that were themselves for sale, quickly becoming not only a medium of communication but itself a commodity to collect. Staff traces <q>the craze for collecting</q> that developed in <placeName key="Britain" ref="https://sws.geonames.org/6301961" ana="webannotation:http://temp.lincsproject.ca/KZPbCqBSMnL">Britain</placeName> <note place="inline">
                                         <bibl>64</bibl>
-                                    </note>. <ref target="#genre_journalism">The Holts note that in 1900 the <title level="j">Picture Postcard Magazine</title> was first published in Britain, described by its editor E.W. Richardson as <q>the first magazine to combine travel, philately and art through a natural connecting medium, the Picture Postcard</q>
+                                    </note>. <ref target="#genre_journalism">The Holts note that in 1900 the <title level="j">Picture Postcard Magazine</title> was first published in <placeName key="Britain" ref="https://sws.geonames.org/6301961" ana="webannotation:http://temp.lincsproject.ca/hktrNp5VMFz">Britain</placeName>, described by its editor E.W. Richardson as <q>the first magazine to combine travel, philately and art through a natural connecting medium, the Picture Postcard</q>
                                         <note place="inline">
                                             <bibl>qtd. in Holt and Holt 37</bibl>
                                         </note>. Not only did postcards emerge as a technology of communication alongside photography, they also emerged in tandem with increased travel—across categories of gender, race, and class.</ref> In both instances, postcards are, as Richardson put it in 1900, <q>a natural connecting medium</q> (qtd. in <note place="inline">
@@ -1081,7 +1081,7 @@
                             <title level="a">Salome Dinner Dance</title>. <title level="j"><orgName key="New York Times company" ref="http://viaf.org/viaf/192149064" ana="webannotation:http://temp.lincsproject.ca/U9dx8Phc4GC">New York Times</orgName></title> 23 August 1908.</bibl>
                         <bibl>
                             <title level="a">The Salome Pestilence</title>. <title level="j"><orgName key="New York Times company" ref="http://viaf.org/viaf/192149064" ana="webannotation:http://temp.lincsproject.ca/oqPH9rKOUwb">New York Times</orgName></title> 3 September 1908.</bibl>
-                        <bibl>Sigel, Lisa Z. <title level="a">Filth in the Wrong People’s Hands: Postcards and the Expansion of Pornography in Britain and the Atlantic World, 1880–1914</title>. <title level="j">Journal of Social History</title> 33.4 (2000): 859–85.</bibl>
+                        <bibl>Sigel, Lisa Z. <title level="a">Filth in the Wrong People’s Hands: Postcards and the Expansion of Pornography in <placeName key="Britain" ref="https://sws.geonames.org/6301961" ana="webannotation:http://temp.lincsproject.ca/5jubPfjeBIG">Britain</placeName> and the Atlantic World, 1880–1914</title>. <title level="j">Journal of Social History</title> 33.4 (2000): 859–85.</bibl>
                         <bibl>Staff, Frank. <title level="a">The Picture Postcard and Its Origins</title>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/Yzqv7q9tqTQ">London</placeName>: <orgName key="Lutterworth press" ref="http://viaf.org/viaf/157514460" ana="webannotation:http://temp.lincsproject.ca/IreFTJ6g1fy">Lutterworth Press</orgName>, 1966.</bibl>
                         <bibl>Tydeman, William, and Steven Price. <title level="m">Wilde: Salome</title>. Cambridge: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/Zr5mNxyb1Hr">Cambridge University Press</orgName>, 1996.</bibl>
                         <bibl>Veteran Diplomat. <title level="a">The Spread of Bohemianism in English Society</title>. <title level="j"><orgName key="New York Times company" ref="http://viaf.org/viaf/192149064" ana="webannotation:http://temp.lincsproject.ca/YDFgegQQUaM">New York Times</orgName></title> 16 August 1908.</bibl>
@@ -18168,6 +18168,362 @@
         "type": "crm:E74_Group",
         "label": "University of California, Los Angeles",
         "description": "Uniwersytet Kalifornijski (Los Angeles)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/cLPbuxHLeut">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/cLPbuxHLeut",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T14:41:17.100Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/m6oy93hv7Sa",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/m6oy93hv7Sa/selector/textPosition/EbF9nMj7PWF",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45190,
+                "end": 45197,
+                "refinedBy": {
+                    "id": "/target/m6oy93hv7Sa/selector/textQuote/LuA8pxJW7tF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Britain",
+                    "prefix": " In",
+                    "suffix": " over 300 million cards were actually posted…in 1895, over 400 million in 1900, and over 850 million in 1908"
+                }
+            },
+            {
+                "id": "/target/m6oy93hv7Sa/selector/css/hujg3lmAFXK",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/cLPbuxHLeut]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6301961",
+        "type": "crm:E53_Place",
+        "label": "Britain",
+        "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/KZPbCqBSMnL">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/KZPbCqBSMnL",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T14:41:17.224Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/irpgydA4Fim",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/irpgydA4Fim/selector/textPosition/l3kgJGXhJD9",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 52204,
+                "end": 52211,
+                "refinedBy": {
+                    "id": "/target/irpgydA4Fim/selector/textQuote/vsHn6c7fBkX",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Britain",
+                    "prefix": " Staff traces the craze for collecting that developed in",
+                    "suffix": "\n                                        64\n                                    "
+                }
+            },
+            {
+                "id": "/target/irpgydA4Fim/selector/css/8qBBtcvrFKM",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/KZPbCqBSMnL]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6301961",
+        "type": "crm:E53_Place",
+        "label": "Britain",
+        "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/hktrNp5VMFz">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/hktrNp5VMFz",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T14:41:17.301Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/CZYjtuzpGGv",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/CZYjtuzpGGv/selector/textPosition/f2hLqE53kXU",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 52375,
+                "end": 52382,
+                "refinedBy": {
+                    "id": "/target/CZYjtuzpGGv/selector/textQuote/aVvwDshLg81",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Britain",
+                    "prefix": " The Holts note that in 1900 the Picture Postcard Magazine was first published in",
+                    "suffix": " described by its editor E"
+                }
+            },
+            {
+                "id": "/target/CZYjtuzpGGv/selector/css/MIjluJ5ILrD",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/hktrNp5VMFz]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6301961",
+        "type": "crm:E53_Place",
+        "label": "Britain",
+        "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/5jubPfjeBIG">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/5jubPfjeBIG",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T14:41:17.374Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/N7hSee1rDVd",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/N7hSee1rDVd/selector/textPosition/dAnmLXfZKBZ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 70515,
+                "end": 70522,
+                "refinedBy": {
+                    "id": "/target/N7hSee1rDVd/selector/textQuote/ib1P4uwVBJ3",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Britain",
+                    "prefix": " Filth in the Wrong People’s Hands: Postcards and the Expansion of Pornography in",
+                    "suffix": "and the Atlantic World, 1880–1914"
+                }
+            },
+            {
+                "id": "/target/N7hSee1rDVd/selector/css/qgNAMegKyZk",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/5jubPfjeBIG]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6301961",
+        "type": "crm:E53_Place",
+        "label": "Britain",
+        "description": ""
     },
     "P2_has_type": [
         "oa:identifying"
