@@ -819,7 +819,7 @@
                         <ref target="#non-book_media">
                             <ref target="#representation_of_women">The non-Salome postcards of 1905–06 suggest that the image of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/wVstl7kBnur">Allan</persName> as <q><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/DaJlFvOVtoU">Maud Allan</persName></q> had begun to circulate in the earliest days of her performances.<note xml:id="n85" place="end">
                                     <ref target="#violence">
-                                        <ref target="#religion">Christened Ulla Maude Durrant</ref>, she adopted the name <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/xFQaFx9wtwB">Maud Allan</persName> following the conviction and execution of her brother Theodore Durrant in 1899 for the murder of two women in San Francisco.</ref>
+                                        <ref target="#religion">Christened Ulla Maude Durrant</ref>, she adopted the name <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/xFQaFx9wtwB">Maud Allan</persName> following the conviction and execution of her brother Theodore Durrant in 1899 for the murder of two women in <placeName key="San Francisco" ref="https://sws.geonames.org/7174368     " ana="webannotation:http://temp.lincsproject.ca/p7o1hvwojhG">San Francisco</placeName>.</ref>
                                 </note>
                                 <ref target="#social_movement">
                                     <ref target="#economics">These cards also indicate this medium had an established work and value in circulating images to advertise an event and to bring <q>before the public</q> the image of a performer, and suggest how this value would be exploited in the groundswell that would be called the <q><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/JKGKimwfC91">Maud Allan</persName> boom,</q> if not by <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/nFxga7eW83C">Allan</persName> or by <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/sn8nKMh7RBJ">Allan</persName> alone, certainly by many others in the business of image reproduction. Postcards, as the proliferation of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/o3zHxZrPlBH">Allan</persName> cards demonstrates, made it possible to capitalize on the image in ways that had not previously been possible. The image could be bought and sold; thus, while its work, as I am suggesting here, is importantly symbolic, the postcard also facilitated the emergence of the image as not simply the representation of the thing but the thing itself—or, as Jean-Luc Nancy suggests, of the image as <q>a thing that is not the thing [but] distinguishes itself from it</q>
@@ -1040,7 +1040,7 @@
                         <head>Archival Sources</head>
                         <bibl>Allan, Maud. <title level="a">Maud Allan Clippings</title>. New York Public Library for the Performing Arts, New York.</bibl>
                         <bibl>. <title level="a">Maud Allan Collection</title>. Dance Collection Danse Archives, <placeName key="Toronto" ref="https://sws.geonames.org/8133394/" ana="webannotation:http://temp.lincsproject.ca/TT88PjR7LUN">Toronto</placeName>.</bibl>
-                        <bibl>. <title level="a">Maud Allan Collection</title>. Museum of Performance and Design, San Francisco.</bibl>
+                        <bibl>. <title level="a">Maud Allan Collection</title>. Museum of Performance and Design, <placeName key="San Francisco" ref="https://sws.geonames.org/7174368     " ana="webannotation:http://temp.lincsproject.ca/VnYjVyLBCll">San Francisco</placeName>.</bibl>
                         <bibl>. <title level="a">Maud Allan Papers. Collection 2038</title>. Department of Special Collections, Charles E. Young Research Library, University of California, <placeName key="Los Angeles, U.S.A" ref="https://sws.geonames.org/5368361/" ana="webannotation:http://temp.lincsproject.ca/8MBoKpPucDg">Los Angeles</placeName>.</bibl>
                     </listBibl>
                     <listBibl>
@@ -19147,6 +19147,184 @@
         "type": "crm:E53_Place",
         "label": "Federal Republic of Germany",
         "description": "null, DE"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/p7o1hvwojhG">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/p7o1hvwojhG",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T14:49:07.425Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/kAj0pYCBq7J",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/kAj0pYCBq7J/selector/textPosition/XGjTEWMoGMr",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 42291,
+                "end": 42304,
+                "refinedBy": {
+                    "id": "/target/kAj0pYCBq7J/selector/textQuote/2JandE7sKgj",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "San Francisco",
+                    "prefix": "\n                                    \n                                        Christened Ulla Maude Durrant, she adopted the name Maud Allan following the conviction and execution of her brother Theodore Durrant in 1899 for the murder of two women in",
+                    "suffix": "\n                                \n                                \n                                    These cards also indicate this medium had an established work and value in circulating images to advertise an event and to bring before the public the image of a performer, and suggest how this value would be exploited in the groundswell that would be called the Maud Allan boom, if not by Allan or by Allan alone, certainly by many others in the business of image reproduction"
+                }
+            },
+            {
+                "id": "/target/kAj0pYCBq7J/selector/css/Hq5FwlZ6RX0",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/p7o1hvwojhG]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/7174368     ",
+        "label": "San Francisco",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/VnYjVyLBCll">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/VnYjVyLBCll",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T14:49:07.855Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/XPuSQwBj4Rn",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/XPuSQwBj4Rn/selector/textPosition/J4YeZZu30Jb",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 66381,
+                "end": 66394,
+                "refinedBy": {
+                    "id": "/target/XPuSQwBj4Rn/selector/textQuote/qtuMVwcGnOM",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "San Francisco",
+                    "prefix": " Museum of Performance and Design,",
+                    "suffix": "\n                        "
+                }
+            },
+            {
+                "id": "/target/XPuSQwBj4Rn/selector/css/fCN5zG1Via1",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/VnYjVyLBCll]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/7174368     ",
+        "label": "San Francisco",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
