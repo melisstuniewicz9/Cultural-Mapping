@@ -718,7 +718,7 @@
                                     <bibl>
                                         <title level="a">Salome Dinner Dance</title>
                                     </bibl>
-                                </note>. It is not surprising that what the <title level="j">New York Times</title> called <q>Salomania</q> in the United States, contemporary critics in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/2N0HOht5jr0">London</placeName>, as Judith Walkowitz has observed, described as the <q><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/16u15eMlyQ7">Maud Allan</persName> boom</q>
+                                </note>. It is not surprising that what the <title level="j">New York Times</title> called <q>Salomania</q> in the <placeName key="United States" ref="https://sws.geonames.org/6252001    " ana="webannotation:http://temp.lincsproject.ca/0EJlPQDa8k6">United States</placeName>, contemporary critics in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/2N0HOht5jr0">London</placeName>, as Judith Walkowitz has observed, described as the <q><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/16u15eMlyQ7">Maud Allan</persName> boom</q>
                                 <note place="inline">
                                     <bibl>344</bibl>
                                 </note>.</ref>
@@ -17723,6 +17723,95 @@
         "type": "crm:E74_Group",
         "label": "New York Times company",
         "description": "The New York Times American daily newspaper (founded 1851)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/0EJlPQDa8k6">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/0EJlPQDa8k6",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T14:41:44.922Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4tceHCIwOmQ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4tceHCIwOmQ/selector/textPosition/837JZ4zASXB",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 29161,
+                "end": 29174,
+                "refinedBy": {
+                    "id": "/target/4tceHCIwOmQ/selector/textQuote/stxLTghsqmD",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "United States",
+                    "prefix": " It is not surprising that what the New York Times called Salomania in the",
+                    "suffix": " contemporary critics in London, as Judith Walkowitz has observed, described as the Maud Allan boom\n                                \n                                    344\n                                "
+                }
+            },
+            {
+                "id": "/target/4tceHCIwOmQ/selector/css/jVj53yG9ZQF",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/0EJlPQDa8k6]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6252001    ",
+        "label": "United States",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
