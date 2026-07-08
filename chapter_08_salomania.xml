@@ -1055,12 +1055,12 @@
                         <bibl>Dragon, Andrea.<title level="a">The Salome Dancer: An Eastern Dance Takes Western Roots. PowerPoint presentation</title>. N.d. Salome—People Server at <hi rend="small-caps">uncw</hi>. Accessed 3 April 2012. <ref target="http://people.uncw.edu/deagona/raqs/Salomes%20d1f.ppt">http://people.uncw.edu/deagona/raqs/Salomes%20d1f.ppt</ref>
                         </bibl>
                         <bibl>Garelick, Rhonda K. <title level="m">Electric Salome: Loie Fuller’s Performance of Modernism</title>. <placeName key="Princeton" ref="https://sws.geonames.org/5102922" ana="webannotation:http://temp.lincsproject.ca/3Z6HER46nnW">Princeton</placeName>: <orgName key="Princeton university press" ref="http://viaf.org/viaf/158317684" ana="webannotation:http://temp.lincsproject.ca/th8IMDJlTwC">Princeton University Press</orgName>, 2007.</bibl>
-                        <bibl>Gillen, Julia, and Nigel Hall. <title level="a">The Edwardian Postcard: A Revolutionary Moment in Rapid Multimodal Communications</title>. Paper presented at the British Educational Research Association Annual Conference, Manchester, 2–5 September 2009. <ref target="http://www.lancs.ac.uk/fass/projects/EVIIpc/docs">http://www.lancs.ac.uk/fass/projects/EVIIpc/docs</ref>
+                        <bibl>Gillen, Julia, and Nigel Hall. <title level="a">The Edwardian Postcard: A Revolutionary Moment in Rapid Multimodal Communications</title>. Paper presented at the British Educational Research Association Annual Conference, <placeName key="Manchester" ref="https://sws.geonames.org/2643123" ana="webannotation:http://temp.lincsproject.ca/qIUiig1pWT8">Manchester</placeName>, 2–5 September 2009. <ref target="http://www.lancs.ac.uk/fass/projects/EVIIpc/docs">http://www.lancs.ac.uk/fass/projects/EVIIpc/docs</ref>
                         </bibl>
                         <bibl>Hasan-Rokem, Galit. <title level="a">Jews as Postcards, or Postcards as Jews: Mobility in a Modern Genre</title>. <title level="j">Jewish Quarterly Review</title> 99.4 (2009): 505–46.</bibl>
                         <bibl>Holt, Tonie, and Valmai Holt. <title level="m">Picture Postcards of the Golden Age: A Collector’s Guide</title>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/Kwk8nhIwcZQ">London</placeName>: MacGibbon and Kee, 1971.</bibl>
                         <bibl>Hutcheon, Linda, and Michael Hutcheon. <title level="a">Staging the Female Body: Richard Strauss’s <title level="m">Salome</title>
-                            </title>. <title level="m">Siren Songs: Representations of Gender and Sexuality in Opera</title>. Ed. Mary Ann Smart. Princeton: <orgName key="Princeton university press" ref="http://viaf.org/viaf/158317684" ana="webannotation:http://temp.lincsproject.ca/6JXlpPXDAzj">Princeton University Press</orgName>, 2000. 204–21.</bibl>
+                            </title>. <title level="m">Siren Songs: Representations of Gender and Sexuality in Opera</title>. Ed. Mary Ann Smart. <placeName key="Princeton" ref="https://sws.geonames.org/5102922" ana="webannotation:http://temp.lincsproject.ca/ko2HebLkjCc">Princeton</placeName>: <orgName key="Princeton university press" ref="http://viaf.org/viaf/158317684" ana="webannotation:http://temp.lincsproject.ca/6JXlpPXDAzj">Princeton University Press</orgName>, 2000. 204–21.</bibl>
                         <bibl>James, Russell. <title level="a">London Olympics 2012</title>. 5 June 2011. <title level="m">Internet Archive Wayback Machine</title>. <ref target="http://web.archive.org/web/20110615041339/http://www.russelljames.co.uk/rjolympics.htm">http://web.archive.org/web/20110615041339/http://www.russelljames.co.uk/rjolympics.htm</ref>
                         </bibl>
                         <bibl>Kultermann, Udo. <title level="a">The <q>Dance of the Seven Veils</q>: Salome and Erotic Culture around 1900</title>. <title level="j">Artibus et Historise</title> 27.53 (2006): 187–215.</bibl>
@@ -20401,6 +20401,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ko2HebLkjCc">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ko2HebLkjCc",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T14:49:35.282Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/9k1eeN6vKZk",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/9k1eeN6vKZk/selector/textPosition/PxN1ReE8cdE",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 68595,
+                "end": 68604,
+                "refinedBy": {
+                    "id": "/target/9k1eeN6vKZk/selector/textQuote/W5jmPjfjsog",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Princeton",
+                    "prefix": "",
+                    "suffix": " Princeton University Press, 2000"
+                }
+            },
+            {
+                "id": "/target/9k1eeN6vKZk/selector/css/voWRCwZBtFw",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ko2HebLkjCc]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/5102922",
+        "type": "crm:E53_Place",
+        "label": "Princeton",
+        "description": "New Jersey, Mercer County, US"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/th8IMDJlTwC">
 <![CDATA[{
     "@context": [
@@ -20571,6 +20660,95 @@
         "type": "crm:E74_Group",
         "label": "Princeton university press",
         "description": "Princeton University Press independent publisher with close connections to Princeton University"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/qIUiig1pWT8">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/qIUiig1pWT8",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T14:59:27.047Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/atrONbd7JL0",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/atrONbd7JL0/selector/textPosition/rcTL5k8GAgt",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 67960,
+                "end": 67970,
+                "refinedBy": {
+                    "id": "/target/atrONbd7JL0/selector/textQuote/FmlICkfEx9i",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Manchester",
+                    "prefix": " Paper presented at the British Educational Research Association Annual Conference,",
+                    "suffix": " 2–5 September 2009"
+                }
+            },
+            {
+                "id": "/target/atrONbd7JL0/selector/css/C1mMmD5q08l",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/qIUiig1pWT8]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643123",
+        "label": "Manchester",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
