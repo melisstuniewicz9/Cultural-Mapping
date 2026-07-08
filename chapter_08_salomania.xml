@@ -761,7 +761,7 @@
                                         <bibl>April 3, 2012</bibl>
                                     </note> using the term <q><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/TjSYgh85nj6">Maud Allan</persName></q> yields <q>about 347,000 results.</q> Of the first twenty-five images, twenty are certainly postcards; two are possibly postcards; one is a sketch; one is an image of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/cfcQraaxYWS">Allan</persName>’s Salome costume worn by a contemporary model; and one is a postcard of Wilde. Of the twenty postcards with the image of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/3E80BVfVZx0">Allan</persName>, seventeen are Salome postcards. A  search <note place="inline">
                                         <bibl>April 3, 2012</bibl>
-                                    </note> using the term <q>Maud Allan Salome</q> yields <q>about 30,900 results.</q> Of the first twenty-four, all but three are postcards. <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/JjROkIWQ0fb">Allan</persName>’s <title level="m">Wikipedia</title> entry is illustrated with a Salome postcard. <ref target="#economics">Postcards with images of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/JkFouSXLSqU">Allan</persName> outnumber all other <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/zVfxdoLXrQ4">Allan</persName> objects on the Internet auction site eBay: of the items listed by international sellers on April 17, 2012, seven are Salome postcards, two are newspaper clippings, and one is a print from 1908. The blog <title level="m">About Postcards</title> makes the point that original postcard images of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/kKBENg7sxOt">Allan</persName> <q>are in considerable demand</q> and that <q>those featuring her in her Salome costume</q> are <q>some of the most desirable</q> and can <q>be priced much higher than other Edwardian stage and actress postcards</q>
+                                    </note> using the term <q>Maud Allan Salome</q> yields <q>about 30,900 results.</q> Of the first twenty-four, all but three are postcards. <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/JjROkIWQ0fb">Allan</persName>’s <title level="m">Wikipedia</title> entry is illustrated with a Salome postcard. <ref target="#economics">Postcards with images of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/JkFouSXLSqU">Allan</persName> outnumber all other <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/zVfxdoLXrQ4">Allan</persName> objects on the Internet auction site <orgName key="eBay (firm)" ref="http://viaf.org/viaf/142166517" ana="webannotation:http://temp.lincsproject.ca/CYFsNHiC7bu">eBay</orgName>: of the items listed by international sellers on April 17, 2012, seven are Salome postcards, two are newspaper clippings, and one is a print from 1908. The blog <title level="m">About Postcards</title> makes the point that original postcard images of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/kKBENg7sxOt">Allan</persName> <q>are in considerable demand</q> and that <q>those featuring her in her Salome costume</q> are <q>some of the most desirable</q> and can <q>be priced much higher than other Edwardian stage and actress postcards</q>
                                         <note place="inline">
                                             <bibl>
                                                 <title level="m"><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/jQ7PjDfQQmi">Maud Allan</persName>: The Salome Dancer Postcards</title>
@@ -20845,6 +20845,95 @@
         "type": "crm:E21_Person",
         "label": "Walkowitz, Judith R.",
         "description": "Walkowitz, Judith R. 1945-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/CYFsNHiC7bu">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/CYFsNHiC7bu",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T16:19:21.444Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/w10p5AFxnfN",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/w10p5AFxnfN/selector/textPosition/hvfzHWS9jWw",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 34880,
+                "end": 34884,
+                "refinedBy": {
+                    "id": "/target/w10p5AFxnfN/selector/textQuote/vy4BmKl0JU3",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "eBay",
+                    "prefix": " Postcards with images of Allan outnumber all other Allan objects on the Internet auction site",
+                    "suffix": " of the items listed by international sellers on April 17, 2012, seven are Salome postcards, two are newspaper clippings, and one is a print from 1908"
+                }
+            },
+            {
+                "id": "/target/w10p5AFxnfN/selector/css/ASvqOrLwRAI",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/CYFsNHiC7bu]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/142166517",
+        "type": "crm:E74_Group",
+        "label": "eBay (firm)",
+        "description": "eBay American multinational internet corporation that manages eBay.com"
     },
     "P2_has_type": [
         "oa:identifying"
