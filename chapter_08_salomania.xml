@@ -1040,7 +1040,7 @@
                         <head>Archival Sources</head>
                         <bibl>Allan, Maud. <title level="a">Maud Allan Clippings</title>. New York Public Library for the Performing Arts, New York.</bibl>
                         <bibl>. <title level="a">Maud Allan Collection</title>. Dance Collection Danse Archives, <placeName key="Toronto" ref="https://sws.geonames.org/8133394/" ana="webannotation:http://temp.lincsproject.ca/TT88PjR7LUN">Toronto</placeName>.</bibl>
-                        <bibl>. <title level="a">Maud Allan Collection</title>. Museum of Performance and Design, <placeName key="San Francisco" ref="https://sws.geonames.org/7174368     " ana="webannotation:http://temp.lincsproject.ca/VnYjVyLBCll">San Francisco</placeName>.</bibl>
+                        <bibl>. <title level="a">Maud Allan Collection</title>. <orgName key="Museum of Performance + Design" ref="http://www.wikidata.org/entity/Q14683453" ana="webannotation:http://temp.lincsproject.ca/rUVPOX0DlgL">Museum of Performance and Design</orgName>, <placeName key="San Francisco" ref="https://sws.geonames.org/7174368     " ana="webannotation:http://temp.lincsproject.ca/VnYjVyLBCll">San Francisco</placeName>.</bibl>
                         <bibl>. <title level="a">Maud Allan Papers. Collection 2038</title>. Department of Special Collections, <orgName key="Charles E. Young Research Library" ref="http://viaf.org/viaf/158543203" ana="webannotation:http://temp.lincsproject.ca/YVc8dyuzlLk">Charles E. Young Research Library</orgName>, <orgName key="University of California, Los Angeles" ref="http://viaf.org/viaf/122477083" ana="webannotation:http://temp.lincsproject.ca/3XJnz1ho9FO">University of California</orgName>, <placeName key="Los Angeles, U.S.A" ref="https://sws.geonames.org/5368361/" ana="webannotation:http://temp.lincsproject.ca/8MBoKpPucDg">Los Angeles</placeName>.</bibl>
                     </listBibl>
                     <listBibl>
@@ -21371,6 +21371,95 @@
         "type": "crm:E21_Person",
         "label": "Holt, Valmai",
         "description": "Holt, Valmai, 1935-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/rUVPOX0DlgL">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/rUVPOX0DlgL",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:21:41.191Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/VcZyLk0hmYl",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/VcZyLk0hmYl/selector/textPosition/9L0kXNKJBmL",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 66347,
+                "end": 66379,
+                "refinedBy": {
+                    "id": "/target/VcZyLk0hmYl/selector/textQuote/4iiOSmbbfCJ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Museum of Performance and Design",
+                    "prefix": "",
+                    "suffix": " San Francisco"
+                }
+            },
+            {
+                "id": "/target/VcZyLk0hmYl/selector/css/7erv36aLXWp",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/rUVPOX0DlgL]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q14683453",
+        "type": "crm:E74_Group",
+        "label": "Museum of Performance + Design",
+        "description": "non-profit archives and museum"
     },
     "P2_has_type": [
         "oa:identifying"
