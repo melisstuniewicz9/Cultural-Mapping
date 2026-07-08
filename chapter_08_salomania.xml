@@ -496,7 +496,7 @@
                                 <ref target="#genre_drama">
                                     <ref target="#spatiality"><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/Sd17B8mYikW">Allan</persName>’s was neither the first nor the only Salome dance of its moment. <ref target="#intertextuality">American-born dancer <persName key="Fuller, Loïe 1862-1928" ref="http://viaf.org/viaf/2563149108446268780004" ana="webannotation:http://temp.lincsproject.ca/y3jU1YNubpP">Loïe Fuller</persName> (1862–1928) had staged what <persName key="Garelick, Rhonda K., 1962-...." ref="http://viaf.org/viaf/59227838" ana="webannotation:http://temp.lincsproject.ca/uPnG62ano76">Rhonda Garelick</persName> describes as a <q>dance-pantomime version</q> of <title level="m">Salome</title> in 1895 in <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/XqgWT8gfSL7">Paris</placeName> <note place="inline">
                                                 <bibl>5–6</bibl>
-                                            </note>, preceding <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/Wj5MKyI0OK2">Allan</persName> as well as the women who played the part in the first European performances of Wilde’s <title level="m">Salome</title> from 1896.<note xml:id="n79" place="end">Tydeman and Price indicate that <q>the first performance of Wilde’s <title level="m">Salome</title> was staged by the Théâtre de l’Oeuvre in Paris on 11 February 1896</q>
+                                            </note>, preceding <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/Wj5MKyI0OK2">Allan</persName> as well as the women who played the part in the first European performances of Wilde’s <title level="m">Salome</title> from 1896.<note xml:id="n79" place="end">Tydeman and Price indicate that <q>the first performance of Wilde’s <title level="m">Salome</title> was staged by <orgName key="Théâtre de l'Œuvre" ref="https://www.wikidata.org/wiki/Q2292251" ana="webannotation:http://temp.lincsproject.ca/7kyd7M48abL">the Théâtre de l’Oeuvre in Paris</orgName> on 11 February 1896</q>
                                                 <bibl>25</bibl>. Lina Munte played the title role. It was not <q>performed again until 15 November 1902 at the Kleines Theater, <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/9yisEB16zl0">Berlin</placeName>…in a production directed by Friedrich Kayssler and Hans Oberländer under the supervision of the twenty-nine-year-old Max Reinhardt</q>
                                                 <bibl>Tydeman and Price 31</bibl>. <bibl>Hutcheon and Hutcheon</bibl> suggest the <q>German version premiered in 1901 in Breslau</q>
                                                 <bibl>205</bibl>.) <persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/mcqAag4pusb">Cherniavsky</persName> notes that both <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/0H2C478Fj8m">Maud Allan</persName> and Marcel Rémy, who composed the music for <title level="a">The Vision of Salome,</title>
@@ -17727,6 +17727,95 @@
         "type": "crm:E53_Place",
         "label": "Paris",
         "description": "Île-de-France, Paris, FR"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/7kyd7M48abL">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/7kyd7M48abL",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:42:14.960Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/8vJ9bJaLdFA",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/8vJ9bJaLdFA/selector/textPosition/LLNtWzb2YB0",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9330,
+                "end": 9362,
+                "refinedBy": {
+                    "id": "/target/8vJ9bJaLdFA/selector/textQuote/IwGQn2x7Kgq",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Théâtre de l’Oeuvre in Paris",
+                    "prefix": "Tydeman and Price indicate that the first performance of Wilde’s Salome was staged by",
+                    "suffix": "on 11 February 1896\n                                                25"
+                }
+            },
+            {
+                "id": "/target/8vJ9bJaLdFA/selector/css/u5oKIT6RHbK",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/7kyd7M48abL]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q2292251",
+        "label": "Théâtre de l'Œuvre",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
