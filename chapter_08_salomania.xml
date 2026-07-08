@@ -880,7 +880,7 @@
                         <ref target="#history">
                             <ref target="#non-book_media">
                                 <ref target="#technology">
-                                    <ref target="#spatiality">According to Staff, and to Julia Gillen and Nigel Hall, when picture postcards were introduced into <placeName key="the United Kingdom" ref="https://sws.geonames.org/2635167/" ana="webannotation:http://temp.lincsproject.ca/BKLxJqTVshE">the United Kingdom</placeName> in 1894 they typically bore an image on one side and the address on the other, with room around the picture for <q>a very short message in the margin</q>
+                                    <ref target="#spatiality">According to <persName key="Staff, Frank." ref="http://viaf.org/viaf/71431643" ana="webannotation:http://temp.lincsproject.ca/Myvi2IGgmQx">Staff</persName>, and to Julia Gillen and Nigel Hall, when picture postcards were introduced into <placeName key="the United Kingdom" ref="https://sws.geonames.org/2635167/" ana="webannotation:http://temp.lincsproject.ca/BKLxJqTVshE">the United Kingdom</placeName> in 1894 they typically bore an image on one side and the address on the other, with room around the picture for <q>a very short message in the margin</q>
                                         <note place="inline">
                                             <bibl>Staff 88</bibl>
                                         </note>; <note place="inline">
@@ -22253,6 +22253,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/Mi25MyeunoW]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/71431643",
+        "type": "crm:E21_Person",
+        "label": "Staff, Frank.",
+        "description": "Staff, Frank 1908-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Myvi2IGgmQx">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Myvi2IGgmQx",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:34:00.977Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/uc2GguHCadr",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/uc2GguHCadr/selector/textPosition/NAe0sLeQ0eX",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 48308,
+                "end": 48313,
+                "refinedBy": {
+                    "id": "/target/uc2GguHCadr/selector/textQuote/e2gXUeayG9F",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Staff",
+                    "prefix": "\n                                        \n                                    \n                                \n                            \n                        \n                    \n                    \n                        \n                            \n                                \n                                    According to",
+                    "suffix": " and to Julia Gillen and Nigel Hall, when picture postcards were introduced into the United Kingdom in 1894 they typically bore an image on one side and the address on the other, with room around the picture for a very short message in the margin\n                                        \n                                            Staff 88\n                                        ; \n                                            Gillen and Hall 2\n                                        "
+                }
+            },
+            {
+                "id": "/target/uc2GguHCadr/selector/css/cS0yc5YvlE0",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Myvi2IGgmQx]"
             }
         ]
     },
