@@ -718,7 +718,7 @@
                                     <bibl>
                                         <title level="a">Salome Dinner Dance</title>
                                     </bibl>
-                                </note>. It is not surprising that what the <title level="j">New York Times</title> called <q>Salomania</q> in the <placeName key="United States" ref="https://sws.geonames.org/6252001    " ana="webannotation:http://temp.lincsproject.ca/0EJlPQDa8k6">United States</placeName>, contemporary critics in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/2N0HOht5jr0">London</placeName>, as Judith Walkowitz has observed, described as the <q><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/16u15eMlyQ7">Maud Allan</persName> boom</q>
+                                </note>. It is not surprising that what the <title level="j">New York Times</title> called <q>Salomania</q> in the <placeName key="United States" ref="https://sws.geonames.org/6252001    " ana="webannotation:http://temp.lincsproject.ca/0EJlPQDa8k6">United States</placeName>, contemporary critics in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/2N0HOht5jr0">London</placeName>, as <persName key="Walkowitz, Judith R." ref="http://viaf.org/viaf/4999958" ana="webannotation:http://temp.lincsproject.ca/cYUZnVh62yy">Judith Walkowitz</persName> has observed, described as the <q><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/16u15eMlyQ7">Maud Allan</persName> boom</q>
                                 <note place="inline">
                                     <bibl>344</bibl>
                                 </note>.</ref>
@@ -17096,6 +17096,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/wBcfCu12Owk]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/4999958",
+        "type": "crm:E21_Person",
+        "label": "Walkowitz, Judith R.",
+        "description": "Walkowitz, Judith R. 1945-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/cYUZnVh62yy">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/cYUZnVh62yy",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:04:47.221Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/AUGWOFLtzY1",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/AUGWOFLtzY1/selector/textPosition/Om9Md9cKCDr",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 29211,
+                "end": 29227,
+                "refinedBy": {
+                    "id": "/target/AUGWOFLtzY1/selector/textQuote/4D1SjYdpIIu",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Judith Walkowitz",
+                    "prefix": " It is not surprising that what the New York Times called Salomania in the United States, contemporary critics in London, as",
+                    "suffix": "has observed, described as the Maud Allan boom\n                                \n                                    344\n                                "
+                }
+            },
+            {
+                "id": "/target/AUGWOFLtzY1/selector/css/XULa4rWX29A",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/cYUZnVh62yy]"
             }
         ]
     },
