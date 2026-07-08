@@ -729,7 +729,7 @@
                             <ref target="#representation_of_women">
                                 <ref target="#authority">
                                     <ref target="#theme_or_topic">The extraordinary success of <title level="a">The Vision of Salome</title> and the emergence in 1908 of a culture of imitation that turned not to the many women performing Salome but to <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/9VV0OVSEucm">Allan</persName> in particular raises important questions both about this culture of imitation (what it signifies, where it comes from, what it leads to) and about <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/jPklYfyI6zT">Allan</persName>’s Salome (what it did, how it did it, what was at stake in this representation, and why it achieved what other representations did not). <ref target="#class_issue">
-                                            <ref target="#spatiality">In her study of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/qlxq7JUNpLr">Allan</persName> and <title level="a">The Vision of Salome</title> in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/C4LwM2viaOE">London</placeName>, Walkowitz suggests that <q><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/6QkZOQ3DjDY">Allan</persName>’s performances materialize[d] a new femininity</q> that, among other things, <q>facilitated the entry of respectable women into what one turn-of-the-century writer termed the <q>Night Side of London</q>: the cosmopolitan spaces of the commercial West End</q>
+                                            <ref target="#spatiality">In her study of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/qlxq7JUNpLr">Allan</persName> and <title level="a">The Vision of Salome</title> in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/C4LwM2viaOE">London</placeName>, <persName key="Walkowitz, Judith R." ref="http://viaf.org/viaf/4999958" ana="webannotation:http://temp.lincsproject.ca/xDLY8Rcrv8r">Walkowitz</persName> suggests that <q><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/6QkZOQ3DjDY">Allan</persName>’s performances materialize[d] a new femininity</q> that, among other things, <q>facilitated the entry of respectable women into what one turn-of-the-century writer termed the <q>Night Side of London</q>: the cosmopolitan spaces of the commercial West End</q>
                                                 <note place="inline">
                                                     <bibl>346</bibl>
                                                 </note>
@@ -18702,6 +18702,95 @@
         "label": "United States",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xDLY8Rcrv8r">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xDLY8Rcrv8r",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:04:58.572Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/N8h7eNRn7z2",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/N8h7eNRn7z2/selector/textPosition/iSLs8OfdauV",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 30132,
+                "end": 30141,
+                "refinedBy": {
+                    "id": "/target/N8h7eNRn7z2/selector/textQuote/goZFb0adOta",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Walkowitz",
+                    "prefix": " \n                                            In her study of Allan and The Vision of Salome in London,",
+                    "suffix": "suggests that Allan’s performances materialize[d] a new femininity that, among other things, facilitated the entry of respectable women into what one turn-of-the-century writer termed the Night Side of London: the cosmopolitan spaces of the commercial West End\n                                                \n                                                    346\n                                                \n                                            \n                                        "
+                }
+            },
+            {
+                "id": "/target/N8h7eNRn7z2/selector/css/PhK9txtmnsN",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xDLY8Rcrv8r]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/4999958",
+        "type": "crm:E21_Person",
+        "label": "Walkowitz, Judith R.",
+        "description": "Walkowitz, Judith R. 1945-...."
     },
     "P2_has_type": [
         "oa:identifying"
