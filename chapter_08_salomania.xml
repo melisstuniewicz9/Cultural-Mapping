@@ -1045,7 +1045,7 @@
                     </listBibl>
                     <listBibl>
                         <head>Secondary Sources</head>
-                        <bibl>Bentley, Toni. <title level="m">Sisters of Salome</title>. <placeName key="New Haven" ref="https://sws.geonames.org/4839366/" ana="webannotation:http://temp.lincsproject.ca/3w3mFLkhlN2">New Haven</placeName>, <placeName key="Connecticut" ref="https://sws.geonames.org/4831725" ana="webannotation:http://temp.lincsproject.ca/hEHlfNvKSr7">CT</placeName>: <orgName key="Yale university press" ref="http://viaf.org/viaf/121971897" ana="webannotation:http://temp.lincsproject.ca/6ufehtVB76n">Yale University Press</orgName>, 2002.</bibl>
+                        <bibl>Bentley, Toni. <title level="m"><orgName key="Sisters of Salome" ref="http://www.wikidata.org/entity/Q136228040" ana="webannotation:http://temp.lincsproject.ca/45Hm6W8K0pg">Sisters of Salome</orgName></title>. <placeName key="New Haven" ref="https://sws.geonames.org/4839366/" ana="webannotation:http://temp.lincsproject.ca/3w3mFLkhlN2">New Haven</placeName>, <placeName key="Connecticut" ref="https://sws.geonames.org/4831725" ana="webannotation:http://temp.lincsproject.ca/hEHlfNvKSr7">CT</placeName>: <orgName key="Yale university press" ref="http://viaf.org/viaf/121971897" ana="webannotation:http://temp.lincsproject.ca/6ufehtVB76n">Yale University Press</orgName>, 2002.</bibl>
                         <bibl>
                             <title level="a">The Call of Salome</title>. <title level="j"><orgName key="New York Times company" ref="http://viaf.org/viaf/192149064" ana="webannotation:http://temp.lincsproject.ca/d6CX1PONG4s">New York Times</orgName></title> 16 August 1908.</bibl>
                         <bibl><persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/Ef8zPGjAl7X">Cherniavsky</persName>, Felix. <title level="m"><orgName key="The Cherniavsky trio" ref="http://viaf.org/viaf/132476412" ana="webannotation:http://temp.lincsproject.ca/6IJqFXssMU8">The Cherniavsky Trio</orgName></title>. <placeName key="Vancouver, British Columbia" ref="https://sws.geonames.org/6173331/" ana="webannotation:http://temp.lincsproject.ca/Tki4dZTOi9L">Vancouver</placeName>: <persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/YgT0FYacWTa">Felix Cherniavsky</persName>, 2001.</bibl>
@@ -21726,6 +21726,95 @@
         "type": "crm:E53_Place",
         "label": "Los Angeles, U.S.A",
         "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/45Hm6W8K0pg">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/45Hm6W8K0pg",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:22:32.965Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/VcvdtyUIRg2",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/VcvdtyUIRg2/selector/textPosition/EjwBEgcEjp0",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 66690,
+                "end": 66707,
+                "refinedBy": {
+                    "id": "/target/VcvdtyUIRg2/selector/textQuote/JaqSHNEEacY",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Sisters of Salome",
+                    "prefix": "",
+                    "suffix": " New Haven, CT: Yale University Press, 2002"
+                }
+            },
+            {
+                "id": "/target/VcvdtyUIRg2/selector/css/JXfC3LXekk9",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/45Hm6W8K0pg]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q136228040",
+        "type": "frbroo:F1",
+        "label": "Sisters of Salome",
+        "description": "2002 book"
     },
     "P2_has_type": [
         "oa:identifying"
