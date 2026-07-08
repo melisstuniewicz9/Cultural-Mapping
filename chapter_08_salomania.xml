@@ -478,7 +478,7 @@
                                         </ref>
                                         <note xml:id="n76" place="end">
                                             <ref target="#editions">
-                                                <ref target="#place_of_publication">Originally written in French, the first English edition of Wilde’s <title level="m">Salome</title> appeared in 1894, published by <persName key="Mathews, Elkin, 1851-1921" ref="http://viaf.org/viaf/57413861" ana="webannotation:http://temp.lincsproject.ca/HpWP5jdYZ3C">Elkin Mathews</persName> and John Lane in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/2PJt4ecLsIA">London</placeName> and by Copeland and Day in Boston</ref>. It was translated by Lord Alfred Douglas and illustrated by Aubrey Beardsley</ref>.</note>
+                                                <ref target="#place_of_publication">Originally written in French, the first English edition of Wilde’s <title level="m">Salome</title> appeared in 1894, published by <persName key="Mathews, Elkin, 1851-1921" ref="http://viaf.org/viaf/57413861" ana="webannotation:http://temp.lincsproject.ca/HpWP5jdYZ3C">Elkin Mathews</persName> and John Lane in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/2PJt4ecLsIA">London</placeName> and by Copeland and Day in <placeName key="Boston" ref="https://sws.geonames.org/4930956" ana="webannotation:http://temp.lincsproject.ca/23UNWkO8PQ1">Boston</placeName></ref>. It was translated by Lord Alfred Douglas and illustrated by Aubrey Beardsley</ref>.</note>
                                     </ref>&gt; daughter of Herodias and step-daughter of Herod Antipas at whose request John the Baptist was beheaded following her dance for her step-father. <note xml:id="n77" place="end"><persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/rukcxe61890">Cherniavsky</persName> notes that both <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/AWW2AFMMPnX">Maud Allan</persName> and Marcel Rémy, who composed the music for <title level="a">The Vision of Salome,</title> saw this production in <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/5QhVjWOxNhv">Berlin</placeName> in 1902 <bibl>
                                             <title level="m">Salome</title> 142</bibl>. See also <bibl>Tydeman and Price 140</bibl>.</note> <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/OXu8NW3pRS3">Allan</persName> toured briefly and sensationally through <placeName key="Europe" ref="https://sws.geonames.org/6255148" ana="webannotation:http://temp.lincsproject.ca/BDFGbDwgIkO">Europe</placeName>, and in March 1908 <title level="a">The Vision of Salome</title> opened in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/tftqXzwTtzl">London</placeName> at the Palace Theatre. It would run for eighteen months, with <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/7OBCFkWoSp8">Allan</persName> as a main performer among a range of variety shows.<note xml:id="n78" place="end">See Judith Walkowitz on the Palace Theatre, its history from 1893 of presenting <title level="a">Living Pictures</title>
                                         <bibl>348–50</bibl>, and its identity as a variety theatre <bibl>347–48</bibl>.</note>
@@ -16926,6 +16926,95 @@
         "type": "crm:E21_Person",
         "label": "Mathews, Elkin, 1851-1921",
         "description": "Charles Elkin Mathews British publisher and bookseller; co-founder of The Bodley Head with John Lane (1851-1921)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/23UNWkO8PQ1">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/23UNWkO8PQ1",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T14:45:35.567Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/QEawpOpEU0z",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/QEawpOpEU0z/selector/textPosition/010kB3Uy3cW",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7219,
+                "end": 7225,
+                "refinedBy": {
+                    "id": "/target/QEawpOpEU0z/selector/textQuote/dWHWuw9Yk0a",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Boston",
+                    "prefix": " It was, as Cherniavsky also suggests, inspired by Max Reinhardt’s 1902 production in Berlin of Oscar Wilde’s 1892 dramatic representation of Salome,\n                                        \n                                        \n                                            \n                                                Originally written in French, the first English edition of Wilde’s Salome appeared in 1894, published by Elkin Mathews and John Lane in London and by Copeland and Day in",
+                    "suffix": " It was translated by Lord Alfred Douglas and illustrated by Aubrey Beardsley"
+                }
+            },
+            {
+                "id": "/target/QEawpOpEU0z/selector/css/1NJG5D90tIp",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/23UNWkO8PQ1]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/4930956",
+        "type": "crm:E53_Place",
+        "label": "Boston",
+        "description": "Massachusetts, Suffolk County, US"
     },
     "P2_has_type": [
         "oa:identifying"
