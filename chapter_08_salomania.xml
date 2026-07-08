@@ -839,7 +839,7 @@
                                     <bibl>860–61</bibl>
                                 </note>, but they were quite new—about as new in communication at that moment, arguably, as email or texting is now. <ref target="#spatiality">
                                     <ref target="#theory">
-                                        <ref target="#economics">According to different histories, postcards appeared somewhere between 1865 and 1870 but became a functional medium of international communication, says Esther Milne, only after 1874 <note place="inline">
+                                        <ref target="#economics">According to different histories, postcards appeared somewhere between 1865 and 1870 but became a functional medium of international communication, says <persName key="Milne, Esther." ref="http://viaf.org/viaf/91038785" ana="webannotation:http://temp.lincsproject.ca/7N0CTPx2pXM">Esther Milne</persName>, only after 1874 <note place="inline">
                                                 <bibl>115</bibl>
                                             </note> when the General Postal Union made it possible to send cards across national borders: prior to this date and to international postage agreements, <persName key="Milne, Esther." ref="http://viaf.org/viaf/91038785" ana="webannotation:http://temp.lincsproject.ca/pHef8p5egsi">Milne</persName> observes, postcards routinely were returned to their senders. Postcards, notes <persName key="Sigel, Lisa Z., 1965-...." ref="http://viaf.org/viaf/2694830" ana="webannotation:http://temp.lincsproject.ca/CdUtf2psdFJ">Sigel</persName>, <q>gained the full authorization of the Congress of the Universal Postal Union</q>
                                             <note place="inline">
@@ -961,8 +961,8 @@
                     </p>
                     <p xml:id="p1336">
                         <ref target="#non-book_media">
-                            <ref target="#archive">The postcard archive of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/q5jlDro3Kiy">Allan</persName> does a particular and crucial kind of work with regard to the image that represents the dancer and the <q>here</q> to which the sender wishes the recipient could also be present</ref>. <ref target="#intertextuality">It does this work across what Milne describes as a <q>double logic</q>: both the sender and the image on the card are constituted as being in transit, out of place, on the move. <ref target="#representation_of_women">
-                                    <ref target="#spatiality">Milne has suggested compellingly that postcards indicate and affirm presence, like calling cards <q>stand[ing] in for the corporeal presence of their author</q>
+                            <ref target="#archive">The postcard archive of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/q5jlDro3Kiy">Allan</persName> does a particular and crucial kind of work with regard to the image that represents the dancer and the <q>here</q> to which the sender wishes the recipient could also be present</ref>. <ref target="#intertextuality">It does this work across what <persName key="Milne, Esther." ref="http://viaf.org/viaf/91038785" ana="webannotation:http://temp.lincsproject.ca/Yk9W3YSmtqp">Milne</persName> describes as a <q>double logic</q>: both the sender and the image on the card are constituted as being in transit, out of place, on the move. <ref target="#representation_of_women">
+                                    <ref target="#spatiality"><persName key="Milne, Esther." ref="http://viaf.org/viaf/91038785" ana="webannotation:http://temp.lincsproject.ca/ROCzSWFDq1U">Milne</persName> has suggested compellingly that postcards indicate and affirm presence, like calling cards <q>stand[ing] in for the corporeal presence of their author</q>
                                         <note place="inline">
                                             <bibl>95</bibl>
                                         </note> and, importantly, for the corporeal presence of the figure represented on the card itself. The calling card, in these terms, conveys a message akin to <q>I am here.</q>
@@ -1074,7 +1074,7 @@
                             <title level="a"><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/LAFB6pbnoYv">Maud Allan</persName>: The Salome Dancer Postcards</title>. <title level="m">About Postcards: A Reference Resource for Postcard Collectors</title>. 4 December 2007. <ref target="http://aboutcards.blogspot.com/2007/12/maud-allan-salome-dancer-postcards.html">http://aboutcards.blogspot.com/2007/12/maud-allan-salome-dancer-postcards.html</ref>
                         </bibl>
                         <bibl>McDearmon, Lacy. <title level="a"><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/GXdrS6wRIeD">Maud Allan</persName>: The Public Record</title>. <title level="j">Dance Chronicle</title> 2.2 (1978): 85–105.</bibl>
-                        <bibl>Milne, Esther. <title level="m">Letters, Postcards, Email: Technologies of Presence</title>. New York: Routledge, 2010.</bibl>
+                        <bibl><persName key="Milne, Esther." ref="http://viaf.org/viaf/91038785" ana="webannotation:http://temp.lincsproject.ca/MjJgtslu40v">Milne</persName>, Esther. <title level="m">Letters, Postcards, Email: Technologies of Presence</title>. New York: Routledge, 2010.</bibl>
                         <bibl>Nancy, Jean-Luc. <title level="m">The Ground of the Image</title>. Trans. Jeff Fort. New York: <orgName key="Fordham University Press." ref="http://viaf.org/viaf/135045747" ana="webannotation:http://temp.lincsproject.ca/13xqPzXplRI">Fordham University Press</orgName>, 2005.</bibl>
                         <bibl>Pollard, Percival. <title level="a">The Regnant Wave of the Sensational Dance</title>. <title level="j">New York Times</title> 23 August 1908. http://www.nytimes.com<hi rend="italic"> </hi>3 April 2012.</bibl>
                         <bibl>
@@ -21023,6 +21023,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/7N0CTPx2pXM">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/7N0CTPx2pXM",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:31:58.720Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/SEKO3Pf50oS",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/SEKO3Pf50oS/selector/textPosition/6Yf7IFYE0D1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 44375,
+                "end": 44387,
+                "refinedBy": {
+                    "id": "/target/SEKO3Pf50oS/selector/textQuote/VI6FgnHMhzy",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Esther Milne",
+                    "prefix": " \n                                    \n                                        According to different histories, postcards appeared somewhere between 1865 and 1870 but became a functional medium of international communication, says",
+                    "suffix": " only after 1874 \n                                                115\n                                             when the General Postal Union made it possible to send cards across national borders: prior to this date and to international postage agreements, Milne observes, postcards routinely were returned to their senders"
+                }
+            },
+            {
+                "id": "/target/SEKO3Pf50oS/selector/css/Afsa2OEPJFO",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/7N0CTPx2pXM]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/91038785",
+        "type": "crm:E21_Person",
+        "label": "Milne, Esther.",
+        "description": "Milne, Esther, 19..-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/pHef8p5egsi">
 <![CDATA[{
     "@context": [
@@ -21096,6 +21185,273 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/pHef8p5egsi]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/91038785",
+        "type": "crm:E21_Person",
+        "label": "Milne, Esther.",
+        "description": "Milne, Esther, 19..-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Yk9W3YSmtqp">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Yk9W3YSmtqp",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:31:34.248Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/igEHTC05G9G",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/igEHTC05G9G/selector/textPosition/yA8qLVHQL46",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 57205,
+                "end": 57210,
+                "refinedBy": {
+                    "id": "/target/igEHTC05G9G/selector/textQuote/KfpoSqbS6h4",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Milne",
+                    "prefix": " It does this work across what",
+                    "suffix": "describes as a double logic: both the sender and the image on the card are constituted as being in transit, out of place, on the move"
+                }
+            },
+            {
+                "id": "/target/igEHTC05G9G/selector/css/QvsSCQNbP4y",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Yk9W3YSmtqp]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/91038785",
+        "type": "crm:E21_Person",
+        "label": "Milne, Esther.",
+        "description": "Milne, Esther, 19..-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ROCzSWFDq1U">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ROCzSWFDq1U",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:31:34.434Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/OFcqPdmWA1P",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/OFcqPdmWA1P/selector/textPosition/UCQealu0RGA",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 57383,
+                "end": 57388,
+                "refinedBy": {
+                    "id": "/target/OFcqPdmWA1P/selector/textQuote/VnoSNAqNVlq",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Milne",
+                    "prefix": " \n                                   ",
+                    "suffix": "has suggested compellingly that postcards indicate and affirm presence, like calling cards stand[ing] in for the corporeal presence of their author\n                                        \n                                            95\n                                         and, importantly, for the corporeal presence of the figure represented on the card itself"
+                }
+            },
+            {
+                "id": "/target/OFcqPdmWA1P/selector/css/3UM26zNPh9m",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ROCzSWFDq1U]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/91038785",
+        "type": "crm:E21_Person",
+        "label": "Milne, Esther.",
+        "description": "Milne, Esther, 19..-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/MjJgtslu40v">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/MjJgtslu40v",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:31:34.658Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Ayt6k3TC1i8",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Ayt6k3TC1i8/selector/textPosition/42H01Bg8AJu",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 69806,
+                "end": 69811,
+                "refinedBy": {
+                    "id": "/target/Ayt6k3TC1i8/selector/textQuote/Ka4j5uc3ecY",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Milne",
+                    "prefix": "\n                       ",
+                    "suffix": " Esther"
+                }
+            },
+            {
+                "id": "/target/Ayt6k3TC1i8/selector/css/OcZ0VFSMP7d",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/MjJgtslu40v]"
             }
         ]
     },
