@@ -1051,7 +1051,7 @@
                         <bibl><persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/Ef8zPGjAl7X">Cherniavsky</persName>, Felix. <title level="m"><orgName key="The Cherniavsky trio" ref="http://viaf.org/viaf/132476412" ana="webannotation:http://temp.lincsproject.ca/6IJqFXssMU8">The Cherniavsky Trio</orgName></title>. <placeName key="Vancouver, British Columbia" ref="https://sws.geonames.org/6173331/" ana="webannotation:http://temp.lincsproject.ca/Tki4dZTOi9L">Vancouver</placeName>: <persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/YgT0FYacWTa">Felix Cherniavsky</persName>, 2001.</bibl>
                         <bibl>. <title level="m"><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/XFwu9ErKIrP">Maud Allan</persName> and Her Art</title>. <placeName key="Toronto" ref="https://sws.geonames.org/8133394/" ana="webannotation:http://temp.lincsproject.ca/QxIJsSMSYk7">Toronto</placeName>: Dance Collection Danse Press/es, 1998.</bibl>
                         <bibl>. <title level="m">The Salome Dancer: The Life and Times of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/wydVE4Gj9Ze">Maud Allan</persName></title>. <placeName key="Toronto" ref="https://sws.geonames.org/8133394/" ana="webannotation:http://temp.lincsproject.ca/t8VvwqMi26e">Toronto</placeName>: <orgName key="McClelland and Stewart." ref="http://viaf.org/viaf/152755326" ana="webannotation:http://temp.lincsproject.ca/44OkKmQsp7c">McClelland and Stewart</orgName>, 1991.</bibl>
-                        <bibl><persName key="Donnachie, Ian L." ref="http://viaf.org/viaf/57886275" ana="webannotation:http://temp.lincsproject.ca/FVIOMbgtad5">Donnachie</persName>, Ian L., and Innes Macleod. <title level="m">Victorian and Edwardian Scottish Lowlands from Historic Photographs</title>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/WLZHphVZrAW">London</placeName>: B.T. Batsford, 1979.</bibl>
+                        <bibl><persName key="Donnachie, Ian L." ref="http://viaf.org/viaf/57886275" ana="webannotation:http://temp.lincsproject.ca/FVIOMbgtad5">Donnachie</persName>, <persName key="Donnachie, Ian L." ref="http://viaf.org/viaf/57886275" ana="webannotation:http://temp.lincsproject.ca/XMRTfw2DWyj">Ian L.</persName>, and Innes Macleod. <title level="m">Victorian and Edwardian Scottish Lowlands from Historic Photographs</title>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/WLZHphVZrAW">London</placeName>: B.T. Batsford, 1979.</bibl>
                         <bibl>Dragon, Andrea.<title level="a">The Salome Dancer: An Eastern Dance Takes Western Roots. PowerPoint presentation</title>. N.d. Salome—People Server at <hi rend="small-caps">uncw</hi>. Accessed 3 April 2012. <ref target="http://people.uncw.edu/deagona/raqs/Salomes%20d1f.ppt">http://people.uncw.edu/deagona/raqs/Salomes%20d1f.ppt</ref>
                         </bibl>
                         <bibl><persName key="Garelick, Rhonda K., 1962-...." ref="http://viaf.org/viaf/59227838" ana="webannotation:http://temp.lincsproject.ca/gnVRNC1Ewx9">Garelick</persName>, <persName key="Garelick, Rhonda K., 1962-...." ref="http://viaf.org/viaf/59227838" ana="webannotation:http://temp.lincsproject.ca/vc3rqWgiYmm">Rhonda K.</persName> <title level="m">Electric Salome: Loie Fuller’s Performance of Modernism</title>. <placeName key="Princeton" ref="https://sws.geonames.org/5102922" ana="webannotation:http://temp.lincsproject.ca/3Z6HER46nnW">Princeton</placeName>: <orgName key="Princeton university press" ref="http://viaf.org/viaf/158317684" ana="webannotation:http://temp.lincsproject.ca/th8IMDJlTwC">Princeton University Press</orgName>, 2007.</bibl>
@@ -21994,6 +21994,95 @@
         "type": "crm:E74_Group",
         "label": "McClelland and Stewart.",
         "description": "McClelland and Stewart Limited"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/XMRTfw2DWyj">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/XMRTfw2DWyj",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:20:29.768Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/aUNN1pghBrw",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/aUNN1pghBrw/selector/textPosition/8Rkzjr4F9Un",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 67210,
+                "end": 67216,
+                "refinedBy": {
+                    "id": "/target/aUNN1pghBrw/selector/textQuote/O5bJsY6S4mZ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ian L.",
+                    "prefix": "\n                        Donnachie,",
+                    "suffix": " and Innes Macleod"
+                }
+            },
+            {
+                "id": "/target/aUNN1pghBrw/selector/css/IxQ4gwBXcJc",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/XMRTfw2DWyj]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/57886275",
+        "type": "crm:E21_Person",
+        "label": "Donnachie, Ian L.",
+        "description": "Donnachie, Ian L., 1944-"
     },
     "P2_has_type": [
         "oa:identifying"
