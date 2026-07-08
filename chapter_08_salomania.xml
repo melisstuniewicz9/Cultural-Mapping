@@ -1008,7 +1008,7 @@
                                                 </ref>
                                                 <ref target="#genre_novel">This point has particular relevance to the figure of the white erotic dancer who had been emerging into visibility around the Anglo-Saxon empire since the 1860s. </ref>
                                             </ref>
-                                            <ref target="#economics">Women, as Sara Jeannette Duncan suggests in her 1894 novel <title level="m">A Daughter of To-Day</title>, came increasingly by the fin de siècle to recognize that the erotic dancer in particular materialized a version of femininity that was easily recognizable because it was <q>true</q>—<q>truer,</q> indeed, than representations that did <hi rend="italic">not</hi> eroticize, commoditize, monetize, and circulate white femininity as image in precisely the way it can be seen to operate now.</ref>
+                                            <ref target="#economics">Women, as <persName key="Duncan, Sara Jeannette, 1861-1922" ref="http://viaf.org/viaf/54325117" ana="webannotation:http://temp.lincsproject.ca/Zwe6SnnjpIM">Sara Jeannette Duncan</persName> suggests in her 1894 novel <title level="m">A Daughter of To-Day</title>, came increasingly by the fin de siècle to recognize that the erotic dancer in particular materialized a version of femininity that was easily recognizable because it was <q>true</q>—<q>truer,</q> indeed, than representations that did <hi rend="italic">not</hi> eroticize, commoditize, monetize, and circulate white femininity as image in precisely the way it can be seen to operate now.</ref>
                                         </ref>
                                         <ref target="#technology">That operation at this time is primarily evident in the digital sphere, but it was also evident in the nineteenth-century circulation of images of women on postcards. <ref target="#archive">The work of the Salome postcards, therefore, is neither simply archival (of the dance and its dancer) nor indexical (of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/2QxkXIVMKKN">Allan</persName>’s celebrity or even of her mobility).</ref>
                                         </ref>
@@ -21371,6 +21371,95 @@
         "type": "crm:E21_Person",
         "label": "Holt, Valmai",
         "description": "Holt, Valmai, 1935-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Zwe6SnnjpIM">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Zwe6SnnjpIM",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:24:11.439Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/VRIileMCsTX",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/VRIileMCsTX/selector/textPosition/Q3CRA8YZXJO",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 63141,
+                "end": 63162,
+                "refinedBy": {
+                    "id": "/target/VRIileMCsTX/selector/textQuote/LeDUFLp9lrJ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Sara Jeannette Duncan",
+                    "prefix": " \n                                            \n                                            Women, as",
+                    "suffix": "suggests in her 1894 novel A Daughter of To-Day, came increasingly by the fin de siècle to recognize that the erotic dancer in particular materialized a version of femininity that was easily recognizable because it was true—truer, indeed, than representations that did not eroticize, commoditize, monetize, and circulate white femininity as image in precisely the way it can be seen to operate now"
+                }
+            },
+            {
+                "id": "/target/VRIileMCsTX/selector/css/6bZtSfxohsZ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Zwe6SnnjpIM]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/54325117",
+        "type": "crm:E21_Person",
+        "label": "Duncan, Sara Jeannette, 1861-1922",
+        "description": "Duncan, Sara Jeannette"
     },
     "P2_has_type": [
         "oa:identifying"
