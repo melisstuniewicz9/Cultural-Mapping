@@ -811,7 +811,7 @@
                             <ref target="#archive">
                                 <ref target="#spatiality">Although Salome postcards dominate the <abbr>DCD</abbr> collection, as they do the other collections, including the online record and eBay listings, the earliest <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/AsZjV6H53yz">Allan</persName> postcards, which appear to date from 1905 and 1906, are not Salome cards. The <abbr>UCLA</abbr> Library <title level="a">
                                         <hi xml:lang="de-DE">Postkarten</hi>
-                                    </title> album, probably acquired by <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/cC7zetox6QK">Allan</persName> in Germany, contains a card advertising the 1905–06 season at the <hi xml:lang="de-DE">Stadthalle</hi> in <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/BZig9frNR2q">Berlin</placeName> with an image of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/Eskn03ymulX">Allan</persName> and an announcement of a <title level="a" xml:lang="de-DE">Kunstlerabend</title> (<title level="a">Artists’ Evening</title>) performance on November 8, 1905.</ref>
+                                    </title> album, probably acquired by <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/cC7zetox6QK">Allan</persName> in <placeName key="Federal Republic of Germany" ref="https://sws.geonames.org/2921044" ana="webannotation:http://temp.lincsproject.ca/Va7QSxoOUvJ">Germany</placeName>, contains a card advertising the 1905–06 season at the <hi xml:lang="de-DE">Stadthalle</hi> in <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/BZig9frNR2q">Berlin</placeName> with an image of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/Eskn03ymulX">Allan</persName> and an announcement of a <title level="a" xml:lang="de-DE">Kunstlerabend</title> (<title level="a">Artists’ Evening</title>) performance on November 8, 1905.</ref>
                             </ref> <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/RDfQvaq3TCN">Allan</persName> is identified here as Maud Gwendolen Allan, as she was known in her early years of performance in continental <placeName key="Europe" ref="https://sws.geonames.org/6255148" ana="webannotation:http://temp.lincsproject.ca/a8iStSLCfbV">Europe</placeName>. Another card, from the same generation, and using the same image, identifies her as Maudy Gwendolen Allan. This postcard album also contains what appears to be a very early black and white postcard of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/wXi8Euhe0xi">Allan</persName> as Salome, before the idiom had been so well established in and through the proliferation of Salome postcards, and before her own name had come to be well known: the card, with a grainy photograph of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/qAnwqJ7NyDB">Allan</persName> in her Salome costume, identifies her as <q>Miss Allan Maud.</q>
                         </ref>
                     </p>
@@ -18524,6 +18524,95 @@
         "label": "Asia",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Va7QSxoOUvJ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Va7QSxoOUvJ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T14:44:12.749Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/38h1SPrjuD9",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/38h1SPrjuD9/selector/textPosition/rcqkKjecv5A",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 40952,
+                "end": 40959,
+                "refinedBy": {
+                    "id": "/target/38h1SPrjuD9/selector/textQuote/T7GOAympLxu",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Germany",
+                    "prefix": " The UCLA Library \n                                        Postkarten\n                                     album, probably acquired by Allan in",
+                    "suffix": " contains a card advertising the 1905–06 season at the Stadthalle in Berlin with an image of Allan and an announcement of a Kunstlerabend (Artists’ Evening) performance on November 8, 1905"
+                }
+            },
+            {
+                "id": "/target/38h1SPrjuD9/selector/css/w7TrCmifzEp",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Va7QSxoOUvJ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2921044",
+        "type": "crm:E53_Place",
+        "label": "Federal Republic of Germany",
+        "description": "null, DE"
     },
     "P2_has_type": [
         "oa:identifying"
