@@ -882,10 +882,10 @@
                                 <ref target="#technology">
                                     <ref target="#spatiality">According to <persName key="Staff, Frank." ref="http://viaf.org/viaf/71431643" ana="webannotation:http://temp.lincsproject.ca/Myvi2IGgmQx">Staff</persName>, and to Julia Gillen and Nigel Hall, when picture postcards were introduced into <placeName key="the United Kingdom" ref="https://sws.geonames.org/2635167/" ana="webannotation:http://temp.lincsproject.ca/BKLxJqTVshE">the United Kingdom</placeName> in 1894 they typically bore an image on one side and the address on the other, with room around the picture for <q>a very short message in the margin</q>
                                         <note place="inline">
-                                            <bibl>Staff 88</bibl>
+                                            <bibl><persName key="Staff, Frank." ref="http://viaf.org/viaf/71431643" ana="webannotation:http://temp.lincsproject.ca/6zqOGv9xqQl">Staff</persName> 88</bibl>
                                         </note>; <note place="inline">
                                             <bibl>Gillen and Hall 2</bibl>
-                                        </note>. By 1900, as Tonie Holt and Valmai Holt note, picture postcards had become a regular form of communication. The Holts cite Margaret Mead, writing in the <title level="m">Girl’s Realm</title> in 1900: <q>The Picture Postcard,</q> Mead writes, <q>is with us. It suits us. It meets our needs</q>
+                                        </note>. By 1900, as Tonie Holt and <persName key="Holt, Valmai" ref="http://viaf.org/viaf/27219839" ana="webannotation:http://temp.lincsproject.ca/xbCbBUaEBdt">Valmai Holt</persName> note, picture postcards had become a regular form of communication. The Holts cite Margaret Mead, writing in the <title level="m">Girl’s Realm</title> in 1900: <q>The Picture Postcard,</q> Mead writes, <q>is with us. It suits us. It meets our needs</q>
                                         <note place="inline">
                                             <bibl>cover blurb</bibl>
                                         </note>. These needs, Gillen and Hall suggest, can be understood to pertain to <q>quick, informal and attractive written messages</q>
@@ -1082,7 +1082,7 @@
                         <bibl>
                             <title level="a">The Salome Pestilence</title>. <title level="j"><orgName key="New York Times company" ref="http://viaf.org/viaf/192149064" ana="webannotation:http://temp.lincsproject.ca/oqPH9rKOUwb">New York Times</orgName></title> 3 September 1908.</bibl>
                         <bibl><persName key="Sigel, Lisa Z., 1965-...." ref="http://viaf.org/viaf/2694830" ana="webannotation:http://temp.lincsproject.ca/6bdRcQ6BQqs">Sigel</persName>, Lisa Z. <title level="a">Filth in the Wrong People’s Hands: Postcards and the Expansion of Pornography in <placeName key="Britain" ref="https://sws.geonames.org/6301961" ana="webannotation:http://temp.lincsproject.ca/5jubPfjeBIG">Britain</placeName> and the Atlantic World, 1880–1914</title>. <title level="j"><orgName key="Journal of Social History" ref="http://www.wikidata.org/entity/Q6295929" ana="webannotation:http://temp.lincsproject.ca/2BX74llOwt2">Journal of Social History</orgName></title> 33.4 (2000): 859–85.</bibl>
-                        <bibl>Staff, Frank. <title level="a">The Picture Postcard and Its Origins</title>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/Yzqv7q9tqTQ">London</placeName>: <orgName key="Lutterworth press" ref="http://viaf.org/viaf/157514460" ana="webannotation:http://temp.lincsproject.ca/IreFTJ6g1fy">Lutterworth Press</orgName>, 1966.</bibl>
+                        <bibl><persName key="Staff, Frank." ref="http://viaf.org/viaf/71431643" ana="webannotation:http://temp.lincsproject.ca/eYOJcOe2gXz">Staff</persName>, Frank. <title level="a">The Picture Postcard and Its Origins</title>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/Yzqv7q9tqTQ">London</placeName>: <orgName key="Lutterworth press" ref="http://viaf.org/viaf/157514460" ana="webannotation:http://temp.lincsproject.ca/IreFTJ6g1fy">Lutterworth Press</orgName>, 1966.</bibl>
                         <bibl>Tydeman, William, and Steven Price. <title level="m">Wilde: Salome</title>. Cambridge: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/Zr5mNxyb1Hr">Cambridge University Press</orgName>, 1996.</bibl>
                         <bibl>Veteran Diplomat. <title level="a">The Spread of Bohemianism in English Society</title>. <title level="j"><orgName key="New York Times company" ref="http://viaf.org/viaf/192149064" ana="webannotation:http://temp.lincsproject.ca/YDFgegQQUaM">New York Times</orgName></title> 16 August 1908.</bibl>
                         <bibl>Volacci SEO Blog. <title level="a">What Does It Mean to <q>Go Viral</q>?</title>
@@ -22358,6 +22358,184 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/6zqOGv9xqQl">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/6zqOGv9xqQl",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:34:01.332Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/K1xrUUzbLro",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/K1xrUUzbLro/selector/textPosition/uDNiV0e4PhV",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 48646,
+                "end": 48651,
+                "refinedBy": {
+                    "id": "/target/K1xrUUzbLro/selector/textQuote/Uoerc9AKer0",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Staff",
+                    "prefix": "\n                                        \n                                    \n                                \n                            \n                        \n                    \n                    \n                        \n                            \n                                \n                                    According to Staff, and to Julia Gillen and Nigel Hall, when picture postcards were introduced into the United Kingdom in 1894 they typically bore an image on one side and the address on the other, with room around the picture for a very short message in the margin\n                                        \n                                           ",
+                    "suffix": "88\n                                        ; \n                                            Gillen and Hall 2\n                                        "
+                }
+            },
+            {
+                "id": "/target/K1xrUUzbLro/selector/css/Wnqjzv2DY0f",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/6zqOGv9xqQl]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/71431643",
+        "type": "crm:E21_Person",
+        "label": "Staff, Frank.",
+        "description": "Staff, Frank 1908-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/eYOJcOe2gXz">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/eYOJcOe2gXz",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:34:01.556Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/vbmibTVMCc4",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/vbmibTVMCc4/selector/textPosition/fJ950AJyTAU",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 70629,
+                "end": 70634,
+                "refinedBy": {
+                    "id": "/target/vbmibTVMCc4/selector/textQuote/RR3BNvVlvyG",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Staff",
+                    "prefix": "\n                       ",
+                    "suffix": " Frank"
+                }
+            },
+            {
+                "id": "/target/vbmibTVMCc4/selector/css/Diu8HW34lCn",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/eYOJcOe2gXz]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/71431643",
+        "type": "crm:E21_Person",
+        "label": "Staff, Frank.",
+        "description": "Staff, Frank 1908-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/BKLxJqTVshE">
 <![CDATA[{
     "@context": [
@@ -22439,6 +22617,95 @@
         "type": "crm:E53_Place",
         "label": "the United Kingdom",
         "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xbCbBUaEBdt">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xbCbBUaEBdt",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:34:18.402Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/7USo4CA3u1T",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/7USo4CA3u1T/selector/textPosition/NejkxtyEYLS",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 48829,
+                "end": 48840,
+                "refinedBy": {
+                    "id": "/target/7USo4CA3u1T/selector/textQuote/6vcNAperaOh",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Valmai Holt",
+                    "prefix": " By 1900, as Tonie Holt and",
+                    "suffix": "note, picture postcards had become a regular form of communication"
+                }
+            },
+            {
+                "id": "/target/7USo4CA3u1T/selector/css/PYNZKCOhBOe",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xbCbBUaEBdt]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/27219839",
+        "type": "crm:E21_Person",
+        "label": "Holt, Valmai",
+        "description": "Holt, Valmai, 1935-...."
     },
     "P2_has_type": [
         "oa:identifying"
