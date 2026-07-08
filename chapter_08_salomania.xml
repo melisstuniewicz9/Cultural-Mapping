@@ -494,7 +494,7 @@
                         <ref target="#genre_performance">
                             <ref target="#history">
                                 <ref target="#genre_drama">
-                                    <ref target="#spatiality"><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/Sd17B8mYikW">Allan</persName>’s was neither the first nor the only Salome dance of its moment. <ref target="#intertextuality">American-born dancer Loïe Fuller (1862–1928) had staged what <persName key="Garelick, Rhonda K., 1962-...." ref="http://viaf.org/viaf/59227838" ana="webannotation:http://temp.lincsproject.ca/uPnG62ano76">Rhonda Garelick</persName> describes as a <q>dance-pantomime version</q> of <title level="m">Salome</title> in 1895 in <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/XqgWT8gfSL7">Paris</placeName> <note place="inline">
+                                    <ref target="#spatiality"><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/Sd17B8mYikW">Allan</persName>’s was neither the first nor the only Salome dance of its moment. <ref target="#intertextuality">American-born dancer <persName key="Fuller, Loïe 1862-1928" ref="http://viaf.org/viaf/2563149108446268780004" ana="webannotation:http://temp.lincsproject.ca/y3jU1YNubpP">Loïe Fuller</persName> (1862–1928) had staged what <persName key="Garelick, Rhonda K., 1962-...." ref="http://viaf.org/viaf/59227838" ana="webannotation:http://temp.lincsproject.ca/uPnG62ano76">Rhonda Garelick</persName> describes as a <q>dance-pantomime version</q> of <title level="m">Salome</title> in 1895 in <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/XqgWT8gfSL7">Paris</placeName> <note place="inline">
                                                 <bibl>5–6</bibl>
                                             </note>, preceding <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/Wj5MKyI0OK2">Allan</persName> as well as the women who played the part in the first European performances of Wilde’s <title level="m">Salome</title> from 1896.<note xml:id="n79" place="end">Tydeman and Price indicate that <q>the first performance of Wilde’s <title level="m">Salome</title> was staged by the Théâtre de l’Oeuvre in Paris on 11 February 1896</q>
                                                 <bibl>25</bibl>. Lina Munte played the title role. It was not <q>performed again until 15 November 1902 at the Kleines Theater, <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/9yisEB16zl0">Berlin</placeName>…in a production directed by Friedrich Kayssler and Hans Oberländer under the supervision of the twenty-nine-year-old Max Reinhardt</q>
@@ -17104,6 +17104,95 @@
         "type": "crm:E21_Person",
         "label": "Walkowitz, Judith R.",
         "description": "Walkowitz, Judith R. 1945-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/y3jU1YNubpP">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/y3jU1YNubpP",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:02:53.903Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/QfQ91WbgnCO",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/QfQ91WbgnCO/selector/textPosition/pYxmYYXYMsJ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 8903,
+                "end": 8914,
+                "refinedBy": {
+                    "id": "/target/QfQ91WbgnCO/selector/textQuote/FYHZgQLAzRq",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Loïe Fuller",
+                    "prefix": " American-born dancer",
+                    "suffix": "(1862–1928) had staged what Rhonda Garelick describes as a dance-pantomime version of Salome in 1895 in Paris \n                                                5–6\n                                            , preceding Allan as well as the women who played the part in the first European performances of Wilde’s Salome from 1896"
+                }
+            },
+            {
+                "id": "/target/QfQ91WbgnCO/selector/css/k3H6HkXaTmy",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/y3jU1YNubpP]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/2563149108446268780004",
+        "type": "crm:E21_Person",
+        "label": "Fuller, Loïe 1862-1928",
+        "description": "Fuller, Loïe"
     },
     "P2_has_type": [
         "oa:identifying"
