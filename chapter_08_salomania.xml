@@ -648,7 +648,7 @@
                                         <ref target="#theme_or_topic">
                                             <ref target="#response_formal">
                                                 <ref target="#spatiality">Salomania was likewise represented as a <q>corrupting</q> agent. The real danger of the <q>outbreaks</q> of Salomania in New York theatres, as these articles all suggest, was its potential infection of white and Anglo-Saxon femininity at home. </ref>
-                                                <ref target="#genre_journalism">Toni Bentley draws attention to a <q>lengthy piece</q> that appeared in the <title level="j">New York Times Sunday Magazine</title> in 1908 issuing a <q>warning about the current threat</q>
+                                                <ref target="#genre_journalism"><persName key="Bentley, Toni" ref="http://viaf.org/viaf/79122827" ana="webannotation:http://temp.lincsproject.ca/gFsCpUo0VOz">Toni Bentley</persName> draws attention to a <q>lengthy piece</q> that appeared in the <title level="j">New York Times Sunday Magazine</title> in 1908 issuing a <q>warning about the current threat</q>
                                                     <note place="inline">
                                                         <bibl>Bentley 68</bibl>
                                                     </note> posed by Salome dancers and expressing concern not only that <q>this virus could lead [in the other direction]—to <placeName key="North America" ref="https://sws.geonames.org/6255149" ana="webannotation:http://temp.lincsproject.ca/8gUuX9ByGB4">North America</placeName></q>
@@ -17638,6 +17638,95 @@
         "type": "crm:E53_Place",
         "label": "Paris",
         "description": "Île-de-France, Paris, FR"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/gFsCpUo0VOz">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/gFsCpUo0VOz",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T15:28:47.628Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/hU4GmkwQBXr",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/hU4GmkwQBXr/selector/textPosition/6IwlSVKGWu4",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 23522,
+                "end": 23534,
+                "refinedBy": {
+                    "id": "/target/hU4GmkwQBXr/selector/textQuote/vgP2Mg6eEiN",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Toni Bentley",
+                    "prefix": " \n                                               ",
+                    "suffix": "draws attention to a lengthy piece that appeared in the New York Times Sunday Magazine in 1908 issuing a warning about the current threat\n                                                    \n                                                        Bentley 68\n                                                     posed by Salome dancers and expressing concern not only that this virus could lead [in the other direction]—to North America\n                                                    \n                                                        Veteran Diplomat\n                                                     but into domestic space"
+                }
+            },
+            {
+                "id": "/target/hU4GmkwQBXr/selector/css/NuepmLqeSAV",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/gFsCpUo0VOz]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/79122827",
+        "type": "crm:E21_Person",
+        "label": "Bentley, Toni",
+        "description": "Bentley, Toni, 1958-"
     },
     "P2_has_type": [
         "oa:identifying"
