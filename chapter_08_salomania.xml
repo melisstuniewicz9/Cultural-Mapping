@@ -466,7 +466,7 @@
                     <p xml:id="p1311">
                         <ref target="#theme_or_topic">
                             <ref target="#genre_performance">
-                                <ref target="#history">By 1908, when this article appeared in the <title level="j">New York Times</title>, <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/mMe7d4N6LAr">Maud Allan</persName> (1873–1956) was one of the best-known dancers in the world, even, arguably, surpassing her contemporary <persName key="Duncan, Isadora, 1877-1927." ref="http://viaf.org/viaf/59124789" ana="webannotation:http://temp.lincsproject.ca/ZAVCEIkpfhk">Isadora Duncan</persName> (1877–1927), who had been <q>before the public,</q> as <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/fPnJIxfzGCC">Allan</persName>’s mother described her daughter’s ambitions, a little longer. Both dancers had risen to fame in the first decade of the twentieth century as creative, <q>classical,</q> interpretive dancers. It was <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/w0npSp6Ffdl">Allan</persName>, however, frequently accused of imitating her younger predecessor in the field, and described in a review in 1925 as <q>an Isadora Duncan of the music hall</q>
+                                <ref target="#history">By 1908, when this article appeared in the <title level="j">New York Times</title>, <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/mMe7d4N6LAr">Maud Allan</persName> (1873–1956) was one of the best-known dancers in the world, even, arguably, surpassing her contemporary <persName key="Duncan, Isadora, 1877-1927." ref="http://viaf.org/viaf/59124789" ana="webannotation:http://temp.lincsproject.ca/ZAVCEIkpfhk">Isadora Duncan</persName> (1877–1927), who had been <q>before the public,</q> as <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/fPnJIxfzGCC">Allan</persName>’s mother described her daughter’s ambitions, a little longer. Both dancers had risen to fame in the first decade of the twentieth century as creative, <q>classical,</q> interpretive dancers. It was <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/w0npSp6Ffdl">Allan</persName>, however, frequently accused of imitating her younger predecessor in the field, and described in a review in 1925 as <q><persName key="Duncan, Isadora, 1877-1927." ref="http://viaf.org/viaf/59124789" ana="webannotation:http://temp.lincsproject.ca/rYmXgJ7VumM">an Isadora Duncan</persName> of the music hall</q>
                                     <note place="inline">
                                         <bibl>cited in <persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/cisH6z9XRJX">Cherniavsky</persName>, <title level="m">Maud</title> 137</bibl>
                                     </note>, who erupted sensationally into the more or less high side of popular culture in <placeName key="Europe" ref="https://sws.geonames.org/6255148" ana="webannotation:http://temp.lincsproject.ca/SbkjNjoxOl5">Europe</placeName> with her performance in the self-choreographed <title level="a">“Vision of Salome.”</title>
@@ -15332,6 +15332,95 @@
         "type": "crm:E53_Place",
         "label": "England",
         "description": "England, GB"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/rYmXgJ7VumM">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/rYmXgJ7VumM",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T16:10:46.536Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/8IzkNGA1t0Z",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/8IzkNGA1t0Z/selector/textPosition/PX4C33nrNEv",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6044,
+                "end": 6061,
+                "refinedBy": {
+                    "id": "/target/8IzkNGA1t0Z/selector/textQuote/l66UD9RzeKl",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "an Isadora Duncan",
+                    "prefix": " It was Allan, however, frequently accused of imitating her younger predecessor in the field, and described in a review in 1925 as",
+                    "suffix": "of the music hall\n                                    \n                                        cited in Cherniavsky, Maud 137\n                                    , who erupted sensationally into the more or less high side of popular culture in Europe with her performance in the self-choreographed “Vision of Salome"
+                }
+            },
+            {
+                "id": "/target/8IzkNGA1t0Z/selector/css/xFZZv2zEb0j",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/rYmXgJ7VumM]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/59124789",
+        "type": "crm:E21_Person",
+        "label": "Duncan, Isadora, 1877-1927.",
+        "description": "Duncan, Isadora"
     },
     "P2_has_type": [
         "oa:identifying"
