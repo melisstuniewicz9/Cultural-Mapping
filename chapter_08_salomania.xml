@@ -565,9 +565,9 @@
                                         <note place="inline">
                                             <bibl>Kultermann 132</bibl>
                                         </note>
-                                    </ref>. <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/Zt9EmuOontf">Allan</persName>’s followers here include a mix of dancers and singers. <ref target="#spatiality">There are images of <q xml:lang="fr-CA">Folies Bergère</q> dancer <q>La Sylphe”</q> (Edith Lambelle Langerfeld, 1883–1968) and vaudevillian Gertrude Hoffmann (1885–1966), identified by <persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/k8d33I7tG6k">Cherniavsky</persName> as the dancer who, reportedly sent to watch and imitate <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/rV5KxBZrH1O">Allan</persName> in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/HiXgQZsxi37">London</placeName>, brought a copy, or version, of the Salome dance to the United States before <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/eS1KYG2Y0Fx">Allan</persName> could arrive with her own.</ref>
+                                    </ref>. <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/Zt9EmuOontf">Allan</persName>’s followers here include a mix of dancers and singers. <ref target="#spatiality">There are images of <q xml:lang="fr-CA">Folies Bergère</q> dancer <q>La Sylphe”</q> (Edith Lambelle Langerfeld, 1883–1968) and vaudevillian Gertrude Hoffmann (1885–1966), identified by <persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/k8d33I7tG6k">Cherniavsky</persName> as the dancer who, reportedly sent to watch and imitate <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/rV5KxBZrH1O">Allan</persName> in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/HiXgQZsxi37">London</placeName>, brought a copy, or version, of the Salome dance to <placeName key="United States" ref="https://sws.geonames.org/6252001    " ana="webannotation:http://temp.lincsproject.ca/hooEwaxnn6X">the United States</placeName> before <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/eS1KYG2Y0Fx">Allan</persName> could arrive with her own.</ref>
                                     <note xml:id="n81" place="end">
-                                        <ref target="#education"><persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/BKjGK02Gcln">Cherniavsky</persName> writes, <q>In April 1908—within weeks of [<persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/wYmmupWRzbV">Allan</persName>’s] sensational debut in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/4lSJrzqN0Fx">London</placeName>—Oscar Hammerstein had sent Gertrude Hoffmann, well known in the United States as a <q>mimic</q> dancer to <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/hsMCfWe0MDW">London</placeName>, to study <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/6gjGcOGAkfx">Maud Allan’s</persName> performance at the Palace Theatre. On July 13, 1908, Hoffmann duly opened a six-week season at the Hammerstein Theatre on Broadway featuring a skillful imitation of <hi rend="italic">
+                                        <ref target="#education"><persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/BKjGK02Gcln">Cherniavsky</persName> writes, <q>In April 1908—within weeks of [<persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/wYmmupWRzbV">Allan</persName>’s] sensational debut in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/4lSJrzqN0Fx">London</placeName>—Oscar Hammerstein had sent Gertrude Hoffmann, well known in <placeName key="United States" ref="https://sws.geonames.org/6252001    " ana="webannotation:http://temp.lincsproject.ca/vx6pPHLEW1X">the United States</placeName> as a <q>mimic</q> dancer to <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/hsMCfWe0MDW">London</placeName>, to study <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/6gjGcOGAkfx">Maud Allan’s</persName> performance at the Palace Theatre. On July 13, 1908, Hoffmann duly opened a six-week season at the Hammerstein Theatre on Broadway featuring a skillful imitation of <hi rend="italic">
                                                     <title level="a">The Vision of Salome</title>
                                                 </hi>. After Labour Day, Hoffmann set out on an ambitious tour that aroused more controversy than acclaim</q>
                                         </ref>
@@ -17100,6 +17100,184 @@
         "id": "https://sws.geonames.org/6255148",
         "type": "crm:E53_Place",
         "label": "Europe"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/hooEwaxnn6X">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/hooEwaxnn6X",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T14:38:49.799Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/uq3A1veOCyW",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/uq3A1veOCyW/selector/textPosition/FkM6eKNOoek",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16611,
+                "end": 16628,
+                "refinedBy": {
+                    "id": "/target/uq3A1veOCyW/selector/textQuote/YdhL1VvBQkF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the United States",
+                    "prefix": " There are images of Folies Bergère dancer La Sylphe” (Edith Lambelle Langerfeld, 1883–1968) and vaudevillian Gertrude Hoffmann (1885–1966), identified by Cherniavsky as the dancer who, reportedly sent to watch and imitate Allan in London, brought a copy, or version, of the Salome dance to",
+                    "suffix": "before Allan could arrive with her own"
+                }
+            },
+            {
+                "id": "/target/uq3A1veOCyW/selector/css/Wy48Qi5lONU",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/hooEwaxnn6X]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6252001    ",
+        "label": "United States",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/vx6pPHLEW1X">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/vx6pPHLEW1X",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-08T14:38:50.537Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/kOxRTSttT42",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/kOxRTSttT42/selector/textPosition/Swzz3NVEf7c",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16894,
+                "end": 16911,
+                "refinedBy": {
+                    "id": "/target/kOxRTSttT42/selector/textQuote/wWPwMhBU8Pi",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the United States",
+                    "prefix": "\n                                    \n                                        Cherniavsky writes, In April 1908—within weeks of [Allan’s] sensational debut in London—Oscar Hammerstein had sent Gertrude Hoffmann, well known in",
+                    "suffix": "as a mimic dancer to London, to study Maud Allan’s performance at the Palace Theatre"
+                }
+            },
+            {
+                "id": "/target/kOxRTSttT42/selector/css/3ijeWLlOkgp",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/vx6pPHLEW1X]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6252001    ",
+        "label": "United States",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
