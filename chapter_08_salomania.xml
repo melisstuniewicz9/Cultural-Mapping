@@ -819,7 +819,7 @@
                         <ref target="#non-book_media">
                             <ref target="#representation_of_women">The non-Salome postcards of 1905–06 suggest that the image of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/wVstl7kBnur">Allan</persName> as <q><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/DaJlFvOVtoU">Maud Allan</persName></q> had begun to circulate in the earliest days of her performances.<note xml:id="n85" place="end">
                                     <ref target="#violence">
-                                        <ref target="#religion">Christened Ulla Maude Durrant</ref>, she adopted the name <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/xFQaFx9wtwB">Maud Allan</persName> following the conviction and execution of her brother Theodore Durrant in 1899 for the murder of two women in <placeName key="San Francisco" ref="https://sws.geonames.org/7174368     " ana="webannotation:http://temp.lincsproject.ca/p7o1hvwojhG">San Francisco</placeName>.</ref>
+                                        <ref target="#religion">Christened <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/pPkAGqNbQlD">Ulla Maude Durrant</persName></ref>, she adopted the name <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/xFQaFx9wtwB">Maud Allan</persName> following the conviction and execution of her brother Theodore Durrant in 1899 for the murder of two women in <placeName key="San Francisco" ref="https://sws.geonames.org/7174368     " ana="webannotation:http://temp.lincsproject.ca/p7o1hvwojhG">San Francisco</placeName>.</ref>
                                 </note>
                                 <ref target="#social_movement">
                                     <ref target="#economics">These cards also indicate this medium had an established work and value in circulating images to advertise an event and to bring <q>before the public</q> the image of a performer, and suggest how this value would be exploited in the groundswell that would be called the <q><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/JKGKimwfC91">Maud Allan</persName> boom,</q> if not by <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/nFxga7eW83C">Allan</persName> or by <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/sn8nKMh7RBJ">Allan</persName> alone, certainly by many others in the business of image reproduction. Postcards, as the proliferation of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/o3zHxZrPlBH">Allan</persName> cards demonstrates, made it possible to capitalize on the image in ways that had not previously been possible. The image could be bought and sold; thus, while its work, as I am suggesting here, is importantly symbolic, the postcard also facilitated the emergence of the image as not simply the representation of the thing but the thing itself—or, as Jean-Luc Nancy suggests, of the image as <q>a thing that is not the thing [but] distinguishes itself from it</q>
@@ -27782,6 +27782,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/eHF82KgHg1p]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/79409973",
+        "type": "crm:E21_Person",
+        "label": "Allan, Maud",
+        "description": "Allan, Maud, 1873-1956"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/pPkAGqNbQlD">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/pPkAGqNbQlD",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T14:46:24.561Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4qEf1NtkY2v",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4qEf1NtkY2v/selector/textPosition/fX3k0zjUs5J",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 42123,
+                "end": 42141,
+                "refinedBy": {
+                    "id": "/target/4qEf1NtkY2v/selector/textQuote/aqm6ITnJbYm",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ulla Maude Durrant",
+                    "prefix": "\n                                    \n                                        Christened",
+                    "suffix": " she adopted the name Maud Allan following the conviction and execution of her brother Theodore Durrant in 1899 for the murder of two women in San Francisco"
+                }
+            },
+            {
+                "id": "/target/4qEf1NtkY2v/selector/css/6vMXInl80u6",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/pPkAGqNbQlD]"
             }
         ]
     },
