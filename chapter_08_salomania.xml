@@ -793,7 +793,7 @@
                                         <q type="block">
                                             <ref target="#representation_of_women">
                                                 <ref target="#economics">Miss <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/dMgvfXeDyml">Allan</persName> has no objection to your advertising your cigarettes in the way you propose</ref> + can supply you with a block but cannot undertake to distribute your post-cards…I will however give you a list of the places in <placeName key="Republic of India" ref="https://sws.geonames.org/1269750     " ana="webannotation:http://temp.lincsproject.ca/2wxI6QT9INK">India</placeName> Miss <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/8meOrrBR1qv">Allan</persName> will visit &amp; you could forward the matter yourselves. It must be understood that no liability of any kind attaches to this permission + that the wording on the post-card will not be altered without my consent in writing first obtained.</ref>
-                                            <bibl>89, 24 November 1913, by MacLeod in <title level="m"><placeName key="Mumbai" ref="https://sws.geonames.org/1275339" ana="webannotation:http://temp.lincsproject.ca/a2EPLE36dKR">Bombay</placeName> at the Taj Mahal Hotel</title>
+                                            <bibl>89, 24 November 1913, by MacLeod in <title level="m"><placeName key="Mumbai" ref="https://sws.geonames.org/1275339" ana="webannotation:http://temp.lincsproject.ca/a2EPLE36dKR">Bombay</placeName> at <placeName key="Taj Mahal Hotel" ref="https://sws.geonames.org/6462474" ana="webannotation:http://temp.lincsproject.ca/Qvyg4N4TvQM">the Taj Mahal Hotel</placeName></title>
                                             </bibl>
                                         </q>
                                         <p xml:id="p1327">
@@ -27612,6 +27612,95 @@
         "type": "crm:E53_Place",
         "label": "Mumbai",
         "description": "Maharashtra, Mumbai Suburban, IN"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Qvyg4N4TvQM">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Qvyg4N4TvQM",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T14:45:42.945Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/azaN4yHsBte",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/azaN4yHsBte/selector/textPosition/IGF65cgNSVP",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 39611,
+                "end": 39630,
+                "refinedBy": {
+                    "id": "/target/azaN4yHsBte/selector/textQuote/XGg5uJBIIFz",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Taj Mahal Hotel",
+                    "prefix": "\n                                            89, 24 November 1913, by MacLeod in Bombay at",
+                    "suffix": "                                            \n                                        \n                                        \n                                            \n                                                Although MacLeod’s note indicates that Allan would supply blocks images for printing postcards, which suggests that she had some control of the image if not of its circulation, it also suggests she does not profit by attaching her image to a commodity such as cigarettes, from the circulation of postcards themselves, or, in effect, from others capitalizing on her Salome performance"
+                }
+            },
+            {
+                "id": "/target/azaN4yHsBte/selector/css/2VkQ3Sw3PQz",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Qvyg4N4TvQM]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6462474",
+        "type": "crm:E53_Place",
+        "label": "Taj Mahal Hotel",
+        "description": "Delhi, New Delhi, IN"
     },
     "P2_has_type": [
         "oa:identifying"
