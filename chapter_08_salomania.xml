@@ -1083,7 +1083,7 @@
                             <title level="a">The Salome Pestilence</title>. <title level="j"><orgName key="New York Times company" ref="http://viaf.org/viaf/192149064" ana="webannotation:http://temp.lincsproject.ca/oqPH9rKOUwb">New York Times</orgName></title> 3 September 1908.</bibl>
                         <bibl><persName key="Sigel, Lisa Z., 1965-...." ref="http://viaf.org/viaf/2694830" ana="webannotation:http://temp.lincsproject.ca/6bdRcQ6BQqs">Sigel</persName>, Lisa Z. <title level="a">Filth in the Wrong People’s Hands: Postcards and the Expansion of Pornography in <placeName key="Britain" ref="https://sws.geonames.org/6301961" ana="webannotation:http://temp.lincsproject.ca/5jubPfjeBIG">Britain</placeName> and the Atlantic World, 1880–1914</title>. <title level="j"><orgName key="Journal of Social History" ref="http://www.wikidata.org/entity/Q6295929" ana="webannotation:http://temp.lincsproject.ca/2BX74llOwt2">Journal of Social History</orgName></title> 33.4 (2000): 859–85.</bibl>
                         <bibl><persName key="Staff, Frank." ref="http://viaf.org/viaf/71431643" ana="webannotation:http://temp.lincsproject.ca/eYOJcOe2gXz">Staff</persName>, <persName key="Staff, Frank." ref="http://viaf.org/viaf/71431643" ana="webannotation:http://temp.lincsproject.ca/lqXvNXSExgG">Frank</persName>. <title level="a">The Picture Postcard and Its Origins</title>. <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/Yzqv7q9tqTQ">London</placeName>: <orgName key="Lutterworth press" ref="http://viaf.org/viaf/157514460" ana="webannotation:http://temp.lincsproject.ca/IreFTJ6g1fy">Lutterworth Press</orgName>, 1966.</bibl>
-                        <bibl><persName key="Tydeman, William." ref="http://viaf.org/viaf/64035658" ana="webannotation:http://temp.lincsproject.ca/zWlqPrId2TA">Tydeman</persName>, <persName key="Tydeman, William." ref="http://viaf.org/viaf/64035658" ana="webannotation:http://temp.lincsproject.ca/WLqORC5gdLN">William</persName>, and <persName key="Price, Steven, 1976-...." ref="http://viaf.org/viaf/61303484" ana="webannotation:http://temp.lincsproject.ca/Ykt6Zbu8Gjq">Steven Price</persName>. <title level="m">Wilde: Salome</title>. Cambridge: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/Zr5mNxyb1Hr">Cambridge University Press</orgName>, 1996.</bibl>
+                        <bibl><persName key="Tydeman, William." ref="http://viaf.org/viaf/64035658" ana="webannotation:http://temp.lincsproject.ca/zWlqPrId2TA">Tydeman</persName>, <persName key="Tydeman, William." ref="http://viaf.org/viaf/64035658" ana="webannotation:http://temp.lincsproject.ca/WLqORC5gdLN">William</persName>, and <persName key="Price, Steven, 1976-...." ref="http://viaf.org/viaf/61303484" ana="webannotation:http://temp.lincsproject.ca/Ykt6Zbu8Gjq">Steven Price</persName>. <title level="m">Wilde: Salome</title>. <placeName key="Cambridge" ref="https://sws.geonames.org/2653941" ana="webannotation:http://temp.lincsproject.ca/PaHi2Y8FS0O">Cambridge</placeName>: <orgName key="Cambridge university press" ref="http://viaf.org/viaf/127979069" ana="webannotation:http://temp.lincsproject.ca/Zr5mNxyb1Hr">Cambridge University Press</orgName>, 1996.</bibl>
                         <bibl>Veteran Diplomat. <title level="a">The Spread of Bohemianism in English Society</title>. <title level="j"><orgName key="New York Times company" ref="http://viaf.org/viaf/192149064" ana="webannotation:http://temp.lincsproject.ca/YDFgegQQUaM">New York Times</orgName></title> 16 August 1908.</bibl>
                         <bibl>Volacci SEO Blog. <title level="a">What Does It Mean to <q>Go Viral</q>?</title>
                             <title level="m">Volacci.co </title>m. 26 May 2010. <ref target="http://www.volacci.com/search-engine-optimization-defining-going-viral">http://www.volacci.com/search-engine-optimization-defining-going-viral</ref>
@@ -30369,6 +30369,95 @@
         "type": "crm:E21_Person",
         "label": "Price, Steven, 1976-....",
         "description": "Price, Steven"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/PaHi2Y8FS0O">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/PaHi2Y8FS0O",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T15:33:04.617Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/NKliBkKxT0p",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/NKliBkKxT0p/selector/textPosition/esMGheb8Dgh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 70783,
+                "end": 70792,
+                "refinedBy": {
+                    "id": "/target/NKliBkKxT0p/selector/textQuote/XPQyv5piDyM",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Cambridge",
+                    "prefix": "",
+                    "suffix": " Cambridge University Press, 1996"
+                }
+            },
+            {
+                "id": "/target/NKliBkKxT0p/selector/css/7V3KVZgq8z5",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/PaHi2Y8FS0O]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2653941",
+        "type": "crm:E53_Place",
+        "label": "Cambridge",
+        "description": ""
     },
     "P2_has_type": [
         "oa:identifying"
