@@ -557,7 +557,7 @@
                                         <bibl>
                                             <title level="m">Salome</title> 187–88n21</bibl>
                                     </note>. <ref target="#genre">
-                                        <ref target="#response_formal">Kultermann reproduces a page from <title level="j">Theatre Magazine</title> in April 1909 showing what are described as <q>All Sorts and Kinds of Salomes</q>
+                                        <ref target="#response_formal">Kultermann reproduces a page from <title level="j"><orgName key="The Theatre" ref="http://www.wikidata.org/entity/Q64887211" ana="webannotation:http://temp.lincsproject.ca/klcQbIBdEft">Theatre Magazine</orgName></title> in April 1909 showing what are described as <q>All Sorts and Kinds of Salomes</q>
                                             <note place="inline">
                                                 <bibl>Kultermann 204</bibl>
                                             </note>. The eight images on the page include <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/v60aSaKm7NH">Allan</persName> in symbolic first place at the top left: she is described in the article as <q>the pioneer of the present revival</q>
@@ -29571,6 +29571,95 @@
         "type": "crm:E21_Person",
         "label": "Pollard, Percival, 1869-1911",
         "description": "Percival Pollard Amerikaans romanschrijver (1869-1911)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/klcQbIBdEft">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/klcQbIBdEft",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T16:29:05.087Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/JFr9e28mGWb",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/JFr9e28mGWb/selector/textPosition/tCPPGzd06jl",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15640,
+                "end": 15656,
+                "refinedBy": {
+                    "id": "/target/JFr9e28mGWb/selector/textQuote/p4XLBrnNEp4",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Theatre Magazine",
+                    "prefix": " \n                                        Kultermann reproduces a page from",
+                    "suffix": "in April 1909 showing what are described as All Sorts and Kinds of Salomes\n                                            \n                                                Kultermann 204\n                                            "
+                }
+            },
+            {
+                "id": "/target/JFr9e28mGWb/selector/css/baDqRnDzJjM",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/klcQbIBdEft]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q64887211",
+        "type": "crm:E74_Group",
+        "label": "The Theatre",
+        "description": "monthly magazine published in New York"
     },
     "P2_has_type": [
         "oa:identifying"
