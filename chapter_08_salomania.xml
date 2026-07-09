@@ -712,7 +712,7 @@
                                             <title level="a">The Salome Pestilence</title>
                                         </bibl>
                                     </note>, and the <title level="j">Theatre Magazine</title> made a similar reference to <q>all sorts and kinds of Salomes,</q> it is clear that in 1908 there was actually only one <q>kind</q> of Salome.</ref>
-                                <ref target="#representation_of_women">All of the women whose photographs the <title level="j">Theatre Magazine</title> includes, for instance, can be understood not just to be doing a Salome dance but, like the women at the <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/HGttPk3E5yf">London</placeName> dinner dance, to be doing <title level="a"><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/utpgkk5ndDP">Maud Allan</persName></title>. Thus, they strike similar poses to <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/M28o0HsoO76">Allan</persName> and wear versions of the costume that she made famous in her dance.<note xml:id="n82" place="end"><persName key="Tydeman, William." ref="http://viaf.org/viaf/64035658" ana="webannotation:http://temp.lincsproject.ca/Ylvo9s0FfMh">Tydeman</persName> and Price suggest that <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/JCmBG593Dz6">Allan</persName>’s costume was <q>strongly reminiscent of [Charles] Ricketts’s design</q> for a 1906 production in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/4zYSE0GzO47">London</placeName> <bibl>140</bibl>. It is not clear, however, that <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/H5XjybWsJNC">Allan</persName> had seen this production prior to designing and making her costume.</note>
+                                <ref target="#representation_of_women">All of the women whose photographs the <title level="j">Theatre Magazine</title> includes, for instance, can be understood not just to be doing a Salome dance but, like the women at the <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/HGttPk3E5yf">London</placeName> dinner dance, to be doing <title level="a"><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/utpgkk5ndDP">Maud Allan</persName></title>. Thus, they strike similar poses to <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/M28o0HsoO76">Allan</persName> and wear versions of the costume that she made famous in her dance.<note xml:id="n82" place="end"><persName key="Tydeman, William." ref="http://viaf.org/viaf/64035658" ana="webannotation:http://temp.lincsproject.ca/Ylvo9s0FfMh">Tydeman</persName> and Price suggest that <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/JCmBG593Dz6">Allan</persName>’s costume was <q>strongly reminiscent of <persName key="Ricketts, Charles S., 1866-1931" ref="http://viaf.org/viaf/60944" ana="webannotation:http://temp.lincsproject.ca/eBwWd2gcqEs">[Charles] Ricketts’s</persName> design</q> for a 1906 production in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/4zYSE0GzO47">London</placeName> <bibl>140</bibl>. It is not clear, however, that <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/H5XjybWsJNC">Allan</persName> had seen this production prior to designing and making her costume.</note>
                                 </ref> Like the women at the London <title level="a">Salome Dinner Dance,</title> they can be seen to be imitating <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/uVxvd0YEWWA">Allan</persName>, their poses indicating that they too <q>had learned some of her most captivating steps in movements</q> and their costumes <q>matching in all details the undress effect of Miss <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/dYxqoifiSz2">Allan</persName>’s scanty attire</q>
                                 <note place="inline">
                                     <bibl>
@@ -30104,6 +30104,95 @@
         "type": "crm:E53_Place",
         "label": "New York City",
         "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/eBwWd2gcqEs">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/eBwWd2gcqEs",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T16:22:31.434Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/NnjWyu9E6dN",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/NnjWyu9E6dN/selector/textPosition/3dW77in2REJ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28404,
+                "end": 28424,
+                "refinedBy": {
+                    "id": "/target/NnjWyu9E6dN/selector/textQuote/6njLtLuE6Ry",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "[Charles] Ricketts’s",
+                    "prefix": "Tydeman and Price suggest that Allan’s costume was strongly reminiscent of",
+                    "suffix": "design for a 1906 production in London 140"
+                }
+            },
+            {
+                "id": "/target/NnjWyu9E6dN/selector/css/q0jHDAFKF0x",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/eBwWd2gcqEs]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/60944",
+        "type": "crm:E21_Person",
+        "label": "Ricketts, Charles S., 1866-1931",
+        "description": "Ricketts, Charles S."
     },
     "P2_has_type": [
         "oa:identifying"
