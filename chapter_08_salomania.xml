@@ -1075,7 +1075,7 @@
                         </bibl>
                         <bibl>McDearmon, Lacy. <title level="a"><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/GXdrS6wRIeD">Maud Allan</persName>: The Public Record</title>. <title level="j">Dance Chronicle</title> 2.2 (1978): 85–105.</bibl>
                         <bibl><persName key="Milne, Esther." ref="http://viaf.org/viaf/91038785" ana="webannotation:http://temp.lincsproject.ca/MjJgtslu40v">Milne</persName>, Esther. <title level="m">Letters, Postcards, Email: Technologies of Presence</title>. New York: Routledge, 2010.</bibl>
-                        <bibl>Nancy, <persName key="Nancy, Jean-Luc, 1940-2021" ref="http://viaf.org/viaf/103617048" ana="webannotation:http://temp.lincsproject.ca/To1Nmr1hKXl">Jean-Luc</persName>. <title level="m">The Ground of the Image</title>. Trans. Jeff Fort. New York: <orgName key="Fordham University Press." ref="http://viaf.org/viaf/135045747" ana="webannotation:http://temp.lincsproject.ca/13xqPzXplRI">Fordham University Press</orgName>, 2005.</bibl>
+                        <bibl><persName key="Nancy, Jean-Luc, 1940-2021" ref="http://viaf.org/viaf/103617048" ana="webannotation:http://temp.lincsproject.ca/nwzHmiyorlH">Nancy</persName>, <persName key="Nancy, Jean-Luc, 1940-2021" ref="http://viaf.org/viaf/103617048" ana="webannotation:http://temp.lincsproject.ca/To1Nmr1hKXl">Jean-Luc</persName>. <title level="m">The Ground of the Image</title>. Trans. Jeff Fort. New York: <orgName key="Fordham University Press." ref="http://viaf.org/viaf/135045747" ana="webannotation:http://temp.lincsproject.ca/13xqPzXplRI">Fordham University Press</orgName>, 2005.</bibl>
                         <bibl>Pollard, Percival. <title level="a">The Regnant Wave of the Sensational Dance</title>. <title level="j">New York Times</title> 23 August 1908. http://www.nytimes.com<hi rend="italic"> </hi>3 April 2012.</bibl>
                         <bibl>
                             <title level="a">Salome Dinner Dance</title>. <title level="j"><orgName key="New York Times company" ref="http://viaf.org/viaf/192149064" ana="webannotation:http://temp.lincsproject.ca/U9dx8Phc4GC">New York Times</orgName></title> 23 August 1908.</bibl>
@@ -28235,6 +28235,95 @@
         "type": "crm:E74_Group",
         "label": "Universal Postal Union. Congress",
         "description": "Universal Postal Congress"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/nwzHmiyorlH">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/nwzHmiyorlH",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T14:49:59.735Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/MLwGA2lUwtf",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/MLwGA2lUwtf/selector/textPosition/Knoor6L53AM",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 69919,
+                "end": 69924,
+                "refinedBy": {
+                    "id": "/target/MLwGA2lUwtf/selector/textQuote/RUTLDVpabQi",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Nancy",
+                    "prefix": "\n                       ",
+                    "suffix": " Jean-Luc"
+                }
+            },
+            {
+                "id": "/target/MLwGA2lUwtf/selector/css/H7SiGVvvZRR",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/nwzHmiyorlH]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/103617048",
+        "type": "crm:E21_Person",
+        "label": "Nancy, Jean-Luc, 1940-2021",
+        "description": "Nancy, Jean-Luc"
     },
     "P2_has_type": [
         "oa:identifying"
