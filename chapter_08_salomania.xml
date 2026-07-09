@@ -934,7 +934,7 @@
                                             </ref> They do work that is in some ways similar to what <persName key="Hasan-Rokem, Galit." ref="http://viaf.org/viaf/34451599" ana="webannotation:http://temp.lincsproject.ca/1fg7kAKqNSd">Galit Hasan-Rokem</persName> has described as <q>mark[ing] routes of traveling and migration</q>
                                             <note place="inline">
                                                 <bibl>510</bibl>
-                                            </note> while also reproducing the travel itself. <ref target="#nationality">Hasan-Rokem frames these operations in her discussion of the figure of <q>the wandering Jew</q> and late nineteenth-century mobility with the doubled figure of what she terms <q>Jews as Postcards, or Postcards as Jews</q>
+                                            </note> while also reproducing the travel itself. <ref target="#nationality"><persName key="Hasan-Rokem, Galit." ref="http://viaf.org/viaf/34451599" ana="webannotation:http://temp.lincsproject.ca/hxkCnJEcAzt">Hasan-Rokem</persName> frames these operations in her discussion of the figure of <q>the wandering Jew</q> and late nineteenth-century mobility with the doubled figure of what she terms <q>Jews as Postcards, or Postcards as Jews</q>
                                             </ref>
                                         </ref>
                                         <note place="inline">
@@ -29028,6 +29028,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/1fg7kAKqNSd]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/34451599",
+        "type": "crm:E21_Person",
+        "label": "Hasan-Rokem, Galit.",
+        "description": "Hasan-Rokem, Galit, 1945-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/hxkCnJEcAzt">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/hxkCnJEcAzt",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T15:42:47.438Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/oDFVWANHEVQ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/oDFVWANHEVQ/selector/textPosition/HLJcG1iyC9T",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 54398,
+                "end": 54409,
+                "refinedBy": {
+                    "id": "/target/oDFVWANHEVQ/selector/textQuote/Cvx0xMrm5QY",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Hasan-Rokem",
+                    "prefix": "",
+                    "suffix": "frames these operations in her discussion of the figure of the wandering Jew and late nineteenth-century mobility with the doubled figure of what she terms Jews as Postcards, or Postcards as Jews\n                                            \n                                        \n                                        \n                                            505\n                                        \n                                    "
+                }
+            },
+            {
+                "id": "/target/oDFVWANHEVQ/selector/css/xih5PrB5bfU",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/hxkCnJEcAzt]"
             }
         ]
     },
