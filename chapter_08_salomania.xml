@@ -841,7 +841,7 @@
                                     <ref target="#theory">
                                         <ref target="#economics">According to different histories, postcards appeared somewhere between 1865 and 1870 but became a functional medium of international communication, says <persName key="Milne, Esther." ref="http://viaf.org/viaf/91038785" ana="webannotation:http://temp.lincsproject.ca/7N0CTPx2pXM">Esther Milne</persName>, only after 1874 <note place="inline">
                                                 <bibl>115</bibl>
-                                            </note> when the General Postal Union made it possible to send cards across national borders: prior to this date and to international postage agreements, <persName key="Milne, Esther." ref="http://viaf.org/viaf/91038785" ana="webannotation:http://temp.lincsproject.ca/pHef8p5egsi">Milne</persName> observes, postcards routinely were returned to their senders. Postcards, notes <persName key="Sigel, Lisa Z., 1965-...." ref="http://viaf.org/viaf/2694830" ana="webannotation:http://temp.lincsproject.ca/CdUtf2psdFJ">Sigel</persName>, <q>gained the full authorization of the Congress of the Universal Postal Union</q>
+                                            </note> when the General Postal Union made it possible to send cards across national borders: prior to this date and to international postage agreements, <persName key="Milne, Esther." ref="http://viaf.org/viaf/91038785" ana="webannotation:http://temp.lincsproject.ca/pHef8p5egsi">Milne</persName> observes, postcards routinely were returned to their senders. Postcards, notes <persName key="Sigel, Lisa Z., 1965-...." ref="http://viaf.org/viaf/2694830" ana="webannotation:http://temp.lincsproject.ca/CdUtf2psdFJ">Sigel</persName>, <q>gained the full authorization of <orgName key="Universal Postal Union. Congress" ref="http://viaf.org/viaf/129521131" ana="webannotation:http://temp.lincsproject.ca/LoIVbHPoUFr">the Congress of the Universal Postal Union</orgName></q>
                                             <note place="inline">
                                                 <bibl>860</bibl>
                                             </note> in 1886.</ref> Between 1894 and 1919, she indicates, <q>roughly 140 billion postcards were sent worldwide</q>
@@ -28057,6 +28057,95 @@
         "type": "crm:E21_Person",
         "label": "Theodore Durrant",
         "description": "Durrant, William Henry Theodore, 1871-1898"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/LoIVbHPoUFr">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/LoIVbHPoUFr",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T14:47:39.701Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/cvgP3gqX6ek",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/cvgP3gqX6ek/selector/textPosition/7icaaM62i7m",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 44768,
+                "end": 44810,
+                "refinedBy": {
+                    "id": "/target/cvgP3gqX6ek/selector/textQuote/H5XEC6TYXq0",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Congress of the Universal Postal Union",
+                    "prefix": " Postcards, notes Sigel, gained the full authorization of",
+                    "suffix": "                                            \n                                                860\n                                             in 1886"
+                }
+            },
+            {
+                "id": "/target/cvgP3gqX6ek/selector/css/C6e4zt05Wbu",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/LoIVbHPoUFr]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/129521131",
+        "type": "crm:E74_Group",
+        "label": "Universal Postal Union. Congress",
+        "description": "Universal Postal Congress"
     },
     "P2_has_type": [
         "oa:identifying"
