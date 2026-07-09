@@ -569,7 +569,7 @@
                                     <note xml:id="n81" place="end">
                                         <ref target="#education"><persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/BKjGK02Gcln">Cherniavsky</persName> writes, <q>In April 1908—within weeks of [<persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/wYmmupWRzbV">Allan</persName>’s] sensational debut in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/4lSJrzqN0Fx">London</placeName>—<persName key="Hammerstein, Oscar, 1895-1960" ref="http://viaf.org/viaf/196386" ana="webannotation:http://temp.lincsproject.ca/SFEkZRD02h3">Oscar Hammerstein</persName> had sent <persName key="Hoffmann, Gertrude" ref="http://viaf.org/viaf/13599388" ana="webannotation:http://temp.lincsproject.ca/kMCKKrlyvHA">Gertrude Hoffmann</persName>, well known in <placeName key="United States" ref="https://sws.geonames.org/6252001    " ana="webannotation:http://temp.lincsproject.ca/vx6pPHLEW1X">the United States</placeName> as a <q>mimic</q> dancer to <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/hsMCfWe0MDW">London</placeName>, to study <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/6gjGcOGAkfx">Maud Allan’s</persName> performance at the Palace Theatre. On July 13, 1908, <persName key="Hoffmann, Gertrude" ref="http://viaf.org/viaf/13599388" ana="webannotation:http://temp.lincsproject.ca/jyFO6v2ib05">Hoffmann</persName> duly opened a six-week season at the Hammerstein Theatre on Broadway featuring a skillful imitation of <hi rend="italic">
                                                     <title level="a">The Vision of Salome</title>
-                                                </hi>. After Labour Day, Hoffmann set out on an ambitious tour that aroused more controversy than acclaim</q>
+                                                </hi>. After Labour Day, <persName key="Hoffmann, Gertrude" ref="http://viaf.org/viaf/13599388" ana="webannotation:http://temp.lincsproject.ca/zmEPskX99Ya">Hoffmann</persName> set out on an ambitious tour that aroused more controversy than acclaim</q>
                                         </ref>
                                         <bibl>
                                             <title level="m">Maud</title> 69</bibl>.</note> These Salomes are aligned with the putatively <q>higher</q> culture performers who played the roles of Salome in Strauss’s opera, represented here by Olive Fremstad (1871–1951) and Mary Garden (1874–1967). <ref target="#response_formal">Some of these women also comprise what the <title level="j">New York Times</title> article of August 16, 1908 reported with mock seriousness as <q>the <q>Salome</q> Club</q>: <q>President, Gertrude Hoffmann; Vice President, La Sylphe; Treasurer, Lotta Faust; Secretary, Eva Tanguay</q>
@@ -27961,6 +27961,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/jyFO6v2ib05]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/13599388",
+        "type": "crm:E21_Person",
+        "label": "Hoffmann, Gertrude",
+        "description": "Hoffman, Gertrude 1885-1966"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/zmEPskX99Ya">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/zmEPskX99Ya",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T15:48:10.343Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/l9jM51sPEDf",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/l9jM51sPEDf/selector/textPosition/bPIXKpeODE2",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 17270,
+                "end": 17278,
+                "refinedBy": {
+                    "id": "/target/l9jM51sPEDf/selector/textQuote/S8whnayRnhK",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Hoffmann",
+                    "prefix": " After Labour Day,",
+                    "suffix": "set out on an ambitious tour that aroused more controversy than acclaim\n                                        \n                                        \n                                            Maud 69"
+                }
+            },
+            {
+                "id": "/target/l9jM51sPEDf/selector/css/MfHVdIWYOFh",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/zmEPskX99Ya]"
             }
         ]
     },
