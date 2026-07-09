@@ -577,7 +577,7 @@
                                             <bibl>
                                                 <title level="a">The Call of Salome</title>
                                             </bibl>
-                                        </note>. Eltinge was identified as an <q>honorary member.</q>
+                                        </note>. <persName key="Eltinge, Julian, 1883-1941" ref="http://viaf.org/viaf/17060695" ana="webannotation:http://temp.lincsproject.ca/yCVxS8I7bkh">Eltinge</persName> was identified as an <q>honorary member.</q>
                                     </ref>
                                 </ref>
                             </ref>
@@ -30727,6 +30727,95 @@
         "type": "crm:E21_Person",
         "label": "Tanguay, Eva, 1878-1947",
         "description": "Eva Tanguay Canadian singer and film actor"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/yCVxS8I7bkh">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/yCVxS8I7bkh",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T16:27:42.667Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/VdpAoj7qUsD",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/VdpAoj7qUsD/selector/textPosition/w6spng10gtj",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 18165,
+                "end": 18172,
+                "refinedBy": {
+                    "id": "/target/VdpAoj7qUsD/selector/textQuote/6lcNPhSnvl0",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Eltinge",
+                    "prefix": "",
+                    "suffix": "was identified as an honorary member"
+                }
+            },
+            {
+                "id": "/target/VdpAoj7qUsD/selector/css/egPaTweITzX",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/yCVxS8I7bkh]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/17060695",
+        "type": "crm:E21_Person",
+        "label": "Eltinge, Julian, 1883-1941",
+        "description": "Julian Eltinge actor, female impersonator"
     },
     "P2_has_type": [
         "oa:identifying"
