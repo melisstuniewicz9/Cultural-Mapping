@@ -500,7 +500,7 @@
                                                 <bibl>25</bibl>. <persName key="Munte, Lina 18..-1909" ref="http://viaf.org/viaf/32257479" ana="webannotation:http://temp.lincsproject.ca/Ci196E892bu">Lina Munte</persName> played the title role. It was not <q>performed again until 15 November 1902 at <orgName key="Kleines Theater" ref="https://www.wikidata.org/wiki/Q69773981" ana="webannotation:http://temp.lincsproject.ca/wS3f9w260A9">the Kleines Theater</orgName>, <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/9yisEB16zl0">Berlin</placeName>…in a production directed by <persName key="Kayssler, Friedrich, 1874-1945" ref="http://viaf.org/viaf/27866276" ana="webannotation:http://temp.lincsproject.ca/KaryNPULnpz">Friedrich Kayssler</persName> and Hans Oberländer under the supervision of the twenty-nine-year-old <persName key="Reinhardt, Max, 1873-1943." ref="http://viaf.org/viaf/54194383" ana="webannotation:http://temp.lincsproject.ca/n7MRrabBzC8">Max Reinhardt</persName></q>
                                                 <bibl>Tydeman and Price 31</bibl>. <bibl>Hutcheon and Hutcheon</bibl> suggest the <q>German version premiered in 1901 in Breslau</q>
                                                 <bibl>205</bibl>.) <persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/mcqAag4pusb">Cherniavsky</persName> notes that both <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/0H2C478Fj8m">Maud Allan</persName> and Marcel Rémy, who composed the music for <title level="a">The Vision of Salome,</title>
-                                                <q>saw this Reinhardt production in <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/O4s9wPeXw5z">Berlin</placeName></q>
+                                                <q>saw this <persName key="Reinhardt, Max, 1873-1943." ref="http://viaf.org/viaf/54194383" ana="webannotation:http://temp.lincsproject.ca/7SENd5NpHc6">Reinhardt</persName> production in <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/O4s9wPeXw5z">Berlin</placeName></q>
                                                 <bibl>
                                                     <title level="m">Salome</title> 142</bibl>.</note> Richard Strauss’s opera <title level="m">Salome</title>, like <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/VMSh2pAJnJd">Allan</persName>’s dance, inspired by Wilde’s play, had been performed for the first time in Dresden in 1905, giving rise to growing numbers of women who performed the title role in various locations and who performed the <title level="a">Dance of the Seven Veils</title> when the singer could not or would not do so. Dutch dancer <persName key="Mata Hari, 1876-1917" ref="http://viaf.org/viaf/73861962" ana="webannotation:http://temp.lincsproject.ca/QZH5xIekdel">Mata Hari</persName> (Margaretha Geertruida Zelle) (1876–1917), who debuted her <q>Oriental</q> temple dancing in <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/MrdHvYXI0kd">Paris</placeName> in 1905, had asked to <q>create</q> the <title level="a">Dance of the Seven Veils</title> for the <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/tAFLWxLujth">Paris</placeName> premiere of Strauss’s opera in May 1907</ref>
                                         <note place="inline">
@@ -26982,6 +26982,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/n7MRrabBzC8]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/54194383",
+        "type": "crm:E21_Person",
+        "label": "Reinhardt, Max, 1873-1943.",
+        "description": "Reinhardt, Max"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/7SENd5NpHc6">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/7SENd5NpHc6",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T13:50:56.663Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/p70jumucf3G",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/p70jumucf3G/selector/textPosition/hGIJ33Fg811",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10045,
+                "end": 10054,
+                "refinedBy": {
+                    "id": "/target/p70jumucf3G/selector/textQuote/EYW1rxpKXGw",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Reinhardt",
+                    "prefix": ") Cherniavsky notes that both Maud Allan and Marcel Rémy, who composed the music for The Vision of Salome,\n                                                saw this",
+                    "suffix": "production in Berlin\n                                                \n                                                    Salome 142"
+                }
+            },
+            {
+                "id": "/target/p70jumucf3G/selector/css/9wWkCNGqXvu",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/7SENd5NpHc6]"
             }
         ]
     },
