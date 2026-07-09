@@ -914,7 +914,7 @@
                             <ref target="#history">
                                 <ref target="#economics">Cigarette cards were mobilized to sell cigarettes; postcards were mobilized as images that were themselves for sale, quickly becoming not only a medium of communication but itself a commodity to collect. Staff traces <q>the craze for collecting</q> that developed in <placeName key="Britain" ref="https://sws.geonames.org/6301961" ana="webannotation:http://temp.lincsproject.ca/KZPbCqBSMnL">Britain</placeName> <note place="inline">
                                         <bibl>64</bibl>
-                                    </note>. <ref target="#genre_journalism">The Holts note that in 1900 the <title level="j">Picture Postcard Magazine</title> was first published in <placeName key="Britain" ref="https://sws.geonames.org/6301961" ana="webannotation:http://temp.lincsproject.ca/hktrNp5VMFz">Britain</placeName>, described by its editor E.W. Richardson as <q>the first magazine to combine travel, philately and art through a natural connecting medium, the Picture Postcard</q>
+                                    </note>. <ref target="#genre_journalism">The Holts note that in 1900 the <title level="j">Picture Postcard Magazine</title> was first published in <placeName key="Britain" ref="https://sws.geonames.org/6301961" ana="webannotation:http://temp.lincsproject.ca/hktrNp5VMFz">Britain</placeName>, described by its editor <persName key="Richardson, William E." ref="http://viaf.org/viaf/36100482" ana="webannotation:http://temp.lincsproject.ca/ReValhQEpeY">E.W. Richardson</persName> as <q>the first magazine to combine travel, philately and art through a natural connecting medium, the Picture Postcard</q>
                                         <note place="inline">
                                             <bibl>qtd. in Holt and Holt 37</bibl>
                                         </note>. Not only did postcards emerge as a technology of communication alongside photography, they also emerged in tandem with increased travel—across categories of gender, race, and class.</ref> In both instances, postcards are, as Richardson put it in 1900, <q>a natural connecting medium</q> (qtd. in <note place="inline">
@@ -31438,6 +31438,95 @@
         "type": "crm:E74_Group",
         "label": "Universal Postal Union. Congress",
         "description": "Universal Postal Congress"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ReValhQEpeY">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ReValhQEpeY",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T16:10:26.905Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/6Zbhz2pD0Fv",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/6Zbhz2pD0Fv/selector/textPosition/qn8jeXXs7w1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 52402,
+                "end": 52417,
+                "refinedBy": {
+                    "id": "/target/6Zbhz2pD0Fv/selector/textQuote/BcnccgAGtvF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "E.W. Richardson",
+                    "prefix": " The Holts note that in 1900 the Picture Postcard Magazine was first published in Britain, described by its editor",
+                    "suffix": "as the first magazine to combine travel, philately and art through a natural connecting medium, the Picture Postcard\n                                        \n                                            qtd"
+                }
+            },
+            {
+                "id": "/target/6Zbhz2pD0Fv/selector/css/2DpIaehVa0r",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ReValhQEpeY]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/36100482",
+        "type": "crm:E21_Person",
+        "label": "Richardson, William E.",
+        "description": "Richardson, William E., 1937-"
     },
     "P2_has_type": [
         "oa:identifying"
