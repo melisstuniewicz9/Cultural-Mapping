@@ -1074,7 +1074,7 @@
                             <title level="a"><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/LAFB6pbnoYv">Maud Allan</persName>: The Salome Dancer Postcards</title>. <title level="m">About Postcards: A Reference Resource for Postcard Collectors</title>. 4 December 2007. <ref target="http://aboutcards.blogspot.com/2007/12/maud-allan-salome-dancer-postcards.html">http://aboutcards.blogspot.com/2007/12/maud-allan-salome-dancer-postcards.html</ref>
                         </bibl>
                         <bibl><persName key="McDearmon, Lacy Harrison, 1932-" ref="http://viaf.org/viaf/28836739" ana="webannotation:http://temp.lincsproject.ca/fX7H2NOc1dp">McDearmon</persName>, <persName key="McDearmon, Lacy Harrison, 1932-" ref="http://viaf.org/viaf/28836739" ana="webannotation:http://temp.lincsproject.ca/HzFwvHVzYGE">Lacy</persName>. <title level="a"><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/GXdrS6wRIeD">Maud Allan</persName>: The Public Record</title>. <title level="j">Dance Chronicle</title> 2.2 (1978): 85–105.</bibl>
-                        <bibl><persName key="Milne, Esther." ref="http://viaf.org/viaf/91038785" ana="webannotation:http://temp.lincsproject.ca/MjJgtslu40v">Milne</persName>, <persName key="Milne, Esther." ref="http://viaf.org/viaf/91038785" ana="webannotation:http://temp.lincsproject.ca/v09R2udDiLO">Esther</persName>. <title level="m">Letters, Postcards, Email: Technologies of Presence</title>. New York: Routledge, 2010.</bibl>
+                        <bibl><persName key="Milne, Esther." ref="http://viaf.org/viaf/91038785" ana="webannotation:http://temp.lincsproject.ca/MjJgtslu40v">Milne</persName>, <persName key="Milne, Esther." ref="http://viaf.org/viaf/91038785" ana="webannotation:http://temp.lincsproject.ca/v09R2udDiLO">Esther</persName>. <title level="m">Letters, Postcards, Email: Technologies of Presence</title>. New York: <orgName key="Routledge" ref="http://viaf.org/viaf/146326081" ana="webannotation:http://temp.lincsproject.ca/T48pSNot4z2">Routledge</orgName>, 2010.</bibl>
                         <bibl><persName key="Nancy, Jean-Luc, 1940-2021" ref="http://viaf.org/viaf/103617048" ana="webannotation:http://temp.lincsproject.ca/nwzHmiyorlH">Nancy</persName>, <persName key="Nancy, Jean-Luc, 1940-2021" ref="http://viaf.org/viaf/103617048" ana="webannotation:http://temp.lincsproject.ca/To1Nmr1hKXl">Jean-Luc</persName>. <title level="m">The Ground of the Image</title>. Trans. <persName key="Fort, Jeff, 1966-...." ref="http://viaf.org/viaf/6739000" ana="webannotation:http://temp.lincsproject.ca/RG4YuyZquhp">Jeff Fort</persName>. New York: <orgName key="Fordham University Press." ref="http://viaf.org/viaf/135045747" ana="webannotation:http://temp.lincsproject.ca/13xqPzXplRI">Fordham University Press</orgName>, 2005.</bibl>
                         <bibl>Pollard, Percival. <title level="a">The Regnant Wave of the Sensational Dance</title>. <title level="j">New York Times</title> 23 August 1908. http://www.nytimes.com<hi rend="italic"> </hi>3 April 2012.</bibl>
                         <bibl>
@@ -28678,6 +28678,95 @@
         "type": "crm:E21_Person",
         "label": "Milne, Esther.",
         "description": "Milne, Esther, 19..-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/T48pSNot4z2">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/T48pSNot4z2",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T15:01:19.607Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/UVvA9uq6vv0",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/UVvA9uq6vv0/selector/textPosition/mAPfW4AyQn1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 69878,
+                "end": 69887,
+                "refinedBy": {
+                    "id": "/target/UVvA9uq6vv0/selector/textQuote/Z6KG8pjKfJQ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Routledge",
+                    "prefix": " New York:",
+                    "suffix": " 2010"
+                }
+            },
+            {
+                "id": "/target/UVvA9uq6vv0/selector/css/uuTzvwz6xWZ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/T48pSNot4z2]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/146326081",
+        "type": "crm:E74_Group",
+        "label": "Routledge",
+        "description": "George Routledge and Sons."
     },
     "P2_has_type": [
         "oa:identifying"
