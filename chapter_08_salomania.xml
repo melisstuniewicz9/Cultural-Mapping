@@ -863,7 +863,7 @@
                             <ref target="#nationality">
                                 <ref target="#spatiality">
                                     <ref target="#theme_or_topic">Although postcard images of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/W5WVo4xScju">Allan</persName> circulated widely and were produced in <placeName key="Europe" ref="https://sws.geonames.org/6255148" ana="webannotation:http://temp.lincsproject.ca/tudMpgVeFRf">Europe</placeName> and <placeName key="North America" ref="https://sws.geonames.org/6255149" ana="webannotation:http://temp.lincsproject.ca/sLaqO7RLEWm">North America</placeName> as well as <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/0qhrH8M6PlG">England</placeName>, I am focusing here on <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/seRuPWQR4Pl">England</placeName> for two key reasons. <ref target="#class_issue">First, it was in <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/m2msa2WeR84">England</placeName> that <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/cEhDqbatTLL">Allan</persName> rose to spectacular fame, and where the picture postcard’s mobilization of her image can be seen to have had its most telling effect on her celebrity. <ref target="#historical_oppression">
-                                                <ref target="#genre_journalism">Second, the postcard emerged in <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/OD56j0kaFz5">England</placeName> as an imperial medium, a form of communication across the space of empire and a means of putting into circulation Anglo-Saxon presence in places outside of <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/s7aQvy2Bsvb">England</placeName>—or, in effect, of affirming what Percival Pollard described in his <title level="j"><orgName key="New York Times company" ref="http://viaf.org/viaf/192149064" ana="webannotation:http://temp.lincsproject.ca/PWEBpCqQI11">New York Times</orgName></title> Salomania article of 1908 as <q>our Anglo-Saxon lands.</q> The British postcard’s imperial function is suggested in accounts of its beginnings. In <title level="m">The Picture Postcard and Its Origins</title>, <persName key="Staff, Frank." ref="http://viaf.org/viaf/71431643" ana="webannotation:http://temp.lincsproject.ca/Mi25MyeunoW">Frank Staff</persName> cites a 1900 account of a deliberate decision on the part of the first publishers of <q>pictorial postcards</q> to <q>issue cards of a topical character, that is, having views or portraits of interest at the moment</q>
+                                                <ref target="#genre_journalism">Second, the postcard emerged in <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/OD56j0kaFz5">England</placeName> as an imperial medium, a form of communication across the space of empire and a means of putting into circulation Anglo-Saxon presence in places outside of <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/s7aQvy2Bsvb">England</placeName>—or, in effect, of affirming what <persName key="Pollard, Percival, 1869-1911" ref="http://viaf.org/viaf/51494151" ana="webannotation:http://temp.lincsproject.ca/bdUKn9nOPrv">Percival Pollard</persName> described in his <title level="j"><orgName key="New York Times company" ref="http://viaf.org/viaf/192149064" ana="webannotation:http://temp.lincsproject.ca/PWEBpCqQI11">New York Times</orgName></title> Salomania article of 1908 as <q>our Anglo-Saxon lands.</q> The British postcard’s imperial function is suggested in accounts of its beginnings. In <title level="m">The Picture Postcard and Its Origins</title>, <persName key="Staff, Frank." ref="http://viaf.org/viaf/71431643" ana="webannotation:http://temp.lincsproject.ca/Mi25MyeunoW">Frank Staff</persName> cites a 1900 account of a deliberate decision on the part of the first publishers of <q>pictorial postcards</q> to <q>issue cards of a topical character, that is, having views or portraits of interest at the moment</q>
                                                     <note place="inline">
                                                         <bibl>89</bibl>
                                                     </note>.</ref> Thus, according to this record, the <q>first topical picture postcard [in <placeName key="England" ref="https://sws.geonames.org/6269131" ana="webannotation:http://temp.lincsproject.ca/exsww77fkTb">England</placeName>] was that illustrating the Nile Expedition of 1897. It bore portraits of [imperial heroes Charles George] Gordon and the since famous Sirdar, Lord Kitchener</q>
@@ -31438,6 +31438,95 @@
         "type": "crm:E74_Group",
         "label": "Universal Postal Union. Congress",
         "description": "Universal Postal Congress"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/bdUKn9nOPrv">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/bdUKn9nOPrv",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T16:14:23.703Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/MuJ1swBD004",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/MuJ1swBD004/selector/textPosition/ztEvrHr1ut2",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 46645,
+                "end": 46661,
+                "refinedBy": {
+                    "id": "/target/MuJ1swBD004/selector/textQuote/m0YBia1fjdI",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Percival Pollard",
+                    "prefix": " \n                                                Second, the postcard emerged in England as an imperial medium, a form of communication across the space of empire and a means of putting into circulation Anglo-Saxon presence in places outside of England—or, in effect, of affirming what",
+                    "suffix": "described in his New York Times Salomania article of 1908 as our Anglo-Saxon lands"
+                }
+            },
+            {
+                "id": "/target/MuJ1swBD004/selector/css/xd8NkGHnbzd",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/bdUKn9nOPrv]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/51494151",
+        "type": "crm:E21_Person",
+        "label": "Pollard, Percival, 1869-1911",
+        "description": "Percival Pollard Amerikaans romanschrijver (1869-1911)"
     },
     "P2_has_type": [
         "oa:identifying"
