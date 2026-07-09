@@ -474,7 +474,7 @@
                                         <ref target="#intertextuality"><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/J8kcLsIrEGx">Allan</persName>’s dance, as her biographer <persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/8n4Z7t3qhI8">Felix Cherniavsky</persName> indicates, was first performed publicly in <placeName key="Vienna" ref="https://sws.geonames.org/2761369" ana="webannotation:http://temp.lincsproject.ca/w9Q7iwO3Yaz">Vienna</placeName> in 1906 <note place="inline">
                                                 <bibl>
                                                     <title level="m">Salome</title> 143</bibl>
-                                            </note>. <ref target="#genre_drama">It was, as <persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/QwmwOCrvV05">Cherniavsky</persName> also suggests, inspired by Max Reinhardt’s 1902 production in <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/OG7XE0kTF7D">Berlin</placeName> of Oscar Wilde’s 1892 dramatic representation of Salome,</ref>
+                                            </note>. <ref target="#genre_drama">It was, as <persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/QwmwOCrvV05">Cherniavsky</persName> also suggests, inspired by Max Reinhardt’s 1902 production in <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/OG7XE0kTF7D">Berlin</placeName> of <persName key="Wilde, Oscar, 1854-1900." ref="http://viaf.org/viaf/34464414" ana="webannotation:http://temp.lincsproject.ca/SUPeQBeFv6C">Oscar Wilde’s</persName> 1892 dramatic representation of Salome,</ref>
                                         </ref>
                                         <note xml:id="n76" place="end">
                                             <ref target="#editions">
@@ -26812,6 +26812,95 @@
         "type": "frbroo:F1",
         "label": "The American Historical Review",
         "description": "academic journal"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/SUPeQBeFv6C">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/SUPeQBeFv6C",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T16:05:49.292Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/27xN4n5bK74",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/27xN4n5bK74/selector/textPosition/MVf5SSsY5Hp",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6820,
+                "end": 6833,
+                "refinedBy": {
+                    "id": "/target/27xN4n5bK74/selector/textQuote/FlKW4pqmGCw",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Oscar Wilde’s",
+                    "prefix": " It was, as Cherniavsky also suggests, inspired by Max Reinhardt’s 1902 production in Berlin of",
+                    "suffix": "1892 dramatic representation of Salome,\n                                        \n                                        \n                                            \n                                                Originally written in French, the first English edition of Wilde’s Salome appeared in 1894, published by Elkin Mathews and John Lane in London and by Copeland and Day in Boston"
+                }
+            },
+            {
+                "id": "/target/27xN4n5bK74/selector/css/fPQ9DqDWhVv",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/SUPeQBeFv6C]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/34464414",
+        "type": "crm:E21_Person",
+        "label": "Wilde, Oscar, 1854-1900.",
+        "description": "Wilde, Oscar"
     },
     "P2_has_type": [
         "oa:identifying"
