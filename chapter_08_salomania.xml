@@ -572,7 +572,7 @@
                                                 </hi>. After Labour Day, <persName key="Hoffmann, Gertrude" ref="http://viaf.org/viaf/13599388" ana="webannotation:http://temp.lincsproject.ca/zmEPskX99Ya">Hoffmann</persName> set out on an ambitious tour that aroused more controversy than acclaim</q>
                                         </ref>
                                         <bibl>
-                                            <title level="m">Maud</title> 69</bibl>.</note> These Salomes are aligned with the putatively <q>higher</q> culture performers who played the roles of Salome in Strauss’s opera, represented here by <persName key="Fremstad, Olive, 1871-1951" ref="http://viaf.org/viaf/71594078" ana="webannotation:http://temp.lincsproject.ca/IBRAeqLqaeW">Olive Fremstad</persName> (1871–1951) and <persName key="Garden, Mary, 1874-1967" ref="http://viaf.org/viaf/22228088" ana="webannotation:http://temp.lincsproject.ca/93v3dwVME8u">Mary Garden</persName> (1874–1967). <ref target="#response_formal">Some of these women also comprise what the <title level="j">New York Times</title> article of August 16, 1908 reported with mock seriousness as <q>the <q>Salome</q> Club</q>: <q>President, <persName key="Hoffmann, Gertrude" ref="http://viaf.org/viaf/13599388" ana="webannotation:http://temp.lincsproject.ca/fhByWn9eGao">Gertrude Hoffmann</persName>; Vice President, <persName key="La Sylphe American dancer (1883-1968)" ref="http://viaf.org/viaf/4236718" ana="webannotation:http://temp.lincsproject.ca/hfE4nCOd7KX">La Sylphe</persName>; Treasurer, <persName key="Faust, Lotta" ref="http://viaf.org/viaf/75615479" ana="webannotation:http://temp.lincsproject.ca/YALwwctzNOI">Lotta Faust</persName>; Secretary, Eva Tanguay</q>
+                                            <title level="m">Maud</title> 69</bibl>.</note> These Salomes are aligned with the putatively <q>higher</q> culture performers who played the roles of Salome in Strauss’s opera, represented here by <persName key="Fremstad, Olive, 1871-1951" ref="http://viaf.org/viaf/71594078" ana="webannotation:http://temp.lincsproject.ca/IBRAeqLqaeW">Olive Fremstad</persName> (1871–1951) and <persName key="Garden, Mary, 1874-1967" ref="http://viaf.org/viaf/22228088" ana="webannotation:http://temp.lincsproject.ca/93v3dwVME8u">Mary Garden</persName> (1874–1967). <ref target="#response_formal">Some of these women also comprise what the <title level="j">New York Times</title> article of August 16, 1908 reported with mock seriousness as <q>the <q>Salome</q> Club</q>: <q>President, <persName key="Hoffmann, Gertrude" ref="http://viaf.org/viaf/13599388" ana="webannotation:http://temp.lincsproject.ca/fhByWn9eGao">Gertrude Hoffmann</persName>; Vice President, <persName key="La Sylphe American dancer (1883-1968)" ref="http://viaf.org/viaf/4236718" ana="webannotation:http://temp.lincsproject.ca/hfE4nCOd7KX">La Sylphe</persName>; Treasurer, <persName key="Faust, Lotta" ref="http://viaf.org/viaf/75615479" ana="webannotation:http://temp.lincsproject.ca/YALwwctzNOI">Lotta Faust</persName>; Secretary, <persName key="Tanguay, Eva, 1878-1947" ref="http://viaf.org/viaf/150149106347268492785" ana="webannotation:http://temp.lincsproject.ca/wgXwWBUYP5w">Eva Tanguay</persName></q>
                                         <note place="inline">
                                             <bibl>
                                                 <title level="a">The Call of Salome</title>
@@ -28502,6 +28502,95 @@
         "id": "http://viaf.org/viaf/75615479",
         "type": "crm:E21_Person",
         "label": "Faust, Lotta"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/wgXwWBUYP5w">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/wgXwWBUYP5w",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T15:51:17.782Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/2UaGJZk6Rbr",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/2UaGJZk6Rbr/selector/textPosition/bh87ZauFoEZ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 17913,
+                "end": 17924,
+                "refinedBy": {
+                    "id": "/target/2UaGJZk6Rbr/selector/textQuote/NCFndDrGLP8",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Eva Tanguay",
+                    "prefix": " Some of these women also comprise what the New York Times article of August 16, 1908 reported with mock seriousness as the Salome Club: President, Gertrude Hoffmann; Vice President, La Sylphe; Treasurer, Lotta Faust; Secretary,",
+                    "suffix": "                                        \n                                            \n                                                The Call of Salome\n                                            \n                                        "
+                }
+            },
+            {
+                "id": "/target/2UaGJZk6Rbr/selector/css/GnToQvZYD9s",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/wgXwWBUYP5w]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/150149106347268492785",
+        "type": "crm:E21_Person",
+        "label": "Tanguay, Eva, 1878-1947",
+        "description": "Eva Tanguay Canadian singer and film actor"
     },
     "P2_has_type": [
         "oa:identifying"
