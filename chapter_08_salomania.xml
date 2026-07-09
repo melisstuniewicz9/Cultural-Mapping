@@ -917,7 +917,7 @@
                                     </note>. <ref target="#genre_journalism">The Holts note that in 1900 the <title level="j">Picture Postcard Magazine</title> was first published in <placeName key="Britain" ref="https://sws.geonames.org/6301961" ana="webannotation:http://temp.lincsproject.ca/hktrNp5VMFz">Britain</placeName>, described by its editor <persName key="Richardson, William E." ref="http://viaf.org/viaf/36100482" ana="webannotation:http://temp.lincsproject.ca/ReValhQEpeY">E.W. Richardson</persName> as <q>the first magazine to combine travel, philately and art through a natural connecting medium, the Picture Postcard</q>
                                         <note place="inline">
                                             <bibl>qtd. in Holt and Holt 37</bibl>
-                                        </note>. Not only did postcards emerge as a technology of communication alongside photography, they also emerged in tandem with increased travel—across categories of gender, race, and class.</ref> In both instances, postcards are, as Richardson put it in 1900, <q>a natural connecting medium</q> (qtd. in <note place="inline">
+                                        </note>. Not only did postcards emerge as a technology of communication alongside photography, they also emerged in tandem with increased travel—across categories of gender, race, and class.</ref> In both instances, postcards are, as <persName key="Richardson, William E." ref="http://viaf.org/viaf/36100482" ana="webannotation:http://temp.lincsproject.ca/xKdcx0HhlwX">Richardson</persName> put it in 1900, <q>a natural connecting medium</q> (qtd. in <note place="inline">
                                         <bibl>Holt and Holt 37</bibl>
                                     </note>) across these registers.</ref>
                             </ref>
@@ -31616,6 +31616,95 @@
         "type": "crm:E21_Person",
         "label": "Holt, Tonie",
         "description": "Holt, Tonie, 1932-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xKdcx0HhlwX">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xKdcx0HhlwX",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T16:13:21.466Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/FuO99cPX1l4",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/FuO99cPX1l4/selector/textPosition/46k1600Q6jk",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 52906,
+                "end": 52916,
+                "refinedBy": {
+                    "id": "/target/FuO99cPX1l4/selector/textQuote/btheWLZHHKt",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Richardson",
+                    "prefix": " In both instances, postcards are, as",
+                    "suffix": "put it in 1900, a natural connecting medium (qtd"
+                }
+            },
+            {
+                "id": "/target/FuO99cPX1l4/selector/css/kvIMiOSCwvf",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xKdcx0HhlwX]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/36100482",
+        "type": "crm:E21_Person",
+        "label": "Richardson, William E.",
+        "description": "Richardson, William E., 1937-"
     },
     "P2_has_type": [
         "oa:identifying"
