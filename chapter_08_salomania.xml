@@ -595,7 +595,7 @@
                             <ref target="#genre_performance">
                                 <ref target="#health_issue">
                                     <ref target="#response_formal">
-                                        <ref target="#representation_of_women">It is announced on good authority that the management [at the New Amsterdam Theatre] has been exceptionally active in guarding against outbreaks of Salomania among members of the company. As soon as any chorus girl shows the very first symptoms of the disease she is at once enveloped in a fur coat—the most efficacious safeguard known against the Salome dance—and hurriedly isolated.</ref>
+                                        <ref target="#representation_of_women">It is announced on good authority that the management [at <orgName key="New Amsterdam Theatre" ref="https://www.wikidata.org/wiki/Q2004827" ana="webannotation:http://temp.lincsproject.ca/NWJRZXxmjT3">the New Amsterdam Theatre</orgName>] has been exceptionally active in guarding against outbreaks of Salomania among members of the company. As soon as any chorus girl shows the very first symptoms of the disease she is at once enveloped in a fur coat—the most efficacious safeguard known against the Salome dance—and hurriedly isolated.</ref>
                                     </ref>
                                 </ref>
                             </ref>
@@ -30638,6 +30638,95 @@
         "type": "crm:E21_Person",
         "label": "Tanguay, Eva, 1878-1947",
         "description": "Eva Tanguay Canadian singer and film actor"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/NWJRZXxmjT3">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/NWJRZXxmjT3",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T16:26:51.947Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/zw3SFnrfnSC",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/zw3SFnrfnSC/selector/textPosition/mIsg4AgYY8J",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 19022,
+                "end": 19047,
+                "refinedBy": {
+                    "id": "/target/zw3SFnrfnSC/selector/textQuote/AQf4VDSNa8o",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the New Amsterdam Theatre",
+                    "prefix": " Indeed, The Call of Salome begins with an ironically serious report:\n                            \n                        \n                    \n                    \n                        \n                            \n                                \n                                    \n                                        It is announced on good authority that the management [at",
+                    "suffix": " has been exceptionally active in guarding against outbreaks of Salomania among members of the company"
+                }
+            },
+            {
+                "id": "/target/zw3SFnrfnSC/selector/css/CemqBH39BBO",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/NWJRZXxmjT3]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q2004827",
+        "label": "New Amsterdam Theatre",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
