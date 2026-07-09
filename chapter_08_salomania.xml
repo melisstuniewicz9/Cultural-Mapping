@@ -572,7 +572,7 @@
                                                 </hi>. After Labour Day, <persName key="Hoffmann, Gertrude" ref="http://viaf.org/viaf/13599388" ana="webannotation:http://temp.lincsproject.ca/zmEPskX99Ya">Hoffmann</persName> set out on an ambitious tour that aroused more controversy than acclaim</q>
                                         </ref>
                                         <bibl>
-                                            <title level="m">Maud</title> 69</bibl>.</note> These Salomes are aligned with the putatively <q>higher</q> culture performers who played the roles of Salome in Strauss’s opera, represented here by Olive Fremstad (1871–1951) and Mary Garden (1874–1967). <ref target="#response_formal">Some of these women also comprise what the <title level="j">New York Times</title> article of August 16, 1908 reported with mock seriousness as <q>the <q>Salome</q> Club</q>: <q>President, Gertrude Hoffmann; Vice President, La Sylphe; Treasurer, Lotta Faust; Secretary, Eva Tanguay</q>
+                                            <title level="m">Maud</title> 69</bibl>.</note> These Salomes are aligned with the putatively <q>higher</q> culture performers who played the roles of Salome in Strauss’s opera, represented here by <persName key="Fremstad, Olive, 1871-1951" ref="http://viaf.org/viaf/71594078" ana="webannotation:http://temp.lincsproject.ca/IBRAeqLqaeW">Olive Fremstad</persName> (1871–1951) and Mary Garden (1874–1967). <ref target="#response_formal">Some of these women also comprise what the <title level="j">New York Times</title> article of August 16, 1908 reported with mock seriousness as <q>the <q>Salome</q> Club</q>: <q>President, Gertrude Hoffmann; Vice President, La Sylphe; Treasurer, Lotta Faust; Secretary, Eva Tanguay</q>
                                         <note place="inline">
                                             <bibl>
                                                 <title level="a">The Call of Salome</title>
@@ -28058,6 +28058,95 @@
         "type": "crm:E21_Person",
         "label": "Hoffmann, Gertrude",
         "description": "Hoffman, Gertrude 1885-1966"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/IBRAeqLqaeW">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/IBRAeqLqaeW",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T15:48:20.738Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/wDHA4WwBbQF",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/wDHA4WwBbQF/selector/textPosition/tlg8Y23Udq1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 17629,
+                "end": 17643,
+                "refinedBy": {
+                    "id": "/target/wDHA4WwBbQF/selector/textQuote/appPG2Z0vK4",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Olive Fremstad",
+                    "prefix": " These Salomes are aligned with the putatively higher culture performers who played the roles of Salome in Strauss’s opera, represented here by",
+                    "suffix": "(1871–1951) and Mary Garden (1874–1967)"
+                }
+            },
+            {
+                "id": "/target/wDHA4WwBbQF/selector/css/jDgSA7b0P5u",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/IBRAeqLqaeW]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/71594078",
+        "type": "crm:E21_Person",
+        "label": "Fremstad, Olive, 1871-1951",
+        "description": "Fremstad, Olive 1868-1951"
     },
     "P2_has_type": [
         "oa:identifying"
