@@ -1065,7 +1065,7 @@
                         </bibl>
                         <bibl><persName key="Kultermann, Udo" ref="http://viaf.org/viaf/109393649" ana="webannotation:http://temp.lincsproject.ca/9MT5vg6UeRj">Kultermann</persName>, <persName key="Kultermann, Udo" ref="http://viaf.org/viaf/109393649" ana="webannotation:http://temp.lincsproject.ca/dKYtc7BhKHK">Udo</persName>. <title level="a">The <q>Dance of the Seven Veils</q>: Salome and Erotic Culture around 1900</title>. <title level="j">Artibus et Historise</title> 27.53 (2006): 187–215.</bibl>
                         <bibl>
-                            <title level="a"><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/fDwY9nnwelp">Maud Allan</persName></title>. <title level="m">Wikipedia</title>. 8 April 2011. <ref target="http://en.wikipedia.org/wiki/Maud_Allan">http://en.wikipedia.org/wiki/Maud_Allan</ref>
+                            <title level="a"><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/fDwY9nnwelp">Maud Allan</persName></title>. <title level="m"><orgName key="Wikipédia" ref="http://viaf.org/viaf/220417855" ana="webannotation:http://temp.lincsproject.ca/PoO5bTWXBkf">Wikipedia</orgName></title>. 8 April 2011. <ref target="http://en.wikipedia.org/wiki/Maud_Allan">http://en.wikipedia.org/wiki/Maud_Allan</ref>
                         </bibl>
                         <bibl>
                             <title level="a">Maud Allan Costume Restoration</title>. <title level="j">Dance Collection Danse: The Magazine</title> 44 (1997): 7. <ref target="http://www.dcd.ca/general/Resources/44DCDTheMagazine.pdf">http://www.dcd.ca/general/Resources/44DCDTheMagazine.pdf</ref>
@@ -27168,6 +27168,95 @@
         "type": "crm:E21_Person",
         "label": "Allan, Maud",
         "description": "Allan, Maud, 1873-1956"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/PoO5bTWXBkf">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/PoO5bTWXBkf",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T14:50:08.987Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/u924QdMm80d",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/u924QdMm80d/selector/textPosition/WkbVKMQqIrM",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 69082,
+                "end": 69091,
+                "refinedBy": {
+                    "id": "/target/u924QdMm80d/selector/textQuote/MVcHj0Pwxsg",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Wikipedia",
+                    "prefix": "",
+                    "suffix": " 8 April 2011"
+                }
+            },
+            {
+                "id": "/target/u924QdMm80d/selector/css/srjO47p1dkL",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/PoO5bTWXBkf]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/220417855",
+        "type": "crm:E74_Group",
+        "label": "Wikipédia",
+        "description": "Wikipedie (projekt)"
     },
     "P2_has_type": [
         "oa:identifying"
