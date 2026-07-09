@@ -931,7 +931,7 @@
                                     <ref target="#gender_issue">
                                         <ref target="#spatiality">
                                             <ref target="#theory">On the one hand, the postcards function as representations of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/JRawbd6sAFb">Allan</persName>’s own mobility, their travels replicating hers and providing a visual record of the movement of white women such as <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/74FWZ5j7LwD">Allan</persName> across national boundaries or, at any rate, out of the home or domestic space, into public, and, perversely, back again into the home, but with a different value or <q>insidious effect.</q>
-                                            </ref> They do work that is in some ways similar to what Galit Hasan-Rokem has described as <q>mark[ing] routes of traveling and migration</q>
+                                            </ref> They do work that is in some ways similar to what <persName key="Hasan-Rokem, Galit." ref="http://viaf.org/viaf/34451599" ana="webannotation:http://temp.lincsproject.ca/1fg7kAKqNSd">Galit Hasan-Rokem</persName> has described as <q>mark[ing] routes of traveling and migration</q>
                                             <note place="inline">
                                                 <bibl>510</bibl>
                                             </note> while also reproducing the travel itself. <ref target="#nationality">Hasan-Rokem frames these operations in her discussion of the figure of <q>the wandering Jew</q> and late nineteenth-century mobility with the doubled figure of what she terms <q>Jews as Postcards, or Postcards as Jews</q>
@@ -28947,6 +28947,95 @@
         "type": "crm:E21_Person",
         "label": "Holt, Tonie",
         "description": "Holt, Tonie, 1932-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/1fg7kAKqNSd">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/1fg7kAKqNSd",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T15:42:36.812Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/JezR4uyO65N",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/JezR4uyO65N/selector/textPosition/RfpI8nXwm24",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 54135,
+                "end": 54152,
+                "refinedBy": {
+                    "id": "/target/JezR4uyO65N/selector/textQuote/tCh5wb5Wity",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Galit Hasan-Rokem",
+                    "prefix": "\n                                             They do work that is in some ways similar to what",
+                    "suffix": "has described as mark[ing] routes of traveling and migration\n                                            \n                                                510\n                                             while also reproducing the travel itself"
+                }
+            },
+            {
+                "id": "/target/JezR4uyO65N/selector/css/eFEXG3pv0zu",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/1fg7kAKqNSd]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/34451599",
+        "type": "crm:E21_Person",
+        "label": "Hasan-Rokem, Galit.",
+        "description": "Hasan-Rokem, Galit, 1945-"
     },
     "P2_has_type": [
         "oa:identifying"
