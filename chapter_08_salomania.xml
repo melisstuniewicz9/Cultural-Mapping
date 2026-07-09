@@ -542,7 +542,7 @@
                                         <q>Salomania</q> was a term used in the wake of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/Dz7ImFvvyXC">Maud Allan’s</persName> spectacular success in 1908 to describe the <q>craze</q> for <q>the sensational dance</q> that one writer in the <title level="j">New York Times</title> suggested <q>flowed over <placeName key="Europe" ref="https://sws.geonames.org/6255148" ana="webannotation:http://temp.lincsproject.ca/h6FO8WFdONg">the Continent of Europe</placeName> [and] is in process of covering our Anglo-Saxon lands</q>
                                     </ref>
                                     <note place="inline">
-                                        <bibl>Pollard</bibl>
+                                        <bibl><persName key="Pollard, Percival, 1869-1911" ref="http://viaf.org/viaf/51494151" ana="webannotation:http://temp.lincsproject.ca/VM3jUs67lG9">Pollard</persName></bibl>
                                     </note>
                                 </ref>. <ref target="#history">
                                     <ref target="#health_issue">In this and other articles in the <title level="j">New York Times</title> in the summer of 1908, Salomania identified a condition characterized by the proliferation of the image of Salome in cultural representation and by the repeated performance of Salome by women in theatres and music halls.</ref> An article in the <title level="j">New York Times</title> on August 16, 1908 ironically addressed <q>Rumours that Salomania Will Have a Free Hand This Season.</q>
@@ -27346,6 +27346,95 @@
         "label": "Strauss, Richard, 1864-1949",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/VM3jUs67lG9">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/VM3jUs67lG9",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T15:52:25.809Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/w8jfm7SDIeI",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/w8jfm7SDIeI/selector/textPosition/gFnMHl5duCL",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 13835,
+                "end": 13842,
+                "refinedBy": {
+                    "id": "/target/w8jfm7SDIeI/selector/textQuote/RzFTjyTZgGz",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Pollard",
+                    "prefix": "\n                                    \n                                \n                            \n                        \n                    \n                \n                \n                    \n                        Salomania\n                    \n                    \n                        \n                            \n                                \n                                    \n                                        Salomania was a term used in the wake of Maud Allan’s spectacular success in 1908 to describe the craze for the sensational dance that one writer in the New York Times suggested flowed over the Continent of Europe [and] is in process of covering our Anglo-Saxon lands\n                                    \n                                    \n                                       ",
+                    "suffix": "                                    \n                                "
+                }
+            },
+            {
+                "id": "/target/w8jfm7SDIeI/selector/css/ETeUVsKkCTl",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/VM3jUs67lG9]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/51494151",
+        "type": "crm:E21_Person",
+        "label": "Pollard, Percival, 1869-1911",
+        "description": "Percival Pollard Amerikaans romanschrijver (1869-1911)"
     },
     "P2_has_type": [
         "oa:identifying"
