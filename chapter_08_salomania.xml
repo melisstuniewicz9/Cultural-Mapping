@@ -757,7 +757,7 @@
                         <ref target="#history">
                             <ref target="#non-book_media">
                                 <ref target="#technology">
-                                    <ref target="#spatiality">During the first decade of the twentieth century, when <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/FGJfcy0fhxw">Allan</persName> was touring <placeName key="Europe" ref="https://sws.geonames.org/6255148" ana="webannotation:http://temp.lincsproject.ca/EmJPSVd4KOn">Europe</placeName> and performing in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/wDDM5GAwXnv">London</placeName>, images of her in her Salome costume were reproduced on numerous postcards.</ref> These cards, manufactured and sold in many countries, and preceding the kinds of controls that would help put the protection of the images in the hands of the artist and/or her managers, are probably too numerous to count. In fact, they are arguably significant in terms of their proliferation rather than their precise numbers, and of their similarities rather than their differences. Even now, postcards remain the dominant record of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/V9OIIceeDty">Allan</persName>’s performance. A Google image search <note place="inline">
+                                    <ref target="#spatiality">During the first decade of the twentieth century, when <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/FGJfcy0fhxw">Allan</persName> was touring <placeName key="Europe" ref="https://sws.geonames.org/6255148" ana="webannotation:http://temp.lincsproject.ca/EmJPSVd4KOn">Europe</placeName> and performing in <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/wDDM5GAwXnv">London</placeName>, images of her in her Salome costume were reproduced on numerous postcards.</ref> These cards, manufactured and sold in many countries, and preceding the kinds of controls that would help put the protection of the images in the hands of the artist and/or her managers, are probably too numerous to count. In fact, they are arguably significant in terms of their proliferation rather than their precise numbers, and of their similarities rather than their differences. Even now, postcards remain the dominant record of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/V9OIIceeDty">Allan</persName>’s performance. A <orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/whEaSNce5if">Google</orgName> image search <note place="inline">
                                         <bibl>April 3, 2012</bibl>
                                     </note> using the term <q><persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/TjSYgh85nj6">Maud Allan</persName></q> yields <q>about 347,000 results.</q> Of the first twenty-five images, twenty are certainly postcards; two are possibly postcards; one is a sketch; one is an image of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/cfcQraaxYWS">Allan</persName>’s Salome costume worn by a contemporary model; and one is a postcard of <persName key="Wilde, Oscar, 1854-1900." ref="http://viaf.org/viaf/34464414" ana="webannotation:http://temp.lincsproject.ca/CbLxUueAae1">Wilde</persName>. Of the twenty postcards with the image of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/3E80BVfVZx0">Allan</persName>, seventeen are Salome postcards. A  search <note place="inline">
                                         <bibl>April 3, 2012</bibl>
@@ -30104,6 +30104,95 @@
         "type": "crm:E53_Place",
         "label": "New York City",
         "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/whEaSNce5if">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/whEaSNce5if",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T16:17:20.230Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/RnIzi1oqTZc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/RnIzi1oqTZc/selector/textPosition/UzxBcbI7QVw",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 34035,
+                "end": 34041,
+                "refinedBy": {
+                    "id": "/target/RnIzi1oqTZc/selector/textQuote/tBGPBYOfxoi",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": " A",
+                    "suffix": "image search \n                                        April 3, 2012\n                                     using the term Maud Allan yields about 347,000 results"
+                }
+            },
+            {
+                "id": "/target/RnIzi1oqTZc/selector/css/crtmVDfmJz5",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/whEaSNce5if]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
     },
     "P2_has_type": [
         "oa:identifying"
