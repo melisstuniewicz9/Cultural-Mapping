@@ -966,7 +966,7 @@
                                         <note place="inline">
                                             <bibl>95</bibl>
                                         </note> and, importantly, for the corporeal presence of the figure represented on the card itself. The calling card, in these terms, conveys a message akin to <q>I am here.</q>
-                                    </ref> It is also the case, however, that the postcard always references and represents what is absent—both the sender and the object. They <q>take the place of one’s self</q> when the self is not actually there. They are, as image, absent (marking, as Nancy suggests, <q>the absence of the thing</q>
+                                    </ref> It is also the case, however, that the postcard always references and represents what is absent—both the sender and the object. They <q>take the place of one’s self</q> when the self is not actually there. They are, as image, absent (marking, as <persName key="Nancy, Jean-Luc, 1940-2021" ref="http://viaf.org/viaf/103617048" ana="webannotation:http://temp.lincsproject.ca/tRzBdKGBYqU">Nancy</persName> suggests, <q>the absence of the thing</q>
                                     <note place="inline">
                                         <bibl>37</bibl>
                                     </note>; thus, they function as a space to be filled in by the woman looking at the image and seeing herself through its imitation or replication on her own. In this way postcards’ <q>double logic</q> is doubled again, and the card, with its message that may say something like the classic <q>Wish you were here,</q> counters the image that says, in effect, <q>You are here.</q> At least, this is what it might be understood to say to women and girls bringing the image of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/q7CtNpxOAlk">Allan</persName> as Salome home and <q>matching</q> it in the <q>privacy of their abodes</q>
@@ -31794,6 +31794,95 @@
         "type": "crm:E21_Person",
         "label": "Hasan-Rokem, Galit.",
         "description": "Hasan-Rokem, Galit, 1945-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/tRzBdKGBYqU">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/tRzBdKGBYqU",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T16:11:21.872Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/av7ZmmVNWUj",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/av7ZmmVNWUj/selector/textPosition/07xRCZA6Wzu",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 58098,
+                "end": 58103,
+                "refinedBy": {
+                    "id": "/target/av7ZmmVNWUj/selector/textQuote/CTHQCjThN08",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Nancy",
+                    "prefix": " They are, as image, absent (marking, as",
+                    "suffix": "suggests, the absence of the thing\n                                    \n                                        37\n                                    ; thus, they function as a space to be filled in by the woman looking at the image and seeing herself through its imitation or replication on her own"
+                }
+            },
+            {
+                "id": "/target/av7ZmmVNWUj/selector/css/9Kn7DnqmK1p",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/tRzBdKGBYqU]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/103617048",
+        "type": "crm:E21_Person",
+        "label": "Nancy, Jean-Luc, 1940-2021",
+        "description": "Nancy, Jean-Luc"
     },
     "P2_has_type": [
         "oa:identifying"
