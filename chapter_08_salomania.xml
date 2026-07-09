@@ -942,7 +942,7 @@
                                         </note>
                                     </ref>. <ref target="#genre_performance">
                                         <ref target="#representation_of_women">
-                                            <ref target="#economics">On the other hand, the postcards of <title level="a">The Vision of Salome</title> also function, like all postcards, as commodities, representing metonymically what is exchanged in the erotic performance. In this work, they operate to mobilize the image and to monetize it. They are things to buy that are also representing something that makes people want to purchase them for circulation. One Salome postcard in the <abbr>DCD</abbr> <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/9XfDnhrz5eJ">Maud Allan</persName> collection, postmarked December 1908, makes this point evident in its referencing on the back the image on the front. <q>How’s this of Maudie?</q> the sender asks. <persName key="Walkowitz, Judith R." ref="http://viaf.org/viaf/4999958" ana="webannotation:http://temp.lincsproject.ca/fD6RcPPP3Hv">Walkowitz</persName> cites a postcard in the San Francisco Performing Arts Library that emphasizes not only the value of the circulating image as spectacle but specifically the collector’s interest in images of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/2JApWseg2nJ">Allan</persName>: the sender writes of the photograph of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/nZmqvYZmsAy">Allan</persName> in her <q>Chopin’s Funeral March</q> costume, <q>Hope you haven’t got this p.c. Are you still gone on this person?</q>
+                                            <ref target="#economics">On the other hand, the postcards of <title level="a">The Vision of Salome</title> also function, like all postcards, as commodities, representing metonymically what is exchanged in the erotic performance. In this work, they operate to mobilize the image and to monetize it. They are things to buy that are also representing something that makes people want to purchase them for circulation. One Salome postcard in the <abbr>DCD</abbr> <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/9XfDnhrz5eJ">Maud Allan</persName> collection, postmarked December 1908, makes this point evident in its referencing on the back the image on the front. <q>How’s this of Maudie?</q> the sender asks. <persName key="Walkowitz, Judith R." ref="http://viaf.org/viaf/4999958" ana="webannotation:http://temp.lincsproject.ca/fD6RcPPP3Hv">Walkowitz</persName> cites a postcard in <orgName key="Museum of Performance + Design" ref="https://www.wikidata.org/wiki/Q14683453" ana="webannotation:http://temp.lincsproject.ca/bBdhdkgCtBh">the San Francisco Performing Arts Library</orgName> that emphasizes not only the value of the circulating image as spectacle but specifically the collector’s interest in images of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/2JApWseg2nJ">Allan</persName>: the sender writes of the photograph of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/nZmqvYZmsAy">Allan</persName> in her <q>Chopin’s Funeral March</q> costume, <q>Hope you haven’t got this p.c. Are you still gone on this person?</q>
                                                 <note place="inline">
                                                     <bibl>362n94</bibl>
                                                 </note>. <persName key="Walkowitz, Judith R." ref="http://viaf.org/viaf/4999958" ana="webannotation:http://temp.lincsproject.ca/6vTuOHOhFuk">Walkowitz</persName> draws attention to <q>schoolgirls who exchanged picture postcards of [<persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/lDNhVimeg7V">Allan</persName>] and wrote of their <q>crush</q>
@@ -28144,6 +28144,95 @@
     "body": {
         "id": "https://www.wikidata.org/wiki/Q112043190",
         "label": "San Francisco Performing Arts Library and Museum",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/bBdhdkgCtBh">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/bBdhdkgCtBh",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-09T15:43:59.608Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/NY4h7OUcRUA",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/NY4h7OUcRUA/selector/textPosition/5d9V4qHUkR7",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 55541,
+                "end": 55582,
+                "refinedBy": {
+                    "id": "/target/NY4h7OUcRUA/selector/textQuote/3a85kWWuoUt",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the San Francisco Performing Arts Library",
+                    "prefix": " Walkowitz cites a postcard in",
+                    "suffix": "that emphasizes not only the value of the circulating image as spectacle but specifically the collector’s interest in images of Allan: the sender writes of the photograph of Allan in her Chopin’s Funeral March costume, Hope you haven’t got this p"
+                }
+            },
+            {
+                "id": "/target/NY4h7OUcRUA/selector/css/CkQkPk41dHG",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/bBdhdkgCtBh]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q14683453",
+        "label": "Museum of Performance + Design",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
     },
