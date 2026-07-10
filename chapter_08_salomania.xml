@@ -684,7 +684,7 @@
                                                 <title level="a">The Salome Pestilence</title>
                                             </bibl>
                                         </note>; see also <note place="inline">
-                                            <bibl><persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/vAkRV9RmjO5">Cherniavsky</persName>, <title level="m">Maud</title> 70</bibl>
+                                            <bibl><persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/vAkRV9RmjO5">Cherniavsky</persName>, <title level="m"><orgName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/gPlW7Ap2QAF">Maud</orgName></title> 70</bibl>
                                         </note>.</ref>
                                 </ref>
                                 <ref target="#genre_performance">
@@ -29838,6 +29838,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/mp7Isi0h78B]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/79409973",
+        "type": "crm:E21_Person",
+        "label": "Allan, Maud",
+        "description": "Allan, Maud, 1873-1956"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/gPlW7Ap2QAF">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/gPlW7Ap2QAF",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-10T15:52:44.251Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/fDLFfPKBRD5",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/fDLFfPKBRD5/selector/textPosition/wuEquKybx2b",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 25948,
+                "end": 25952,
+                "refinedBy": {
+                    "id": "/target/fDLFfPKBRD5/selector/textQuote/HLXIffrCDVp",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Maud",
+                    "prefix": " \n                                            Veteran Diplomat\n                                        \n                                    \n                                \n                            \n                        \n                    \n                    \n                        \n                            \n                                \n                                    Like the earlier editorial of August 3, this piece, headlined Salome in English Homes, uses a vocabulary of contagion and voices explicit concern that the spectacular, theatrical Salome has invaded our homes\n                                        \n                                            \n                                                The Salome Pestilence\n                                            \n                                        ; see also \n                                            Cherniavsky,",
+                    "suffix": "70\n                                        "
+                }
+            },
+            {
+                "id": "/target/fDLFfPKBRD5/selector/css/Gp3rW1NaVUT",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/gPlW7Ap2QAF]"
             }
         ]
     },
