@@ -507,7 +507,7 @@
                                             <bibl><persName key="Tydeman, William." ref="http://viaf.org/viaf/64035658" ana="webannotation:http://temp.lincsproject.ca/1gavEYRkqWR">Tydeman</persName> and <persName key="Price, Steven, 1976-...." ref="http://viaf.org/viaf/61303484" ana="webannotation:http://temp.lincsproject.ca/H67aUcG12Zv">Price</persName> 144</bibl>
                                         </note>. Denied that opportunity, <persName key="Bentley, Toni" ref="http://viaf.org/viaf/79122827" ana="webannotation:http://temp.lincsproject.ca/Kn6Y2ajimHC">Toni Bentley</persName> suggests she nonetheless added the dance to her repertoire.<note xml:id="n80" place="end">Mata Hari, <persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/E39v2LiSerS">Cherniavsky</persName> points out, was also appearing in <placeName key="Vienna" ref="https://sws.geonames.org/2761369" ana="webannotation:http://temp.lincsproject.ca/vSta12nwNZ9">Vienna</placeName> at the time of <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/T9uFsrXXfUI">Allan</persName>’s first public performance of <title level="a">The Vision of Salome</title>
                                             <bibl>
-                                                <title level="m">Salome</title> 143</bibl>.</note> Meanwhile, as <persName key="McDearmon, Lacy Harrison, 1932-" ref="http://viaf.org/viaf/28836739" ana="webannotation:http://temp.lincsproject.ca/PiIYndXVdIT">Lacy McDearmon</persName> notes, Fuller developed a second Salome dance in 1907, <q>a much more elaborate version, with a specially commissioned score by <persName key="Schmitt, Florent, 1870-1958." ref="http://viaf.org/viaf/12492803" ana="webannotation:http://temp.lincsproject.ca/jeiGT2tXbuW">Florent Schmitt</persName>, <hi xml:lang="fr-CA">La Tragédie de Salomé</hi>, to a scenario by Robert d’Humières</q>
+                                                <title level="m">Salome</title> 143</bibl>.</note> Meanwhile, as <persName key="McDearmon, Lacy Harrison, 1932-" ref="http://viaf.org/viaf/28836739" ana="webannotation:http://temp.lincsproject.ca/PiIYndXVdIT">Lacy McDearmon</persName> notes, <persName key="Fuller, Loïe 1862-1928" ref="http://viaf.org/viaf/2563149108446268780004" ana="webannotation:http://temp.lincsproject.ca/TEmkA8I2YnM">Fuller</persName> developed a second Salome dance in 1907, <q>a much more elaborate version, with a specially commissioned score by <persName key="Schmitt, Florent, 1870-1958." ref="http://viaf.org/viaf/12492803" ana="webannotation:http://temp.lincsproject.ca/jeiGT2tXbuW">Florent Schmitt</persName>, <hi xml:lang="fr-CA">La Tragédie de Salomé</hi>, to a scenario by Robert d’Humières</q>
                                         <note place="inline">
                                             <bibl>88</bibl>
                                         </note>; see also <note place="inline">
@@ -30016,6 +30016,95 @@
         "type": "crm:E21_Person",
         "label": "Strauss, Richard, 1864-1949.",
         "description": "Strauss, Richard"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/TEmkA8I2YnM">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/TEmkA8I2YnM",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-10T15:27:19.417Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/AiI2LPjJEb3",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/AiI2LPjJEb3/selector/textPosition/3iqK9dZ3RAc",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 11258,
+                "end": 11264,
+                "refinedBy": {
+                    "id": "/target/AiI2LPjJEb3/selector/textQuote/SaIh3xtEMw8",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Fuller",
+                    "prefix": " Meanwhile, as Lacy McDearmon notes,",
+                    "suffix": "developed a second Salome dance in 1907, a much more elaborate version, with a specially commissioned score by Florent Schmitt, La Tragédie de Salomé, to a scenario by Robert d’Humières\n                                        \n                                            88\n                                        ; see also \n                                            Tydeman and Price 138–39\n                                        "
+                }
+            },
+            {
+                "id": "/target/AiI2LPjJEb3/selector/css/7jMtwUNAJrB",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/TEmkA8I2YnM]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/2563149108446268780004",
+        "type": "crm:E21_Person",
+        "label": "Fuller, Loïe 1862-1928",
+        "description": "Fuller, Loïe"
     },
     "P2_has_type": [
         "oa:identifying"
