@@ -647,7 +647,7 @@
                                     <ref target="#authority">
                                         <ref target="#theme_or_topic">
                                             <ref target="#response_formal">
-                                                <ref target="#spatiality">Salomania was likewise represented as a <q>corrupting</q> agent. The real danger of the <q>outbreaks</q> of Salomania in New York theatres, as these articles all suggest, was its potential infection of white and Anglo-Saxon femininity at home. </ref>
+                                                <ref target="#spatiality">Salomania was likewise represented as a <q>corrupting</q> agent. The real danger of the <q>outbreaks</q> of Salomania in <placeName key="New York City" ref="https://sws.geonames.org/5128581" ana="webannotation:http://temp.lincsproject.ca/8GZ8pTbbeLt">New York</placeName> theatres, as these articles all suggest, was its potential infection of white and Anglo-Saxon femininity at home. </ref>
                                                 <ref target="#genre_journalism"><persName key="Bentley, Toni" ref="http://viaf.org/viaf/79122827" ana="webannotation:http://temp.lincsproject.ca/gFsCpUo0VOz">Toni Bentley</persName> draws attention to a <q>lengthy piece</q> that appeared in the <title level="j">New York Times Sunday Magazine</title> in 1908 issuing a <q>warning about the current threat</q>
                                                     <note place="inline">
                                                         <bibl>Bentley 68</bibl>
@@ -666,7 +666,7 @@
                         <ref target="#genre_journalism">
                             <ref target="#response_formal">
                                 <ref target="#genre_performance">
-                                    <ref target="#spatiality">it is probable that Salome dances will invade the fashionable drawing rooms of New York during the coming Winter, as they have of the London Great World during the season which has just come to an end….From the presentation of the Salome dance in English homes, and the lionization of the performer as an honored and gushed-over guest, to the appearance of some of these feminine enthusiasts of rank and lineage in the same role, is but a step. <note place="inline">
+                                    <ref target="#spatiality">it is probable that Salome dances will invade the fashionable drawing rooms of <placeName key="New York City" ref="https://sws.geonames.org/5128581" ana="webannotation:http://temp.lincsproject.ca/hzQdV0Laf4A">New York</placeName> during the coming Winter, as they have of the London Great World during the season which has just come to an end….From the presentation of the Salome dance in English homes, and the lionization of the performer as an honored and gushed-over guest, to the appearance of some of these feminine enthusiasts of rank and lineage in the same role, is but a step. <note place="inline">
                                             <bibl>Veteran Diplomat</bibl>
                                         </note>
                                     </ref>
@@ -1038,7 +1038,7 @@
                     <head>Works Cited</head>
                     <listBibl>
                         <head>Archival Sources</head>
-                        <bibl>Allan, Maud. <title level="a">Maud Allan Clippings</title>. New York Public Library for the Performing Arts, New York.</bibl>
+                        <bibl>Allan, Maud. <title level="a">Maud Allan Clippings</title>. New York Public Library for the Performing Arts, <placeName key="New York City" ref="https://sws.geonames.org/5128581" ana="webannotation:http://temp.lincsproject.ca/irXavgDzzAX">New York</placeName>.</bibl>
                         <bibl>. <title level="a">Maud Allan Collection</title>. Dance Collection Danse Archives, <placeName key="Toronto" ref="https://sws.geonames.org/8133394/" ana="webannotation:http://temp.lincsproject.ca/TT88PjR7LUN">Toronto</placeName>.</bibl>
                         <bibl>. <title level="a">Maud Allan Collection</title>. <orgName key="Museum of Performance + Design" ref="http://www.wikidata.org/entity/Q14683453" ana="webannotation:http://temp.lincsproject.ca/rUVPOX0DlgL">Museum of Performance and Design</orgName>, <placeName key="San Francisco" ref="https://sws.geonames.org/7174368     " ana="webannotation:http://temp.lincsproject.ca/VnYjVyLBCll">San Francisco</placeName>.</bibl>
                         <bibl>. <title level="a">Maud Allan Papers. Collection 2038</title>. Department of Special Collections, <orgName key="Charles E. Young Research Library" ref="http://viaf.org/viaf/158543203" ana="webannotation:http://temp.lincsproject.ca/YVc8dyuzlLk">Charles E. Young Research Library</orgName>, <orgName key="University of California, Los Angeles" ref="http://viaf.org/viaf/122477083" ana="webannotation:http://temp.lincsproject.ca/3XJnz1ho9FO">University of California</orgName>, <placeName key="Los Angeles, U.S.A" ref="https://sws.geonames.org/5368361/" ana="webannotation:http://temp.lincsproject.ca/8MBoKpPucDg">Los Angeles</placeName>.</bibl>
@@ -31172,6 +31172,273 @@
         "label": "New Amsterdam Theatre",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/8GZ8pTbbeLt">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/8GZ8pTbbeLt",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-10T14:45:53.363Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Xg2u2lpEUNF",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Xg2u2lpEUNF/selector/textPosition/w07V2s1LwRD",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 23350,
+                "end": 23358,
+                "refinedBy": {
+                    "id": "/target/Xg2u2lpEUNF/selector/textQuote/tsyMXatCp8g",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "New York",
+                    "prefix": " The real danger of the outbreaks of Salomania in",
+                    "suffix": "theatres, as these articles all suggest, was its potential infection of white and Anglo-Saxon femininity at home"
+                }
+            },
+            {
+                "id": "/target/Xg2u2lpEUNF/selector/css/NoHCU9whZE9",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/8GZ8pTbbeLt]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/5128581",
+        "type": "crm:E53_Place",
+        "label": "New York City",
+        "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/hzQdV0Laf4A">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/hzQdV0Laf4A",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-10T14:45:53.489Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/vIgY2QibQv9",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/vIgY2QibQv9/selector/textPosition/HC27jLnrWee",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 24672,
+                "end": 24680,
+                "refinedBy": {
+                    "id": "/target/vIgY2QibQv9/selector/textQuote/zbCdoenZs7e",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "New York",
+                    "prefix": " At the present rate, the article suggests,\n                                            \n                                        \n                                    \n                                \n                            \n                        \n                    \n                    \n                        \n                            \n                                \n                                    it is probable that Salome dances will invade the fashionable drawing rooms of",
+                    "suffix": "during the coming Winter, as they have of the London Great World during the season which has just come to an end…"
+                }
+            },
+            {
+                "id": "/target/vIgY2QibQv9/selector/css/rJRPq2cKKC0",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/hzQdV0Laf4A]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/5128581",
+        "type": "crm:E53_Place",
+        "label": "New York City",
+        "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/irXavgDzzAX">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/irXavgDzzAX",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-10T14:45:53.572Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/RbT1qWwluej",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/RbT1qWwluej/selector/textPosition/VCJIzNQj3TX",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 66191,
+                "end": 66199,
+                "refinedBy": {
+                    "id": "/target/RbT1qWwluej/selector/textQuote/IE1DU6l8HSg",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "New York",
+                    "prefix": " New York Public Library for the Performing Arts,",
+                    "suffix": "\n                        "
+                }
+            },
+            {
+                "id": "/target/RbT1qWwluej/selector/css/OaqjxKPoYwd",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/irXavgDzzAX]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/5128581",
+        "type": "crm:E53_Place",
+        "label": "New York City",
+        "description": ""
     },
     "P2_has_type": [
         "oa:identifying"
