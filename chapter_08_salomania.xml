@@ -498,7 +498,7 @@
                                                 <bibl>5–6</bibl>
                                             </note>, preceding <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/Wj5MKyI0OK2">Allan</persName> as well as the women who played the part in the first European performances of <persName key="Wilde, Oscar, 1854-1900." ref="http://viaf.org/viaf/34464414" ana="webannotation:http://temp.lincsproject.ca/eTlfA4cXVAi">Wilde</persName>’s <title level="m">Salome</title> from 1896.<note xml:id="n79" place="end">Tydeman and <persName key="Price, Steven, 1976-...." ref="http://viaf.org/viaf/61303484" ana="webannotation:http://temp.lincsproject.ca/T2xTqPjLAAT">Price</persName> indicate that <q>the first performance of <persName key="Wilde, Oscar, 1854-1900." ref="http://viaf.org/viaf/34464414" ana="webannotation:http://temp.lincsproject.ca/TDFxRwxwCSV">Wilde</persName>’s <title level="m">Salome</title> was staged by <orgName key="Théâtre de l'Œuvre" ref="https://www.wikidata.org/wiki/Q2292251" ana="webannotation:http://temp.lincsproject.ca/7kyd7M48abL">the Théâtre de l’Oeuvre in Paris</orgName> on 11 February 1896</q>
                                                 <bibl>25</bibl>. <persName key="Munte, Lina 18..-1909" ref="http://viaf.org/viaf/32257479" ana="webannotation:http://temp.lincsproject.ca/Ci196E892bu">Lina Munte</persName> played the title role. It was not <q>performed again until 15 November 1902 at <orgName key="Kleines Theater" ref="https://www.wikidata.org/wiki/Q69773981" ana="webannotation:http://temp.lincsproject.ca/wS3f9w260A9">the Kleines Theater</orgName>, <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/9yisEB16zl0">Berlin</placeName>…in a production directed by <persName key="Kayssler, Friedrich, 1874-1945" ref="http://viaf.org/viaf/27866276" ana="webannotation:http://temp.lincsproject.ca/KaryNPULnpz">Friedrich Kayssler</persName> and Hans Oberländer under the supervision of the twenty-nine-year-old <persName key="Reinhardt, Max, 1873-1943." ref="http://viaf.org/viaf/54194383" ana="webannotation:http://temp.lincsproject.ca/n7MRrabBzC8">Max Reinhardt</persName></q>
-                                                <bibl><persName key="Tydeman, William." ref="http://viaf.org/viaf/64035658" ana="webannotation:http://temp.lincsproject.ca/HSeTyO4s2WI">Tydeman</persName> and <persName key="Price, Steven, 1976-...." ref="http://viaf.org/viaf/61303484" ana="webannotation:http://temp.lincsproject.ca/QND9WxRhKWY">Price</persName> 31</bibl>. <bibl>Hutcheon and Hutcheon</bibl> suggest the <q>German version premiered in 1901 in Breslau</q>
+                                                <bibl><persName key="Tydeman, William." ref="http://viaf.org/viaf/64035658" ana="webannotation:http://temp.lincsproject.ca/HSeTyO4s2WI">Tydeman</persName> and <persName key="Price, Steven, 1976-...." ref="http://viaf.org/viaf/61303484" ana="webannotation:http://temp.lincsproject.ca/QND9WxRhKWY">Price</persName> 31</bibl>. <bibl><persName key="Hutcheon, Linda, 1947-...." ref="http://viaf.org/viaf/101807260" ana="webannotation:http://temp.lincsproject.ca/UNUDYfWJyO5">Hutcheon</persName> and Hutcheon</bibl> suggest the <q>German version premiered in 1901 in Breslau</q>
                                                 <bibl>205</bibl>.) <persName key="Cherniavsky, Felix" ref="http://viaf.org/viaf/36104713" ana="webannotation:http://temp.lincsproject.ca/mcqAag4pusb">Cherniavsky</persName> notes that both <persName key="Allan, Maud" ref="http://viaf.org/viaf/79409973" ana="webannotation:http://temp.lincsproject.ca/0H2C478Fj8m">Maud Allan</persName> and Marcel Rémy, who composed the music for <title level="a">The Vision of Salome,</title>
                                                 <q>saw this <persName key="Reinhardt, Max, 1873-1943." ref="http://viaf.org/viaf/54194383" ana="webannotation:http://temp.lincsproject.ca/7SENd5NpHc6">Reinhardt</persName> production in <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/O4s9wPeXw5z">Berlin</placeName></q>
                                                 <bibl>
@@ -29571,6 +29571,95 @@
         "type": "crm:E21_Person",
         "label": "Reinhardt, Max, 1873-1943.",
         "description": "Reinhardt, Max"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/UNUDYfWJyO5">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/UNUDYfWJyO5",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-10T15:23:52.913Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/pAz753Nttcw",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/pAz753Nttcw/selector/textPosition/Ro6ptPI3n1J",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9751,
+                "end": 9759,
+                "refinedBy": {
+                    "id": "/target/pAz753Nttcw/selector/textQuote/8ewLnIlGfb2",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Hutcheon",
+                    "prefix": "",
+                    "suffix": "and Hutcheon suggest the German version premiered in 1901 in Breslau\n                                                205"
+                }
+            },
+            {
+                "id": "/target/pAz753Nttcw/selector/css/s5jjgFJ5vBg",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/UNUDYfWJyO5]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/101807260",
+        "type": "crm:E21_Person",
+        "label": "Hutcheon, Linda, 1947-....",
+        "description": "Hutcheon, Linda"
     },
     "P2_has_type": [
         "oa:identifying"
