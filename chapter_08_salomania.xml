@@ -835,7 +835,7 @@
                     <head>Postcards and the Circulation of White Femininity</head>
                     <p xml:id="p1330">
                         <ref target="#non-book_media">
-                            <ref target="#history">Postcards, as Lisa Z. Sigel suggests, were not a brand new form of communication at the turn of the nineteenth century <note place="inline">
+                            <ref target="#history">Postcards, as <persName key="Sigel, Lisa Z., 1965-...." ref="http://viaf.org/viaf/2694830" ana="webannotation:http://temp.lincsproject.ca/eS2ThFiMzUI">Lisa Z. Sigel</persName> suggests, were not a brand new form of communication at the turn of the nineteenth century <note place="inline">
                                     <bibl>860–61</bibl>
                                 </note>, but they were quite new—about as new in communication at that moment, arguably, as email or texting is now. <ref target="#spatiality">
                                     <ref target="#theory">
@@ -33129,6 +33129,95 @@
         "type": "crm:E21_Person",
         "label": "Nancy, Jean-Luc, 1940-2021",
         "description": "Nancy, Jean-Luc"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/eS2ThFiMzUI">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/eS2ThFiMzUI",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-10T14:57:40.488Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/IJ23lXWMFas",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_08_salomania.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Salomania"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/IJ23lXWMFas/selector/textPosition/nD4IMxC6yai",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 43847,
+                "end": 43860,
+                "refinedBy": {
+                    "id": "/target/IJ23lXWMFas/selector/textQuote/E98c9PpBtFE",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Lisa Z. Sigel",
+                    "prefix": "\n                                \n                            \n                        \n                    \n                \n                \n                    Postcards and the Circulation of White Femininity\n                    \n                        \n                            Postcards, as",
+                    "suffix": "suggests, were not a brand new form of communication at the turn of the nineteenth century \n                                    860–61\n                                , but they were quite new—about as new in communication at that moment, arguably, as email or texting is now"
+                }
+            },
+            {
+                "id": "/target/IJ23lXWMFas/selector/css/k8sONIOSMWE",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/eS2ThFiMzUI]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/2694830",
+        "type": "crm:E21_Person",
+        "label": "Sigel, Lisa Z., 1965-....",
+        "description": "Sigel, Lisa Z."
     },
     "P2_has_type": [
         "oa:identifying"
