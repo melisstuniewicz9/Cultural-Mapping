@@ -669,7 +669,7 @@
                         <ref target="#voice_or_narration">
                             <ref target="#intertextuality">
                                 <ref target="#theme_or_topic">
-                                    <ref target="#spatiality">A train, a bus, another bus and I was at <placeName>Haworth</placeName>, the home of the Brontë sisters, loves of my life since <title level="m">Jane Eyre</title> at fourteen.</ref>
+                                    <ref target="#spatiality">A train, a bus, another bus and I was at <placeName>Haworth</placeName>, the home of the <persName key="Brontë sisters" ref="http://www.wikidata.org/entity/Q117802687" ana="webannotation:http://temp.lincsproject.ca/O2TkAOpvplb">Brontë</persName> sisters, loves of my life since <title level="m">Jane Eyre</title> at fourteen.</ref>
                                     <ref target="#genre_novel">Seven novels among them and all dead before they were forty.</ref>
                                 </ref>
                             </ref>
@@ -982,6 +982,95 @@
     "body": {
         "id": "http://www.wikidata.org/entity/Q117802687",
         "type": "crm:E74_Group",
+        "label": "Brontë sisters",
+        "description": "group 19th-century poets and novelists sisters"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/O2TkAOpvplb">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/O2TkAOpvplb",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-14T18:05:04.919Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/jHWt1diCE8o",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_11_languages_as_spaces_translation_as_play.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_11_languages_as_spaces_translation_as_play.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Languages as Spaces, Translation as Play"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/jHWt1diCE8o/selector/textPosition/L23eYnPVEkN",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 24935,
+                "end": 24941,
+                "refinedBy": {
+                    "id": "/target/jHWt1diCE8o/selector/textQuote/AaehCnfwgJ0",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Brontë",
+                    "prefix": "\n                    \n                \n                \n                    Interlude: A Side Trip to Haworth\n                    \n                        \n                            \n                                \n                                    A train, a bus, another bus and I was at Haworth, the home of the",
+                    "suffix": "sisters, loves of my life since Jane Eyre at fourteen"
+                }
+            },
+            {
+                "id": "/target/jHWt1diCE8o/selector/css/dMMbebnsp7X",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/O2TkAOpvplb]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q117802687",
+        "type": "crm:E21_Person",
         "label": "Brontë sisters",
         "description": "group 19th-century poets and novelists sisters"
     },
