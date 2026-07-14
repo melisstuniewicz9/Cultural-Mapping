@@ -420,7 +420,7 @@
                     <ref target="#authorship">
                         <ref target="#language">
                             <ref target="#translation">Women, space, place, play: the story of my life. My life is, my life in language and languages. Everything I have ever done comes down to this. <ref target="#theme_or_topic">This chapter—so different from what I usually do as an academic—is dedicated to my little sister, <persName>Cari</persName>, who died of breast cancer in May <date cert="high" when="2010">2010</date>. <ref target="#methodology">It has a prelude and five parts. The first speaks to my beginnings in language and in languages. I go on to deal with interpretation, translation, writing, and self-translation, all aspects of my being in language.</ref>
-                                </ref> There is also an interlude involving, of all things, the Brontë sisters, and a non-conclusion with two heads.</ref>
+                                </ref> There is also an interlude involving, of all things, the <persName key="Brontë sisters" ref="http://www.wikidata.org/entity/Q117802687" ana="webannotation:http://temp.lincsproject.ca/GwysJftsDuj">Brontë</persName> sisters, and a non-conclusion with two heads.</ref>
                             <ref target="#tone_or_style">This piece was originally an intimate and personal keynote address and, though it is not a transcription, I have chosen to retain some signs of the immediacy, of connection, as well as the trace of the voice behind the words that now take written form.</ref>
                         </ref>
                     </ref>
@@ -895,6 +895,95 @@
         "type": "crm:E21_Person",
         "label": "Saint-Martin, Lori, 1959-2022",
         "description": "Saint-Martin, Lori, 1959-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/GwysJftsDuj">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/GwysJftsDuj",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-14T17:19:10.806Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/RkbhNrlgsRo",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_11_languages_as_spaces_translation_as_play.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_11_languages_as_spaces_translation_as_play.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Languages as Spaces, Translation as Play"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/RkbhNrlgsRo/selector/textPosition/3vP2QyIPx2Z",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 916,
+                "end": 922,
+                "refinedBy": {
+                    "id": "/target/RkbhNrlgsRo/selector/textQuote/0ub2cM4a1JP",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Brontë",
+                    "prefix": "\n                                 There is also an interlude involving, of all things, the",
+                    "suffix": "sisters, and a non-conclusion with two heads"
+                }
+            },
+            {
+                "id": "/target/RkbhNrlgsRo/selector/css/UqdTy2oaBuy",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/GwysJftsDuj]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q117802687",
+        "type": "crm:E74_Group",
+        "label": "Brontë sisters",
+        "description": "group 19th-century poets and novelists sisters"
     },
     "P2_has_type": [
         "oa:identifying"
