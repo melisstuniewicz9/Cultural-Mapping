@@ -802,7 +802,7 @@
                 <div type="section">
                     <head>work cited</head>
                     <listBibl>
-                        <bibl>Roy, Gabrielle. <title level="m">Alexandre Chenevert</title>. Montréal: <orgName key="éditions Beauchemin" ref="https://www.wikidata.org/wiki/Q90319275" ana="webannotation:http://temp.lincsproject.ca/1t2rGoXcXbz">Éditions Beauchemin</orgName>, 1954.</bibl>
+                        <bibl>Roy, <persName key="Roy, Gabrielle, 1909-1983‏" ref="http://viaf.org/viaf/32002395" ana="webannotation:http://temp.lincsproject.ca/6oAwvgPy3lt">Gabrielle</persName>. <title level="m">Alexandre Chenevert</title>. Montréal: <orgName key="éditions Beauchemin" ref="https://www.wikidata.org/wiki/Q90319275" ana="webannotation:http://temp.lincsproject.ca/1t2rGoXcXbz">Éditions Beauchemin</orgName>, 1954.</bibl>
                     </listBibl>
                 </div>
             </div>
@@ -1607,6 +1607,95 @@
         "label": "Rue Madame",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/6oAwvgPy3lt">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/6oAwvgPy3lt",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-14T17:11:40.398Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/oAlesW79Kp2",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_11_languages_as_spaces_translation_as_play.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_11_languages_as_spaces_translation_as_play.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Languages as Spaces, Translation as Play"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/oAlesW79Kp2/selector/textPosition/1AtiX2LesEw",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 41534,
+                "end": 41543,
+                "refinedBy": {
+                    "id": "/target/oAlesW79Kp2/selector/textQuote/zB7ZIP7kMrf",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Gabrielle",
+                    "prefix": " \n                \n                \n                    work cited\n                    \n                        Roy,",
+                    "suffix": " Alexandre Chenevert"
+                }
+            },
+            {
+                "id": "/target/oAlesW79Kp2/selector/css/agCa62RT8oT",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/6oAwvgPy3lt]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/32002395",
+        "type": "crm:E21_Person",
+        "label": "Roy, Gabrielle, 1909-1983‏",
+        "description": "Roy, Gabrielle, 1909-1983, romancière"
     },
     "P2_has_type": [
         "oa:identifying"
