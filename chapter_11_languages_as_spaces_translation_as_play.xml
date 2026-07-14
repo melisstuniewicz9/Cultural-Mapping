@@ -802,7 +802,7 @@
                 <div type="section">
                     <head>work cited</head>
                     <listBibl>
-                        <bibl>Roy, Gabrielle. <title level="m">Alexandre Chenevert</title>. Montréal: Éditions Beauchemin, 1954.</bibl>
+                        <bibl>Roy, Gabrielle. <title level="m">Alexandre Chenevert</title>. Montréal: <orgName key="éditions Beauchemin" ref="https://www.wikidata.org/wiki/Q90319275" ana="webannotation:http://temp.lincsproject.ca/1t2rGoXcXbz">Éditions Beauchemin</orgName>, 1954.</bibl>
                     </listBibl>
                 </div>
             </div>
@@ -1607,6 +1607,95 @@
         "label": "Rue Madame",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/1t2rGoXcXbz">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/1t2rGoXcXbz",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-14T17:10:37.057Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/8hN8SXvtTGu",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_11_languages_as_spaces_translation_as_play.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_11_languages_as_spaces_translation_as_play.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Languages as Spaces, Translation as Play"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/8hN8SXvtTGu/selector/textPosition/vBuO3s7nvej",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 41576,
+                "end": 41595,
+                "refinedBy": {
+                    "id": "/target/8hN8SXvtTGu/selector/textQuote/FuJDW9lsMqf",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Éditions Beauchemin",
+                    "prefix": " Montréal:",
+                    "suffix": " 1954"
+                }
+            },
+            {
+                "id": "/target/8hN8SXvtTGu/selector/css/NrtyvVD79T0",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/1t2rGoXcXbz]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q90319275",
+        "label": "éditions Beauchemin",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
