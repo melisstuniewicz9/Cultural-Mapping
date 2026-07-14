@@ -507,7 +507,7 @@
                                     <event>
                                         <label>First World War</label>
                                     </event>
-                                </listEvent> and beyond.</ref> The city that I come from was initially called <placeName>Berlin</placeName>, but in <date cert="high" when="1916">1916</date> the name was changed to <placeName>Kitchener</placeName> as a sign of loyalty to the British Empire. <ref target="#characterization">Now <persName>Lord Kitchener</persName> was a wonderful person, a British field marshal, a pro-consul, a military man who won fame for his imperial campaigns. Lord Kitchener was in <placeName>Egypt</placeName>. Lord Kitchener was in the <placeName>Sudan</placeName>. <ref target="#historical_oppression">Lord Kitchener was in <placeName>India</placeName>. Lord Kitchener was in <placeName>South Africa</placeName> during the <listEvent>
+                                </listEvent> and beyond.</ref> The city that I come from was initially called <placeName>Berlin</placeName>, but in <date cert="high" when="1916">1916</date> the name was changed to <placeName>Kitchener</placeName> as a sign of loyalty to the British Empire. <ref target="#characterization">Now <persName>Lord <persName key="Kitchener, Horatio Herbert Kitchener, Earl, 1850-1916" ref="http://viaf.org/viaf/2601254" ana="webannotation:http://temp.lincsproject.ca/AxjBNMB2jUT">Kitchener</persName></persName> was a wonderful person, a British field marshal, a pro-consul, a military man who won fame for his imperial campaigns. Lord Kitchener was in <placeName>Egypt</placeName>. Lord Kitchener was in the <placeName>Sudan</placeName>. <ref target="#historical_oppression">Lord Kitchener was in <placeName>India</placeName>. Lord Kitchener was in <placeName>South Africa</placeName> during the <listEvent>
                                         <event>
                                             <label>Boer Wars</label>
                                         </event>
@@ -895,6 +895,95 @@
         "type": "crm:E21_Person",
         "label": "Saint-Martin, Lori, 1959-2022",
         "description": "Saint-Martin, Lori, 1959-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/AxjBNMB2jUT">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/AxjBNMB2jUT",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-14T16:48:23.870Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/pSlpLeBUErp",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_11_languages_as_spaces_translation_as_play.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_11_languages_as_spaces_translation_as_play.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Languages as Spaces, Translation as Play"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/pSlpLeBUErp/selector/textPosition/AbU5jYT3oF0",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 8799,
+                "end": 8808,
+                "refinedBy": {
+                    "id": "/target/pSlpLeBUErp/selector/textQuote/cctRAOp6FWs",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Kitchener",
+                    "prefix": " Now Lord",
+                    "suffix": "was a wonderful person, a British field marshal, a pro-consul, a military man who won fame for his imperial campaigns"
+                }
+            },
+            {
+                "id": "/target/pSlpLeBUErp/selector/css/Zbh32W7jFhE",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/AxjBNMB2jUT]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/2601254",
+        "type": "crm:E21_Person",
+        "label": "Kitchener, Horatio Herbert Kitchener, Earl, 1850-1916",
+        "description": "Kitchener, Horatio Herbert, 1850-1916"
     },
     "P2_has_type": [
         "oa:identifying"
