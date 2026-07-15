@@ -423,7 +423,7 @@
                 <p xml:id="p1498">
                     <ref target="#authorship">
                         <ref target="#education">
-                            <ref target="#textual_agency">As readers, we each have some sense of our own position in time and space, often almost by default. As students and scholars, we are sometimes invited to consider the importance of an author’s position in time and space. As contemporary lay readers (rather than scholars), we may also be encouraged to pay heed to the author’s persona as developed in websites, Twitter accounts, reading tours, and the like. None of these readerly stances is particularly rare; yet it is unusual to develop an awareness of a reading experience that takes account of the placement of both author and readers. One reason for the scarcity of such an approach, of course, is that readers are multiple and largely unknowable in that very plurality. <ref target="#genre">A book, simply by the fact of its existence, is designed on the broadcast model of one-to-many; to consider it in terms of one-to-one is to alter the exploration of its address in radical ways.</ref>
+                            <ref target="#textual_agency">As readers, we each have some sense of our own position in time and space, often almost by default. As students and scholars, we are sometimes invited to consider the importance of an author’s position in time and space. As contemporary lay readers (rather than scholars), we may also be encouraged to pay heed to the author’s persona as developed in websites, <orgName key="Twitter (Firm)" ref="http://viaf.org/viaf/38145970073232250833" ana="webannotation:http://temp.lincsproject.ca/Zbh2tqViGoQ">Twitter</orgName> accounts, reading tours, and the like. None of these readerly stances is particularly rare; yet it is unusual to develop an awareness of a reading experience that takes account of the placement of both author and readers. One reason for the scarcity of such an approach, of course, is that readers are multiple and largely unknowable in that very plurality. <ref target="#genre">A book, simply by the fact of its existence, is designed on the broadcast model of one-to-many; to consider it in terms of one-to-one is to alter the exploration of its address in radical ways.</ref>
                             </ref>
                         </ref>
                     </ref>
@@ -847,6 +847,95 @@
 <xenoData>
 			
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Zbh2tqViGoQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Zbh2tqViGoQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-15T19:35:41.393Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/1GRumKoBPxJ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Standing on a Rainbow"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/1GRumKoBPxJ/selector/textPosition/Y3AWS7FWtDQ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 1685,
+                "end": 1692,
+                "refinedBy": {
+                    "id": "/target/1GRumKoBPxJ/selector/textQuote/HS4qQq8HodB",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Twitter",
+                    "prefix": " As contemporary lay readers (rather than scholars), we may also be encouraged to pay heed to the author’s persona as developed in websites,",
+                    "suffix": "accounts, reading tours, and the like"
+                }
+            },
+            {
+                "id": "/target/1GRumKoBPxJ/selector/css/rrdZHh7jFbG",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Zbh2tqViGoQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/38145970073232250833",
+        "type": "crm:E74_Group",
+        "label": "Twitter (Firm)",
+        "description": "Twitter (selskap)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/YRYzkkuWcws">
 <![CDATA[{
