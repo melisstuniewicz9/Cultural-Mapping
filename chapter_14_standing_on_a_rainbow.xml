@@ -837,7 +837,7 @@
                     <bibl>Innis, Mary Quayle. <title>Mary Quayle Innis fonds.</title>
                         <title>GA 127</title>. Special Collections, <orgName key="University of Waterloo. Library." ref="http://viaf.org/viaf/141587796" ana="webannotation:http://temp.lincsproject.ca/9bjXf0dDTRB">University of Waterloo Library</orgName>. <ref target="https://uwaterloo.ca/library/special-collections-archives/collections/innis-mary-quayle-fonds">https://uwaterloo.ca/library/special-collections-archives/collections/innis-mary-quayle-fonds</ref>
                     </bibl>
-                    <bibl>. <title level="m">Stand on a Rainbow</title>. Toronto: William Collins, 1943.</bibl>
+                    <bibl>. <title level="m">Stand on a Rainbow</title>. Toronto: <persName key="William Collins Publishers" ref="http://viaf.org/viaf/144898842" ana="webannotation:http://temp.lincsproject.ca/w3zsONm5DYN">William Collins</persName>, 1943.</bibl>
                 </div>
             </div>
         </body>
@@ -2627,6 +2627,95 @@
         "label": "Black, J. David (John David), 1964-",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/w3zsONm5DYN">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/w3zsONm5DYN",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-16T12:52:56.290Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/uBQkQ3FqFtO",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Standing on a Rainbow"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/uBQkQ3FqFtO/selector/textPosition/KcvJATuvmN7",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 46057,
+                "end": 46072,
+                "refinedBy": {
+                    "id": "/target/uBQkQ3FqFtO/selector/textQuote/3VlJ1uVxxmb",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "William Collins",
+                    "prefix": " Toronto:",
+                    "suffix": " 1943"
+                }
+            },
+            {
+                "id": "/target/uBQkQ3FqFtO/selector/css/ulp80blVIQc",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/w3zsONm5DYN]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/144898842",
+        "label": "William Collins Publishers",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
