@@ -831,7 +831,7 @@
                     <head>works cited</head>
                     <bibl>Black, J. David. <title level="a">‘Both of Us Can Move Mountains’: Mary Quayle Innis and Her Relationship to Harold Innis’ Legacy.</title>
                         <title level="j"><orgName key="Canadian Journal of Communication" ref="http://www.wikidata.org/entity/Q30294995" ana="webannotation:http://temp.lincsproject.ca/YRYzkkuWcws">Canadian Journal of Communication</orgName></title> 28 (2003): 433–47.</bibl>
-                    <bibl>Friedan, <persName key="Friedan, Betty, 1921-2006" ref="http://viaf.org/viaf/49225729" ana="webannotation:http://temp.lincsproject.ca/UhONU7xDQXG">Betty</persName>. <title level="m">The Feminine Mystique</title>. New York: Dell, 1963.</bibl>
+                    <bibl><persName key="Friedan, Betty, 1921-2006" ref="http://viaf.org/viaf/49225729" ana="webannotation:http://temp.lincsproject.ca/EPpZIqxTePI">Friedan</persName>, <persName key="Friedan, Betty, 1921-2006" ref="http://viaf.org/viaf/49225729" ana="webannotation:http://temp.lincsproject.ca/UhONU7xDQXG">Betty</persName>. <title level="m">The Feminine Mystique</title>. New York: Dell, 1963.</bibl>
                     <bibl>Fuller, <persName key="Fuller, Danielle." ref="http://viaf.org/viaf/15049126" ana="webannotation:http://temp.lincsproject.ca/LFMKj4CbLYu">Danielle</persName>. <title level="a">Listening to the Readers of ‘Canada Reads.’</title>
                         <title level="j">Canadian Literature</title> 193 (Summer 2007): 11–34.</bibl>
                     <bibl>Innis, Mary Quayle. <title>Mary Quayle Innis fonds.</title>
@@ -1018,6 +1018,95 @@
         "type": "frbroo:F1",
         "label": "Canadian Journal of Communication",
         "description": "independent academic journal owned by its subscribers"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/EPpZIqxTePI">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/EPpZIqxTePI",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-16T00:32:25.245Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/JUaxBgUxVPy",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Standing on a Rainbow"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/JUaxBgUxVPy/selector/textPosition/FJKWNzFWAdN",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45528,
+                "end": 45535,
+                "refinedBy": {
+                    "id": "/target/JUaxBgUxVPy/selector/textQuote/Y2743EIibnn",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Friedan",
+                    "prefix": "\n                   ",
+                    "suffix": " Betty"
+                }
+            },
+            {
+                "id": "/target/JUaxBgUxVPy/selector/css/kDYFvmz2AAg",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/EPpZIqxTePI]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/49225729",
+        "type": "crm:E21_Person",
+        "label": "Friedan, Betty, 1921-2006",
+        "description": "Friedan, Betty"
     },
     "P2_has_type": [
         "oa:identifying"
