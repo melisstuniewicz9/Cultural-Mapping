@@ -832,7 +832,7 @@
                     <bibl>Black, J. David. <title level="a">‘Both of Us Can Move Mountains’: Mary Quayle Innis and Her Relationship to Harold Innis’ Legacy.</title>
                         <title level="j"><orgName key="Canadian Journal of Communication" ref="http://www.wikidata.org/entity/Q30294995" ana="webannotation:http://temp.lincsproject.ca/YRYzkkuWcws">Canadian Journal of Communication</orgName></title> 28 (2003): 433–47.</bibl>
                     <bibl>Friedan, Betty. <title level="m">The Feminine Mystique</title>. New York: Dell, 1963.</bibl>
-                    <bibl>Fuller, Danielle. <title level="a">Listening to the Readers of ‘Canada Reads.’</title>
+                    <bibl>Fuller, <persName key="Fuller, Danielle." ref="http://viaf.org/viaf/15049126" ana="webannotation:http://temp.lincsproject.ca/LFMKj4CbLYu">Danielle</persName>. <title level="a">Listening to the Readers of ‘Canada Reads.’</title>
                         <title level="j">Canadian Literature</title> 193 (Summer 2007): 11–34.</bibl>
                     <bibl>Innis, Mary Quayle. <title>Mary Quayle Innis fonds.</title>
                         <title>GA 127</title>. Special Collections, <orgName key="University of Waterloo. Library." ref="http://viaf.org/viaf/141587796" ana="webannotation:http://temp.lincsproject.ca/9bjXf0dDTRB">University of Waterloo Library</orgName>. <ref target="https://uwaterloo.ca/library/special-collections-archives/collections/innis-mary-quayle-fonds">https://uwaterloo.ca/library/special-collections-archives/collections/innis-mary-quayle-fonds</ref>
@@ -1018,6 +1018,95 @@
         "type": "frbroo:F1",
         "label": "Canadian Journal of Communication",
         "description": "independent academic journal owned by its subscribers"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/LFMKj4CbLYu">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/LFMKj4CbLYu",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-16T00:31:54.382Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/jgL5MD8Cg7N",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Standing on a Rainbow"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/jgL5MD8Cg7N/selector/textPosition/Xy6dQGoa0CD",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45617,
+                "end": 45625,
+                "refinedBy": {
+                    "id": "/target/jgL5MD8Cg7N/selector/textQuote/NL5JqUbfasb",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Danielle",
+                    "prefix": "\n                    Fuller,",
+                    "suffix": " Listening to the Readers of ‘Canada Reads"
+                }
+            },
+            {
+                "id": "/target/jgL5MD8Cg7N/selector/css/RKo1eiAVS7l",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/LFMKj4CbLYu]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/15049126",
+        "type": "crm:E21_Person",
+        "label": "Fuller, Danielle.",
+        "description": "Fuller, Danielle, 1968-...."
     },
     "P2_has_type": [
         "oa:identifying"
