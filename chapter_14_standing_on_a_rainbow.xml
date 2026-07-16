@@ -619,7 +619,7 @@
                                     <ref target="#economics">In addition to her novel, Mary Quayle Innis wrote <title level="m">An Economic History of Canada</title>, which became a standard university textbook in its revised edition (also published in <date cert="high" when="1943">1943</date>).</ref>
                                 </ref>
                             </ref>
-                            <ref target="#education">After Harold Innis died, she served as dean of women at <orgName>University College in Toronto</orgName> for nine years, and was a Canadian delegate to the Commonwealth Conference on Education in <placeName>Oxford</placeName> in <date cert="high" when="1959">1959</date>.</ref>
+                            <ref target="#education">After Harold Innis died, she served as dean of women at <orgName><orgName key="University College" ref="https://www.wikidata.org/wiki/Q3551334" ana="webannotation:http://temp.lincsproject.ca/X0iZ5K8zv0G">University College</orgName> in Toronto</orgName> for nine years, and was a Canadian delegate to the Commonwealth Conference on Education in <placeName>Oxford</placeName> in <date cert="high" when="1959">1959</date>.</ref>
                             <ref target="#response_formal">She edited her husband’s work, and communications scholar <persName>J. David Black</persName> has devoted an extensive article to teasing out ways in which her own scholarly interests and background may have fed into Harold Innis’s widely known theories of communication.</ref>
                         </ref>
                     </p>
@@ -2182,6 +2182,95 @@
         "id": "http://viaf.org/viaf/141587796",
         "type": "crm:E74_Group",
         "label": "University of Waterloo. Library."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/X0iZ5K8zv0G">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/X0iZ5K8zv0G",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-16T12:36:24.239Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/5QpweCW7poK",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Standing on a Rainbow"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/5QpweCW7poK/selector/textPosition/WyvTODPxiNM",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 21893,
+                "end": 21911,
+                "refinedBy": {
+                    "id": "/target/5QpweCW7poK/selector/textQuote/z0A22V2pB38",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "University College",
+                    "prefix": "\n                                \n                            \n                            After Harold Innis died, she served as dean of women at",
+                    "suffix": "in Toronto for nine years, and was a Canadian delegate to the Commonwealth Conference on Education in Oxford in 1959"
+                }
+            },
+            {
+                "id": "/target/5QpweCW7poK/selector/css/Ps0gUDleBvx",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/X0iZ5K8zv0G]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q3551334",
+        "label": "University College",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
