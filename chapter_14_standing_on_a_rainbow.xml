@@ -630,7 +630,7 @@
                                 <bibl>435</bibl>
                             </note>. <ref target="#response_formal">
                                 <ref target="#genre_novel">According to Innis’s daughter <persName>Anne</persName>, <title level="m">Stand on a Rainbow</title> is highly autobiographical: <q>
-                                        <ref target="#class_issue">The novel is an account of a year in the life of a middle-class family, and according to <persName key="Dagg, Anne Innis" ref="http://viaf.org/viaf/94279797" ana="webannotation:http://temp.lincsproject.ca/Yji0Hz0N74A">Anne Innis Dagg</persName>, is drawn almost entirely from incidents in Mary’s domestic life</ref>
+                                        <ref target="#class_issue">The novel is an account of a year in the life of a middle-class family, and according to <persName key="Dagg, Anne Innis" ref="http://viaf.org/viaf/94279797" ana="webannotation:http://temp.lincsproject.ca/Yji0Hz0N74A">Anne Innis Dagg</persName>, is drawn almost entirely from incidents in <persName key="Innis, Mary Quayle, 1899-1972" ref="http://viaf.org/viaf/67707952" ana="webannotation:http://temp.lincsproject.ca/KOHlR2sOp7N">Mary</persName>’s domestic life</ref>
                                     </q>
                                     <note place="inline">
                                         <bibl><title key="Black, J. David (John David), 1964-" ref="http://viaf.org/viaf/26729704" ana="webannotation:http://temp.lincsproject.ca/7u4GFjqR8I2">Black 437</title></bibl>
@@ -2449,6 +2449,95 @@
         "type": "crm:E21_Person",
         "label": "Dagg, Anne Innis",
         "description": "Dagg, Anne Innis, 1933-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/KOHlR2sOp7N">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/KOHlR2sOp7N",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-16T12:50:35.158Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/iNBukFg4sVU",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Standing on a Rainbow"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/iNBukFg4sVU/selector/textPosition/ZZsoH4nevZ4",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 22914,
+                "end": 22918,
+                "refinedBy": {
+                    "id": "/target/iNBukFg4sVU/selector/textQuote/wNqusinqZ8i",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Mary",
+                    "prefix": " \n                                According to Innis’s daughter Anne, Stand on a Rainbow is highly autobiographical: \n                                        The novel is an account of a year in the life of a middle-class family, and according to Anne Innis Dagg, is drawn almost entirely from incidents in",
+                    "suffix": "s domestic life\n                                    \n                                    \n                                        Black 437\n                                    "
+                }
+            },
+            {
+                "id": "/target/iNBukFg4sVU/selector/css/Q5EE9Xm11ya",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/KOHlR2sOp7N]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/67707952",
+        "type": "crm:E21_Person",
+        "label": "Innis, Mary Quayle, 1899-1972",
+        "description": "Innis, Mary Quayle"
     },
     "P2_has_type": [
         "oa:identifying"
