@@ -559,7 +559,7 @@
                                 <persName>Elizabeth McCurdy</persName>, my mother, has advanced Alzheimer’s. Additionally, in <date cert="high" when="2007">2007</date> she suffered a small but specific stroke that more or less destroyed her capacity to speak coherent sentences. From time to time, however, some important sentiment that can be expressed in a very short sentence will defeat the language scrambler in her brain. </ref>Not long after her debilitating stroke, I found <title level="m">Stand on a Rainbow</title> on her bookshelf and asked if I could borrow it. She agreed and managed one of her rare short remarks: <q>I love that book.</q>
                         </ref>
                     </p>
-                    <p xml:id="p1512">My mother’s copy is a library discard, but it does not indicate the name of the library. Inside the book I found a bookmark from <orgName>Munro’s Bookstore</orgName>, which indicates that she continued to read this story after she and my father moved to <placeName>Victoria</placeName> in <date cert="high" when="1994">1994</date> when she was seventy-one. If that is the case, her encounters with this novel spanned the best part of forty years and maybe more.</p>
+                    <p xml:id="p1512">My mother’s copy is a library discard, but it does not indicate the name of the library. Inside the book I found a bookmark from <orgName><persName key="Munro's Books" ref="https://www.wikidata.org/wiki/Q6936821" ana="webannotation:http://temp.lincsproject.ca/eimhubpyrZh">Munro</persName>’s Bookstore</orgName>, which indicates that she continued to read this story after she and my father moved to <placeName>Victoria</placeName> in <date cert="high" when="1994">1994</date> when she was seventy-one. If that is the case, her encounters with this novel spanned the best part of forty years and maybe more.</p>
                     <p xml:id="p1513">
                         <ref target="#theme_or_topic">
                             <ref target="#genre_lifeWriting">
@@ -2182,6 +2182,95 @@
         "id": "http://viaf.org/viaf/141587796",
         "type": "crm:E74_Group",
         "label": "University of Waterloo. Library."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/eimhubpyrZh">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/eimhubpyrZh",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-16T12:56:49.116Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/6qfU78TFnWR",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Standing on a Rainbow"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/6qfU78TFnWR/selector/textPosition/7RY5nb4TXbj",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 14682,
+                "end": 14687,
+                "refinedBy": {
+                    "id": "/target/6qfU78TFnWR/selector/textQuote/4U2a3gnPfW0",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Munro",
+                    "prefix": " Inside the book I found a bookmark from",
+                    "suffix": "s Bookstore, which indicates that she continued to read this story after she and my father moved to Victoria in 1994 when she was seventy-one"
+                }
+            },
+            {
+                "id": "/target/6qfU78TFnWR/selector/css/E4b9tdiH3yM",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/eimhubpyrZh]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q6936821",
+        "label": "Munro's Books",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
