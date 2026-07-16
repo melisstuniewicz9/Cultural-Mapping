@@ -832,7 +832,7 @@
                     <bibl>Black, J. David. <title level="a">‘Both of Us Can Move Mountains’: Mary Quayle Innis and Her Relationship to <persName key="Innis, Harold Adams, 1894-1952" ref="http://viaf.org/viaf/2643958" ana="webannotation:http://temp.lincsproject.ca/3iOVIiOk2OY">Harold Innis’</persName> Legacy.</title>
                         <title level="j"><orgName key="Canadian Journal of Communication" ref="http://www.wikidata.org/entity/Q30294995" ana="webannotation:http://temp.lincsproject.ca/YRYzkkuWcws">Canadian Journal of Communication</orgName></title> 28 (2003): 433–47.</bibl>
                     <bibl><persName key="Friedan, Betty, 1921-2006" ref="http://viaf.org/viaf/49225729" ana="webannotation:http://temp.lincsproject.ca/EPpZIqxTePI">Friedan</persName>, <persName key="Friedan, Betty, 1921-2006" ref="http://viaf.org/viaf/49225729" ana="webannotation:http://temp.lincsproject.ca/UhONU7xDQXG">Betty</persName>. <title level="m">The Feminine Mystique</title>. <placeName key="New York City" ref="https://sws.geonames.org/5128581" ana="webannotation:http://temp.lincsproject.ca/MblRWO3euWk">New York</placeName>: <orgName key="Dell Publishing" ref="https://www.wikidata.org/wiki/Q2075464" ana="webannotation:http://temp.lincsproject.ca/ueHOBEOysoo">Dell</orgName>, 1963.</bibl>
-                    <bibl>Fuller, <persName key="Fuller, Danielle." ref="http://viaf.org/viaf/15049126" ana="webannotation:http://temp.lincsproject.ca/LFMKj4CbLYu">Danielle</persName>. <title level="a">Listening to the Readers of ‘Canada Reads.’</title>
+                    <bibl><persName key="Fuller, Danielle." ref="http://viaf.org/viaf/15049126" ana="webannotation:http://temp.lincsproject.ca/q43SBeMePPM">Fuller</persName>, <persName key="Fuller, Danielle." ref="http://viaf.org/viaf/15049126" ana="webannotation:http://temp.lincsproject.ca/LFMKj4CbLYu">Danielle</persName>. <title level="a">Listening to the Readers of ‘Canada Reads.’</title>
                         <title level="j">Canadian Literature</title> 193 (Summer 2007): 11–34.</bibl>
                     <bibl>Innis, Mary Quayle. <title>Mary Quayle Innis fonds.</title>
                         <title>GA 127</title>. Special Collections, <orgName key="University of Waterloo. Library." ref="http://viaf.org/viaf/141587796" ana="webannotation:http://temp.lincsproject.ca/9bjXf0dDTRB">University of Waterloo Library</orgName>. <ref target="https://uwaterloo.ca/library/special-collections-archives/collections/innis-mary-quayle-fonds">https://uwaterloo.ca/library/special-collections-archives/collections/innis-mary-quayle-fonds</ref>
@@ -1552,6 +1552,95 @@
         "label": "Dell Publishing",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/q43SBeMePPM">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/q43SBeMePPM",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-16T00:37:11.823Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/LXi4941lOlZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Standing on a Rainbow"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/LXi4941lOlZ/selector/textPosition/HBjF7YNWVmB",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45609,
+                "end": 45615,
+                "refinedBy": {
+                    "id": "/target/LXi4941lOlZ/selector/textQuote/K8cx7KeKEvn",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Fuller",
+                    "prefix": "\n                   ",
+                    "suffix": " Danielle"
+                }
+            },
+            {
+                "id": "/target/LXi4941lOlZ/selector/css/k7eegPqWfth",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/q43SBeMePPM]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/15049126",
+        "type": "crm:E21_Person",
+        "label": "Fuller, Danielle.",
+        "description": "Fuller, Danielle, 1968-...."
     },
     "P2_has_type": [
         "oa:identifying"
