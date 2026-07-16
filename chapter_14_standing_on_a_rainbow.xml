@@ -564,7 +564,7 @@
                         <ref target="#theme_or_topic">
                             <ref target="#genre_lifeWriting">
                                 <ref target="#spatiality">
-                                    <title level="m">Stand on a Rainbow</title> was published in <date cert="high" when="1943">1943</date>, the year my mother married my father. I do not know when she first read it. The parallels between the events of the book and her personal life are many. <ref target="#spatiality">Although the geography of the autobiographical narrative is not specified, <persName>Mary Quayle Innis</persName> and her husband lived and worked in the <placeName>Toronto</placeName> region. The book begins and ends in cottage country, and the case for a <placeName>southern Ontario</placeName> setting is reasonably strong.</ref>
+                                    <title level="m">Stand on a Rainbow</title> was published in <date cert="high" when="1943">1943</date>, the year my mother married my father. I do not know when she first read it. The parallels between the events of the book and her personal life are many. <ref target="#spatiality">Although the geography of the autobiographical narrative is not specified, <persName>Mary Quayle Innis</persName> and her husband lived and worked in the <placeName>Toronto</placeName> region. The book begins and ends in cottage country, and the case for a <placeName>southern <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/ISY1GVHgwgH">Ontario</placeName></placeName> setting is reasonably strong.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -1026,6 +1026,95 @@
         "type": "crm:E74_Group",
         "label": "Twitter (Firm)",
         "description": "Twitter (selskap)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ISY1GVHgwgH">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ISY1GVHgwgH",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-16T02:33:09.980Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/FBYAEzjwBWc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Standing on a Rainbow"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/FBYAEzjwBWc/selector/textPosition/hfrgj4GijO3",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15497,
+                "end": 15504,
+                "refinedBy": {
+                    "id": "/target/FBYAEzjwBWc/selector/textQuote/1MXvztywlyO",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ontario",
+                    "prefix": " The book begins and ends in cottage country, and the case for a southern",
+                    "suffix": "setting is reasonably strong"
+                }
+            },
+            {
+                "id": "/target/FBYAEzjwBWc/selector/css/pkDes7LlzVy",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ISY1GVHgwgH]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6093943",
+        "type": "crm:E53_Place",
+        "label": "Ontario",
+        "description": "Ontario, CA"
     },
     "P2_has_type": [
         "oa:identifying"
