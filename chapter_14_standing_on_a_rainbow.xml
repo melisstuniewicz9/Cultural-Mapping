@@ -620,7 +620,7 @@
                                 </ref>
                             </ref>
                             <ref target="#education">After Harold Innis died, she served as dean of women at <orgName><orgName key="University College" ref="https://www.wikidata.org/wiki/Q3551334" ana="webannotation:http://temp.lincsproject.ca/X0iZ5K8zv0G">University College</orgName> in Toronto</orgName> for nine years, and was a Canadian delegate to the Commonwealth Conference on Education in <placeName>Oxford</placeName> in <date cert="high" when="1959">1959</date>.</ref>
-                            <ref target="#response_formal">She edited her husband’s work, and communications scholar <persName>J. David Black</persName> has devoted an extensive article to teasing out ways in which her own scholarly interests and background may have fed into Harold Innis’s widely known theories of communication.</ref>
+                            <ref target="#response_formal">She edited her husband’s work, and communications scholar <persName>J. David Black</persName> has devoted an extensive article to teasing out ways in which her own scholarly interests and background may have fed into <persName key="Innis, Harold Adams, 1894-1952" ref="http://viaf.org/viaf/2643958" ana="webannotation:http://temp.lincsproject.ca/0NG0PJCjRzn">Harold Innis’s</persName> widely known theories of communication.</ref>
                         </ref>
                     </p>
                     <p xml:id="p1521">
@@ -2271,6 +2271,95 @@
         "label": "University College",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/0NG0PJCjRzn">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/0NG0PJCjRzn",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-16T12:47:23.095Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Ocp9hWjOlOv",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Standing on a Rainbow"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Ocp9hWjOlOv/selector/textPosition/HXyJsjkDueP",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 22254,
+                "end": 22268,
+                "refinedBy": {
+                    "id": "/target/Ocp9hWjOlOv/selector/textQuote/Rw0Wh53WyT6",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Harold Innis’s",
+                    "prefix": " David Black has devoted an extensive article to teasing out ways in which her own scholarly interests and background may have fed into",
+                    "suffix": "widely known theories of communication"
+                }
+            },
+            {
+                "id": "/target/Ocp9hWjOlOv/selector/css/WH049Un9UQy",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/0NG0PJCjRzn]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/2643958",
+        "label": "Innis, Harold Adams, 1894-1952",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
