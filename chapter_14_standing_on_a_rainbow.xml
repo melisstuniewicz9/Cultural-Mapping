@@ -633,7 +633,7 @@
                                         <ref target="#class_issue">The novel is an account of a year in the life of a middle-class family, and according to Anne Innis Dagg, is drawn almost entirely from incidents in Mary’s domestic life</ref>
                                     </q>
                                     <note place="inline">
-                                        <bibl>Black 437</bibl>
+                                        <bibl><title key="Black, J. David (John David), 1964-" ref="http://viaf.org/viaf/26729704" ana="webannotation:http://temp.lincsproject.ca/7u4GFjqR8I2">Black 437</title></bibl>
                                     </note>. Mary Quayle Innis, according to her daughter, was frustrated at being taken only as an academic wife, not as an academic in her own right <note place="inline">
                                         <bibl>Black 437</bibl>
                                     </note>.</ref> The frustration certainly made its way into the novel but her autonomous academic achievements did not.</ref>
@@ -2271,6 +2271,95 @@
         "label": "University College",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/7u4GFjqR8I2">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/7u4GFjqR8I2",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-16T12:38:24.888Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ta0s2lVZllG",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Standing on a Rainbow"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ta0s2lVZllG/selector/textPosition/zg7iFZjtzNY",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 23049,
+                "end": 23058,
+                "refinedBy": {
+                    "id": "/target/ta0s2lVZllG/selector/textQuote/FAT3trG6pox",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Black 437",
+                    "prefix": " \n                                According to Innis’s daughter Anne, Stand on a Rainbow is highly autobiographical: \n                                        The novel is an account of a year in the life of a middle-class family, and according to Anne Innis Dagg, is drawn almost entirely from incidents in Mary’s domestic life\n                                    \n                                    \n                                       ",
+                    "suffix": "                                    "
+                }
+            },
+            {
+                "id": "/target/ta0s2lVZllG/selector/css/QOI1BPCq6vp",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/7u4GFjqR8I2]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26729704",
+        "label": "Black, J. David (John David), 1964-",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
