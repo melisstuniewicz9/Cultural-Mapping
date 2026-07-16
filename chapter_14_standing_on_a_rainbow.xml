@@ -579,7 +579,7 @@
                                         </listEvent>
                                     </ref>, times were so hard that there were days when the six children ate porridge for breakfast and porridge again for supper because their parents could afford only one proper meal a day (and that one heavy on potatoes).</ref>
                             </ref>
-                            <ref target="#spatiality">But during at least two summers, they rented a cottage in <placeName>Merigomish, Nova Scotia</placeName>
+                            <ref target="#spatiality">But during at least two summers, they rented a cottage in <placeName><placeName key="Merigomish" ref="https://sws.geonames.org/6072277" ana="webannotation:http://temp.lincsproject.ca/9EiJaSqna2V">Merigomish</placeName>, Nova Scotia</placeName>
                             </ref>, and my mother knew the intense pleasures of the summer escape that are described vividly in this book. Leslie is devoted to the charms of berry picking (making jam is her favourite domestic activity). My mother also liked to pick berries but she was even more attracted to the delights of wild flowers, and was knowledgeable about their names and habitats. Leslie’s choice is more domestic and productive; my mother’s preference led to nothing but pleasure. <ref target="#tone_or_style">I strongly suspect that the lyrical sections of the book, limning the joys of summer in the country or an ice storm in the city, spoke to her in important ways.</ref>
                             <ref target="#textual_agency">Contemporary readers often value <q>relatability,</q> a neologism that perhaps arises directly out of current reading practices; while I am certain my mother <q>related</q> to <title level="m">Stand on a Rainbow</title>, I believe she also relished the delights of the kind of lyrical description that featured more prominently in an earlier age of vernacular reading than in today’s relatable novels. <ref target="#spatiality">Readers belong to their time as well as to their place.</ref>
                             </ref>
@@ -1115,6 +1115,95 @@
         "type": "crm:E53_Place",
         "label": "Ontario",
         "description": "Ontario, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/9EiJaSqna2V">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/9EiJaSqna2V",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-16T02:33:14.936Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/kXb0vz7vUr6",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Standing on a Rainbow"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/kXb0vz7vUr6/selector/textPosition/W0ex8H2UT0v",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16489,
+                "end": 16499,
+                "refinedBy": {
+                    "id": "/target/kXb0vz7vUr6/selector/textQuote/ZKnXCPn9EnA",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Merigomish",
+                    "prefix": "\n                            \n                            But during at least two summers, they rented a cottage in",
+                    "suffix": " Nova Scotia\n                            , and my mother knew the intense pleasures of the summer escape that are described vividly in this book"
+                }
+            },
+            {
+                "id": "/target/kXb0vz7vUr6/selector/css/DvxXPaf4Iks",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/9EiJaSqna2V]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6072277",
+        "type": "crm:E53_Place",
+        "label": "Merigomish",
+        "description": "Nova Scotia, CA"
     },
     "P2_has_type": [
         "oa:identifying"
