@@ -413,7 +413,7 @@
                     <title level="a">Standing on a Rainbow</title>
                 </head>
                 <byline>Reading in Place, Position, and Time</byline>
-                <docAuthor> Margaret Mackey</docAuthor>
+                <docAuthor> <persName key="Mackey, Margaret, 1948-...." ref="http://viaf.org/viaf/105570154" ana="webannotation:http://temp.lincsproject.ca/GaajUqxASsV">Margaret Mackey</persName></docAuthor>
                 <p xml:id="p1497">
                     <ref target="#theme_or_topic">
                         <ref target="#textual_agency">Readers are material beings, placed in time and space, history and geography, and the material conditions of each reader have an inevitable impact on the reading experience. In this chapter, I address questions of how our understanding of literature may shift when we consider the materiality of the audience as well as of the text and of those responsible for its production. To increase awareness of the specificity of that material audience—in contrast to the widely studied concept of the mass audience—I focus here on two singular readers of one particular book. <ref target="#methodology">I seek to balance what I can ascertain about the readers against what I have been able to learn about the author, and against my assessment of at least some aspects of the text under consideration, <title level="m">Stand on a Rainbow</title> by <persName>Mary Quayle Innis</persName>. I then assess the conceptual implications of this tiny case study for how we may develop a principled literary map.</ref>
@@ -847,6 +847,103 @@
 <xenoData>
 			
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/GaajUqxASsV">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/GaajUqxASsV",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-16T02:16:50.345Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4EiUttr9saz",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_14_standing_on_a_rainbow.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Standing on a Rainbow"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4EiUttr9saz/selector/textPosition/ThfG4lfHi4n",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 169,
+                "end": 184,
+                "refinedBy": {
+                    "id": "/target/4EiUttr9saz/selector/textQuote/KPgJOQpYDN8",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Margaret Mackey",
+                    "prefix": "\n        \n            \n                \n                    Standing on a Rainbow\n                \n                Reading in Place, Position, and Time\n                ",
+                    "suffix": "                \n                    \n                        Readers are material beings, placed in time and space, history and geography, and the material conditions of each reader have an inevitable impact on the reading experience"
+                }
+            },
+            {
+                "id": "/target/4EiUttr9saz/selector/css/JCk2GFNVr6Y",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/eZ2H6O5tEmS]"
+            },
+            {
+                "id": "/target/4EiUttr9saz/selector/css/s9svyiSHCie",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/GaajUqxASsV]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/105570154",
+        "type": "crm:E21_Person",
+        "label": "Mackey, Margaret, 1948-....",
+        "description": "Mackey, Margaret"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Zbh2tqViGoQ">
 <![CDATA[{
