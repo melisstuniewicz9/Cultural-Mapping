@@ -872,7 +872,7 @@
                         <ref target="#intertextuality">
                             <ref target="#genre_novel">
                                 <ref target="#characterization">
-                                    <ref target="#education">Waring’s climactic moment is her tour-de-force performance as a panelist on a Canadian Broadcasting Corporation (<abbr>CBC</abbr>) television talk show, <hi rend="italic">
+                                    <ref target="#education">Waring’s climactic moment is her tour-de-force performance as a panelist on a <orgName key="Canadian Broadcasting Corporation" ref="http://www.wikidata.org/entity/Q461761" ana="webannotation:http://temp.lincsproject.ca/EkVruxoLZMp">Canadian Broadcasting Corporation</orgName> (<abbr>CBC</abbr>) television talk show, <hi rend="italic">
                                             <title level="m">Everybody’s Agora</title>
                                         </hi>, in a live telecast devoted to the superior preparations of contemporary education.</ref> The event supplies another occasion for <persName>Irwin</persName>’s ventriloquizing through Waring, who proves to be as dedicated a reader of <persName>C.S. Lewis</persName> as Connington. After having been <q>transformed by the heavy pancake make-up into a sort of wax-works replica,</q> Waring considers the studio preparation, debating with herself about a sense of belonging and acceptance:</ref>
                             </ref>
@@ -1271,6 +1271,95 @@
         "type": "frbroo:F1",
         "label": "University of Toronto Quarterly",
         "description": "journal"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/EkVruxoLZMp">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/EkVruxoLZMp",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:34:45.133Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/T1BmXy0u5Uk",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/T1BmXy0u5Uk/selector/textPosition/7wMxDgJHWup",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 42170,
+                "end": 42203,
+                "refinedBy": {
+                    "id": "/target/T1BmXy0u5Uk/selector/textQuote/mGs155P6i7E",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canadian Broadcasting Corporation",
+                    "prefix": "\n                                \n                            \n                        \n                    \n                \n                \n                    \n                        \n                            \n                                \n                                    Waring’s climactic moment is her tour-de-force performance as a panelist on a",
+                    "suffix": "(CBC) television talk show, \n                                            Everybody’s Agora\n                                        , in a live telecast devoted to the superior preparations of contemporary education"
+                }
+            },
+            {
+                "id": "/target/T1BmXy0u5Uk/selector/css/VGC8JVsoXMq",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/EkVruxoLZMp]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q461761",
+        "type": "crm:E74_Group",
+        "label": "Canadian Broadcasting Corporation",
+        "description": "Canadian public broadcaster"
     },
     "P2_has_type": [
         "oa:identifying"
