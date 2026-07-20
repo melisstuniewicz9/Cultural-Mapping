@@ -961,7 +961,7 @@
                                         <note place="inline">
                                             <bibl>Young 13</bibl>
                                         </note> from which <persName>Phyllis Brett Young</persName>’s heroine in <title level="m">The Torontonians</title> dreams of escape. For today’s reader many topographical references also highlight what has changed: department stores have disappeared; the <orgName>
-                                            <abbr>CBC</abbr>
+                                            <abbr><orgName key="Société Radio-Canada" ref="http://viaf.org/viaf/144201535" ana="webannotation:http://temp.lincsproject.ca/mHIBS8d2flY">CBC</orgName></abbr>
                                         </orgName> has a new gleaming location on <placeName>Front Street West</placeName>; and the <orgName>Royal Ontario Museum</orgName> now literally juts onto <placeName>Bloor Street</placeName>.</ref> What Irwin captures, I suggest, is a Toronto few of her millions of residents would recognize today. <ref target="#religion">The modern consciousness of her Torontonian protagonists has a distinctive theological and apologetic cast. Within the confessional debates and church interiors of her novels there is limited recognition of coeval others.</ref> Communication circuits involve a range of ethical and pedagogical topics. <ref target="#intertextuality">Rather than simply reifying her work as glimpses of a past, it is worth considering how they amplify and thicken our understanding of boom and growth. Moreover, rather than positioning Irwin as the baseline against which to measure the urban consciousness of <persName>Young</persName>, <persName>Gwendolyn MacEwen</persName>, or <persName>Margaret Atwood</persName>, it might be time to adjust and re-apply the criteria of the interplay of diversity and the multiplicity and openness of place to resuscitate awareness of the career of this independent, strong-minded individual of great, unswerving conviction. If interest exists in what <persName>Ricoeur</persName> labelled a horizon of expectations, which <q>tends toward the breaking open of perspectives</q>
                                         <note place="inline">
                                             <bibl>209</bibl>
@@ -1716,6 +1716,95 @@
         "type": "crm:E74_Group",
         "label": "Canadian Broadcasting Corporation",
         "description": "Canadian public broadcaster"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/mHIBS8d2flY">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/mHIBS8d2flY",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:59:23.972Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Dav2jrnA4Sn",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Dav2jrnA4Sn/selector/textPosition/lNU3BofxNzh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 50072,
+                "end": 50075,
+                "refinedBy": {
+                    "id": "/target/Dav2jrnA4Sn/selector/textQuote/Q6aXJL8AeSl",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CBC",
+                    "prefix": " For today’s reader many topographical references also highlight what has changed: department stores have disappeared; the \n                                           ",
+                    "suffix": "                                         has a new gleaming location on Front Street West; and the Royal Ontario Museum now literally juts onto Bloor Street"
+                }
+            },
+            {
+                "id": "/target/Dav2jrnA4Sn/selector/css/Fp6Qd6k8Kzh",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/mHIBS8d2flY]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/144201535",
+        "type": "crm:E74_Group",
+        "label": "Société Radio-Canada",
+        "description": "Canadian Broadcasting Corporation."
     },
     "P2_has_type": [
         "oa:identifying"
