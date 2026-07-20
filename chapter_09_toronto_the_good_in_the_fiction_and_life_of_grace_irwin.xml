@@ -976,7 +976,7 @@
                     <listBibl>
                         <bibl>Ball, John Clement. <title level="a">Duelling and Dwelling in Toronto and London: Transnational Urbanism in Catherine Bush’s <title level="m">The Rules of Engagement</title>.</title>
                             <title level="m">Downtown <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/V6ibW366QFL">Canada</placeName>: Writing Canadian Cities.</title> Ed. Justin Edwards and Douglas Ivison. Toronto: <orgName key="University of Toronto. Press" ref="http://viaf.org/viaf/126595939" ana="webannotation:http://temp.lincsproject.ca/M8X5GHTgrDn">University of Toronto Press</orgName>, 2005. 183–96.</bibl>
-                        <bibl>Clark, C.S. <title level="m">Of Toronto the Good: A Social Study</title>. Montreal: Toronto Publishing Company, 1898.</bibl>
+                        <bibl>Clark, C.S. <title level="m">Of Toronto the Good: A Social Study</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/aJtmZDvFXum">Montreal</placeName>: Toronto Publishing Company, 1898.</bibl>
                         <bibl>Gilbert, Pamela K. <title level="a">Sex and the City: English Studies and the Spatial Turn.</title>
                             <title level="m">The Spatial Turn: Interdisciplinary Perspectives</title>. Ed. Barney Warf and Santa Arias. New York: <orgName key="Routledge" ref="http://viaf.org/viaf/146326081" ana="webannotation:http://temp.lincsproject.ca/1iQmDWEBciv">Routledge</orgName>, 2009. 102–21.</bibl>
                         <bibl>Grosz, Elizabeth. <title level="m">Space, Time, and Perversion: Essays on the Politics of Bodies</title>. New York: <orgName key="Routledge" ref="http://viaf.org/viaf/146326081" ana="webannotation:http://temp.lincsproject.ca/Mh8rF95RLUN">Routledge</orgName>, 1995.</bibl>
@@ -1271,6 +1271,95 @@
         "type": "crm:E74_Group",
         "label": "University of Toronto. Press",
         "description": "University of Toronto Press maison d'édition"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/aJtmZDvFXum">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/aJtmZDvFXum",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:13:57.888Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/CseNZlDzT3l",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/CseNZlDzT3l/selector/textPosition/ilixpNLihDB",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 52126,
+                "end": 52134,
+                "refinedBy": {
+                    "id": "/target/CseNZlDzT3l/selector/textQuote/bCn3pdApYwI",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Montreal",
+                    "prefix": "",
+                    "suffix": " Toronto Publishing Company, 1898"
+                }
+            },
+            {
+                "id": "/target/CseNZlDzT3l/selector/css/chzRzZc7hJF",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/aJtmZDvFXum]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6077243",
+        "type": "crm:E53_Place",
+        "label": "Montréal",
+        "description": "Quebec, Municipio E, CA"
     },
     "P2_has_type": [
         "oa:identifying"
