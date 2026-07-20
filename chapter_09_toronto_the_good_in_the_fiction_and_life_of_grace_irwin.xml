@@ -957,7 +957,7 @@
                             <ref target="#class_issue">
                                 <ref target="#race_issue">
                                     <ref target="#theme_or_topic">
-                                        <ref target="#genre_novel">In considering <persName>Irwin</persName>’s five <placeName>Toronto</placeName> novels, it is easy to itemize what is missing as historical and cultural landmarks: the eruption of <placeName>Yonge Street</placeName> for the subway line, the battles over the first leg of the Gardiner Expressway connecting downtown to the suburbs in the west, the opening of <orgName>York University</orgName>, the growth of racial diversity and visible minority neighbourhoods, the poetry reading scene at the <orgName>Bohemian Embassy</orgName>.</ref> Attitudinally there is little lament about the rise of carefree, conspicuous consumption or the sprawl of subdivisions like the <q>gilt-edged suburban labyrinth</q>
+                                        <ref target="#genre_novel">In considering <persName>Irwin</persName>’s five <placeName>Toronto</placeName> novels, it is easy to itemize what is missing as historical and cultural landmarks: the eruption of <placeName>Yonge Street</placeName> for the subway line, the battles over the first leg of <placeName key="Gardiner Expressway " ref="https://www.wikidata.org/wiki/Q1494126" ana="webannotation:http://temp.lincsproject.ca/OLsw2N0c92Y">the Gardiner Expressway</placeName> connecting downtown to the suburbs in the west, the opening of <orgName>York University</orgName>, the growth of racial diversity and visible minority neighbourhoods, the poetry reading scene at the <orgName>Bohemian Embassy</orgName>.</ref> Attitudinally there is little lament about the rise of carefree, conspicuous consumption or the sprawl of subdivisions like the <q>gilt-edged suburban labyrinth</q>
                                         <note place="inline">
                                             <bibl>Young 13</bibl>
                                         </note> from which <persName>Phyllis Brett Young</persName>’s heroine in <title level="m">The Torontonians</title> dreams of escape. For today’s reader many topographical references also highlight what has changed: department stores have disappeared; the <orgName>
@@ -1093,6 +1093,95 @@
         "type": "frbroo:F1",
         "label": "University of Toronto Quarterly",
         "description": "journal"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/OLsw2N0c92Y">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/OLsw2N0c92Y",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:15:55.269Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/pS7j5vucsEM",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/pS7j5vucsEM/selector/textPosition/PhvHFdAK2i7",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 49311,
+                "end": 49334,
+                "refinedBy": {
+                    "id": "/target/pS7j5vucsEM/selector/textQuote/pXn2uqMv5VK",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Gardiner Expressway",
+                    "prefix": "\n                            \n                        \n                    \n                \n                \n                    \n                        \n                            \n                                \n                                    \n                                        In considering Irwin’s five Toronto novels, it is easy to itemize what is missing as historical and cultural landmarks: the eruption of Yonge Street for the subway line, the battles over the first leg of",
+                    "suffix": "connecting downtown to the suburbs in the west, the opening of York University, the growth of racial diversity and visible minority neighbourhoods, the poetry reading scene at the Bohemian Embassy"
+                }
+            },
+            {
+                "id": "/target/pS7j5vucsEM/selector/css/Otpx9lvf983",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/OLsw2N0c92Y]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q1494126",
+        "label": "Gardiner Expressway ",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
