@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="http://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>-->
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><!--<?xml-model href="http://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>--><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -381,7 +377,7 @@
         </fileDesc>
         <encodingDesc>
             <projectDesc>
-                <p />
+                <p/>
             </projectDesc>
             <classDecl>
                 <taxonomy>
@@ -398,14 +394,14 @@
         </profileDesc>
         <revisionDesc>
             <list>
-                <byline />
-                <item />
+                <byline/>
+                <item/>
                 <index>
-                    <term />
+                    <term/>
                 </index>
-                <byline />
+                <byline/>
                 <index>
-                    <term />
+                    <term/>
                 </index>
             </list>
         </revisionDesc>
@@ -544,7 +540,7 @@
                                         <ref target="#genre_novel">
                                             <ref target="#childhood">The changing <placeName>Toronto</placeName> of <persName>Irwin</persName>’s novels is her city as well. Growing up in <q>a typical middle-class <placeName>West Toronto</placeName> Methodist</q>
                                                 <note place="inline">
-                                                    <bibl>Irwin, <title level="m">Three Lives</title>8</bibl>
+                                                    <bibl>Irwin, <title level="m">Three Lives </title>8</bibl>
                                                 </note> milieu, daughter of a schoolteacher mother and an <q>officer of the law</q>
                                                 <note place="inline">
                                                     <bibl>20</bibl>
@@ -996,7 +992,7 @@
                             <title level="m">Canadian Cities in Transition</title>. Ed. Trudi Bunting and Pierre Filion. Toronto: Oxford University Press, 1991. 59–99.</bibl>
                         <bibl>Neatby, Hilda. <title level="m">So Little for the Mind: An Indictment of Canadian Education</title>. Toronto: Clarke, Irwin, 1953.</bibl>
                         <bibl>Ricoeur, Paul. <title level="m">Time and Narrative</title>. Vol. 3. Trans. Kathleen Blamey and David Pellauer. Chicago: University of Chicago Press, 1985.</bibl>
-                        <bibl>Sassen, Saskia. <title level="m">Cities in a World Economy</title>. 3rd ed. Thousand Oaks, CA: Pine Forge Press, Sage Publications, 2006.</bibl>
+                        <bibl>Sassen, Saskia. <title level="m">Cities in a World Economy</title>. 3rd ed. Thousand Oaks, CA: Pine Forge Press, <orgName key="Sage Publishing" ref="http://www.wikidata.org/entity/Q251266" ana="webannotation:http://temp.lincsproject.ca/zBjz9Mpq23k">Sage Publications</orgName>, 2006.</bibl>
                         <bibl>Shakespeare, William. <title level="m">Henry V</title>. Ed. David Bevington. 6th ed. New York: Pearson Longman, 2009.</bibl>
                         <bibl>Smith, Michael Peter. <title level="m">Transnational Urbanism: Locating Globalization</title>. Malden, MA: Blackwell, 2001.</bibl>
                         <bibl>Squier, Susan Merrill, ed. Introduction. <title level="m">Women Writers and the City: Essays in Feminist Literary Criticism</title>. Knoxville: University of Tennessee Press, 1984. 3–10.</bibl>
@@ -1010,4 +1006,103 @@
             </div>
         </body>
     </text>
+	<standOff type="annotation">
+		
+<xenoData>
+			
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/zBjz9Mpq23k">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/zBjz9Mpq23k",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:08:56.630Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/h3VZysTFTGL",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/h3VZysTFTGL/selector/textPosition/UwekPRQJpnn",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 53959,
+                "end": 53976,
+                "refinedBy": {
+                    "id": "/target/h3VZysTFTGL/selector/textQuote/iWBX4xSYDqH",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Sage Publications",
+                    "prefix": " Thousand Oaks, CA: Pine Forge Press,",
+                    "suffix": " 2006"
+                }
+            },
+            {
+                "id": "/target/h3VZysTFTGL/selector/css/rOnMCJU4TPq",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/zBjz9Mpq23k]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q251266",
+        "type": "crm:E74_Group",
+        "label": "Sage Publishing",
+        "description": "U.S. scientific publisher"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+			
+</rdf:RDF>
+		
+</xenoData>
+	</standOff>
 </TEI>
