@@ -1000,7 +1000,7 @@
                             <title level="j"><orgName key="University of Toronto Quarterly" ref="http://www.wikidata.org/entity/Q7896494" ana="webannotation:http://temp.lincsproject.ca/aT5OLmJ9e4E">University of Toronto Quarterly</orgName></title> 30.4 (1960–61): 401–16.</bibl>
                         <bibl>Williams, Raymond. <title level="m">The Country and the City</title>. London: Chatto and Windus, 1973.</bibl>
                         <bibl>Wilson, Elizabeth. <title level="m">The Sphinx in the City: Urban Life, the Control of Disorder, and Women</title>. London: Virago Press, 1991.</bibl>
-                        <bibl>Young, Phyllis Brett. <title level="m">The Torontonians</title>. Intro. by Nathalie Cooke and Suzanne Morton. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/0IPXW2Pn1SV">Montreal</placeName> and <placeName key="Kingston" ref="https://sws.geonames.org/5992500" ana="webannotation:http://temp.lincsproject.ca/ckKHpHPKKVx">Kingston</placeName>: <orgName key="McGill-Queen's University Press" ref="http://www.wikidata.org/entity/Q6801272" ana="webannotation:http://temp.lincsproject.ca/oUeVA9g4aZi">McGill-Queen’s University Press</orgName>, 2007.</bibl>
+                        <bibl>Young, Phyllis Brett. <title level="m">The Torontonians</title>. Intro. by Nathalie Cooke and <persName key="Young, Phyllis Brett, 1914-1996" ref="http://viaf.org/viaf/85943575" ana="webannotation:http://temp.lincsproject.ca/7A0KBfgmlBr">Suzanne Morton</persName>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/0IPXW2Pn1SV">Montreal</placeName> and <placeName key="Kingston" ref="https://sws.geonames.org/5992500" ana="webannotation:http://temp.lincsproject.ca/ckKHpHPKKVx">Kingston</placeName>: <orgName key="McGill-Queen's University Press" ref="http://www.wikidata.org/entity/Q6801272" ana="webannotation:http://temp.lincsproject.ca/oUeVA9g4aZi">McGill-Queen’s University Press</orgName>, 2007.</bibl>
                     </listBibl>
                 </div>
             </div>
@@ -3236,6 +3236,95 @@
         "type": "crm:E74_Group",
         "label": "University of Tennessee Press.",
         "description": "University of Tennessee Press amerikanisches Verlagshaus"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/7A0KBfgmlBr">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/7A0KBfgmlBr",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T16:45:51.001Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/bmBcWt82Baf",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/bmBcWt82Baf/selector/textPosition/RbeqyF3lpCN",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 54876,
+                "end": 54890,
+                "refinedBy": {
+                    "id": "/target/bmBcWt82Baf/selector/textQuote/m5OovntHfL9",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Suzanne Morton",
+                    "prefix": " by Nathalie Cooke and",
+                    "suffix": " Montreal and Kingston: McGill-Queen’s University Press, 2007"
+                }
+            },
+            {
+                "id": "/target/bmBcWt82Baf/selector/css/a8ywZUBKURo",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/7A0KBfgmlBr]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/85943575",
+        "type": "crm:E21_Person",
+        "label": "Young, Phyllis Brett, 1914-1996",
+        "description": "Young, Phyllis Brett"
     },
     "P2_has_type": [
         "oa:identifying"
