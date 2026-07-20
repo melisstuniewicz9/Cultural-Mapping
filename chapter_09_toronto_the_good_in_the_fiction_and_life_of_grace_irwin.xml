@@ -627,7 +627,7 @@
                 <p xml:id="p1350">
                     <ref target="#characterization">
                         <ref target="#genre_novel">
-                            <ref target="#religion">Neither a romance nor the account of a flâneur, <title level="m">Least of All Saints</title> concerns the interplay of the city and human consciousness. Returning veteran, <orgName>Oxford</orgName> graduate, former employee of the <orgName>League of Nations</orgName>, Connington spends a lot of time walking—in search of himself, his vocation, his faith. Since his success as a preacher masks a lack of true conviction, faith follows vocation. <ref target="#spatiality">He saunters under the direction of the purposive narrator who has a direct line into his perceptions. Every point of his walking itinerary holds significance for this ruminative seeker—from the <placeName>Russell Hill Road</placeName> home he shares with his aunt and uncle, down <placeName>Avenue Road</placeName> to <placeName>Queen’s Park</placeName>, past the new <placeName>Hart House</placeName>, to <placeName><orgName key=" University College" ref="https://www.wikidata.org/wiki/Q3551334" ana="webannotation:http://temp.lincsproject.ca/qRIjswypkoH">University College</orgName></placeName>, <placeName>Gate House</placeName>, <placeName>Jackson Hall</placeName>, to <placeName>Victoria College chapel</placeName>, to <placeName>Shorncliffe United Church</placeName> (the stand-in for <orgName>Timothy Eaton Memorial Church</orgName>, perhaps), the prestigious scene of Connington’s first appointment as minister, and on to his delayed appearance at a <orgName><placeName key="Victoria University" ref="https://www.wikidata.org/wiki/Q3551503" ana="webannotation:http://temp.lincsproject.ca/FAdbGmOi0Ko">Victoria College</placeName></orgName> convocation at <placeName>Annesley Hall</placeName>, where he meets the Victoria graduate, <persName>Cecily Ridout</persName>, who very shortly will become his wife. Each locale is the occasion for learning more about his determination and priggishness.</ref>
+                            <ref target="#religion">Neither a romance nor the account of a flâneur, <title level="m">Least of All Saints</title> concerns the interplay of the city and human consciousness. Returning veteran, <orgName>Oxford</orgName> graduate, former employee of the <orgName>League of Nations</orgName>, Connington spends a lot of time walking—in search of himself, his vocation, his faith. Since his success as a preacher masks a lack of true conviction, faith follows vocation. <ref target="#spatiality">He saunters under the direction of the purposive narrator who has a direct line into his perceptions. Every point of his walking itinerary holds significance for this ruminative seeker—from the <placeName>Russell Hill Road</placeName> home he shares with his aunt and uncle, down <placeName>Avenue Road</placeName> to <placeName>Queen’s Park</placeName>, past the new <placeName>Hart House</placeName>, to <placeName><orgName key=" University College" ref="https://www.wikidata.org/wiki/Q3551334" ana="webannotation:http://temp.lincsproject.ca/qRIjswypkoH">University College</orgName></placeName>, <placeName>Gate House</placeName>, <placeName>Jackson Hall</placeName>, to <placeName>Victoria College chapel</placeName>, to <placeName>Shorncliffe United Church</placeName> (the stand-in for <orgName>Timothy Eaton Memorial Church</orgName>, perhaps), the prestigious scene of Connington’s first appointment as minister, and on to his delayed appearance at a <orgName><placeName key="Victoria University" ref="https://www.wikidata.org/wiki/Q3551503" ana="webannotation:http://temp.lincsproject.ca/FAdbGmOi0Ko">Victoria College</placeName></orgName> convocation at <placeName>Annesley Hall</placeName>, where he meets the <orgName key="Victoria University" ref="https://www.wikidata.org/wiki/Q3551503" ana="webannotation:http://temp.lincsproject.ca/KAdBPfeLMWi">Victoria</orgName> graduate, <persName>Cecily Ridout</persName>, who very shortly will become his wife. Each locale is the occasion for learning more about his determination and priggishness.</ref>
                                 <ref target="#education">He shocks his nominally observant relations with plans to study theology, expresses his intolerance for <q>the ‘arty’ set, a dreary imitation of sets he had seen in <placeName>England</placeName> the previous summer</q>
                                     <note place="inline">
                                         <bibl>
@@ -1449,6 +1449,95 @@
         "label": "Victoria University",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/KAdBPfeLMWi">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/KAdBPfeLMWi",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T16:13:45.625Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/T7qf3fwK9WC",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/T7qf3fwK9WC/selector/textPosition/OFeDtIcBdSf",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 18586,
+                "end": 18594,
+                "refinedBy": {
+                    "id": "/target/T7qf3fwK9WC/selector/textQuote/PKy0tNtQjXy",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Victoria",
+                    "prefix": " Every point of his walking itinerary holds significance for this ruminative seeker—from the Russell Hill Road home he shares with his aunt and uncle, down Avenue Road to Queen’s Park, past the new Hart House, to University College, Gate House, Jackson Hall, to Victoria College chapel, to Shorncliffe United Church (the stand-in for Timothy Eaton Memorial Church, perhaps), the prestigious scene of Connington’s first appointment as minister, and on to his delayed appearance at a Victoria College convocation at Annesley Hall, where he meets the",
+                    "suffix": "graduate, Cecily Ridout, who very shortly will become his wife"
+                }
+            },
+            {
+                "id": "/target/T7qf3fwK9WC/selector/css/qadrYIFNHTk",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/KAdBPfeLMWi]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q3551503",
+        "label": "Victoria University",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
