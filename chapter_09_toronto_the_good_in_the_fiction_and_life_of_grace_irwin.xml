@@ -1000,7 +1000,7 @@
                             <title level="j"><orgName key="University of Toronto Quarterly" ref="http://www.wikidata.org/entity/Q7896494" ana="webannotation:http://temp.lincsproject.ca/aT5OLmJ9e4E">University of Toronto Quarterly</orgName></title> 30.4 (1960–61): 401–16.</bibl>
                         <bibl>Williams, Raymond. <title level="m">The Country and the City</title>. London: Chatto and Windus, 1973.</bibl>
                         <bibl>Wilson, Elizabeth. <title level="m">The Sphinx in the City: Urban Life, the Control of Disorder, and Women</title>. London: Virago Press, 1991.</bibl>
-                        <bibl>Young, Phyllis Brett. <title level="m">The Torontonians</title>. Intro. by Nathalie Cooke and <persName key="Young, Phyllis Brett, 1914-1996" ref="http://viaf.org/viaf/85943575" ana="webannotation:http://temp.lincsproject.ca/7A0KBfgmlBr">Suzanne Morton</persName>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/0IPXW2Pn1SV">Montreal</placeName> and <placeName key="Kingston" ref="https://sws.geonames.org/5992500" ana="webannotation:http://temp.lincsproject.ca/ckKHpHPKKVx">Kingston</placeName>: <orgName key="McGill-Queen's University Press" ref="http://www.wikidata.org/entity/Q6801272" ana="webannotation:http://temp.lincsproject.ca/oUeVA9g4aZi">McGill-Queen’s University Press</orgName>, 2007.</bibl>
+                        <bibl>Young, Phyllis Brett. <title level="m">The Torontonians</title>. Intro. by Nathalie Cooke and <persName key="Morton, Suzanne, 1961-...." ref="http://viaf.org/viaf/119096230" ana="webannotation:http://temp.lincsproject.ca/1m0OODO2hW1">Suzanne Morton</persName>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/0IPXW2Pn1SV">Montreal</placeName> and <placeName key="Kingston" ref="https://sws.geonames.org/5992500" ana="webannotation:http://temp.lincsproject.ca/ckKHpHPKKVx">Kingston</placeName>: <orgName key="McGill-Queen's University Press" ref="http://www.wikidata.org/entity/Q6801272" ana="webannotation:http://temp.lincsproject.ca/oUeVA9g4aZi">McGill-Queen’s University Press</orgName>, 2007.</bibl>
                     </listBibl>
                 </div>
             </div>
@@ -3244,20 +3244,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/7A0KBfgmlBr">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/1m0OODO2hW1">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/7A0KBfgmlBr",
+    "id": "http://temp.lincsproject.ca/1m0OODO2hW1",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-07-20T16:45:51.001Z",
+    "created": "2026-07-20T16:46:53.533Z",
     "creator": {
         "id": "https://github.com/melisstuniewicz9",
         "type": "crm:E21_Person",
@@ -3317,14 +3317,22 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/7A0KBfgmlBr]"
+            },
+            {
+                "id": "/target/bmBcWt82Baf/selector/css/lXcs5wm4tBN",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/1m0OODO2hW1]"
             }
         ]
     },
     "body": {
-        "id": "http://viaf.org/viaf/85943575",
+        "id": "http://viaf.org/viaf/119096230",
         "type": "crm:E21_Person",
-        "label": "Young, Phyllis Brett, 1914-1996",
-        "description": "Young, Phyllis Brett"
+        "label": "Morton, Suzanne, 1961-....",
+        "description": "Morton, Suzanne"
     },
     "P2_has_type": [
         "oa:identifying"
