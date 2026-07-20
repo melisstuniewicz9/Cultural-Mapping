@@ -997,7 +997,7 @@
                         <bibl>Smith, Michael Peter. <title level="m">Transnational Urbanism: Locating Globalization</title>. Malden, MA: Blackwell, 2001.</bibl>
                         <bibl>Squier, Susan Merrill, ed. Introduction. <title level="m">Women Writers and the City: Essays in Feminist Literary Criticism</title>. Knoxville: <orgName key="University of Tennessee Press." ref="http://viaf.org/viaf/311353831" ana="webannotation:http://temp.lincsproject.ca/phhsN0R2peW">University of Tennessee Press</orgName>, 1984. 3–10.</bibl>
                         <bibl>Watt, F.W. <title level="a">Fiction.</title>
-                            <title level="j">University of Toronto Quarterly</title> 30.4 (1960–61): 401–16.</bibl>
+                            <title level="j"><orgName key="University of Toronto Quarterly" ref="http://www.wikidata.org/entity/Q7896494" ana="webannotation:http://temp.lincsproject.ca/aT5OLmJ9e4E">University of Toronto Quarterly</orgName></title> 30.4 (1960–61): 401–16.</bibl>
                         <bibl>Williams, Raymond. <title level="m">The Country and the City</title>. London: Chatto and Windus, 1973.</bibl>
                         <bibl>Wilson, Elizabeth. <title level="m">The Sphinx in the City: Urban Life, the Control of Disorder, and Women</title>. London: Virago Press, 1991.</bibl>
                         <bibl>Young, Phyllis Brett. <title level="m">The Torontonians</title>. Intro. by Nathalie Cooke and Suzanne Morton. Montreal and Kingston: <orgName key="McGill-Queen's University Press" ref="http://www.wikidata.org/entity/Q6801272" ana="webannotation:http://temp.lincsproject.ca/oUeVA9g4aZi">McGill-Queen’s University Press</orgName>, 2007.</bibl>
@@ -1011,6 +1011,95 @@
 <xenoData>
 			
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/aT5OLmJ9e4E">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/aT5OLmJ9e4E",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:10:52.053Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Ovuzw99LJMJ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Ovuzw99LJMJ/selector/textPosition/DFCb2ZGTFvG",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 54482,
+                "end": 54513,
+                "refinedBy": {
+                    "id": "/target/Ovuzw99LJMJ/selector/textQuote/VtyVfnz7Uqs",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "University of Toronto Quarterly",
+                    "prefix": "\n                           ",
+                    "suffix": "30"
+                }
+            },
+            {
+                "id": "/target/Ovuzw99LJMJ/selector/css/eQQDBxInjMz",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/aT5OLmJ9e4E]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q7896494",
+        "type": "frbroo:F1",
+        "label": "University of Toronto Quarterly",
+        "description": "journal"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/eIgkY7YSl6b">
 <![CDATA[{
