@@ -779,7 +779,7 @@
                                         <note place="inline">
                                             <bibl>
                                                 <title level="m">Contend with Horses</title> 69</bibl>
-                                        </note>. Called away from a lecture at <placeName>Victoria College chapel</placeName> to the emergency ward at <placeName>St. Joseph’s Hospital</placeName> where he learns of Cecily’s death at the outset, to putting down the telephone after having rejected re-marriage at the close, Connington faces a changed city throughout the novel. As the escort and guest of the widowed Beth at the opening night of <title level="m">King John</title> at the <placeName>Stratford Shakespeare Festival</placeName>, he senses more than <q>the anguish of <persName>Constance</persName> and the fearful innocence of <persName>Arthur</persName>
+                                        </note>. Called away from a lecture at <placeName>Victoria College chapel</placeName> to the emergency ward at <placeName><orgName key="St. Joseph's Hospital and Medical Center" ref="http://viaf.org/viaf/141886643" ana="webannotation:http://temp.lincsproject.ca/15tqFHIg9f6">St. Joseph’s Hospital</orgName></placeName> where he learns of Cecily’s death at the outset, to putting down the telephone after having rejected re-marriage at the close, Connington faces a changed city throughout the novel. As the escort and guest of the widowed Beth at the opening night of <title level="m">King John</title> at the <placeName>Stratford Shakespeare Festival</placeName>, he senses more than <q>the anguish of <persName>Constance</persName> and the fearful innocence of <persName>Arthur</persName>
                                         </q>
                                         <note place="inline">
                                             <bibl>108</bibl>
@@ -1627,6 +1627,95 @@
         "label": "Victoria University",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/15tqFHIg9f6">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/15tqFHIg9f6",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:59:36.965Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/MoLu94DHoMf",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/MoLu94DHoMf/selector/textPosition/63mSCpkpzzZ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 33089,
+                "end": 33110,
+                "refinedBy": {
+                    "id": "/target/MoLu94DHoMf/selector/textQuote/0ibQZwgBoMF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "St. Joseph’s Hospital",
+                    "prefix": " Called away from a lecture at Victoria College chapel to the emergency ward at",
+                    "suffix": "where he learns of Cecily’s death at the outset, to putting down the telephone after having rejected re-marriage at the close, Connington faces a changed city throughout the novel"
+                }
+            },
+            {
+                "id": "/target/MoLu94DHoMf/selector/css/IfTDizZ064E",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/15tqFHIg9f6]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/141886643",
+        "type": "crm:E74_Group",
+        "label": "St. Joseph's Hospital and Medical Center",
+        "description": "Saint Joseph's Hospital and Medical Center Phoenix, Ariz"
     },
     "P2_has_type": [
         "oa:identifying"
