@@ -988,7 +988,7 @@
                         <bibl>. <title level="m">The Seventh Earl: A Dramatized Biography</title>. <placeName key="Grand Rapids" ref="https://sws.geonames.org/4994359" ana="webannotation:http://temp.lincsproject.ca/rKgvdSbndMy">Grand Rapids</placeName>, MI: <orgName key="Wm. B. Eerdmans Publishing Co." ref="http://viaf.org/viaf/126651989" ana="webannotation:http://temp.lincsproject.ca/oqDpydxG71x">William B. Eerdmans Publishing Company</orgName>, 1976.</bibl>
                         <bibl>. <title level="m">Three Lives in Mine</title>. Toronto: Irwin Publishing, 1986.</bibl>
                         <bibl>Massey, Doreen. <title level="m">World City</title>. Cambridge: <orgName key="Polity Press." ref="http://viaf.org/viaf/143396152" ana="webannotation:http://temp.lincsproject.ca/uBTHOD11BWp">Polity Press</orgName>, 2007.</bibl>
-                        <bibl>McCann, <persName key="McCann, L.D. (Lawrence Douglas), 1945-" ref="http://viaf.org/viaf/90961088" ana="webannotation:http://temp.lincsproject.ca/VKDkPmJzHej">Larry D.</persName>, and Peter J. Smith. <title level="a"><placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/3oKfmLpb6LQ">Canada</placeName> Becomes Urban: Cities and Urbanization in Historical Perspective.</title>
+                        <bibl><persName key="McCann, L.D. (Lawrence Douglas), 1945-" ref="http://viaf.org/viaf/90961088" ana="webannotation:http://temp.lincsproject.ca/x63kPwAwP7i">McCann</persName>, <persName key="McCann, L.D. (Lawrence Douglas), 1945-" ref="http://viaf.org/viaf/90961088" ana="webannotation:http://temp.lincsproject.ca/VKDkPmJzHej">Larry D.</persName>, and Peter J. Smith. <title level="a"><placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/3oKfmLpb6LQ">Canada</placeName> Becomes Urban: Cities and Urbanization in Historical Perspective.</title>
                             <title level="m">Canadian Cities in Transition</title>. Ed. Trudi Bunting and Pierre Filion. Toronto: <orgName key="Oxford University Press." ref="http://viaf.org/viaf/140705396" ana="webannotation:http://temp.lincsproject.ca/UCVeas9p7pD">Oxford University Press</orgName>, 1991. 59–99.</bibl>
                         <bibl>Neatby, Hilda. <title level="m">So Little for the Mind: An Indictment of Canadian Education</title>. Toronto: Clarke, Irwin, 1953.</bibl>
                         <bibl>Ricoeur, <persName key="Ricœur, Paul, 1913-2005" ref="http://viaf.org/viaf/108266369" ana="webannotation:http://temp.lincsproject.ca/ukgB3Fr3xio">Paul</persName>. <title level="m">Time and Narrative</title>. Vol. 3. Trans. <persName key="Blamey, Kathleen." ref="http://viaf.org/viaf/24318319" ana="webannotation:http://temp.lincsproject.ca/LqHjcBP0jPw">Kathleen Blamey</persName> and <persName key="Pellauer, David" ref="http://viaf.org/viaf/61481873" ana="webannotation:http://temp.lincsproject.ca/STg0KY4Nael">David Pellauer</persName>. <placeName key="Chicago" ref="https://sws.geonames.org/4887398" ana="webannotation:http://temp.lincsproject.ca/bC6hpLNYGXE">Chicago</placeName>: <orgName key="University of Chicago. Press" ref="http://viaf.org/viaf/122888939" ana="webannotation:http://temp.lincsproject.ca/eIgkY7YSl6b">University of Chicago Press</orgName>, 1985.</bibl>
@@ -1093,6 +1093,95 @@
         "type": "crm:E53_Place",
         "label": "Greater Toronto Area",
         "description": "Ontario, Kabupaten Magetan, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/x63kPwAwP7i">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/x63kPwAwP7i",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T18:23:20.246Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Ewj2sk91M9D",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Ewj2sk91M9D/selector/textPosition/QMtwgUdTOdI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 53309,
+                "end": 53315,
+                "refinedBy": {
+                    "id": "/target/Ewj2sk91M9D/selector/textQuote/KuBTSv1C5Ur",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McCann",
+                    "prefix": "\n                       ",
+                    "suffix": " Larry D"
+                }
+            },
+            {
+                "id": "/target/Ewj2sk91M9D/selector/css/jd2zOXBSfPs",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/x63kPwAwP7i]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/90961088",
+        "type": "crm:E21_Person",
+        "label": "McCann, L.D. (Lawrence Douglas), 1945-",
+        "description": "McCann, Lawrence Douglas, 1945-...."
     },
     "P2_has_type": [
         "oa:identifying"
