@@ -636,7 +636,7 @@
                                     <note place="inline">
                                         <bibl>111</bibl>
                                     </note>
-                                </ref>. He is aware, too, of the power of his intellect to deceive. With <q>a certain ironic humour</q> he entertains his uncle by recounting how he repeated the Apostles’ Creed <q>prefacing each clause with <ab xml:lang="la-VA">Non credo</ab>
+                                </ref>. He is aware, too, of the power of his intellect to deceive. With <q>a certain ironic humour</q> he entertains his uncle by recounting how he repeated <title key="The Apostles' Creed" ref="http://www.wikidata.org/entity/Q127423551" ana="webannotation:http://temp.lincsproject.ca/46lVk8TVLAs">the Apostles’ Creed</title> <q>prefacing each clause with <ab xml:lang="la-VA">Non credo</ab>
                                 </q>
                                 <note place="inline">
                                     <bibl>28</bibl>
@@ -1805,6 +1805,95 @@
         "label": "Victoria University",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/46lVk8TVLAs">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/46lVk8TVLAs",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T17:23:45.725Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/pEEh8rspo48",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/pEEh8rspo48/selector/textPosition/pvruVIlxjiT",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 19652,
+                "end": 19671,
+                "refinedBy": {
+                    "id": "/target/pEEh8rspo48/selector/textQuote/NA9dwIi2SUE",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Apostles’ Creed",
+                    "prefix": " With a certain ironic humour he entertains his uncle by recounting how he repeated",
+                    "suffix": "prefacing each clause with Non credo\n                                \n                                \n                                    28\n                                "
+                }
+            },
+            {
+                "id": "/target/pEEh8rspo48/selector/css/1fWGnA3rNv5",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/46lVk8TVLAs]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q127423551",
+        "type": "frbroo:F1",
+        "label": "The Apostles' Creed",
+        "description": "Christian hymn text"
     },
     "P2_has_type": [
         "oa:identifying"
