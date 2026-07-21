@@ -995,7 +995,7 @@
                         <bibl><persName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/o1xLQhFfHUi">Sassen</persName>, <persName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/ptQEwmIkVQX">Saskia</persName>. <title level="m">Cities in a World Economy</title>. 3rd ed. Thousand Oaks, CA: <orgName key="Pine Forge Press." ref="http://viaf.org/viaf/144396781" ana="webannotation:http://temp.lincsproject.ca/Vr5yfRnsRkq">Pine Forge Press</orgName>, <orgName key="Sage Publishing" ref="http://www.wikidata.org/entity/Q251266" ana="webannotation:http://temp.lincsproject.ca/zBjz9Mpq23k">Sage Publications</orgName>, 2006.</bibl>
                         <bibl><persName key="Shakespeare, William, 1564-1616." ref="http://viaf.org/viaf/96994048" ana="webannotation:http://temp.lincsproject.ca/quzchslcxU0">Shakespeare</persName>, <persName key="Shakespeare, William, 1564-1616." ref="http://viaf.org/viaf/96994048" ana="webannotation:http://temp.lincsproject.ca/zGYAjmzD0B8">William</persName>. <title level="m">Henry V</title>. Ed. <persName key="Bevington, David M." ref="http://viaf.org/viaf/108386749" ana="webannotation:http://temp.lincsproject.ca/s7lQ7CFHQk4">David Bevington</persName>. 6th ed. New York: <orgName key="Longman (Firm)" ref="http://viaf.org/viaf/316750509" ana="webannotation:http://temp.lincsproject.ca/qcM5YpQQlkA">Pearson Longman</orgName>, 2009.</bibl>
                         <bibl><persName key="Smith, Michael P." ref="http://viaf.org/viaf/108768118" ana="webannotation:http://temp.lincsproject.ca/GBMaZlAYgVi">Smith</persName>, <persName key="Smith, Michael P." ref="http://viaf.org/viaf/108768118" ana="webannotation:http://temp.lincsproject.ca/iXWyd0gZ5JW">Michael Peter</persName>. <title level="m">Transnational Urbanism: Locating Globalization</title>. <placeName key="Malden" ref="https://sws.geonames.org/4942939" ana="webannotation:http://temp.lincsproject.ca/SMjQPH0vmuw">Malden</placeName>, <title key="Massachusetts" ref="https://sws.geonames.org/6254926" ana="webannotation:http://temp.lincsproject.ca/7MlvlOyhJsk">MA</title>: <orgName key="Blackwell Publishing Ltd." ref="http://viaf.org/viaf/135219350" ana="webannotation:http://temp.lincsproject.ca/jGPYZoa3ScC">Blackwell</orgName>, 2001.</bibl>
-                        <bibl>Squier, <persName key="Squier, Susan Merrill" ref="http://viaf.org/viaf/19802113" ana="webannotation:http://temp.lincsproject.ca/GYbsdguXAE7">Susan Merrill</persName>, ed. Introduction. <title level="m">Women Writers and the City: Essays in Feminist Literary Criticism</title>. <placeName key="Knoxville" ref="http://www.wikidata.org/entity/Q185582" ana="webannotation:http://temp.lincsproject.ca/HIVS0yDBf3p">Knoxville</placeName>: <orgName key="University of Tennessee Press." ref="http://viaf.org/viaf/311353831" ana="webannotation:http://temp.lincsproject.ca/phhsN0R2peW">University of Tennessee Press</orgName>, 1984. 3–10.</bibl>
+                        <bibl><persName key="Squier, Susan Merrill" ref="http://viaf.org/viaf/19802113" ana="webannotation:http://temp.lincsproject.ca/ticxJL8ZDfm">Squier</persName>, <persName key="Squier, Susan Merrill" ref="http://viaf.org/viaf/19802113" ana="webannotation:http://temp.lincsproject.ca/GYbsdguXAE7">Susan Merrill</persName>, ed. Introduction. <title level="m">Women Writers and the City: Essays in Feminist Literary Criticism</title>. <placeName key="Knoxville" ref="http://www.wikidata.org/entity/Q185582" ana="webannotation:http://temp.lincsproject.ca/HIVS0yDBf3p">Knoxville</placeName>: <orgName key="University of Tennessee Press." ref="http://viaf.org/viaf/311353831" ana="webannotation:http://temp.lincsproject.ca/phhsN0R2peW">University of Tennessee Press</orgName>, 1984. 3–10.</bibl>
                         <bibl>Watt, F.W. <title level="a">Fiction.</title>
                             <title level="j"><orgName key="University of Toronto Quarterly" ref="http://www.wikidata.org/entity/Q7896494" ana="webannotation:http://temp.lincsproject.ca/aT5OLmJ9e4E">University of Toronto Quarterly</orgName></title> 30.4 (1960–61): 401–16.</bibl>
                         <bibl><persName key="Williams, Raymond, 1921-1988." ref="http://viaf.org/viaf/87380498" ana="webannotation:http://temp.lincsproject.ca/ljEWjeNvpo3">Williams</persName>, <persName key="Williams, Raymond, 1921-1988." ref="http://viaf.org/viaf/87380498" ana="webannotation:http://temp.lincsproject.ca/92BRHSgXRKF">Raymond</persName>. <title level="m">The Country and the City</title>. London: <orgName key="Chatto &amp; Windus." ref="http://viaf.org/viaf/131167970" ana="webannotation:http://temp.lincsproject.ca/XOpleA6eFIj">Chatto and Windus</orgName>, 1973.</bibl>
@@ -6527,6 +6527,95 @@
         "label": "Blackwell Publishing Ltd.",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ticxJL8ZDfm">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ticxJL8ZDfm",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T18:36:34.418Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Z3ZDIRIudE5",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Z3ZDIRIudE5/selector/textPosition/mZzGaQ8bFtk",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 54248,
+                "end": 54254,
+                "refinedBy": {
+                    "id": "/target/Z3ZDIRIudE5/selector/textQuote/hun02SaxGVP",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Squier",
+                    "prefix": "\n                       ",
+                    "suffix": " Susan Merrill, ed"
+                }
+            },
+            {
+                "id": "/target/Z3ZDIRIudE5/selector/css/qEbriKXElvv",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ticxJL8ZDfm]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/19802113",
+        "type": "crm:E21_Person",
+        "label": "Squier, Susan Merrill",
+        "description": "Squier, Susan Merrill, 1950-...."
     },
     "P2_has_type": [
         "oa:identifying"
