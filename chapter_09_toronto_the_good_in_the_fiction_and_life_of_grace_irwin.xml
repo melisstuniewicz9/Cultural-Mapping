@@ -987,7 +987,7 @@
                         <bibl>. <title level="m">Least of All Saints</title>. Toronto: McClelland and Stewart, 1952.</bibl>
                         <bibl>. <title level="m">The Seventh Earl: A Dramatized Biography</title>. <placeName key="Grand Rapids" ref="https://sws.geonames.org/4994359" ana="webannotation:http://temp.lincsproject.ca/rKgvdSbndMy">Grand Rapids</placeName>, MI: <orgName key="Wm. B. Eerdmans Publishing Co." ref="http://viaf.org/viaf/126651989" ana="webannotation:http://temp.lincsproject.ca/oqDpydxG71x">William B. Eerdmans Publishing Company</orgName>, 1976.</bibl>
                         <bibl>. <title level="m">Three Lives in Mine</title>. Toronto: Irwin Publishing, 1986.</bibl>
-                        <bibl>Massey, Doreen. <title level="m">World City</title>. Cambridge: <orgName key="Polity Press." ref="http://viaf.org/viaf/143396152" ana="webannotation:http://temp.lincsproject.ca/uBTHOD11BWp">Polity Press</orgName>, 2007.</bibl>
+                        <bibl><orgName key="Massey, Doreen B." ref="http://viaf.org/viaf/108499781" ana="webannotation:http://temp.lincsproject.ca/LdCBT5BbXWt">Massey, Doreen</orgName>. <title level="m">World City</title>. Cambridge: <orgName key="Polity Press." ref="http://viaf.org/viaf/143396152" ana="webannotation:http://temp.lincsproject.ca/uBTHOD11BWp">Polity Press</orgName>, 2007.</bibl>
                         <bibl><persName key="McCann, L.D. (Lawrence Douglas), 1945-" ref="http://viaf.org/viaf/90961088" ana="webannotation:http://temp.lincsproject.ca/x63kPwAwP7i">McCann</persName>, <persName key="McCann, L.D. (Lawrence Douglas), 1945-" ref="http://viaf.org/viaf/90961088" ana="webannotation:http://temp.lincsproject.ca/VKDkPmJzHej">Larry D.</persName>, and Peter J. Smith. <title level="a"><placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/3oKfmLpb6LQ">Canada</placeName> Becomes Urban: Cities and Urbanization in Historical Perspective.</title>
                             <title level="m">Canadian Cities in Transition</title>. Ed. <persName key="Bunting, Trudi E., 1944-...." ref="http://viaf.org/viaf/111875929" ana="webannotation:http://temp.lincsproject.ca/AKz1qSZpdrc">Trudi Bunting</persName> and <persName key="Filion, Pierre, 1952-...." ref="http://viaf.org/viaf/61608011" ana="webannotation:http://temp.lincsproject.ca/20Geho4q8dt">Pierre Filion</persName>. Toronto: <orgName key="Oxford University Press." ref="http://viaf.org/viaf/140705396" ana="webannotation:http://temp.lincsproject.ca/UCVeas9p7pD">Oxford University Press</orgName>, 1991. 59–99.</bibl>
                         <bibl>Neatby, Hilda. <title level="m">So Little for the Mind: An Indictment of Canadian Education</title>. Toronto: Clarke, Irwin, 1953.</bibl>
@@ -3940,6 +3940,95 @@
         "type": "crm:E74_Group",
         "label": "Wm. B. Eerdmans Publishing Co.",
         "description": "William B. Eerdmans Publishing Company American publishing house"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/LdCBT5BbXWt">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/LdCBT5BbXWt",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T18:26:52.138Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/DbFlNIk3zCS",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/DbFlNIk3zCS/selector/textPosition/MEcmF0SNk4g",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 53226,
+                "end": 53240,
+                "refinedBy": {
+                    "id": "/target/DbFlNIk3zCS/selector/textQuote/GYk8pH17ZVe",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Massey, Doreen",
+                    "prefix": "\n                       ",
+                    "suffix": " World City"
+                }
+            },
+            {
+                "id": "/target/DbFlNIk3zCS/selector/css/9bs0bRyOyhK",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/LdCBT5BbXWt]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/108499781",
+        "type": "crm:E21_Person",
+        "label": "Massey, Doreen B.",
+        "description": "Massey, Doreen Barbara, 1944-2016"
     },
     "P2_has_type": [
         "oa:identifying"
