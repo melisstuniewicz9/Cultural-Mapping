@@ -983,7 +983,7 @@
                         <bibl>Irwin, Grace. <title level="m">Andrew Connington</title>. Toronto: McClelland and Stewart, 1954.</bibl>
                         <bibl>. <title level="m">Compensation</title>. Belleville, ON: Epic Press, 2003.</bibl>
                         <bibl>. <title level="m">Contend with Horses</title>. Toronto: McClelland and Stewart, 1969.</bibl>
-                        <bibl>. <title level="m">In Little Place</title>. <placeName key="Grand Rapids" ref="https://sws.geonames.org/4994359" ana="webannotation:http://temp.lincsproject.ca/Af1U5Pp79m4">Grand Rapids</placeName>, <placeName key="Michigan" ref="https://sws.geonames.org/5001836" ana="webannotation:http://temp.lincsproject.ca/EL8jOliK00P">MI</placeName>: W.B. Eerdmans Publishing Company, 1959.</bibl>
+                        <bibl>. <title level="m">In Little Place</title>. <placeName key="Grand Rapids" ref="https://sws.geonames.org/4994359" ana="webannotation:http://temp.lincsproject.ca/Af1U5Pp79m4">Grand Rapids</placeName>, <placeName key="Michigan" ref="https://sws.geonames.org/5001836" ana="webannotation:http://temp.lincsproject.ca/EL8jOliK00P">MI</placeName>: <orgName key="Wm. B. Eerdmans Publishing Co." ref="http://viaf.org/viaf/126651989" ana="webannotation:http://temp.lincsproject.ca/UI2JIskHjaV">W.B. Eerdmans Publishing Company</orgName>, 1959.</bibl>
                         <bibl>. <title level="m">Least of All Saints</title>. Toronto: McClelland and Stewart, 1952.</bibl>
                         <bibl>. <title level="m">The Seventh Earl: A Dramatized Biography</title>. <placeName key="Grand Rapids" ref="https://sws.geonames.org/4994359" ana="webannotation:http://temp.lincsproject.ca/rKgvdSbndMy">Grand Rapids</placeName>, MI: <orgName key="Wm. B. Eerdmans Publishing Co." ref="http://viaf.org/viaf/126651989" ana="webannotation:http://temp.lincsproject.ca/oqDpydxG71x">William B. Eerdmans Publishing Company</orgName>, 1976.</bibl>
                         <bibl>. <title level="m">Three Lives in Mine</title>. Toronto: Irwin Publishing, 1986.</bibl>
@@ -3673,6 +3673,95 @@
         "type": "crm:E53_Place",
         "label": "Michigan",
         "description": "Michigan, US"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/UI2JIskHjaV">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/UI2JIskHjaV",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T18:17:18.161Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/uPsFnYfjyDO",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/uPsFnYfjyDO/selector/textPosition/3ybExFZQLbc",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 52864,
+                "end": 52896,
+                "refinedBy": {
+                    "id": "/target/uPsFnYfjyDO/selector/textQuote/vT8P61jozbg",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "W.B. Eerdmans Publishing Company",
+                    "prefix": " Grand Rapids, MI:",
+                    "suffix": " 1959"
+                }
+            },
+            {
+                "id": "/target/uPsFnYfjyDO/selector/css/FkI3CWym8x0",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/UI2JIskHjaV]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/126651989",
+        "type": "crm:E74_Group",
+        "label": "Wm. B. Eerdmans Publishing Co.",
+        "description": "William B. Eerdmans Publishing Company American publishing house"
     },
     "P2_has_type": [
         "oa:identifying"
