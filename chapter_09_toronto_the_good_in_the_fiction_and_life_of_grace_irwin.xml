@@ -998,7 +998,7 @@
                         <bibl>Squier, Susan Merrill, ed. Introduction. <title level="m">Women Writers and the City: Essays in Feminist Literary Criticism</title>. <placeName key="Knoxville" ref="http://www.wikidata.org/entity/Q185582" ana="webannotation:http://temp.lincsproject.ca/HIVS0yDBf3p">Knoxville</placeName>: <orgName key="University of Tennessee Press." ref="http://viaf.org/viaf/311353831" ana="webannotation:http://temp.lincsproject.ca/phhsN0R2peW">University of Tennessee Press</orgName>, 1984. 3–10.</bibl>
                         <bibl>Watt, F.W. <title level="a">Fiction.</title>
                             <title level="j"><orgName key="University of Toronto Quarterly" ref="http://www.wikidata.org/entity/Q7896494" ana="webannotation:http://temp.lincsproject.ca/aT5OLmJ9e4E">University of Toronto Quarterly</orgName></title> 30.4 (1960–61): 401–16.</bibl>
-                        <bibl>Williams, Raymond. <title level="m">The Country and the City</title>. London: <orgName key="Chatto &amp; Windus." ref="http://viaf.org/viaf/131167970" ana="webannotation:http://temp.lincsproject.ca/XOpleA6eFIj">Chatto and Windus</orgName>, 1973.</bibl>
+                        <bibl>Williams, <persName key="Williams, Raymond, 1921-1988." ref="http://viaf.org/viaf/87380498" ana="webannotation:http://temp.lincsproject.ca/92BRHSgXRKF">Raymond</persName>. <title level="m">The Country and the City</title>. London: <orgName key="Chatto &amp; Windus." ref="http://viaf.org/viaf/131167970" ana="webannotation:http://temp.lincsproject.ca/XOpleA6eFIj">Chatto and Windus</orgName>, 1973.</bibl>
                         <bibl>Wilson, Elizabeth. <title level="m"><title key="The sphinx in the city: urban life, the control of disorder, and women" ref="http://www.wikidata.org/entity/Q140123762" ana="webannotation:http://temp.lincsproject.ca/MQyhQ9H9kv3">The Sphinx in the City</title>: Urban Life, the Control of Disorder, and Women</title>. London: <orgName key="Virago press" ref="http://viaf.org/viaf/170596537" ana="webannotation:http://temp.lincsproject.ca/ZtC8xoIB0QR">Virago Press</orgName>, 1991.</bibl>
                         <bibl>Young, <persName key="Young, Phyllis Brett, 1914-1996" ref="http://viaf.org/viaf/85943575" ana="webannotation:http://temp.lincsproject.ca/SFbsbSyfMCZ">Phyllis Brett</persName>. <title level="m">The Torontonians</title>. Intro. by <persName key="Cooke, Nathalie." ref="http://viaf.org/viaf/7543066" ana="webannotation:http://temp.lincsproject.ca/YFO9MxRrTBo">Nathalie Cooke</persName> and <persName key="Morton, Suzanne, 1961-...." ref="http://viaf.org/viaf/119096230" ana="webannotation:http://temp.lincsproject.ca/1m0OODO2hW1">Suzanne Morton</persName>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/0IPXW2Pn1SV">Montreal</placeName> and <placeName key="Kingston" ref="https://sws.geonames.org/5992500" ana="webannotation:http://temp.lincsproject.ca/ckKHpHPKKVx">Kingston</placeName>: <orgName key="McGill-Queen's University Press" ref="http://www.wikidata.org/entity/Q6801272" ana="webannotation:http://temp.lincsproject.ca/oUeVA9g4aZi">McGill-Queen’s University Press</orgName>, 2007.</bibl>
                     </listBibl>
@@ -6705,6 +6705,95 @@
         "type": "crm:E74_Group",
         "label": "University of Tennessee Press.",
         "description": "University of Tennessee Press amerikanisches Verlagshaus"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/92BRHSgXRKF">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/92BRHSgXRKF",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T18:35:59.573Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/5Zej3vRsM2r",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/5Zej3vRsM2r/selector/textPosition/hpIuq3AyusI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 54572,
+                "end": 54579,
+                "refinedBy": {
+                    "id": "/target/5Zej3vRsM2r/selector/textQuote/TT1Z9zoCH2W",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Raymond",
+                    "prefix": "\n                        Williams,",
+                    "suffix": " The Country and the City"
+                }
+            },
+            {
+                "id": "/target/5Zej3vRsM2r/selector/css/TYPaB8s9F0N",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/92BRHSgXRKF]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/87380498",
+        "type": "crm:E21_Person",
+        "label": "Williams, Raymond, 1921-1988.",
+        "description": "Williams, Raymond"
     },
     "P2_has_type": [
         "oa:identifying"
