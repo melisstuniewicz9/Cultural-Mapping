@@ -429,7 +429,7 @@
                                 <bibl>239</bibl>
                             </note> often leads to a series of polarizations—between <q>core and periphery, metropolis and hinterland, or centre and margin</q>
                             <note place="inline">
-                                <bibl>McCann and Smith 70</bibl>
+                                <bibl><persName key="McCann, L.D. (Lawrence Douglas), 1945-" ref="http://viaf.org/viaf/90961088" ana="webannotation:http://temp.lincsproject.ca/gIENN4fLiDU">McCann</persName> and Smith 70</bibl>
                             </note>
                         </ref>. The porosity or openness of the city is an influential matter of debate. <ref target="#representation_of_women">For women citizens, in particular, the city as a <q>cultural artifact</q> can exclude their participation and also free them <q>for the first time from their isolation in the private home</q>
                             <note place="inline">
@@ -1093,6 +1093,95 @@
         "type": "crm:E53_Place",
         "label": "Greater Toronto Area",
         "description": "Ontario, Kabupaten Magetan, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/gIENN4fLiDU">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/gIENN4fLiDU",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T18:43:02.291Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/TDe2FcJSD5b",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/TDe2FcJSD5b/selector/textPosition/MaA22pCwwBO",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 1635,
+                "end": 1641,
+                "refinedBy": {
+                    "id": "/target/TDe2FcJSD5b/selector/textQuote/SIjJFye176g",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McCann",
+                    "prefix": "\n                        \n                    \n                \n                \n                    \n                        In the realms of the scalar geographical imagination, Raymond Williams’s formula for the city as the physical embodiment of a decisive modern consciousness\n                            \n                                239\n                             often leads to a series of polarizations—between core and periphery, metropolis and hinterland, or centre and margin\n                            \n                               ",
+                    "suffix": "and Smith 70\n                            \n                        "
+                }
+            },
+            {
+                "id": "/target/TDe2FcJSD5b/selector/css/shjMHeJAMRM",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/gIENN4fLiDU]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/90961088",
+        "type": "crm:E21_Person",
+        "label": "McCann, L.D. (Lawrence Douglas), 1945-",
+        "description": "McCann, Lawrence Douglas, 1945-...."
     },
     "P2_has_type": [
         "oa:identifying"
