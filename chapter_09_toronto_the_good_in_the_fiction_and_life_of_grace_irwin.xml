@@ -989,7 +989,7 @@
                         <bibl>. <title level="m">Three Lives in Mine</title>. Toronto: Irwin Publishing, 1986.</bibl>
                         <bibl>Massey, Doreen. <title level="m">World City</title>. Cambridge: Polity Press, 2007.</bibl>
                         <bibl>McCann, Larry D., and Peter J. Smith. <title level="a"><placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/3oKfmLpb6LQ">Canada</placeName> Becomes Urban: Cities and Urbanization in Historical Perspective.</title>
-                            <title level="m">Canadian Cities in Transition</title>. Ed. Trudi Bunting and Pierre Filion. Toronto: Oxford University Press, 1991. 59–99.</bibl>
+                            <title level="m">Canadian Cities in Transition</title>. Ed. Trudi Bunting and Pierre Filion. Toronto: <orgName key="Oxford University Press." ref="http://viaf.org/viaf/140705396" ana="webannotation:http://temp.lincsproject.ca/UCVeas9p7pD">Oxford University Press</orgName>, 1991. 59–99.</bibl>
                         <bibl>Neatby, Hilda. <title level="m">So Little for the Mind: An Indictment of Canadian Education</title>. Toronto: Clarke, Irwin, 1953.</bibl>
                         <bibl>Ricoeur, <persName key="Ricœur, Paul, 1913-2005" ref="http://viaf.org/viaf/108266369" ana="webannotation:http://temp.lincsproject.ca/ukgB3Fr3xio">Paul</persName>. <title level="m">Time and Narrative</title>. Vol. 3. Trans. <persName key="Blamey, Kathleen." ref="http://viaf.org/viaf/24318319" ana="webannotation:http://temp.lincsproject.ca/LqHjcBP0jPw">Kathleen Blamey</persName> and <persName key="Pellauer, David" ref="http://viaf.org/viaf/61481873" ana="webannotation:http://temp.lincsproject.ca/STg0KY4Nael">David Pellauer</persName>. <placeName key="Chicago" ref="https://sws.geonames.org/4887398" ana="webannotation:http://temp.lincsproject.ca/bC6hpLNYGXE">Chicago</placeName>: <orgName key="University of Chicago. Press" ref="http://viaf.org/viaf/122888939" ana="webannotation:http://temp.lincsproject.ca/eIgkY7YSl6b">University of Chicago Press</orgName>, 1985.</bibl>
                         <bibl><persName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/o1xLQhFfHUi">Sassen</persName>, <persName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/ptQEwmIkVQX">Saskia</persName>. <title level="m">Cities in a World Economy</title>. 3rd ed. Thousand Oaks, CA: Pine Forge Press, <orgName key="Sage Publishing" ref="http://www.wikidata.org/entity/Q251266" ana="webannotation:http://temp.lincsproject.ca/zBjz9Mpq23k">Sage Publications</orgName>, 2006.</bibl>
@@ -3406,6 +3406,95 @@
         "type": "crm:E53_Place",
         "label": "Michigan",
         "description": "Michigan, US"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/UCVeas9p7pD">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/UCVeas9p7pD",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T15:00:50.487Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/IF4fIWCbI9d",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/IF4fIWCbI9d/selector/textPosition/fBT6n8PyCIn",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 53525,
+                "end": 53548,
+                "refinedBy": {
+                    "id": "/target/IF4fIWCbI9d/selector/textQuote/C2sCkpbDOBc",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Oxford University Press",
+                    "prefix": " Toronto:",
+                    "suffix": " 1991"
+                }
+            },
+            {
+                "id": "/target/IF4fIWCbI9d/selector/css/ZnC4rJWrIHn",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/UCVeas9p7pD]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/140705396",
+        "type": "crm:E74_Group",
+        "label": "Oxford University Press.",
+        "description": "Gwasg Prifysgol Rhydychen"
     },
     "P2_has_type": [
         "oa:identifying"
