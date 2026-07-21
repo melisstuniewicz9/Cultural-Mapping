@@ -974,7 +974,7 @@
                 <div type="section">
                     <head>works cited</head>
                     <listBibl>
-                        <bibl>Ball, John Clement. <title level="a">Duelling and Dwelling in Toronto and London: Transnational Urbanism in Catherine Bush’s <title level="m">The Rules of Engagement</title>.</title>
+                        <bibl>Ball, <persName key="Ball, John Clement, 1960-...." ref="http://viaf.org/viaf/71644128" ana="webannotation:http://temp.lincsproject.ca/2w09ifcvASv">John Clement</persName>. <title level="a">Duelling and Dwelling in Toronto and London: Transnational Urbanism in Catherine Bush’s <title level="m">The Rules of Engagement</title>.</title>
                             <title level="m">Downtown <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/V6ibW366QFL">Canada</placeName>: Writing Canadian Cities.</title> Ed. <persName key="Edwards, Justin D., 1970-...." ref="http://viaf.org/viaf/116861733" ana="webannotation:http://temp.lincsproject.ca/vBuT5L1T2yf">Justin Edwards</persName> and <persName key="Ivison, Douglas" ref="http://viaf.org/viaf/74103425" ana="webannotation:http://temp.lincsproject.ca/NzKsKyUPEOT">Douglas Ivison</persName>. Toronto: <orgName key="University of Toronto. Press" ref="http://viaf.org/viaf/126595939" ana="webannotation:http://temp.lincsproject.ca/M8X5GHTgrDn">University of Toronto Press</orgName>, 2005. 183–96.</bibl>
                         <bibl>Clark, C.S. <title level="m">Of Toronto the Good: A Social Study</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/aJtmZDvFXum">Montreal</placeName>: Toronto Publishing Company, 1898.</bibl>
                         <bibl><persName key="Gilbert, Pamela K." ref="http://viaf.org/viaf/232646045" ana="webannotation:http://temp.lincsproject.ca/OGD4kSaD4v7">Gilbert</persName>, <persName key="Gilbert, Pamela K." ref="http://viaf.org/viaf/232646045" ana="webannotation:http://temp.lincsproject.ca/cbaDQqvkzCG">Pamela K.</persName> <title level="a">Sex and the City: English Studies and the Spatial Turn.</title>
@@ -2428,6 +2428,95 @@
         "label": "Gardiner Expressway ",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/2w09ifcvASv">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/2w09ifcvASv",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T18:29:03.572Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/CNmXx1XLStl",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/CNmXx1XLStl/selector/textPosition/8HRbvZ1ewk6",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 51765,
+                "end": 51777,
+                "refinedBy": {
+                    "id": "/target/CNmXx1XLStl/selector/textQuote/yecv5tfg0P3",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "John Clement",
+                    "prefix": "\n                                \n                            \n                        \n                    \n                \n                \n                    works cited\n                    \n                        Ball,",
+                    "suffix": " Duelling and Dwelling in Toronto and London: Transnational Urbanism in Catherine Bush’s The Rules of Engagement"
+                }
+            },
+            {
+                "id": "/target/CNmXx1XLStl/selector/css/LAVdbPdbqnW",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/2w09ifcvASv]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/71644128",
+        "type": "crm:E21_Person",
+        "label": "Ball, John Clement, 1960-....",
+        "description": "Ball, John Clement"
     },
     "P2_has_type": [
         "oa:identifying"
