@@ -991,7 +991,7 @@
                         <bibl>McCann, Larry D., and Peter J. Smith. <title level="a"><placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/3oKfmLpb6LQ">Canada</placeName> Becomes Urban: Cities and Urbanization in Historical Perspective.</title>
                             <title level="m">Canadian Cities in Transition</title>. Ed. Trudi Bunting and Pierre Filion. Toronto: Oxford University Press, 1991. 59–99.</bibl>
                         <bibl>Neatby, Hilda. <title level="m">So Little for the Mind: An Indictment of Canadian Education</title>. Toronto: Clarke, Irwin, 1953.</bibl>
-                        <bibl>Ricoeur, Paul. <title level="m">Time and Narrative</title>. Vol. 3. Trans. <persName key="Blamey, Kathleen." ref="http://viaf.org/viaf/24318319" ana="webannotation:http://temp.lincsproject.ca/LqHjcBP0jPw">Kathleen Blamey</persName> and David Pellauer. <placeName key="Chicago" ref="https://sws.geonames.org/4887398" ana="webannotation:http://temp.lincsproject.ca/bC6hpLNYGXE">Chicago</placeName>: <orgName key="University of Chicago. Press" ref="http://viaf.org/viaf/122888939" ana="webannotation:http://temp.lincsproject.ca/eIgkY7YSl6b">University of Chicago Press</orgName>, 1985.</bibl>
+                        <bibl>Ricoeur, Paul. <title level="m">Time and Narrative</title>. Vol. 3. Trans. <persName key="Blamey, Kathleen." ref="http://viaf.org/viaf/24318319" ana="webannotation:http://temp.lincsproject.ca/LqHjcBP0jPw">Kathleen Blamey</persName> and <persName key="Pellauer, David" ref="http://viaf.org/viaf/61481873" ana="webannotation:http://temp.lincsproject.ca/STg0KY4Nael">David Pellauer</persName>. <placeName key="Chicago" ref="https://sws.geonames.org/4887398" ana="webannotation:http://temp.lincsproject.ca/bC6hpLNYGXE">Chicago</placeName>: <orgName key="University of Chicago. Press" ref="http://viaf.org/viaf/122888939" ana="webannotation:http://temp.lincsproject.ca/eIgkY7YSl6b">University of Chicago Press</orgName>, 1985.</bibl>
                         <bibl><persName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/o1xLQhFfHUi">Sassen</persName>, <persName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/ptQEwmIkVQX">Saskia</persName>. <title level="m">Cities in a World Economy</title>. 3rd ed. Thousand Oaks, CA: Pine Forge Press, <orgName key="Sage Publishing" ref="http://www.wikidata.org/entity/Q251266" ana="webannotation:http://temp.lincsproject.ca/zBjz9Mpq23k">Sage Publications</orgName>, 2006.</bibl>
                         <bibl><persName key="Shakespeare, William, 1564-1616." ref="http://viaf.org/viaf/96994048" ana="webannotation:http://temp.lincsproject.ca/quzchslcxU0">Shakespeare</persName>, <persName key="Shakespeare, William, 1564-1616." ref="http://viaf.org/viaf/96994048" ana="webannotation:http://temp.lincsproject.ca/zGYAjmzD0B8">William</persName>. <title level="m">Henry V</title>. Ed. David Bevington. 6th ed. New York: <orgName key="Longman (Firm)" ref="http://viaf.org/viaf/316750509" ana="webannotation:http://temp.lincsproject.ca/qcM5YpQQlkA">Pearson Longman</orgName>, 2009.</bibl>
                         <bibl><persName key="Smith, Michael P." ref="http://viaf.org/viaf/108768118" ana="webannotation:http://temp.lincsproject.ca/GBMaZlAYgVi">Smith</persName>, <persName key="Smith, Michael P." ref="http://viaf.org/viaf/108768118" ana="webannotation:http://temp.lincsproject.ca/iXWyd0gZ5JW">Michael Peter</persName>. <title level="m">Transnational Urbanism: Locating Globalization</title>. Malden, MA: <orgName key="Blackwell Publishing Ltd." ref="http://viaf.org/viaf/135219350" ana="webannotation:http://temp.lincsproject.ca/jGPYZoa3ScC">Blackwell</orgName>, 2001.</bibl>
@@ -3494,6 +3494,95 @@
         "id": "http://viaf.org/viaf/24318319",
         "type": "crm:E21_Person",
         "label": "Blamey, Kathleen."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/STg0KY4Nael">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/STg0KY4Nael",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T13:37:01.833Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/zFXOuvwY2pd",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/zFXOuvwY2pd/selector/textPosition/q5FZ6v7AS5k",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 53787,
+                "end": 53801,
+                "refinedBy": {
+                    "id": "/target/zFXOuvwY2pd/selector/textQuote/6Alh5OTRsui",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "David Pellauer",
+                    "prefix": " Kathleen Blamey and",
+                    "suffix": " Chicago: University of Chicago Press, 1985"
+                }
+            },
+            {
+                "id": "/target/zFXOuvwY2pd/selector/css/9N7mRrBrH63",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/STg0KY4Nael]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/61481873",
+        "type": "crm:E21_Person",
+        "label": "Pellauer, David",
+        "description": "Pellauer, David, 1944-"
     },
     "P2_has_type": [
         "oa:identifying"
