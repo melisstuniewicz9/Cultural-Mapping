@@ -993,7 +993,7 @@
                         <bibl>Neatby, Hilda. <title level="m">So Little for the Mind: An Indictment of Canadian Education</title>. Toronto: Clarke, Irwin, 1953.</bibl>
                         <bibl>Ricoeur, <persName key="Ricœur, Paul, 1913-2005" ref="http://viaf.org/viaf/108266369" ana="webannotation:http://temp.lincsproject.ca/ukgB3Fr3xio">Paul</persName>. <title level="m">Time and Narrative</title>. Vol. 3. Trans. <persName key="Blamey, Kathleen." ref="http://viaf.org/viaf/24318319" ana="webannotation:http://temp.lincsproject.ca/LqHjcBP0jPw">Kathleen Blamey</persName> and <persName key="Pellauer, David" ref="http://viaf.org/viaf/61481873" ana="webannotation:http://temp.lincsproject.ca/STg0KY4Nael">David Pellauer</persName>. <placeName key="Chicago" ref="https://sws.geonames.org/4887398" ana="webannotation:http://temp.lincsproject.ca/bC6hpLNYGXE">Chicago</placeName>: <orgName key="University of Chicago. Press" ref="http://viaf.org/viaf/122888939" ana="webannotation:http://temp.lincsproject.ca/eIgkY7YSl6b">University of Chicago Press</orgName>, 1985.</bibl>
                         <bibl><persName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/o1xLQhFfHUi">Sassen</persName>, <persName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/ptQEwmIkVQX">Saskia</persName>. <title level="m">Cities in a World Economy</title>. 3rd ed. Thousand Oaks, CA: <orgName key="Pine Forge Press." ref="http://viaf.org/viaf/144396781" ana="webannotation:http://temp.lincsproject.ca/Vr5yfRnsRkq">Pine Forge Press</orgName>, <orgName key="Sage Publishing" ref="http://www.wikidata.org/entity/Q251266" ana="webannotation:http://temp.lincsproject.ca/zBjz9Mpq23k">Sage Publications</orgName>, 2006.</bibl>
-                        <bibl><persName key="Shakespeare, William, 1564-1616." ref="http://viaf.org/viaf/96994048" ana="webannotation:http://temp.lincsproject.ca/quzchslcxU0">Shakespeare</persName>, <persName key="Shakespeare, William, 1564-1616." ref="http://viaf.org/viaf/96994048" ana="webannotation:http://temp.lincsproject.ca/zGYAjmzD0B8">William</persName>. <title level="m">Henry V</title>. Ed. David Bevington. 6th ed. New York: <orgName key="Longman (Firm)" ref="http://viaf.org/viaf/316750509" ana="webannotation:http://temp.lincsproject.ca/qcM5YpQQlkA">Pearson Longman</orgName>, 2009.</bibl>
+                        <bibl><persName key="Shakespeare, William, 1564-1616." ref="http://viaf.org/viaf/96994048" ana="webannotation:http://temp.lincsproject.ca/quzchslcxU0">Shakespeare</persName>, <persName key="Shakespeare, William, 1564-1616." ref="http://viaf.org/viaf/96994048" ana="webannotation:http://temp.lincsproject.ca/zGYAjmzD0B8">William</persName>. <title level="m">Henry V</title>. Ed. <persName key="Bevington, David M." ref="http://viaf.org/viaf/108386749" ana="webannotation:http://temp.lincsproject.ca/s7lQ7CFHQk4">David Bevington</persName>. 6th ed. New York: <orgName key="Longman (Firm)" ref="http://viaf.org/viaf/316750509" ana="webannotation:http://temp.lincsproject.ca/qcM5YpQQlkA">Pearson Longman</orgName>, 2009.</bibl>
                         <bibl><persName key="Smith, Michael P." ref="http://viaf.org/viaf/108768118" ana="webannotation:http://temp.lincsproject.ca/GBMaZlAYgVi">Smith</persName>, <persName key="Smith, Michael P." ref="http://viaf.org/viaf/108768118" ana="webannotation:http://temp.lincsproject.ca/iXWyd0gZ5JW">Michael Peter</persName>. <title level="m">Transnational Urbanism: Locating Globalization</title>. <placeName key="Malden" ref="https://sws.geonames.org/4942939" ana="webannotation:http://temp.lincsproject.ca/SMjQPH0vmuw">Malden</placeName>, <title key="Massachusetts" ref="https://sws.geonames.org/6254926" ana="webannotation:http://temp.lincsproject.ca/7MlvlOyhJsk">MA</title>: <orgName key="Blackwell Publishing Ltd." ref="http://viaf.org/viaf/135219350" ana="webannotation:http://temp.lincsproject.ca/jGPYZoa3ScC">Blackwell</orgName>, 2001.</bibl>
                         <bibl>Squier, Susan Merrill, ed. Introduction. <title level="m">Women Writers and the City: Essays in Feminist Literary Criticism</title>. <placeName key="Knoxville" ref="http://www.wikidata.org/entity/Q185582" ana="webannotation:http://temp.lincsproject.ca/HIVS0yDBf3p">Knoxville</placeName>: <orgName key="University of Tennessee Press." ref="http://viaf.org/viaf/311353831" ana="webannotation:http://temp.lincsproject.ca/phhsN0R2peW">University of Tennessee Press</orgName>, 1984. 3–10.</bibl>
                         <bibl>Watt, F.W. <title level="a">Fiction.</title>
@@ -6082,6 +6082,95 @@
         "type": "crm:E21_Person",
         "label": "Shakespeare, William, 1564-1616.",
         "description": "Shakespeare, William"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/s7lQ7CFHQk4">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/s7lQ7CFHQk4",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T18:34:38.164Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/NQw4mtoNo8r",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/NQw4mtoNo8r/selector/textPosition/Ye8YZnyr0sp",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 54043,
+                "end": 54058,
+                "refinedBy": {
+                    "id": "/target/NQw4mtoNo8r/selector/textQuote/R4wjPsRAPEz",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "David Bevington",
+                    "prefix": "",
+                    "suffix": " 6th ed"
+                }
+            },
+            {
+                "id": "/target/NQw4mtoNo8r/selector/css/W6oSp07CYaP",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/s7lQ7CFHQk4]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/108386749",
+        "type": "crm:E21_Person",
+        "label": "Bevington, David M.",
+        "description": "Bevington, David M. 1931–2019"
     },
     "P2_has_type": [
         "oa:identifying"
