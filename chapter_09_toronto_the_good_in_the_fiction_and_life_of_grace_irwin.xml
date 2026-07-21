@@ -460,7 +460,7 @@
                                         </note>
                                     </ref>. In <q>emergent transnational urban systems,</q> she argues, where <q>globalities [are] centered in cities,</q> powerlessness can become <q>a complex condition in the concrete space of cities where multiple groups and projects intersect</q>
                                     <note place="inline">
-                                        <bibl>Sassen 194</bibl>
+                                        <bibl><persName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/PgUEC3HFKno">Sassen</persName> 194</bibl>
                                     </note>.</ref>
                             </ref>
                         </ref>
@@ -1538,6 +1538,95 @@
         "type": "crm:E21_Person",
         "label": "Grosz, Elizabeth, 1952-....",
         "description": "Grosz, Elizabeth."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/PgUEC3HFKno">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/PgUEC3HFKno",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T18:44:15.651Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/UY4vuRxUwX4",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/UY4vuRxUwX4/selector/textPosition/jmPNaKptjxR",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 4172,
+                "end": 4178,
+                "refinedBy": {
+                    "id": "/target/UY4vuRxUwX4/selector/textQuote/UCwmEKogre5",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Sassen",
+                    "prefix": " In emergent transnational urban systems, she argues, where globalities [are] centered in cities, powerlessness can become a complex condition in the concrete space of cities where multiple groups and projects intersect\n                                    \n                                       ",
+                    "suffix": "194\n                                    "
+                }
+            },
+            {
+                "id": "/target/UY4vuRxUwX4/selector/css/Gi7rDhNmheH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/PgUEC3HFKno]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/66527919",
+        "type": "crm:E21_Person",
+        "label": "Sassen, Saskia.",
+        "description": "Sassen, Saskia, 1947-...."
     },
     "P2_has_type": [
         "oa:identifying"
