@@ -995,7 +995,7 @@
                         <bibl><persName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/o1xLQhFfHUi">Sassen</persName>, <persName key="Sassen, Saskia." ref="http://viaf.org/viaf/66527919" ana="webannotation:http://temp.lincsproject.ca/ptQEwmIkVQX">Saskia</persName>. <title level="m">Cities in a World Economy</title>. 3rd ed. Thousand Oaks, CA: Pine Forge Press, <orgName key="Sage Publishing" ref="http://www.wikidata.org/entity/Q251266" ana="webannotation:http://temp.lincsproject.ca/zBjz9Mpq23k">Sage Publications</orgName>, 2006.</bibl>
                         <bibl><persName key="Shakespeare, William, 1564-1616." ref="http://viaf.org/viaf/96994048" ana="webannotation:http://temp.lincsproject.ca/quzchslcxU0">Shakespeare</persName>, <persName key="Shakespeare, William, 1564-1616." ref="http://viaf.org/viaf/96994048" ana="webannotation:http://temp.lincsproject.ca/zGYAjmzD0B8">William</persName>. <title level="m">Henry V</title>. Ed. David Bevington. 6th ed. New York: <orgName key="Longman (Firm)" ref="http://viaf.org/viaf/316750509" ana="webannotation:http://temp.lincsproject.ca/qcM5YpQQlkA">Pearson Longman</orgName>, 2009.</bibl>
                         <bibl><persName key="Smith, Michael P." ref="http://viaf.org/viaf/108768118" ana="webannotation:http://temp.lincsproject.ca/GBMaZlAYgVi">Smith</persName>, <persName key="Smith, Michael P." ref="http://viaf.org/viaf/108768118" ana="webannotation:http://temp.lincsproject.ca/iXWyd0gZ5JW">Michael Peter</persName>. <title level="m">Transnational Urbanism: Locating Globalization</title>. Malden, MA: <orgName key="Blackwell Publishing Ltd." ref="http://viaf.org/viaf/135219350" ana="webannotation:http://temp.lincsproject.ca/jGPYZoa3ScC">Blackwell</orgName>, 2001.</bibl>
-                        <bibl>Squier, Susan Merrill, ed. Introduction. <title level="m">Women Writers and the City: Essays in Feminist Literary Criticism</title>. Knoxville: <orgName key="University of Tennessee Press." ref="http://viaf.org/viaf/311353831" ana="webannotation:http://temp.lincsproject.ca/phhsN0R2peW">University of Tennessee Press</orgName>, 1984. 3–10.</bibl>
+                        <bibl>Squier, Susan Merrill, ed. Introduction. <title level="m">Women Writers and the City: Essays in Feminist Literary Criticism</title>. <placeName key="Knoxville" ref="http://www.wikidata.org/entity/Q185582" ana="webannotation:http://temp.lincsproject.ca/HIVS0yDBf3p">Knoxville</placeName>: <orgName key="University of Tennessee Press." ref="http://viaf.org/viaf/311353831" ana="webannotation:http://temp.lincsproject.ca/phhsN0R2peW">University of Tennessee Press</orgName>, 1984. 3–10.</bibl>
                         <bibl>Watt, F.W. <title level="a">Fiction.</title>
                             <title level="j"><orgName key="University of Toronto Quarterly" ref="http://www.wikidata.org/entity/Q7896494" ana="webannotation:http://temp.lincsproject.ca/aT5OLmJ9e4E">University of Toronto Quarterly</orgName></title> 30.4 (1960–61): 401–16.</bibl>
                         <bibl>Williams, Raymond. <title level="m">The Country and the City</title>. London: Chatto and Windus, 1973.</bibl>
@@ -4570,6 +4570,95 @@
         "label": "Blackwell Publishing Ltd.",
         "type": "crm:E74_Group",
         "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/HIVS0yDBf3p">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/HIVS0yDBf3p",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T15:05:45.005Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ya0J75BYUd6",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ya0J75BYUd6/selector/textPosition/GhJwahvpyoq",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 54356,
+                "end": 54365,
+                "refinedBy": {
+                    "id": "/target/ya0J75BYUd6/selector/textQuote/GkLpV4t4eSI",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Knoxville",
+                    "prefix": "",
+                    "suffix": " University of Tennessee Press, 1984"
+                }
+            },
+            {
+                "id": "/target/ya0J75BYUd6/selector/css/IbiCPboM72p",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/HIVS0yDBf3p]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q185582",
+        "type": "crm:E53_Place",
+        "label": "Knoxville",
+        "description": "city and county seat of Knox County, State of Tennessee, United States"
     },
     "P2_has_type": [
         "oa:identifying"
