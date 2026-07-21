@@ -979,7 +979,7 @@
                         <bibl>Clark, C.S. <title level="m">Of Toronto the Good: A Social Study</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/aJtmZDvFXum">Montreal</placeName>: Toronto Publishing Company, 1898.</bibl>
                         <bibl><persName key="Gilbert, Pamela K." ref="http://viaf.org/viaf/232646045" ana="webannotation:http://temp.lincsproject.ca/OGD4kSaD4v7">Gilbert</persName>, <persName key="Gilbert, Pamela K." ref="http://viaf.org/viaf/232646045" ana="webannotation:http://temp.lincsproject.ca/cbaDQqvkzCG">Pamela K.</persName> <title level="a">Sex and the City: English Studies and the Spatial Turn.</title>
                             <title level="m">The Spatial Turn: Interdisciplinary Perspectives</title>. Ed. <persName key="Warf, Barney, 1956-...." ref="http://viaf.org/viaf/29646209" ana="webannotation:http://temp.lincsproject.ca/kwY1QW3mxbM">Barney Warf</persName> and <persName key="Arias, Santa." ref="http://viaf.org/viaf/38729216" ana="webannotation:http://temp.lincsproject.ca/s8v4F8MXlXf">Santa Arias</persName>. New York: <orgName key="Routledge" ref="http://viaf.org/viaf/146326081" ana="webannotation:http://temp.lincsproject.ca/1iQmDWEBciv">Routledge</orgName>, 2009. 102–21.</bibl>
-                        <bibl>Grosz, Elizabeth. <title level="m">Space, Time, and Perversion: Essays on the Politics of Bodies</title>. New York: <orgName key="Routledge" ref="http://viaf.org/viaf/146326081" ana="webannotation:http://temp.lincsproject.ca/Mh8rF95RLUN">Routledge</orgName>, 1995.</bibl>
+                        <bibl>Grosz, <persName key="Grosz, Elizabeth, 1952-...." ref="http://viaf.org/viaf/41898918" ana="webannotation:http://temp.lincsproject.ca/2T1NDaK2RUh">Elizabeth</persName>. <title level="m">Space, Time, and Perversion: Essays on the Politics of Bodies</title>. New York: <orgName key="Routledge" ref="http://viaf.org/viaf/146326081" ana="webannotation:http://temp.lincsproject.ca/Mh8rF95RLUN">Routledge</orgName>, 1995.</bibl>
                         <bibl>Irwin, Grace. <title level="m">Andrew Connington</title>. Toronto: McClelland and Stewart, 1954.</bibl>
                         <bibl>. <title level="m">Compensation</title>. Belleville, ON: Epic Press, 2003.</bibl>
                         <bibl>. <title level="m">Contend with Horses</title>. Toronto: McClelland and Stewart, 1969.</bibl>
@@ -3228,6 +3228,95 @@
         "type": "crm:E74_Group",
         "label": "Routledge",
         "description": "George Routledge and Sons."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/2T1NDaK2RUh">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/2T1NDaK2RUh",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T17:28:34.044Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/RS1ANSmTYVo",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/RS1ANSmTYVo/selector/textPosition/13cTaAB8bzm",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 52446,
+                "end": 52455,
+                "refinedBy": {
+                    "id": "/target/RS1ANSmTYVo/selector/textQuote/AH9NeGBrYyu",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Elizabeth",
+                    "prefix": "\n                        Grosz,",
+                    "suffix": " Space, Time, and Perversion: Essays on the Politics of Bodies"
+                }
+            },
+            {
+                "id": "/target/RS1ANSmTYVo/selector/css/dt2mO7ual8w",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/2T1NDaK2RUh]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/41898918",
+        "type": "crm:E21_Person",
+        "label": "Grosz, Elizabeth, 1952-....",
+        "description": "Grosz, Elizabeth."
     },
     "P2_has_type": [
         "oa:identifying"
