@@ -980,7 +980,7 @@
                         <bibl><persName key="Gilbert, Pamela K." ref="http://viaf.org/viaf/232646045" ana="webannotation:http://temp.lincsproject.ca/OGD4kSaD4v7">Gilbert</persName>, <persName key="Gilbert, Pamela K." ref="http://viaf.org/viaf/232646045" ana="webannotation:http://temp.lincsproject.ca/cbaDQqvkzCG">Pamela K.</persName> <title level="a">Sex and the City: English Studies and the Spatial Turn.</title>
                             <title level="m">The Spatial Turn: Interdisciplinary Perspectives</title>. Ed. <persName key="Warf, Barney, 1956-...." ref="http://viaf.org/viaf/29646209" ana="webannotation:http://temp.lincsproject.ca/kwY1QW3mxbM">Barney Warf</persName> and <persName key="Arias, Santa." ref="http://viaf.org/viaf/38729216" ana="webannotation:http://temp.lincsproject.ca/s8v4F8MXlXf">Santa Arias</persName>. New York: <orgName key="Routledge" ref="http://viaf.org/viaf/146326081" ana="webannotation:http://temp.lincsproject.ca/1iQmDWEBciv">Routledge</orgName>, 2009. 102–21.</bibl>
                         <bibl><persName key="Grosz, Elizabeth, 1952-...." ref="http://viaf.org/viaf/41898918" ana="webannotation:http://temp.lincsproject.ca/MZARD2TNQNW">Grosz</persName>, <persName key="Grosz, Elizabeth, 1952-...." ref="http://viaf.org/viaf/41898918" ana="webannotation:http://temp.lincsproject.ca/2T1NDaK2RUh">Elizabeth</persName>. <title level="m">Space, Time, and Perversion: Essays on the Politics of Bodies</title>. New York: <orgName key="Routledge" ref="http://viaf.org/viaf/146326081" ana="webannotation:http://temp.lincsproject.ca/Mh8rF95RLUN">Routledge</orgName>, 1995.</bibl>
-                        <bibl>Irwin, Grace. <title level="m">Andrew Connington</title>. Toronto: McClelland and Stewart, 1954.</bibl>
+                        <bibl>Irwin, <persName key="Irwin, Grace, 1907-" ref="http://viaf.org/viaf/117350735" ana="webannotation:http://temp.lincsproject.ca/1rQdGaOIrxk">Grace</persName>. <title level="m">Andrew Connington</title>. Toronto: McClelland and Stewart, 1954.</bibl>
                         <bibl>. <title level="m">Compensation</title>. Belleville, <placeName key="Ontario" ref="http://www.wikidata.org/entity/Q1904" ana="webannotation:http://temp.lincsproject.ca/3iopxQpGTbV">ON</placeName>: Epic Press, 2003.</bibl>
                         <bibl>. <title level="m">Contend with Horses</title>. Toronto: McClelland and Stewart, 1969.</bibl>
                         <bibl>. <title level="m">In Little Place</title>. <placeName key="Grand Rapids" ref="https://sws.geonames.org/4994359" ana="webannotation:http://temp.lincsproject.ca/Af1U5Pp79m4">Grand Rapids</placeName>, <placeName key="Michigan" ref="https://sws.geonames.org/5001836" ana="webannotation:http://temp.lincsproject.ca/EL8jOliK00P">MI</placeName>: <orgName key="Wm. B. Eerdmans Publishing Co." ref="http://viaf.org/viaf/126651989" ana="webannotation:http://temp.lincsproject.ca/UI2JIskHjaV">W.B. Eerdmans Publishing Company</orgName>, 1959.</bibl>
@@ -3940,6 +3940,95 @@
         "type": "crm:E21_Person",
         "label": "Grosz, Elizabeth, 1952-....",
         "description": "Grosz, Elizabeth."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/1rQdGaOIrxk">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/1rQdGaOIrxk",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T18:32:48.526Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/0aW9NBBOjH1",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/0aW9NBBOjH1/selector/textPosition/xINuxJOLnL5",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 52578,
+                "end": 52583,
+                "refinedBy": {
+                    "id": "/target/0aW9NBBOjH1/selector/textQuote/LGJqVE3npl1",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Grace",
+                    "prefix": "\n                        Irwin,",
+                    "suffix": " Andrew Connington"
+                }
+            },
+            {
+                "id": "/target/0aW9NBBOjH1/selector/css/AQiL3cNhn1s",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/1rQdGaOIrxk]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/117350735",
+        "type": "crm:E21_Person",
+        "label": "Irwin, Grace, 1907-",
+        "description": "Irwin, Grace"
     },
     "P2_has_type": [
         "oa:identifying"
