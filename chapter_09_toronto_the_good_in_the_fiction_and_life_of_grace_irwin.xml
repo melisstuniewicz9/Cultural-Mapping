@@ -810,7 +810,7 @@
                                         <note place="inline">
                                             <bibl>
                                                 <title level="m">In Little Place</title> 214</bibl>
-                                        </note>, <persName>Irwin</persName>’s title, from the prologue to <title level="m">Henry V</title>, praises the imaginary force of the theatre in which a single zero or <q>the wooden O</q>
+                                        </note>, <persName>Irwin</persName>’s title, from the prologue to <title level="m"><persName key="Henry V" ref="http://www.wikidata.org/entity/Q495954" ana="webannotation:http://temp.lincsproject.ca/5Aab80AchXY">Henry V</persName></title>, praises the imaginary force of the theatre in which a single zero or <q>the wooden O</q>
                                         <note place="inline">
                                             <bibl>line 13</bibl>
                                         </note> of the stage may multiply a number or <q>attest in little place a million</q>
@@ -9666,20 +9666,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/3XN8FNAWhVp">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/5Aab80AchXY">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/3XN8FNAWhVp",
+    "id": "http://temp.lincsproject.ca/5Aab80AchXY",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-07-22T15:53:13.127Z",
+    "created": "2026-07-22T15:54:00.070Z",
     "creator": {
         "id": "https://github.com/melisstuniewicz9",
         "type": "crm:E21_Person",
@@ -9747,6 +9747,14 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/3XN8FNAWhVp]"
+            },
+            {
+                "id": "/target/qBEr1VrKXE5/selector/css/iBAIYMLocLe",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/5Aab80AchXY]"
             }
         ]
     },
