@@ -632,7 +632,7 @@
                                     <note place="inline">
                                         <bibl>
                                             <title level="m">Least of All Saints</title> 87</bibl>
-                                    </note>, and uses his knowledge of Greek to convince his <orgName>Emmanuel College</orgName> peers wondering about their commitment to, in his words, <q>give the Bible a fair chance</q> instead of <q>the conviction that the authors were fools</q>
+                                    </note>, and uses his knowledge of Greek to convince his <orgName>Emmanuel College</orgName> peers wondering about their commitment to, in his words, <q>give the <title key="Bible" ref="http://www.wikidata.org/entity/Q1845" ana="webannotation:http://temp.lincsproject.ca/Oip0lXYBbs0">Bible</title> a fair chance</q> instead of <q>the conviction that the authors were fools</q>
                                     <note place="inline">
                                         <bibl>111</bibl>
                                     </note>
@@ -8946,6 +8946,95 @@
         "type": "crm:E21_Person",
         "label": "Watt, Frank William, 1927-...",
         "description": "Watt, F.W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Oip0lXYBbs0">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Oip0lXYBbs0",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-22T14:30:28.693Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/bnlwnDRe4ZV",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/bnlwnDRe4ZV/selector/textPosition/xGIUOWvDTpG",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 19283,
+                "end": 19288,
+                "refinedBy": {
+                    "id": "/target/bnlwnDRe4ZV/selector/textQuote/Wi0jP4lpU4F",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Bible",
+                    "prefix": "\n                                He shocks his nominally observant relations with plans to study theology, expresses his intolerance for the ‘arty’ set, a dreary imitation of sets he had seen in England the previous summer\n                                    \n                                        \n                                            Least of All Saints 87\n                                    , and uses his knowledge of Greek to convince his Emmanuel College peers wondering about their commitment to, in his words, give the",
+                    "suffix": "a fair chance instead of the conviction that the authors were fools\n                                    \n                                        111\n                                    \n                                "
+                }
+            },
+            {
+                "id": "/target/bnlwnDRe4ZV/selector/css/OQp0nmnYYqB",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Oip0lXYBbs0]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q1845",
+        "type": "frbroo:F1",
+        "label": "Bible",
+        "description": "collection of sacred books in Judaism and Christianity"
     },
     "P2_has_type": [
         "oa:identifying"
