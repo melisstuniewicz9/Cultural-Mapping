@@ -440,7 +440,7 @@
                                 <bibl><persName key="Grosz, Elizabeth, 1952-...." ref="http://viaf.org/viaf/41898918" ana="webannotation:http://temp.lincsproject.ca/6f4ki8wBleE">Grosz</persName> 109</bibl>
                             </note>. As <q>spectacle,…spaces for face-to-face contact of amazing richness</q>
                             <note place="inline">
-                                <bibl>Wilson 158</bibl>
+                                <bibl><persName key="Wilson, Elizabeth, 1936-" ref="http://viaf.org/viaf/110160241" ana="webannotation:http://temp.lincsproject.ca/i1BOUy4GPGg">Wilson</persName> 158</bibl>
                             </note>, the city presents both <q>the challenge of space,…of the full recognition of coeval others,</q> and <q>the essential openness of place to the beyond</q>
                             <note place="inline">
                                 <bibl>Massey 216, 217</bibl>
@@ -8137,6 +8137,95 @@
         "type": "crm:E74_Group",
         "label": "McGill-Queen's University Press",
         "description": "joint venture"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/i1BOUy4GPGg">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/i1BOUy4GPGg",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-22T14:01:39.910Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/iJeXDwwrlB3",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/iJeXDwwrlB3/selector/textPosition/1zmhoFDpnNM",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2414,
+                "end": 2420,
+                "refinedBy": {
+                    "id": "/target/iJeXDwwrlB3/selector/textQuote/iR7GUvNo5NS",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Wilson",
+                    "prefix": " As spectacle,…spaces for face-to-face contact of amazing richness\n                            \n                               ",
+                    "suffix": "158\n                            , the city presents both the challenge of space,…of the full recognition of coeval others, and the essential openness of place to the beyond\n                            \n                                Massey 216, 217\n                            "
+                }
+            },
+            {
+                "id": "/target/iJeXDwwrlB3/selector/css/zH6BRL22WbF",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/i1BOUy4GPGg]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/110160241",
+        "label": "Wilson, Elizabeth, 1936-",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
     },
     "P2_has_type": [
         "oa:identifying"
