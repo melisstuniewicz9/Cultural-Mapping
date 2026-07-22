@@ -579,7 +579,7 @@
                         <ref target="#spatiality">
                             <ref target="#theme_or_topic">
                                 <ref target="#genre_novel">More than a backdrop or a scene-plotting Global Positioning System (<abbr>GPS</abbr>), the city of <placeName>Toronto</placeName> and, <date cert="high" when="1954">after 1954</date>, <orgName><placeName key="Metropolitan Toronto" ref="http://www.wikidata.org/entity/Q1795689" ana="webannotation:http://temp.lincsproject.ca/7FLfsZrdaYs">Metro Toronto</placeName></orgName>, is the essential social space of five of <persName>Irwin</persName>’s seven novels. <ref target="#intertextuality">
-                                        <ref target="#genre_lifeWriting">Outside this grouping are her acclaimed historical biographies of reformed slave ship captain <persName>John Newton</persName>, in <title level="m">Servant of Slaves</title>, set in the <placeName>Mendips, Georgian London</placeName>, and aboard slavers in the Middle Passage; and of the <persName>Earl of Shaftesbury</persName>, the <orgName>Ragged School Union</orgName> founder, in <title level="m">The Seventh Earl</title>, set in Victorian <placeName>London</placeName>. <ref target="#response_formal">
+                                        <ref target="#genre_lifeWriting">Outside this grouping are her acclaimed historical biographies of reformed slave ship captain <persName>John Newton</persName>, in <title level="m">Servant of Slaves</title>, set in the <placeName><placeName key="Mendip Hills" ref="https://sws.geonames.org/2642751" ana="webannotation:http://temp.lincsproject.ca/AgdDI21zRp5">Mendips</placeName>, Georgian London</placeName>, and aboard slavers in the Middle Passage; and of the <persName>Earl of Shaftesbury</persName>, the <orgName>Ragged School Union</orgName> founder, in <title level="m">The Seventh Earl</title>, set in Victorian <placeName>London</placeName>. <ref target="#response_formal">
                                                 <title level="m">Servant of Slaves</title> was hailed in the <title level="j"><orgName key="University of Toronto Quarterly" ref="http://www.wikidata.org/entity/Q7896494" ana="webannotation:http://temp.lincsproject.ca/RyqvUsTjLUy">University of Toronto Quarterly</orgName></title> as <q>the best historical novel of the year</q>
                                                 <note place="inline">
                                                     <bibl>Watt 466</bibl>
@@ -8768,6 +8768,95 @@
         "label": "Clark, C.S",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/AgdDI21zRp5">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/AgdDI21zRp5",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-22T14:24:43.934Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/aAWEf8XIz13",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/aAWEf8XIz13/selector/textPosition/dVDJQzeMOXB",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 13269,
+                "end": 13276,
+                "refinedBy": {
+                    "id": "/target/aAWEf8XIz13/selector/textQuote/wCYTfm4FTGm",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Mendips",
+                    "prefix": " \n                                        Outside this grouping are her acclaimed historical biographies of reformed slave ship captain John Newton, in Servant of Slaves, set in the",
+                    "suffix": " Georgian London, and aboard slavers in the Middle Passage; and of the Earl of Shaftesbury, the Ragged School Union founder, in The Seventh Earl, set in Victorian London"
+                }
+            },
+            {
+                "id": "/target/aAWEf8XIz13/selector/css/gsdu2VuP9p7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/AgdDI21zRp5]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2642751",
+        "type": "crm:E53_Place",
+        "label": "Mendip Hills",
+        "description": "England, Somerset, GB"
     },
     "P2_has_type": [
         "oa:identifying"
