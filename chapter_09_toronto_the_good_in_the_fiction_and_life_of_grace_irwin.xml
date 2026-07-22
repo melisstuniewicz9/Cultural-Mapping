@@ -754,7 +754,7 @@
                                     </note>. This time, however, the role of the penitent is reversed; Cecily admits she was wrong in hoping Connington would hold out for a better church. Another <placeName>Shorncliffe</placeName> marriage is on shakier ground. Connington, <q>absorbed in admiring contemplation of the neo-classical details of Eaton’s new College Street store,</q> is viewing <q>the massive triumphal-arch entry with its Minerva head keystone</q>
                                     <note place="inline">
                                         <bibl>34</bibl>
-                                    </note> when a shy heiress enters the narrative; she is infatuated—imprudently, the reader is warned—with a callow unbeliever, who is also proven to be a playboy and a drunk. <ref target="#class_issue">The marriage, rushed into at the urging of the girl’s social-climbing mother, and the funeral after the bride’s honeymoon suicide are both Connington’s solemn duties at Shorncliffe. Along with old verities, old places are changing, as <placeName>Toronto</placeName> expands beyond his childhood memories: <q>The district west and north of <placeName key="Jane Street" ref="https://www.wikidata.org/wiki/Q121848458" ana="webannotation:http://temp.lincsproject.ca/AxRPxfX4dp3">Jane</placeName> and <placeName key="Bloor Street" ref="http://www.wikidata.org/entity/Q885416" ana="webannotation:http://temp.lincsproject.ca/S327PAB9Ht0">Bloor</placeName>…surprise[s] him</q>; Swansea is no longer <q>a dusty country road</q>; <placeName>Clendenan Hill</placeName> and <placeName>Quebec</placeName> are not <q>the end of the line…to hike to the <placeName>Humber</placeName> for corn roasts</q>
+                                    </note> when a shy heiress enters the narrative; she is infatuated—imprudently, the reader is warned—with a callow unbeliever, who is also proven to be a playboy and a drunk. <ref target="#class_issue">The marriage, rushed into at the urging of the girl’s social-climbing mother, and the funeral after the bride’s honeymoon suicide are both Connington’s solemn duties at Shorncliffe. Along with old verities, old places are changing, as <placeName>Toronto</placeName> expands beyond his childhood memories: <q>The district west and north of <placeName key="Jane Street" ref="https://www.wikidata.org/wiki/Q121848458" ana="webannotation:http://temp.lincsproject.ca/AxRPxfX4dp3">Jane</placeName> and <placeName key="Bloor Street" ref="http://www.wikidata.org/entity/Q885416" ana="webannotation:http://temp.lincsproject.ca/S327PAB9Ht0">Bloor</placeName>…surprise[s] him</q>; <placeName key="Swansea" ref="https://www.wikidata.org/wiki/Q7653653" ana="webannotation:http://temp.lincsproject.ca/K44LLUv7Wm2">Swansea</placeName> is no longer <q>a dusty country road</q>; <placeName>Clendenan Hill</placeName> and <placeName>Quebec</placeName> are not <q>the end of the line…to hike to the <placeName>Humber</placeName> for corn roasts</q>
                                         <note place="inline">
                                             <bibl>59</bibl>
                                         </note>. These observations lead Connington to conclude that <q>youngsters won’t have any open land for picnics around the city soon</q>
@@ -9213,6 +9213,95 @@
         "type": "crm:E53_Place",
         "label": "Bloor Street",
         "description": "major thoroughfare in Toronto"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/K44LLUv7Wm2">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/K44LLUv7Wm2",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-22T15:13:36.529Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/dfHknhl060o",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/dfHknhl060o/selector/textPosition/DJExxEulx6k",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 30913,
+                "end": 30920,
+                "refinedBy": {
+                    "id": "/target/dfHknhl060o/selector/textQuote/blixZ6lphcl",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Swansea",
+                    "prefix": " Along with old verities, old places are changing, as Toronto expands beyond his childhood memories: The district west and north of Jane and Bloor…surprise[s] him;",
+                    "suffix": "is no longer a dusty country road; Clendenan Hill and Quebec are not the end of the line…to hike to the Humber for corn roasts\n                                        \n                                            59\n                                        "
+                }
+            },
+            {
+                "id": "/target/dfHknhl060o/selector/css/5MMg5ywS48m",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/K44LLUv7Wm2]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q7653653",
+        "label": "Swansea",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
