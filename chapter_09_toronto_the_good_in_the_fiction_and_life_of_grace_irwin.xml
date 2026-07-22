@@ -582,7 +582,7 @@
                                         <ref target="#genre_lifeWriting">Outside this grouping are her acclaimed historical biographies of reformed slave ship captain <persName>John Newton</persName>, in <title level="m">Servant of Slaves</title>, set in the <placeName><placeName key="Mendip Hills" ref="https://sws.geonames.org/2642751" ana="webannotation:http://temp.lincsproject.ca/AgdDI21zRp5">Mendips</placeName>, Georgian London</placeName>, and aboard slavers in the Middle Passage; and of the <persName>Earl of Shaftesbury</persName>, the <orgName>Ragged School Union</orgName> founder, in <title level="m">The Seventh Earl</title>, set in Victorian <placeName>London</placeName>. <ref target="#response_formal">
                                                 <title level="m">Servant of Slaves</title> was hailed in the <title level="j"><orgName key="University of Toronto Quarterly" ref="http://www.wikidata.org/entity/Q7896494" ana="webannotation:http://temp.lincsproject.ca/RyqvUsTjLUy">University of Toronto Quarterly</orgName></title> as <q>the best historical novel of the year</q>
                                                 <note place="inline">
-                                                    <bibl>Watt 466</bibl>
+                                                    <bibl><title key="Watt, Frank William, 1927-..." ref="http://viaf.org/viaf/94524065" ana="webannotation:http://temp.lincsproject.ca/psqxjEvhZxI">Watt 466</title></bibl>
                                                 </note> and subsequently translated into German, while the cover of <orgName>Eerdman</orgName>’s paperback edition of <title level="m">The Seventh Earl</title> posted the praise of <ref target="#recognitions">Newbery Award–winner <persName>Madeleine L’Engle</persName>
                                                 </ref> commending Irwin’s portrait <q>of an extraordinary and many-faceted man, who spoke forcefully and ahead of his time on many issues which still, today, cry out for his vigour and vision.</q>
                                             </ref>
@@ -8857,6 +8857,95 @@
         "type": "crm:E53_Place",
         "label": "Mendip Hills",
         "description": "England, Somerset, GB"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/psqxjEvhZxI">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/psqxjEvhZxI",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-22T14:27:33.339Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/a6DBXIq0WkW",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/a6DBXIq0WkW/selector/textPosition/hLbqRwGYncy",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 13707,
+                "end": 13715,
+                "refinedBy": {
+                    "id": "/target/a6DBXIq0WkW/selector/textQuote/5QnDZcFhSPp",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Watt 466",
+                    "prefix": " \n                                                Servant of Slaves was hailed in the University of Toronto Quarterly as the best historical novel of the year\n                                                \n                                                   ",
+                    "suffix": "                                                 and subsequently translated into German, while the cover of Eerdman’s paperback edition of The Seventh Earl posted the praise of Newbery Award–winner Madeleine L’Engle\n                                                 commending Irwin’s portrait of an extraordinary and many-faceted man, who spoke forcefully and ahead of his time on many issues which still, today, cry out for his vigour and vision"
+                }
+            },
+            {
+                "id": "/target/a6DBXIq0WkW/selector/css/oT5fZBjPtOJ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/psqxjEvhZxI]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/94524065",
+        "type": "crm:E21_Person",
+        "label": "Watt, Frank William, 1927-...",
+        "description": "Watt, F.W."
     },
     "P2_has_type": [
         "oa:identifying"
