@@ -773,7 +773,7 @@
                                 <ref target="#genre_novel">Fifteen years separate the publication of <title level="m">Contend with Horses</title> from the earlier two novels, but Connington’s life leaps ahead a quarter of a century. The sense of shifting space in this text evokes what <persName>Paul Ricoeur</persName> identifies as <q>the idea of different possible traversals following a multitude of itineraries,…a stratified structure assembled like a pile of sheets of paper, [getting] away from the idea of the past so assembled as a simple chronology</q>
                                     <note place="inline">
                                         <bibl>208</bibl>
-                                    </note>. <ref target="#religion">With a title borrowed from the answer to Jeremiah’s complaint <note place="inline">
+                                    </note>. <ref target="#religion">With a title borrowed from the answer to <persName key="Jeremiah" ref="http://www.wikidata.org/entity/Q158825" ana="webannotation:http://temp.lincsproject.ca/iJgQbYwzmYi">Jeremiah</persName>’s complaint <note place="inline">
                                             <bibl><title key="Jeremiah " ref="https://www.wikidata.org/wiki/Q131590" ana="webannotation:http://temp.lincsproject.ca/0IOP3M3gpJy">Jeremiah 12.5</title></bibl>
                                         </note> about the wicked prospering, the narrative testifies to Connington’s stalwartness. The widowed father of an adult son and daughter, working half-time at his uncle’s Connington Glass Company, and devoted to his unfashionable parish, which is no longer officially affiliated with the United Church, he continues to face the postwar critique <q>about the failure of the Church to appeal to the intellectual</q>
                                         <note place="inline">
@@ -9480,6 +9480,95 @@
         "label": "Swansea",
         "type": "crm:E53_Place",
         "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/iJgQbYwzmYi">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/iJgQbYwzmYi",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-22T15:22:39.738Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ssCizQibCQj",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ssCizQibCQj/selector/textPosition/ml7XH0IA1kk",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 32289,
+                "end": 32297,
+                "refinedBy": {
+                    "id": "/target/ssCizQibCQj/selector/textQuote/6TWuXqd5uq8",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Jeremiah",
+                    "prefix": " With a title borrowed from the answer to",
+                    "suffix": "s complaint \n                                            Jeremiah 12"
+                }
+            },
+            {
+                "id": "/target/ssCizQibCQj/selector/css/kamkGbQYPhv",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/iJgQbYwzmYi]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q158825",
+        "type": "crm:E21_Person",
+        "label": "Jeremiah",
+        "description": "biblical character; prophet"
     },
     "P2_has_type": [
         "oa:identifying"
