@@ -986,7 +986,7 @@
                         <bibl>. <title level="m">In Little Place</title>. <placeName key="Grand Rapids" ref="https://sws.geonames.org/4994359" ana="webannotation:http://temp.lincsproject.ca/Af1U5Pp79m4">Grand Rapids</placeName>, <placeName key="Michigan" ref="https://sws.geonames.org/5001836" ana="webannotation:http://temp.lincsproject.ca/EL8jOliK00P">MI</placeName>: <orgName key="Wm. B. Eerdmans Publishing Co." ref="http://viaf.org/viaf/126651989" ana="webannotation:http://temp.lincsproject.ca/UI2JIskHjaV">W.B. Eerdmans Publishing Company</orgName>, 1959.</bibl>
                         <bibl>. <title level="m">Least of All Saints</title>. Toronto: McClelland and Stewart, 1952.</bibl>
                         <bibl>. <title level="m">The Seventh Earl: A Dramatized Biography</title>. <placeName key="Grand Rapids" ref="https://sws.geonames.org/4994359" ana="webannotation:http://temp.lincsproject.ca/rKgvdSbndMy">Grand Rapids</placeName>, MI: <orgName key="Wm. B. Eerdmans Publishing Co." ref="http://viaf.org/viaf/126651989" ana="webannotation:http://temp.lincsproject.ca/oqDpydxG71x">William B. Eerdmans Publishing Company</orgName>, 1976.</bibl>
-                        <bibl>. <title level="m">Three Lives in Mine</title>. Toronto: Irwin Publishing, 1986.</bibl>
+                        <bibl>. <title level="m">Three Lives in Mine</title>. Toronto: <orgName key="Irwin Publishing" ref="https://nerve.lincsproject.ca/0gzXzqwhbW6JpEIbqW-1r" ana="webannotation:http://temp.lincsproject.ca/I4FPj1LSN8x">Irwin Publishing</orgName>, 1986.</bibl>
                         <bibl><orgName key="Massey, Doreen B." ref="http://viaf.org/viaf/108499781" ana="webannotation:http://temp.lincsproject.ca/LdCBT5BbXWt">Massey, Doreen</orgName>. <title level="m">World City</title>. <placeName key="Cambridge" ref="https://sws.geonames.org/2653941   " ana="webannotation:http://temp.lincsproject.ca/OKIlVxweWDh">Cambridge</placeName>: <orgName key="Polity Press." ref="http://viaf.org/viaf/143396152" ana="webannotation:http://temp.lincsproject.ca/uBTHOD11BWp">Polity Press</orgName>, 2007.</bibl>
                         <bibl><persName key="McCann, L.D. (Lawrence Douglas), 1945-" ref="http://viaf.org/viaf/90961088" ana="webannotation:http://temp.lincsproject.ca/x63kPwAwP7i">McCann</persName>, <persName key="McCann, L.D. (Lawrence Douglas), 1945-" ref="http://viaf.org/viaf/90961088" ana="webannotation:http://temp.lincsproject.ca/VKDkPmJzHej">Larry D.</persName>, and <persName key="Smith, P. J. (Peter John), 1931" ref="http://viaf.org/viaf/105873472" ana="webannotation:http://temp.lincsproject.ca/eLl7iByfQDZ">Peter J. Smith</persName>. <title level="a"><placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/3oKfmLpb6LQ">Canada</placeName> Becomes Urban: Cities and Urbanization in Historical Perspective.</title>
                             <title level="m">Canadian Cities in Transition</title>. Ed. <persName key="Bunting, Trudi E., 1944-...." ref="http://viaf.org/viaf/111875929" ana="webannotation:http://temp.lincsproject.ca/AKz1qSZpdrc">Trudi Bunting</persName> and <persName key="Filion, Pierre, 1952-...." ref="http://viaf.org/viaf/61608011" ana="webannotation:http://temp.lincsproject.ca/20Geho4q8dt">Pierre Filion</persName>. Toronto: <orgName key="Oxford University Press." ref="http://viaf.org/viaf/140705396" ana="webannotation:http://temp.lincsproject.ca/UCVeas9p7pD">Oxford University Press</orgName>, 1991. 59–99.</bibl>
@@ -10293,10 +10293,9 @@
         ]
     },
     "body": {
-        "id": "https://www.wikidata.org/wiki/Q16949032",
-        "label": "Clarke, Irwin & Company",
+        "id": "https://nerve.lincsproject.ca/0gzXzqwhbW6JpEIbqW-1r",
         "type": "crm:E74_Group",
-        "entityType": "crm:E74_Group"
+        "label": "Irwin Publishing"
     },
     "P2_has_type": [
         "oa:identifying"
