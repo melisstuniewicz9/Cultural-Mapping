@@ -981,7 +981,7 @@
                             <title level="m">The Spatial Turn: Interdisciplinary Perspectives</title>. Ed. <persName key="Warf, Barney, 1956-...." ref="http://viaf.org/viaf/29646209" ana="webannotation:http://temp.lincsproject.ca/kwY1QW3mxbM">Barney Warf</persName> and <persName key="Arias, Santa." ref="http://viaf.org/viaf/38729216" ana="webannotation:http://temp.lincsproject.ca/s8v4F8MXlXf">Santa Arias</persName>. <placeName key="New York City" ref="https://sws.geonames.org/5128581" ana="webannotation:http://temp.lincsproject.ca/0fr9PxTr9m8">New York</placeName>: <orgName key="Routledge" ref="http://viaf.org/viaf/146326081" ana="webannotation:http://temp.lincsproject.ca/1iQmDWEBciv">Routledge</orgName>, 2009. 102–21.</bibl>
                         <bibl><persName key="Grosz, Elizabeth, 1952-...." ref="http://viaf.org/viaf/41898918" ana="webannotation:http://temp.lincsproject.ca/MZARD2TNQNW">Grosz</persName>, <persName key="Grosz, Elizabeth, 1952-...." ref="http://viaf.org/viaf/41898918" ana="webannotation:http://temp.lincsproject.ca/2T1NDaK2RUh">Elizabeth</persName>. <title level="m">Space, Time, and Perversion: Essays on the Politics of Bodies</title>. <placeName key="New York City" ref="https://sws.geonames.org/5128581" ana="webannotation:http://temp.lincsproject.ca/IhBSVwx664k">New York</placeName>: <orgName key="Routledge" ref="http://viaf.org/viaf/146326081" ana="webannotation:http://temp.lincsproject.ca/Mh8rF95RLUN">Routledge</orgName>, 1995.</bibl>
                         <bibl>Irwin, <persName key="Irwin, Grace, 1907-" ref="http://viaf.org/viaf/117350735" ana="webannotation:http://temp.lincsproject.ca/1rQdGaOIrxk">Grace</persName>. <title level="m">Andrew Connington</title>. Toronto: McClelland and Stewart, 1954.</bibl>
-                        <bibl>. <title level="m">Compensation</title>. Belleville, <placeName key="Ontario" ref="http://www.wikidata.org/entity/Q1904" ana="webannotation:http://temp.lincsproject.ca/3iopxQpGTbV">ON</placeName>: Epic Press, 2003.</bibl>
+                        <bibl>. <title level="m">Compensation</title>. <placeName key="Belleville" ref="https://sws.geonames.org/5897884       " ana="webannotation:http://temp.lincsproject.ca/MwLI5AQVTgj">Belleville</placeName>, <placeName key="Ontario" ref="http://www.wikidata.org/entity/Q1904" ana="webannotation:http://temp.lincsproject.ca/3iopxQpGTbV">ON</placeName>: Epic Press, 2003.</bibl>
                         <bibl>. <title level="m">Contend with Horses</title>. Toronto: McClelland and Stewart, 1969.</bibl>
                         <bibl>. <title level="m">In Little Place</title>. <placeName key="Grand Rapids" ref="https://sws.geonames.org/4994359" ana="webannotation:http://temp.lincsproject.ca/Af1U5Pp79m4">Grand Rapids</placeName>, <placeName key="Michigan" ref="https://sws.geonames.org/5001836" ana="webannotation:http://temp.lincsproject.ca/EL8jOliK00P">MI</placeName>: <orgName key="Wm. B. Eerdmans Publishing Co." ref="http://viaf.org/viaf/126651989" ana="webannotation:http://temp.lincsproject.ca/UI2JIskHjaV">W.B. Eerdmans Publishing Company</orgName>, 1959.</bibl>
                         <bibl>. <title level="m">Least of All Saints</title>. Toronto: McClelland and Stewart, 1952.</bibl>
@@ -8404,6 +8404,95 @@
         "type": "crm:E53_Place",
         "label": "New York City",
         "description": "New York, US"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/MwLI5AQVTgj">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/MwLI5AQVTgj",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-22T13:27:11.158Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/NVrh4dcHj0R",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/NVrh4dcHj0R/selector/textPosition/IPMUb1CeFxP",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 52683,
+                "end": 52693,
+                "refinedBy": {
+                    "id": "/target/NVrh4dcHj0R/selector/textQuote/Y7NZgMgcb8M",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Belleville",
+                    "prefix": "",
+                    "suffix": " ON: Epic Press, 2003"
+                }
+            },
+            {
+                "id": "/target/NVrh4dcHj0R/selector/css/cRrL2Niapg3",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/MwLI5AQVTgj]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/5897884       ",
+        "label": "Belleville",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
