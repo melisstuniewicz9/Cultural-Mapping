@@ -563,7 +563,7 @@
                                 </note>.</ref>
                             <ref target="#voice_or_narration">The solid positioning and narrative attitude toward this sea of change distinguish and complicate Irwin’s Toronto.</ref> Her Toronto supplies what <persName>Elizabeth Wilson</persName> longs for, <q>spaces for face-to-face contact</q>
                             <note place="inline">
-                                <bibl>Wilson 158</bibl>
+                                <bibl><persName key="Wilson, Elizabeth, 1936-" ref="http://viaf.org/viaf/110160241" ana="webannotation:http://temp.lincsproject.ca/4KdW7Q5iMj9">Wilson</persName> 158</bibl>
                             </note>; it fulfills <persName>John Clement Ball</persName>’s criterion as <q>the constitutive context for the self</q>
                             <note place="inline">
                                 <bibl>Ball 192</bibl>
@@ -8218,6 +8218,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/i1BOUy4GPGg]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/110160241",
+        "label": "Wilson, Elizabeth, 1936-",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/4KdW7Q5iMj9">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/4KdW7Q5iMj9",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-22T14:01:40.132Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/OLF0yj9QPW0",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/OLF0yj9QPW0/selector/textPosition/t7Zd08iaaca",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 12058,
+                "end": 12064,
+                "refinedBy": {
+                    "id": "/target/OLF0yj9QPW0/selector/textQuote/ovYlBHDvndA",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Wilson",
+                    "prefix": " Her Toronto supplies what Elizabeth Wilson longs for, spaces for face-to-face contact\n                            \n                               ",
+                    "suffix": "158\n                            ; it fulfills John Clement Ball’s criterion as the constitutive context for the self\n                            \n                                Ball 192\n                            "
+                }
+            },
+            {
+                "id": "/target/OLF0yj9QPW0/selector/css/m8kSASJCdHW",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/4KdW7Q5iMj9]"
             }
         ]
     },
