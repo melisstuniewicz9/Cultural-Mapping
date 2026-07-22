@@ -474,13 +474,13 @@
                                 <note place="inline">
                                     <bibl>Ball 185</bibl>
                                 </note> specificity of place and the liminality of space through which her characters move, question, and discover themselves. Aware of the fragmentary, isolated, atomistic quality of city life, her perception of Toronto does not draw on the demi-monde scurrility of <persName>Christopher Saint George Clark</persName>’s <date cert="high" from="1850" to="1899-12-31">late nineteenth-century</date> exposé, <title level="m">Of Toronto the Good: A Social Study</title>. <ref target="#social_issue">
-                                    <ref target="#representation_of_women">Cataloguing <q>unwholesome truths</q> and familiar with the <q>shabby tumble-down houses</q> where <q>the poor were obliged to live,</q> Clark delighted in poking a finger in the eye of righteousness, asserting the omnipresence of street walkers: <q>on every street in the city…I have been solicited</q>
+                                    <ref target="#representation_of_women">Cataloguing <q>unwholesome truths</q> and familiar with the <q>shabby tumble-down houses</q> where <q>the poor were obliged to live,</q> <persName key="Clark, C.S" ref="http://viaf.org/viaf/104482081" ana="webannotation:http://temp.lincsproject.ca/gndbyLZkItV">Clark</persName> delighted in poking a finger in the eye of righteousness, asserting the omnipresence of street walkers: <q>on every street in the city…I have been solicited</q>
                                         <note place="inline">
-                                            <bibl>Clark 209, 3, 131</bibl>
+                                            <bibl><persName key="Clark, C.S" ref="http://viaf.org/viaf/104482081" ana="webannotation:http://temp.lincsproject.ca/F0fKlkVAp45">Clark</persName> 209, 3, 131</bibl>
                                         </note>. </ref>
                                     <ref target="#religion">Citing the success of <q>unprincipled knaves [who] can secure entrance to the best social circles</q>
                                         <note place="inline">
-                                            <bibl>Clark 27</bibl>
+                                            <bibl><persName key="Clark, C.S" ref="http://viaf.org/viaf/104482081" ana="webannotation:http://temp.lincsproject.ca/RFHRifKrIT4">Clark</persName> 27</bibl>
                                         </note>, yet granting that <q>Toronto is essentially a city of churches</q>
                                         <note place="inline">
                                             <bibl>147</bibl>
@@ -8410,6 +8410,273 @@
     "body": {
         "id": "http://viaf.org/viaf/110160241",
         "label": "Wilson, Elizabeth, 1936-",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/gndbyLZkItV">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/gndbyLZkItV",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-22T14:18:35.381Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/XgquqvkDjuN",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/XgquqvkDjuN/selector/textPosition/3nJarH1cMh8",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5480,
+                "end": 5485,
+                "refinedBy": {
+                    "id": "/target/XgquqvkDjuN/selector/textQuote/t1UpJmvuCVM",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Clark",
+                    "prefix": " \n                                    Cataloguing unwholesome truths and familiar with the shabby tumble-down houses where the poor were obliged to live,",
+                    "suffix": "delighted in poking a finger in the eye of righteousness, asserting the omnipresence of street walkers: on every street in the city…I have been solicited\n                                        \n                                            Clark 209, 3, 131\n                                        "
+                }
+            },
+            {
+                "id": "/target/XgquqvkDjuN/selector/css/DGd4jviYTCo",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/gndbyLZkItV]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/104482081",
+        "label": "Clark, C.S",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/F0fKlkVAp45">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/F0fKlkVAp45",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-22T14:18:35.599Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/uwHwwZ11g1h",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/uwHwwZ11g1h/selector/textPosition/9rb1lPFQOkv",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5725,
+                "end": 5730,
+                "refinedBy": {
+                    "id": "/target/uwHwwZ11g1h/selector/textQuote/r0SeiqhnWfX",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Clark",
+                    "prefix": " \n                                    Cataloguing unwholesome truths and familiar with the shabby tumble-down houses where the poor were obliged to live, Clark delighted in poking a finger in the eye of righteousness, asserting the omnipresence of street walkers: on every street in the city…I have been solicited\n                                        \n                                           ",
+                    "suffix": "209, 3, 131\n                                        "
+                }
+            },
+            {
+                "id": "/target/uwHwwZ11g1h/selector/css/1Ii537uA3AB",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/F0fKlkVAp45]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/104482081",
+        "label": "Clark, C.S",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/RFHRifKrIT4">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/RFHRifKrIT4",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-22T14:18:35.734Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/cIzOzpQKBru",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/cIzOzpQKBru/selector/textPosition/CId46TtMnAx",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6002,
+                "end": 6007,
+                "refinedBy": {
+                    "id": "/target/cIzOzpQKBru/selector/textQuote/nEskhnBqTRM",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Clark",
+                    "prefix": " \n                                    Citing the success of unprincipled knaves [who] can secure entrance to the best social circles\n                                        \n                                           ",
+                    "suffix": "27\n                                        , yet granting that Toronto is essentially a city of churches\n                                        \n                                            147\n                                        , he derided these institutions’ sermons as the vilest billingsgate\n                                        \n                                            165\n                                        , their choirs as the dumping ground for all the old stagers\n                                        \n                                            153\n                                        , their hymns as Pharisaic twaddle\n                                        \n                                            154\n                                        , and clerics, ‘fishers of men’ who do not pay their debts\n                                        \n                                            31\n                                        , as practitioners of chican"
+                }
+            },
+            {
+                "id": "/target/cIzOzpQKBru/selector/css/svrzZLCTPjK",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/RFHRifKrIT4]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/104482081",
+        "label": "Clark, C.S",
         "type": "crm:E21_Person",
         "entityType": "crm:E21_Person"
     },
