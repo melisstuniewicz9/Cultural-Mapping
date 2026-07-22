@@ -751,7 +751,7 @@
                                     <q>broken panes of glass,</q> and a squeaky piano cannot diminish his <q>deep solemn joy [to be] preaching again</q>
                                     <note place="inline">
                                         <bibl>225</bibl>
-                                    </note>. This time, however, the role of the penitent is reversed; Cecily admits she was wrong in hoping Connington would hold out for a better church. Another <placeName>Shorncliffe</placeName> marriage is on shakier ground. Connington, <q>absorbed in admiring contemplation of the neo-classical details of Eaton’s new <placeName key="College Street" ref="https://www.wikidata.org/wiki/Q2982979" ana="webannotation:http://temp.lincsproject.ca/8sWlBDStqJ3">College Street</placeName> store,</q> is viewing <q>the massive triumphal-arch entry with its Minerva head keystone</q>
+                                    </note>. This time, however, the role of the penitent is reversed; Cecily admits she was wrong in hoping Connington would hold out for a better church. Another <placeName>Shorncliffe</placeName> marriage is on shakier ground. Connington, <q>absorbed in admiring contemplation of the neo-classical details of <orgName key="Eaton's" ref="https://www.wikidata.org/wiki/Q5146497" ana="webannotation:http://temp.lincsproject.ca/l0MwZp25lgk">Eaton</orgName>’s new <placeName key="College Street" ref="https://www.wikidata.org/wiki/Q2982979" ana="webannotation:http://temp.lincsproject.ca/8sWlBDStqJ3">College Street</placeName> store,</q> is viewing <q>the massive triumphal-arch entry with its Minerva head keystone</q>
                                     <note place="inline">
                                         <bibl>34</bibl>
                                     </note> when a shy heiress enters the narrative; she is infatuated—imprudently, the reader is warned—with a callow unbeliever, who is also proven to be a playboy and a drunk. <ref target="#class_issue">The marriage, rushed into at the urging of the girl’s social-climbing mother, and the funeral after the bride’s honeymoon suicide are both Connington’s solemn duties at Shorncliffe. Along with old verities, old places are changing, as <placeName>Toronto</placeName> expands beyond his childhood memories: <q>The district west and north of <placeName key="Jane Street" ref="https://www.wikidata.org/wiki/Q121848458" ana="webannotation:http://temp.lincsproject.ca/AxRPxfX4dp3">Jane</placeName> and <placeName key="Bloor Street" ref="http://www.wikidata.org/entity/Q885416" ana="webannotation:http://temp.lincsproject.ca/S327PAB9Ht0">Bloor</placeName>…surprise[s] him</q>; <placeName key="Swansea" ref="https://www.wikidata.org/wiki/Q7653653" ana="webannotation:http://temp.lincsproject.ca/K44LLUv7Wm2">Swansea</placeName> is no longer <q>a dusty country road</q>; <placeName>Clendenan Hill</placeName> and <placeName>Quebec</placeName> are not <q>the end of the line…to hike to the <placeName>Humber</placeName> for corn roasts</q>
@@ -9035,6 +9035,95 @@
         "type": "frbroo:F1",
         "label": "Bible",
         "description": "collection of sacred books in Judaism and Christianity"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/l0MwZp25lgk">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/l0MwZp25lgk",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-22T15:20:26.171Z",
+    "creator": {
+        "id": "https://github.com/melisstuniewicz9",
+        "type": "crm:E21_Person",
+        "name": "Melissa Tuniewicz"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/NUmDgIIHo5L",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/melisstuniewicz9/Cultural-Mapping/main/chapter_09_toronto_the_good_in_the_fiction_and_life_of_grace_irwin.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Toronto the Good in the Fiction and Life of Grace Irwin"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/NUmDgIIHo5L/selector/textPosition/OAo42A3OfjE",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 30175,
+                "end": 30180,
+                "refinedBy": {
+                    "id": "/target/NUmDgIIHo5L/selector/textQuote/z7WFwMzHrBU",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Eaton",
+                    "prefix": " Connington, absorbed in admiring contemplation of the neo-classical details of",
+                    "suffix": "s new College Street store, is viewing the massive triumphal-arch entry with its Minerva head keystone\n                                    \n                                        34\n                                     when a shy heiress enters the narrative; she is infatuated—imprudently, the reader is warned—with a callow unbeliever, who is also proven to be a playboy and a drunk"
+                }
+            },
+            {
+                "id": "/target/NUmDgIIHo5L/selector/css/0pxCweZLd0H",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/l0MwZp25lgk]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q5146497",
+        "label": "Eaton's",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
     },
     "P2_has_type": [
         "oa:identifying"
